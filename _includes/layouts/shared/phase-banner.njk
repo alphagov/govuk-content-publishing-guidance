@@ -1,0 +1,10 @@
+{# All layouts except homepage and collection #}
+
+{% from "govuk/components/phase-banner/macro.njk" import govukPhaseBanner %}
+
+{{ govukPhaseBanner({
+  tag: {
+    text: "Beta"
+  },
+  html: 'This guidance is new. Help us improve it and <a href="#" class="govuk-link" rel="noreferrer noopener" target="_blank">give your feedback (opens in new tab)</a>.'
+}) }}

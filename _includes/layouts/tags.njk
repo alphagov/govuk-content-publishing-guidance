@@ -1,0 +1,29 @@
+{% extends "layouts/main.njk" %}
+
+{% block beforeContent %}
+{% include "layouts/shared/phase-banner.njk" %}
+
+  {{ govukBreadcrumbs({
+    classes: "govuk-!-display-none-print",
+    items: breadcrumbItems
+  }) if showBreadcrumbs }}
+{% endblock %}
+
+{% block content %}
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    {{ appDocumentHeader({
+      title: title or "Tags"
+    }) }}
+
+    <ul class="govuk-list govuk-list--bullet">
+      {% for tag in collections.tags %}
+      <li>
+        <a href="/tags/{{ tag | slug }}">{{ tag }}</a>
+        ({{ collections[tag] | length }})
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endblock %}

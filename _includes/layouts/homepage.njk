@@ -1,0 +1,90 @@
+{% extends "layouts/main.njk" %}
+
+{% block main %}
+  <main id="main-content" role="main" {%- if mainLang %} lang="{{ mainLang }}"{% endif %}>
+    {{ xGovukMasthead({
+      phaseBanner: {
+      text: 'This guidance is new. Help us improve it and <a href="#" class="govuk-link govuk-link--inverse" rel="noreferrer noopener" target="_blank">give your feedback (opens in new tab)</a>.',
+      tag: {
+        text: "Beta"
+      }
+    },
+      title: {
+        html: title | smart
+      } if title,
+      title: {
+        html: customPageTitle | smart
+      } if customPageTitle,
+      description: {
+        html: description | markdown("inline") | noOrphans
+      } if description,
+      startButton: {
+        href: startButton.href,
+        text: startButton.text
+      } if startButton,
+      image: {
+        alt: image.alt,
+        src: image.src
+      } if image,
+      breadcrumbs: {
+        classes: "govuk-!-display-none-print",
+        items: breadcrumbItems
+      } if showBreadcrumbs
+    }) }}
+    <div class="govuk-main-wrapper {%- if mainClasses %} {{ mainClasses }}{% endif %}">
+      <div class="govuk-width-container {%- if containerClasses %} {{ containerClasses }}{% endif %}">
+        {% block content %}
+        
+          {% if whatsNew and whatsNewDate %}
+            <section class="doc-whatsNew">
+              <h2 class="govuk-heading-l">What's new</h2>
+              <p class="govuk-body">{{ whatsNewDate }}</p>
+              <p class="govuk-body">{{ whatsNew | markdown }}</p>
+            </section>
+            <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">
+          {% endif %}
+
+          {% if gridItems %}
+            <section class="doc-items">
+            <h2 class="govuk-heading-l">Featured</h2>
+              <div class="govuk-grid-row">
+                {% for item in gridItems %}
+                  <div class="govuk-grid-column-one-third">
+                    {% if item.title %}
+                      <h3 class="govuk-heading-m govuk-!-margin-bottom-2">{{ item.title }}</h3>
+                    {% endif %}
+                    {% if item.description %}
+                      <p class="govuk-body">{{ item.description }}</p>
+                    {% endif %}
+                    {% if item.url and item.linktext %}
+                      <p class="govuk-body">
+                        <a href="{{ item.url }}" class="govuk-link govuk-link--no-visited-state govuk-!-font-weight-bold">{{ item.linktext }}</a>
+                      </p>
+                    {% endif %}
+                  </div>
+                {% endfor %}
+              </div>
+            </section>
+          {% endif %}
+
+          {% if additionalInfo %}
+          {% for item in additionalInfo %}
+            <hr class="govuk-section-break govuk-section-break--l govuk-section-break--visible">
+            <section class="doc-additional-info">
+              <div class="govuk-grid-row">
+                <div class="govuk-grid-column-two-thirds">
+                  <h2 class="govuk-heading-l">{{ item.title }}</h2>
+                  {{ item.content | markdown }}
+                </div>
+              </div>
+            </section>
+            {% endfor %}
+          {% endif %}
+
+          {{ appProseScope(content) if content }}
+        
+        {% endblock %}
+      </div>
+    </div>
+  </main>
+{% endblock %}
