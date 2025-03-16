@@ -16,10 +16,10 @@ gridItems:
     description: Read guidance about how and why you must publish accessible content on GOV.UK.
     linktext: Browse accessibility guidance
     url: /how-to-publish-accessible-content
-  - title: About this guidance
+  - title: About the guidance
     description: Find out more about the new GOV.UK content and publishing guidance.
-    linktext: Read about this guidance
-    url: /about
+    linktext: Read more about the guidance
+    url: /about-the-guidance
 additionalInfo:
   - title:
     content:

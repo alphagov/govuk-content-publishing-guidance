@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: How to publish accessible content
-description: Collection --- Guidance on to publish accessible content on GOV.UK.
+description: Guidance on to publish accessible content on GOV.UK.
 permalink: /how-to-publish-accessible-content/
 paginationHeading: 
 pagination:
@@ -16,5 +16,5 @@ eleventyComputed:
     eleventyNavigation:
         key: "{{ title }}"
         excerpt: "{{ description }}"
-        order: 2  
+        order: 2
 ---

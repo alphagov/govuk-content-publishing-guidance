@@ -43,7 +43,7 @@ module.exports = function(eleventyConfig) {
             text: "About the guidance"
           },
         ],
-        html: "Built and managed by the GOV.UK Content Operations team",
+        html: 'Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service" class="govuk-footer__link">Government Digital Service</a>.',
       }
     }
   });
