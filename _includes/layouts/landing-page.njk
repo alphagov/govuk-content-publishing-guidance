@@ -20,7 +20,7 @@
       {% if title %}
   <header class="doc-header">
     {% if eleventyNavigation.parent %}
-      <span class="govuk-caption-xl">{{ eleventyNavigation.parent }}</span>
+      <span class="govuk-caption-xl">{% if eleventyNavigation.parent != options.homeKey %}{{ eleventyNavigation.parent }}{% endif %}</span>
     {% endif %}
     <h1 class="doc-header__title govuk-heading-xl">
       {{ title | smart }}

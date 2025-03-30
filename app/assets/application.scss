@@ -1,7 +1,7 @@
 .style-a-z {
   padding-left: 0px;
   margin-bottom: 30px;
-  margin-top: -30px;
+  margin-top: 30px;
   
   >li {
     display: inline-block;
@@ -12,12 +12,30 @@
     >a {
       margin-right: 0px;
       text-decoration: underline;
-      font-size: 1.3rem;
       padding: 12px;
      }
   }
 }
 
+.style-guide {
+  h2 {
+    background-color: #1d70b8;
+    color: #fff;
+    display: inline-block;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+  }
+}
+
 .govuk-caption--inverse {
   color: #ffffff;
+}
+
+.call-to-action {
+  margin: 0 0 20px 0;
+  background-color: #f3f2f1;
+  padding: 30px;
+  padding-bottom: 10px;
 }

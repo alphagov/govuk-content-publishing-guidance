@@ -1,4 +1,5 @@
-const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
+const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin');
+const slugify = require("slugify")
 
 module.exports = function(eleventyConfig) {
   // Register the plugin
@@ -8,7 +9,7 @@ module.exports = function(eleventyConfig) {
     showBreadcrumbs: true,
     stylesheets: ['/assets/application.css'],
     header: {
-      productName: 'Content and publishing guidance <strong class="govuk-tag">Beta</strong>',
+      productName: 'Content and publishing guidance',
       search: {
         indexPath: '/search.json',
         sitemapPath: '/sitemap',
@@ -20,7 +21,7 @@ module.exports = function(eleventyConfig) {
         {
             text: "Writing to GOV.UK standards",
             href: "/writing-to-gov-uk-standards"
-        }
+        },
       ]
     },
     footer: {
@@ -57,7 +58,11 @@ module.exports = function(eleventyConfig) {
       strict: true,
       remove: /[*+~.()'"!:@]/g,
     });
-  }); 
+  });
+  eleventyConfig.addPreprocessor("macro-inject", ".njk,.md", (data, content) => {
+		return `{%- from "call-to-action.njk" import cta with context -%}\n` + content;
+	});
+
 
   return {
     dataTemplateEngine: 'njk',
