@@ -1,0 +1,5 @@
+{% macro cta(ctaContent) %}
+<div class="call-to-action">
+  <p class="govuk-body">{{ ctaContent | markdown("inline") | safe }}</p>
+</div>
+{% endmacro %}

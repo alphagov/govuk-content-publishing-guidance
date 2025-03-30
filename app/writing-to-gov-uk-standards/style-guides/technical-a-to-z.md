@@ -7,21 +7,138 @@ eleventyNavigation:
 title: Technical A to Z style guide
 description: The technical content style guide covers the style, structure and terms you should use when writing content for technical users on GOV.UK.
 lastUpdated: 1 January 2025
-styleguide:
-  sections:
-    - title: A
-      entries:
-        - title: A*, A*s
-          summary: The top grade in A levels. Use the symbol * not the word ‘star’. No apostrophe in the plural.
-          evidence: Clearer
-        - title: A-level
-          summary: No hyphen. Lower case level.
-    - title: B
-      entries:
-        - title: 
-          summary: 
-          
 ---
 
-[Find out how to use and contribute to the style guide](/writing-to-gov-uk-standards/style-guides/how-to-use-the-style-guide).
+## A
+
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## B
+
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## C
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## D
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## E
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## F
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## G
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## H
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## I
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## J
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## K
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## L
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## M
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## N
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## O
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## P
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## Q
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## R
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## S
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## T
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## U
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## V
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## W
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## X
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## Y
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
+## Z
+
+{% include "layouts/shared/back-to-top.njk" %}
+
+
 

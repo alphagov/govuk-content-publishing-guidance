@@ -31,14 +31,12 @@
         {{ description | markdown("inline") }}
       </p>
     {% endif %}
+    {% include "layouts/shared/last-updated.njk" %}
   </header>
 {% endif %}
 
-{% include "layouts/shared/last-updated.njk" %}
-
-{{ appProseScope(content) if content }}
-
-<ul class="style-a-z govuk-!-margin-top-3">
+<nav role="navigation" aria-label="A to Z navigation">
+<ol class="style-a-z govuk-body" role="list">
     <li><a class="govuk-link govuk-link--no-visited-state" href="#a">A</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#b">B</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#c">C</a></li>
@@ -65,34 +63,12 @@
     <li><a class="govuk-link govuk-link--no-visited-state" href="#x">X</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#y">Y</a></li>
     <li><a class="govuk-link govuk-link--no-visited-state" href="#z">Z</a></li>
-</ul>
+</ol>
+</nav>
 
-
-      {% if styleguide.sections %}
-      {% for section in styleguide.sections %}
-        <h2 class="govuk-heading-l" id="{{section.title | lower}}">{{section.title}}</h2>
-        {% if section.entries %}
-        {% for entry in section.entries %}
-        <h3 class="govuk-heading-m" id="{{entry.title | slugify | lower }}">{{entry.title}}</h2>
-        <p class="govuk-body">{{entry.summary | markdown }}</p>
-          {% if entry.evidence %}
-          <details class="govuk-details">
-            <summary class="govuk-details__summary">
-              <span class="govuk-details__summary-text">
-                Evidence for {{entry.title}}
-              </span>
-            </summary>
-            <div class="govuk-details__text">
-            {{entry.evidence | markdown}}
-            </div>
-          </details>  
-          {% endif %}
-      {% endfor %}
-      {% endif %}
-      <p class="govuk-body govuk-!-margin-top-9"><a href="#top" class="govuk-link govuk-link--no-visited-state">Back to top</a></p>
-      <hr class="govuk-section-break govuk-section-break--visible govuk-!-margin-bottom-9">
-      {% endfor %}
-      {% endif %}
+<div class="style-guide">
+    {{ appProseScope(content) if content }}
+</div>
 
       {% include "layouts/shared/related.njk" %}
     </div>
