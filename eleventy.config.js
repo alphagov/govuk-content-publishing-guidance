@@ -68,6 +68,7 @@ module.exports = function(eleventyConfig) {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
+    pathPrefix: '/govuk-content-publishing-guidance/',
     dir: {
       // The folder where all your content will live:
       input: 'app',
