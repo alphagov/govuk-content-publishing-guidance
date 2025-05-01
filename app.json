@@ -1,0 +1,26 @@
+{
+  "name": "GOVUK Content Publishing Guidance",
+  "repository": "https://github.com/alphagov/govuk-content-publishing-guidance",
+  "stack": "heroku-22",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "basic"
+    }
+  },
+  "environments": {
+    "review": {
+      "formation": {
+        "web": {
+          "quantity": 1,
+          "size": "eco"
+        }
+      }
+    }
+  }
+}

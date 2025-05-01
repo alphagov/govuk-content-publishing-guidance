@@ -74,6 +74,9 @@ module.exports = function(eleventyConfig) {
       // Use layouts from the plugin
       includes: '../_includes',
       layouts: '../_includes/layouts'
+    },
+    serverOptions: {
+      port: process.env.PORT || 8080
     }
   }
 };
