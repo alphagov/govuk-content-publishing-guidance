@@ -1,1 +1,1 @@
-# Hello world!
+# GOVUK Content Publishing Guidance
