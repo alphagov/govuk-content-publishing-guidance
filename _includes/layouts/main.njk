@@ -1,2 +1,6 @@
 {# Extend GOV.UK Eleventy Plugin base layout #}
 {% extends "layouts/base.njk" %}
+{% block head %}
+  {{ super() }}
+  <meta name="robots" content="noindex, nofollow">
+{% endblock %}
