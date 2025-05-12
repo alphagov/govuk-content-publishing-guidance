@@ -1,0 +1,58 @@
+---
+layout: landing-page
+sectionKey: Writing to GOV.UK standards
+eleventyNavigation:
+  parent: Planning, writing and iterating content
+  order: 1
+title: Understand Content Design
+lastUpdated:
+---
+
+Good content design allows people to find out what they need to know or do quickly. Users come to GOV.UK to find information or complete a task. The content on GOV.UK should be designed to help users do this. 
+
+This guidance sets out some basic principles of good content design and links to further information on each. In summary, well designed GOV.UK content should:
+
+* start with user needs
+* take into account the amount, format and best place to publish your content
+* be written to GOV.UK style
+* be properly maintained
+
+##Start with user needs
+
+Content design starts by taking a user need and presenting it on GOV.UK in the best way possible.
+
+A user need is something that a user will need to do or find out from government, such as:
+
+* working out whether they’re eligible to claim a benefit
+* registering to vote
+* checking their tax code or state pension
+* applying for a passport or driving licence
+
+Before publishing to GOV.UK, you need to know your users’ needs and design your content around them. Read more about this in the guidance on [identifying user needs](link needed).
+
+##Think about what and where you’ll publish
+
+Depending on what your user needs are, you may need to:
+
+* reduce the amount of content you plan to publish
+* split one big piece of content into smaller pieces
+* change the format of the content
+* put some content in the Mainstream area of the site
+* remove content from the site, to avoid duplication or conflicting information
+* publish your content elsewhere, like a blog, partner site or social media
+
+There’s more on this in the guidance on [planning new GOV.UK content](link needed).
+
+##Design clear and accessible content
+
+Good GOV.UK content is clear, written in plain English and optimised for the web. Government content must be accessible to anybody who needs to use it. 
+
+Our [style guide](link needed) and [tone of voice guidance](link needed) are designed to make our content meet these standards. Check that your content is written in line with them before you publish it.
+
+You should also check the guidance on [making your content accessible](link needed) - this will help with the accessibility of headings, links and other formatting elements.  
+
+##Content maintenance
+
+Content on GOV.UK should be current and meet a user need. That said, there’s also a transparency need for an available record of things we’ve published that do not reflect current policy or guidance. We also have a statutory duty to publish some types of content and leave them up. 
+
+The guidance on [managing existing GOV.UK content](link needed) explains more about how you should maintain your content. 
