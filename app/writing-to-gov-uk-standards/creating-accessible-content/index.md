@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
   parent: Writing to GOV.UK standards
-  order: 2
+  order: 3
 title: Creating accessible content
 lastUpdated:
 related:
