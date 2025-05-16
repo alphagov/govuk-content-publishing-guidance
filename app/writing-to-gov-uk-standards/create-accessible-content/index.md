@@ -4,7 +4,7 @@ sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
   parent: Writing to GOV.UK standards
   order: 3
-title: Creating accessible content
+title: Create accessible content
 lastUpdated:
 related:
   sections:
