@@ -2,9 +2,9 @@
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
-  parent: Writing to GOV.UK standards
+  parent: Tone of voice
   order: 1
-title: Planning, writing and iterating content
+title: Write content with a purpose
 lastUpdated:
 ---
-Content
+Content goes here
