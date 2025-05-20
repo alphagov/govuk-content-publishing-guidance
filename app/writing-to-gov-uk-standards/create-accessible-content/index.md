@@ -14,4 +14,9 @@ related:
           href: /how-to-publish-accessible-content
 ---
 
-Content
+Government content must be accessible to anybody who needs to use it. Accessibility is not just about how well disabled people can use your content. All users will have different needs at different times and in different circumstances. 
+
+This guidance will help you:
+
+* [understand the accessibility regulations](understand accessibility link) you need to follow
+* [make accessible content](make your content accessible link) when you’re formatting your content 

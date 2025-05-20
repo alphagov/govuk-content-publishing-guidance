@@ -2,7 +2,7 @@
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
-  parent: Planning, writing and iterating content
+  parent: Plan and manage content
   order: 5
 title: Manage existing GOV.UK content
 lastUpdated:
