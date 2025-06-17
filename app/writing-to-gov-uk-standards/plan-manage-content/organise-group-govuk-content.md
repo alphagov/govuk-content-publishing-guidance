@@ -21,9 +21,9 @@ Topics are organised in a hierarchical taxonomy. This means topics can have subt
 * [Further and higher education, skills and vocational training](https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training)
 * [Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
 
-We explain how to tag your content in [the guidance on creating and updating pages](link to eventual topic area). 
+We explain how to tag your content in [the guidance on creating and updating pages](link tbc). 
 
-If you want to request a new topic, or changes to an existing topic, [contact GDS].
+If you want to request a new topic, or changes to an existing topic, [contact GDS](link tbc).
 
 ## Document collections
 
@@ -34,11 +34,11 @@ You can group content into a collection. Unlike topic tagging, you should only u
 
 Do not use a document collection to:
 
-* group parts of a single document - instead, put all the attachments on a single [publication page](link to ‘how to publish’ a publication page)
-* guide users through a task - convert the documents into a [detailed guide](link to ‘how to publish’ a detailed guide) instead
-* group long complex documents that specialist users need to do their job - think about using [a manual](link to ‘how to publish’ a manual) instead
+* group parts of a single document - instead, put all the attachments on a single [publication page](link tbc)
+* guide users through a task - convert the documents into a [detailed guide](link tbc) instead
+* group long complex documents that specialist users need to do their job - think about using [a manual](link tbc) instead
 
-[Read more about creating and updating document collections](link to ‘how to add/update document collections). 
+[Read more about creating and updating document collections](link tbc). 
 
 ## Mainstream browse pages
 
@@ -56,10 +56,10 @@ Most content in mainstream browse is ‘mainstream’ content - content publishe
 * it gives users information about how to complete a task or use a government service
 * it’s a detailed guide or certain types of publication - guidance, statutory guidance or form
 
-To ask to add content to a mainstream browse page, [contact GDS](link to contact GDS].
+To ask to add content to a mainstream browse page, [contact GDS](link tbc).
 
 ## Step by step pages
 
 If the task users need to do is part of a much broader process with multiple steps, like [learning to drive](https://www.gov.uk/learn-to-drive-a-car), content can be grouped into a step by step navigation.
 
-If you’ve published content that you think should be added to an existing step by step navigation, or a new one should be created, [contact GDS](link to contact GDS].
+If you’ve published content that you think should be added to an existing step by step navigation, or a new one should be created, [contact GDS](link tbc).

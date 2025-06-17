@@ -30,6 +30,6 @@ The [GOV.UK service manual includes an overview of WCAG 2.2](https://www.gov.uk/
 
 ## How to make your content accessible
 
-You can use our [guidance on making content accessible](link to guidance from https://trello.com/c/4KG4Tocj/12-make-your-content-accessible) to understand what accessibility considerations are relevant to what you publish on GOV.UK. 
+You can use our [guidance on making content accessible](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) to understand what accessibility considerations are relevant to what you publish on GOV.UK. 
 
 You can also use these [user profiles of different disabilities and impairments](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles). They’re designed to help you understand how different content design elements affect users with different types of accessibility needs. 

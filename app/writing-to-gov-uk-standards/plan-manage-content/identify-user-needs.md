@@ -31,7 +31,7 @@ Do this by reviewing existing evidence such as:
 * previous research reports
 * data from organisations such as Citizens Advice
 
-There are other [data and analytics tools you can use to support your content design](link to content from https://trello.com/c/wuVKoBYe/17-find-tools-and-resources). 
+There are other [data and analytics tools you can use to support your content design](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/). 
 
 If you feel like you cannot learn enough from your users this way, try to work with user researchers or performance analysts to go further.
 
@@ -91,7 +91,7 @@ Be wary of using:
 
 You should only use ‘understand,’ or ‘be aware of’ if the user needs to know it to fulfil a certain task which you can explain in the ‘So that I…’ part of the user need. If the user does not need to take an action as a result of what they’re understanding, it’s not a valid user need. 
 
-### Good example
+#### Good example
 
 As a carer,
 
@@ -101,7 +101,7 @@ So that I can carry on looking after the person I care for.
 
 This is a valid user need because it does not suggest a specific solution. You might need to produce a combination of features and content to make sure the user need is met.
 
-### Bad example
+#### Bad example
 
 As a carer,
 

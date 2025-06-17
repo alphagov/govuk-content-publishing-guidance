@@ -28,7 +28,7 @@ A user need is something that a user will need to do or find out from government
 * checking their tax code or State Pension
 * applying for a passport or driving licence
 
-Before publishing on GOV.UK, you need to know your users’ needs and design your content to meete them. Read more about this in the guidance on [identifying user needs](link to content from https://trello.com/c/lI2SBqqh/7-identify-user-needs). 
+Before publishing on GOV.UK, you need to know your users’ needs and design your content to meete them. Read more about this in the guidance on [identifying user needs](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/). 
 
 ## Consider the amount, format and best place to publish your content
 
@@ -41,15 +41,15 @@ Depending on what your user needs are, you may need to:
 * remove content, to avoid duplication or conflicting information
 * publish your content elsewhere, like a blog, partner site or social media
 
-Read more about this in the guidance on [planning new GOV.UK content](link to content from https://trello.com/c/yOBbv3jg/8-plan-new-govuk-content). 
+Read more about this in the guidance on [planning new GOV.UK content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/). 
 
 ## Design clear and accessible content
 
 Good GOV.UK content is clear, written in plain English and optimised for the web. It must be accessible to anybody who needs to use it. 
 
-Our [style guide](link to content from https://trello.com/c/89VRFJy8/15-style-guide-a-to-z) and [tone of voice guidance](link to content from https://trello.com/c/u4jrF3Bo/14-tone-of-voice) are designed to make our content meet these standards. Check that your content is written in line with them before you publish it.
+Our [style guide](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) are designed to make our content meet these standards. Check that your content is written in line with them before you publish it.
 
-You should also check the guidance on [making your content accessible](link to ‘make your content accessible’) - this will help with the accessibility of headings, links and other formatting elements.
+You should also check the guidance on [making your content accessible](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) - this will help with the accessibility of headings, links and other formatting elements.
 
 ## Content maintenance
 
@@ -58,5 +58,5 @@ Content on GOV.UK should either be:
 * current, meeting a user need and kept up to date
 * no longer current but kept as a record of the government’s past work
 
-Read the guidance on [managing existing GOV.UK content](link to content from https://trello.com/c/FENPOoRo/18-manage-existing-govuk-content) to understand how you should maintain your content. 
+Read the guidance on [managing existing GOV.UK content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to understand how you should maintain your content. 
 

@@ -5,8 +5,7 @@ eleventyNavigation:
   parent: Style guides
   order: 3
 title: A to Z style guide
-description: The Government Digital Service style guide covers style, spelling and grammar conventions for all content published on GOV.UK, arranged alphabetically.
-lastUpdated: 1 January 2025
+lastUpdated:
 ---
 
 ## A
