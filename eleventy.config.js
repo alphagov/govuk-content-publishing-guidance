@@ -47,17 +47,6 @@ export default function(eleventyConfig) {
       }
     }
   });
-  eleventyConfig.addFilter("slug", (str) => {
-    if (!str) {
-      return;
-    }
-  
-    return slugify(str, {
-      lower: true,
-      strict: true,
-      remove: /[*+~.()'"!:@]/g,
-    });
-  });
   eleventyConfig.addPreprocessor("macro-inject", ".njk,.md", (data, content) => {
 		return `{%- from "call-to-action.njk" import cta with context -%}\n` + content;
 	});
