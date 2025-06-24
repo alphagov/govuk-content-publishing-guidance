@@ -15,8 +15,8 @@ export default function(eleventyConfig) {
         label: "Search guidance"
       }
     },
-    navigation: {
-      items: [
+    serviceNavigation: {
+      navigation: [
         {
             text: "Writing to GOV.UK standards",
             href: "/writing-to-gov-uk-standards"
