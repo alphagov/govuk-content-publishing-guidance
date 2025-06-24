@@ -1,3 +1,9 @@
+// Use GOV.UK Frontend
+@use "pkg:govuk-frontend/dist/govuk";
+
+// Use GOV.UK Eleventy Plugin components
+@use "pkg:@x-govuk/govuk-eleventy-plugin";
+
 .style-a-z {
   padding-left: 0px;
   margin-bottom: 30px;

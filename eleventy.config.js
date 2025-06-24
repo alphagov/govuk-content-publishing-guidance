@@ -6,7 +6,9 @@ export default function(eleventyConfig) {
     homeKey: 'GOV.UK Content and publishing guidance',
     titleSuffix: 'Content and publishing guidance - GOV.UK',
     showBreadcrumbs: true,
-    stylesheets: ['/assets/application.css'],
+    stylesheets: [
+      '/assets/styles.css'
+    ],
     rebrand: false,
     header: {
       productName: 'Content and publishing guidance',
