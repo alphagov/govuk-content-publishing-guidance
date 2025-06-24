@@ -1,7 +1,6 @@
-const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin');
-const slugify = require("slugify")
+import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin';
 
-module.exports = function(eleventyConfig) {
+export default function(eleventyConfig) {
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     homeKey: 'GOV.UK Content and publishing guidance',

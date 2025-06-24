@@ -1,5 +1,6 @@
 {
   "name": "govuk-content-publishing-guidance",
+  "type": "module",
   "engines": {
     "node": "^22.11.0",
     "npm": "^10.1.0"
