@@ -9,7 +9,7 @@ export default function(eleventyConfig) {
     stylesheets: [
       '/assets/styles.css'
     ],
-    rebrand: false,
+    rebrand: true,
     header: {
       productName: 'Content and publishing guidance',
       search: {
