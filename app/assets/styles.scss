@@ -4,6 +4,11 @@
 // Use GOV.UK Eleventy Plugin components
 @use "pkg:@x-govuk/govuk-eleventy-plugin";
 
+.govuk-footer {
+  font-size: 19px;
+  line-height: 25px;
+}
+
 .style-a-z {
   padding-left: 0px;
   margin-bottom: 30px;
