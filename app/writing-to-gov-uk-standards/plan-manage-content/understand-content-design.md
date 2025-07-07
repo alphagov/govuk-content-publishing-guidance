@@ -18,7 +18,7 @@ This guidance sets out some basic principles of good content design and links to
 
 ## Add image (test reuse)
 
-<embed src="/reusables/add-image.md" />
+<embed src="reusables/add-image.md" />
 
 ## Start with user needs
 
