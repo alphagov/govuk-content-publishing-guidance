@@ -16,6 +16,10 @@ This guidance sets out some basic principles of good content design and links to
 * follow GOV.UK style
 * be kept up to date
 
+## Add image (test reuse)
+
+{% reusables.add-image %}
+
 ## Start with user needs
 
 Content design starts by taking a user need and meeting it on GOV.UK in the best way possible.
