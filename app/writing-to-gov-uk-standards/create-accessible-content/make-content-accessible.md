@@ -9,7 +9,7 @@ lastUpdated:
 ---
 Anything published on GOV.UK needs to meet accessibility requirements set out in regulations. 
 
-This page is a ‘how to’ for ensuring the accessibility of the different types of content formatting. It’s not a breakdown of the accessibility regulations and guidelines. That’s covered in the guidance on [understanding accessibility](link to other accessibility page).
+This page is a ‘how to’ for ensuring the accessibility of the different types of content formatting. It’s not a breakdown of the accessibility regulations and guidelines. That’s covered in the guidance on [understanding accessibility](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/). 
 
 You should also check our [style guide](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
 
