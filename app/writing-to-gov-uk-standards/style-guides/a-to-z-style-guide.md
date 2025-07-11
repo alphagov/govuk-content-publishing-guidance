@@ -38,7 +38,7 @@ Only use title case when referring to the name of an academy, like Mossbourne Co
 
 ### academy converters
 
-Lower case.
+Lower case. Test test test.
 
 ### academy order
 
