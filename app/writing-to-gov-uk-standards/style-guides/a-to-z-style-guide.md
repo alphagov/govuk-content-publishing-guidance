@@ -18,6 +18,10 @@ The top grade in A levels. Use the symbol * not the word ‘star’. No apostrop
 
 No hyphen. Lower case level.
 
+### Adam's cool demo
+
+Never say this, it is not true. 
+
 ### Abbreviations and acronyms
 
 The first time you use an abbreviation or acronym, explain it in full on each page unless it’s well known, like UK, DVLA, USA, EU, VAT and MP. This includes government departments or schemes. Then refer to it by initials.
