@@ -2,8 +2,8 @@
   "name": "govuk-content-publishing-guidance",
   "type": "module",
   "engines": {
-    "node": "^22.11.0",
-    "npm": "^10.1.0"
+    "node": ">=22.11.0 <23",
+    "npm": ">=10.1.0 <11"
   },
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
