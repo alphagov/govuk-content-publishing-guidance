@@ -5,8 +5,10 @@ title: Home
 customPageTitle: Guidance and good practice for publishers on GOV.UK
 description: Find guidance about how to write to GOV.UK standards, use publishing applications and how to request support.
 eleventyExcludeFromCollections: false
-whatsNew: 
+inverseMasthead: true
 whatsNewDate: 
+whatsNewHeadline: 
+whatsNew: 
 gridItems:
   - title: Style guides
     description: Style, spelling and grammar conventions for all content published on GOV.UK.

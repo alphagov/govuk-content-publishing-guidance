@@ -16,14 +16,18 @@
       title: title or "Tags"
     }) }}
 
+    {% if collections.tags | length > 0 %}
     <ul class="govuk-list govuk-list--bullet">
       {% for tag in collections.tags %}
       <li>
-        <a href="/tags/{{ tag | slug }}">{{ tag }}</a>
+        <a class="govuk-link" href="/tags/{{ tag | slug }}">{{ tag }}</a>
         ({{ collections[tag] | length }})
       </li>
       {% endfor %}
     </ul>
+    {% else %}
+    <p class="govuk-body">No tags found.</p>
+    {% endif %}
   </div>
 </div>
 {% endblock %}
