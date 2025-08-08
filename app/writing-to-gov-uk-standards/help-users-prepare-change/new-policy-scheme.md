@@ -5,13 +5,14 @@ eleventyNavigation:
   parent: Help users prepare for change
   order: 3
 title: If it's a new policy or scheme
+description: Plan updates to GOV.UK guidance if a new policy or scheme is about to come into place.
 lastUpdated:
 ---
 If a new policy or scheme is being introduced users will have to do something for the first time, such as apply for a new visa or use a new service.
 
 ### Update or create guidance
 
-Check your [content audit](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see if there’s existing guidance that meets the user need.
+Check your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see if there’s existing guidance that meets the user need.
 
 You’ll need to either:
 
