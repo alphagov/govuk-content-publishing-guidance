@@ -5,9 +5,10 @@ eleventyNavigation:
   parent: Tone of voice
   order: 1
 title: Write content to meet user needs
+description: Learn how to write GOV.UK content that helps users complete tasks.
 lastUpdated:
 ---
-Before you start writing, [identify a user need](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/).
+Before you start writing, [identify a user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/).
 
 Publish only what’s needed to meet that user need and nothing more. 
 
