@@ -5,15 +5,15 @@ eleventyNavigation:
   parent: Style guides
   order: 4
 title: Technical A to Z style guide
-description:
+description: See a list of the style points for technical content on GOV.UK, including how to spell and format words and phrases.
 lastUpdated: 
 ---
 
 This section only covers style conventions for technical content on GOV.UK.
 
-If you cannot find something, look at the [style guide A to Z](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) which covers style conventions for all content on GOV.UK.
+If you cannot find something, look at the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) which covers style conventions for all content on GOV.UK.
 
-If you want to suggest a change, read the [guidance on how to use the style guide](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/how-to-use/).
+If you want to suggest a change, read the [guidance on how to use the style guide](/writing-to-gov-uk-standards/style-guides/how-to-use/).
 
 
 ## A
@@ -80,7 +80,7 @@ Tell users they can ‘include’ a parameter in an API request, not that they c
 
 ### bold
 
-Only use [bold in text from interfaces](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bold).
+Only use [bold in text from interfaces](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bold).
 
 ### breaking changes
 
