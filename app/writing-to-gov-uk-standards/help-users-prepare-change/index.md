@@ -5,13 +5,14 @@ eleventyNavigation:
   parent: Writing to GOV.UK standards
   order: 2
 title: Help users prepare for change
+description: Plan updates to GOV.UK content to reflect an upcoming change to a policy or scheme.
 lastUpdated:
 ---
 ## Understand what needs to change
 
 Before you decide what content to update, you need to find out from your policy teams what’s changing. 
 
-Your policy colleagues should give you this information as early as possible so you can identify the [user needs](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) and plan your content.
+Your policy colleagues should give you this information as early as possible so you can identify the [user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) and plan your content.
 
 ### Identify the type of change
 
@@ -39,7 +40,7 @@ If users need guidance about a change in advance, you’ll need to identify exac
 
 In exceptional cases, users might need reassurance in advance that something will not change or will not have a big impact on them. You must have evidence that users genuinely need this on GOV.UK (such as on-page feedback, call centre data and analytics). However, usually reassurance messaging should be channelled through communications activity outside GOV.UK.
 
-If you’re unsure, [ask the GDS content team](link tbc).
+If you’re unsure, [ask the content team at the Government Digital Service (GDS)](link tbc).
 
 ## Review content that already exists
 
@@ -51,7 +52,7 @@ Multiple pages with similar content can give users the impression that there’s
 
 ### Do an audit
 
-You can [do an audit](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to find out all the related content.
+You can [do an audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to find out all the related content.
 
 ### Review the guidance
 
@@ -63,7 +64,7 @@ Review the guidance content to identify:
 + duplication (especially multiple pieces of guidance with similar titles and content)
 + missing information that users will need in order to do a task resulting from the change
 
-You can use [analytics tools](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/) to help with this.
+You can use [analytics tools](/writing-to-gov-uk-standards/find-tools-resources/) to help with this.
 
 ### Make improvements to existing guidance
 
@@ -80,14 +81,16 @@ If you have time, make general improvements too.
 
 Read the guidance about how to:
 
-- [plan new GOV.UK content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) – including how to help users find out about new content, such as through communications campaigns
-- [manage existing GOV.UK content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
+- [plan new GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) – including how to help users find out about new content, such as through communications campaigns
+- [manage existing GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
 
 This will explain how to get information about the changes published on GOV.UK.
 
 How you approach the changes will depend on if it's a:
 
-+ [change to an existing policy or scheme](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/help-users-prepare-change/change-existing-policy-scheme/)
-+ [new group of users doing an existing thing for the first time](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/help-users-prepare-change/new-users-existing-thing/)
-+ [new policy or scheme being introduced](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/help-users-prepare-change/new-policy-scheme/)
-+ [policy or scheme being removed or phased out](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/help-users-prepare-change/policy-scheme-removed/)
++ [change to an existing policy or scheme](/writing-to-gov-uk-standards/help-users-prepare-change/change-existing-policy-scheme/)
++ [new group of users doing an existing thing for the first time](/writing-to-gov-uk-standards/help-users-prepare-change/new-users-existing-thing/)
++ [new policy or scheme being introduced](/writing-to-gov-uk-standards/help-users-prepare-change/new-policy-scheme/)
++ [policy or scheme being removed or phased out](/writing-to-gov-uk-standards/help-users-prepare-change/policy-scheme-removed/)
+
+*[GDS]: Government Digital Service
