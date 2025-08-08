@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Find tools and resources for analysing content
   order: 2
 title: Find out what terms users are searching for
+description: Use tools to see what search terms are being used on search engines like Google and the internal GOV.UK search.
 lastUpdated:
 ---
 Looking at popular search terms can help you:
@@ -57,3 +58,6 @@ If you want to see how often a certain word or term is used:
 5. Select ‘Apply’.
 
 You can also use the [GOV.UK trending searches dashboard](https://docs.google.com/spreadsheets/d/1wr5rhStohUzwK9Nd5mXrNddlIBsLwi0u8Vqy9z_XGE4/edit?gid=0#gid=0). This shows search terms that are currently ‘trending’ on the GOV.UK search tool (being searched for more than usual).
+
+*[SEO]: Search engine optimisation
+*[SPOC]: Single point of contact
