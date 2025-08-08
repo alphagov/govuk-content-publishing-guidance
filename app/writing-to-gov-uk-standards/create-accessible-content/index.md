@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Writing to GOV.UK standards
   order: 3
 title: Create accessible content
+description: Understand the importance of accessibility to GOV.UK content.
 lastUpdated:
 related:
   sections:
@@ -18,5 +19,5 @@ Government content must be accessible to anybody who needs to use it. Accessibil
 
 This guidance will help you:
 
-* [understand the accessibility regulations](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/) you need to follow
-* [make accessible content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) when you’re formatting your content 
+* [understand the accessibility regulations](/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/) you need to follow
+* [make accessible content](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) when you’re formatting your content 
