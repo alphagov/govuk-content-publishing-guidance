@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Plan and manage content
   order: 5
 title: Manage existing GOV.UK content
+description: Know what to do when updating outdated or inaccurate information or guidance on GOV.UK.
 lastUpdated:
 ---
 ## Find relevant content
@@ -26,7 +27,7 @@ Govsearch will not show content that’s published using non-GOV.UK tools, inclu
 + service domains
 + some ‘mainstream’ smart answers that are published using Github, like [‘Check benefits and financial support you can get’](https://www.gov.uk/check-benefits-financial-support)
 
-[Ask GDS](link tbc) if you would like help with searching this other content.
+[Ask the Government Digital Service (GDS)](link tbc) if you would like help with searching this other content.
 
 ### If you’re only interested in Whitehall Publisher
 
@@ -41,7 +42,7 @@ This will give you details you cannot get through Govsearch, such as:
 
 Monitor your content regularly to check if it’s useful for users and they can find it.
 
-You can use the [guidance on tools and resources](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/) to help track this.
+You can use the [guidance on tools and resources](/writing-to-gov-uk-standards/find-tools-resources/) to help track this.
 
 You might decide to:
 
@@ -55,7 +56,7 @@ You might want to make changes to:
 + fix issues, like broken links, typos or factual errors
 + update information
 + improve the content, based on issues you’ve identified by checking your content is working for users
-+ make users aware of future changes to a policy – read our [guidance on how to help users prepare for change](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/help-users-prepare-change/)
++ make users aware of future changes to a policy – read our [guidance on how to help users prepare for change](/writing-to-gov-uk-standards/help-users-prepare-change/)
 
 Your organisation will usually need to be tagged to a page to make changes to it.
 
@@ -63,7 +64,7 @@ If the page is also tagged to other organisations, you should contact their cont
 
 If the page is tagged to other organisations and not yours, contact their contact teams and ask them to work on the changes.
 
-[Ask the Government Digital Service (GDS)](link tbc) if you need contact information for other content teams.
+[Ask GDS](link tbc) if you need contact information for other content teams.
 
 ### If your content is on a ‘mainstream’ page
 
@@ -202,3 +203,4 @@ Before a general election, affected organisations will be asked by GDS to do a h
 
 If you think content should be removed from history mode after it’s been applied, [raise a ticket to get history mode removed](link tbc).
 
+*[GDS]: Government Digital Service
