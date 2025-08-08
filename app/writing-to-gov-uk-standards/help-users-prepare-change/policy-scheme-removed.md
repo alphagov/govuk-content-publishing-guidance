@@ -5,13 +5,14 @@ eleventyNavigation:
   parent: Help users prepare for change
   order: 4
 title: If a policy or scheme is being removed or phased out
+description: Plan updates to GOV.UK guidance if an existing policy or scheme is about to end.
 lastUpdated:
 ---
 If a policy or scheme is being removed or phased out, users will no longer be able to do something on GOV.UK which they can do now.
 
 ### What to do in advance
 
-Before you change anything, you’ll need to identify all content that refers to the policy or scheme. Your [content audit](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) should tell you this.
+Before you change anything, you’ll need to identify all content that refers to the policy or scheme. Your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) should tell you this.
 
 Users normally need to know in advance that a policy or scheme is being removed. You’ll need to update the existing content to tell users:
 
@@ -28,7 +29,7 @@ Link to any related content that meets a similar user need, including external t
 
 #### Example
 
-When HMRC introduced the ‘tax-free childcare’ scheme the existing scheme (childcare vouchers) had to be phased out. 
+When HM Revenue and Customs (HMRC) introduced the ‘tax-free childcare’ scheme the existing scheme (childcare vouchers) had to be phased out. 
 
 However, parents could still apply for childcare vouchers for a period while both schemes were running. In some cases they were even better off to do this.
 
@@ -39,3 +40,6 @@ A callout was added to the content several months before the change came into ef
 >From 4 October 2018, childcare voucher schemes will close to new applicants. You may be able to get [Tax-Free Childcare](https://www.gov.uk/help-with-childcare-costs/tax-free-childcare) instead. You can keep getting vouchers if you’ve joined a scheme and you get your first voucher before the scheme closes.
 
 Once childcare vouchers were withdrawn, this content was replaced by a line explaining that they’re no longer available to new applicants.
+
+*[ESAS]: Energy Saving Advice Service
+*[HMRC]: HM Revenue and Customs
