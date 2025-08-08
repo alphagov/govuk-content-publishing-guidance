@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Plan and manage content
   order: 2
 title: Identify user needs
+description: Figure out what your users need from your content.
 lastUpdated:
 ---
 User needs are the needs that our users have when they come to GOV.UK. People visit GOV.UK to help them fulfil a certain task, like apply for a driving licence or find out how to vote.
@@ -31,7 +32,7 @@ Do this by reviewing existing evidence such as:
 * previous research reports
 * data from organisations such as Citizens Advice
 
-There are other [data and analytics tools you can use to support your content design](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/). 
+There are other [data and analytics tools you can use to support your content design](/writing-to-gov-uk-standards/find-tools-resources/). 
 
 If you feel like you cannot learn enough from your users this way, try to work with user researchers or performance analysts to go further.
 
