@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Tone of voice
   order: 3
 title: Use clear language
+description: Learn about the importance of plain English on GOV.UK, what words to avoid using in content and recommended lengths for paragraphs and sentences.
 lastUpdated:
 ---
 Plain English is mandatory for all of GOV.UK. That’s because we want content to be accessible and understandable to everyone who needs it.
@@ -43,7 +44,7 @@ Even when writing for a specialist audience, you still need to make sure everyon
 
 ## Know about words to avoid
 
-Take a look at the words to avoid entry in [the A to Z style guide](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). The list is not exhaustive. It’s an indicator to show you the sort of language that confuses users.
+Take a look at the words to avoid entry in [the A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). The list is not exhaustive. It’s an indicator to show you the sort of language that confuses users.
 
 Do not use formal or long words when easy or short ones will do. Use ‘buy’ instead of ‘purchase’, ‘help’ instead of ‘assist’, and ‘about’ instead of ‘approximately’.
 
@@ -66,7 +67,7 @@ Use the language that users:
 - will be familiar with
 - use themselves
 
-You might want to [look at common search terms](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/) to find what words are more commonly used. For example, you can look at whether more users search for ‘heavy goods vehicle’ or ‘lorry’.
+You might want to [look at common search terms](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/) to find what words are more commonly used. For example, you can look at whether more users search for ‘heavy goods vehicle’ or ‘lorry’.
 
 ## Be careful with contractions
 
