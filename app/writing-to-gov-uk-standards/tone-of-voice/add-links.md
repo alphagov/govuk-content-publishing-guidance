@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Tone of voice
   order: 5
 title: Add links to content
+description: Learn how to use links in GOV.UK content, including writing clear link text and using anchor links.
 lastUpdated:
 ---
 You can add links to body text, but not in titles, summaries or subheadings. Read about [how to format links](link tbc).
@@ -19,7 +20,9 @@ You can also link to non-GOV.UK websites in these circumstances:
 - a user can only complete a task using a third party website – for example, finding a driving instructor 
 - there is evidence a user needs something that cannot be published on GOV.UK – for example, information or advice that the government cannot or does not provide 
 - a trustworthy source can support users better than GOV.UK can – for example, it has a tool or feature that GOV.UK does not
+
 If you’re including an external link, then:
+
 - link to a specific page, not the website's homepage
 - users must be able to access the content without having to pay or register to see it
 - you must have a reason for linking to one commercial website instead of another if they provide similar information
