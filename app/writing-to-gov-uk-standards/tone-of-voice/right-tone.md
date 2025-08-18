@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Tone of voice
   order: 4
 title: Use the right tone
+description: Learn about the tone of voice for GOV.UK content, including what words to avoid and how to address users.
 lastUpdated:
 ---
 The ‘tone of voice’ for GOV.UK content is:
@@ -53,7 +54,7 @@ For help avoiding offensive terms, read more about:
 
 Address the user as ‘you’ where possible. 
 
-Content on the site often makes a direct appeal to citizens and businesses to get involved or take action. For example: “You can contact HMRC by phone and email” or “Pay your car tax”.
+Content on the site often makes a direct appeal to citizens and businesses to get involved or take action. For example: “You can contact HM Revenue and Customs by phone and email” or “Pay your car tax”.
 
 When writing in the third person, make sure text is gender neutral wherever possible. For example, say “They can… “ rather than “He or she can…”.
 

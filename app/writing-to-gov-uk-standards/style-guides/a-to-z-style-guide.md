@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Style guides
   order: 3
 title: A to Z style guide
+description: See a list of the style points for all GOV.UK content, including how to spell and format words and phrases.
 lastUpdated:
 ---
 
@@ -34,7 +35,7 @@ Lower case.
 
 ### academy 
 
-Only use title case when referring to the name of an academy, like Mossbourne Community Academy. Look at [the entry on titles for more on this](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#titles). 
+Only use title case when referring to the name of an academy, like Mossbourne Community Academy. Look at [the entry on titles for more on this](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#titles). 
 
 ### academy converters
 
@@ -206,7 +207,7 @@ For example:
 
 ### Banned words
 
-See [Words to avoid](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid).
+See [Words to avoid](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid).
 
 ### baseline
 
@@ -289,15 +290,15 @@ You can use the term ‘Brexit’ to provide historical context, but it’s bett
 
 ### Britain
 
-See [Great Britain](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#great-britain).
+See [Great Britain](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#great-britain).
 
 ### British citizen
 
-One of 6 types of British nationalities. See [British people](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#british-people).
+One of 6 types of British nationalities. See [British people](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#british-people).
 
 ### British national
 
-See [British people](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#british-people).
+See [British people](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#british-people).
 
 ### British people
 
@@ -379,7 +380,7 @@ Always use sentence case, even in page titles and service names. The exceptions 
 
 * departments (specific government departments - see below)
 * the Civil Service, with lower case for 'the'
-* specific job titles - [see the entry on job titles](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles)
+* specific job titles - [see the entry on job titles](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles)
 * titles like Mr, Mrs, Dr, the Duke of Cambridge (the duke at second mention); Pope Francis, but the pope
 * Rt Hon (no full stops)
 * buildings
@@ -397,7 +398,7 @@ Always use sentence case, even in page titles and service names. The exceptions 
 
 Do not capitalise:
 
-* government - see [the entry on government](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#government)
+* government - see [the entry on government](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#government)
 * minister, never Minister, unless part of a specific job title, like Minister for the Cabinet Office
 * department or ministry - never Department or Ministry, unless referring to a specific one: Ministry of Justice, for example
 * white paper, green paper, command paper, House of Commons paper
@@ -446,7 +447,7 @@ Lower case in text. Title case in titles: Spencer Tracy, Chairman, GDS.
 
 ### Change notes
 
-See the [guidance on writing change notes](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/change-notes/).
+See the [guidance on writing change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/).
 
 ### changelog
 
@@ -924,7 +925,7 @@ Lower case, if referring to the currency.
 
 ### etc
 
-See [the entry on eg, etc and ie](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#eg-etc-ie).
+See [the entry on eg, etc and ie](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#eg-etc-ie).
 
 ### Excel spreadsheet	
 
@@ -1100,7 +1101,7 @@ For signing in to your GOV.UK One Login, use ‘Sign in to your GOV.UK One Login
 
 Use ‘sign in details’ not ‘GOV.UK One Login details’ to refer to the information you sign in with, for example your email address and password.
 
-See also the entry on [sign in or log in](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#sign-in-or-log-in).
+See also the entry on [sign in or log in](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#sign-in-or-log-in).
 
 ### grammar school
 
@@ -1228,7 +1229,7 @@ Do not hyphenate:
 
 Do not use a hyphen unless it’s confusing without it, for example, a little used-car is different from a little-used car. You can also refer to [The Guardian style guide ](https://www.theguardian.com/guardian-observer-style-guide-h) for advice on hyphenation.
 
-Use ‘to’ for [time ranges](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#times) and [date ranges](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#dates), not hyphens.
+Use ‘to’ for [time ranges](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#times) and [date ranges](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#dates), not hyphens.
 
 
 {% include "layouts/shared/back-to-top.njk" %}
@@ -1246,7 +1247,7 @@ In technical writing, don’t write ‘identification’ or ‘identifier’, un
 
 ### ie
 
-See the entry on [eg, etc and ie](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#eg-etc-and-ie).
+See the entry on [eg, etc and ie](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#eg-etc-and-ie).
 
 ### Import Control System	
 
@@ -1327,7 +1328,7 @@ Specific job titles and ministers’ role titles are title case: Minister for Ho
 
 Generic job titles and ministers' role titles are lower case: director, minister.
 
-See also the entry on [Shadow job titles](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#shadow-job-titles).
+See also the entry on [Shadow job titles](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#shadow-job-titles).
 
 ### Jobseeker's Allowance (New Style or income-based)
 
@@ -1396,11 +1397,11 @@ Not "lifecycle" or "life-cycle".
 
 Front-load your link text with the relevant terms and make them active and specific. Always link to online services first. Offer offline alternatives afterwards, when possible.
 
-[Learn more about links](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/add-links/).
+[Learn more about links](/writing-to-gov-uk-standards/tone-of-voice/add-links/).
 
 ### Lists
 
-Lists should be bulleted to make them easier to read. See the entry on [bullets and steps](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-steps).
+Lists should be bulleted to make them easier to read. See the entry on [bullets and steps](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-steps).
 
 Very long lists can be written as a paragraph with a lead-in sentence if it looks better: 'The following countries are in the EU: Spain, France, Italy...'
 
@@ -1413,7 +1414,7 @@ In an alphanumeric list:
 
 Lower case. Do not use LA.
 
-When referring to local government, use local council instead of local authority where possible. [See also the entry on council](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#council).
+When referring to local government, use local council instead of local authority where possible. [See also the entry on council](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#council).
 
 ### Local Authority Trading Standards Services	
 
@@ -1423,7 +1424,7 @@ Title case as long as it's a specific named organisation, not trading standards 
 
 Lower case. 
 
-When referring to local government, use local council instead of local authority where possible. [See also the entry on council](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#council).
+When referring to local government, use local council instead of local authority where possible. [See also the entry on council](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#council).
 
 ### log book
 
@@ -1517,7 +1518,7 @@ Not "meta data".
 
 ### metaphors
 
-See the entry on [words to avoid](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid).
+See the entry on [words to avoid](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid).
 
 ### MHz
 
@@ -1600,7 +1601,7 @@ Lower case when referring to the activity not the regulation.
 
 ### Months
 
-See [the entry on Dates](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#dates).
+See [the entry on Dates](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#dates).
 
 ### MP
 
@@ -1650,7 +1651,7 @@ Use a person’s full name the first time you mention them. Only include persona
 
 For example, it might be relevant to include:
 
-- their [job title](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles) beforehand, like ‘Prime Minister’
+- their [job title](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles) beforehand, like ‘Prime Minister’
 - an academic title like ‘Dr’ or ‘Professor’
 - an honorary title like 'Sir' or 'Dame'
 - a military title like ‘Admiral’ or ‘General’
@@ -1660,7 +1661,7 @@ If they’re a member of the House of Lords, use their official title instead. Y
 
 When you mention a person again, use one of the following:
 
-- their [job title](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles)
+- their [job title](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles)
 - a title and their surname (like 'Mr', 'Ms', 'Lord,' 'Baroness' or 'Dr') - use ‘Ms’ for women without another title, unless they’ve expressed a preference for ‘Mrs’ or ‘Miss’
 - a title and their first name, if you previously used their honorary title and they have a knighthood or damehood (like ‘Sir Mark’ or ‘Dame Helen’)
 - just their first name, in more informal content
@@ -1776,7 +1777,7 @@ If a number starts a sentence, write it out in full (Thirty-four, for example) e
 
 For numerals over 999, insert a comma for clarity: 9,000
 
-See [how to use millions](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#millions) or [how to use billions](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#billions).
+See [how to use millions](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#millions) or [how to use billions](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#billions).
 
 Spell out common fractions like one-half.
 
@@ -1867,9 +1868,9 @@ The definite article can be used when referring to the organisation by its full 
 
 You should only use ‘we’ if it’s clear which organisation you’re referring to. 
 
-[Read more about when to use ‘we’ in content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/right-tone/). 
+[Read more about when to use ‘we’ in content](/writing-to-gov-uk-standards/tone-of-voice/right-tone/). 
 
-Use local council, instead of local authority, where possible. [See also the entry on council](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#council).
+Use local council, instead of local authority, where possible. [See also the entry on council](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#council).
 
 ### overseas-trained teacher
 
@@ -1954,7 +1955,7 @@ Upper case. No need to explain the acronym.
 
 ### penalty
 
-See [the entry for 'fine'](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#fine).
+See [the entry for 'fine'](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#fine).
 
 ### pension provider	
 
@@ -1996,7 +1997,7 @@ You can write in full or use the initials.
 
 Lower case plain and title case English unless in a title: the Plain English Campaign.
 
-All content on GOV.UK should be written in [plain English](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/clear-language/). You should also make sure you use language your audience will understand - check the entry for [words you should avoid](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid).
+All content on GOV.UK should be written in [plain English](/writing-to-gov-uk-standards/tone-of-voice/clear-language/). You should also make sure you use language your audience will understand - check the entry for [words you should avoid](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid).
 
 ### Planet Earth
 
@@ -2229,7 +2230,7 @@ Two words, lower case.
 
 ### SATs
 
-See the entry on [national curriculum tests](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#national-curriculum-tests).
+See the entry on [national curriculum tests](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#national-curriculum-tests).
 
 ### School Admissions Code
 
@@ -2321,7 +2322,7 @@ Title case.
 
 ### Self Assessment tax return	
 
-See the entry on [tax returns](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#tax-returns).
+See the entry on [tax returns](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#tax-returns).
 
 ### self-driving vehicle
 
@@ -2367,7 +2368,7 @@ Use 'settlor', not settler, when referring to a person who puts assets into a tr
 
 The Shadow Secretary of State for XXX is title case whether or not it's used with the holder's name because there is only one. Use common sense to capitalise shortened versions of the Secretary of State titles, such as the Shadow Health Secretary.
 
-See also the entry on [Job titles](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles).
+See also the entry on [Job titles](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#job-titles).
 
 ### Shadow Cabinet	
 
@@ -2421,7 +2422,7 @@ Lower case.
 
 ### Speech marks
 
-See the entry on [quotes and speech marks](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#quotes-speech-marks).
+See the entry on [quotes and speech marks](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#quotes-speech-marks).
 
 ### Spending Review	
 
@@ -2475,7 +2476,7 @@ Title case.
 
 ### steps
 
-See the entry on [bullet points and steps](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-steps).
+See the entry on [bullet points and steps](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-steps).
 
 ### strategic national framework on XXX	
 
@@ -2835,7 +2836,7 @@ Lower case. This is not a proper title.
 
 ### Welsh Parliament	
 
-See [Senedd Cymru (Welsh Parliament)](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#senedd-cymru-welsh-parliament).
+See [Senedd Cymru (Welsh Parliament)](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#senedd-cymru-welsh-parliament).
 
 ### the west, western Europe
 
@@ -2925,7 +2926,7 @@ Avoid using metaphors - they do not say what you actually mean and lead to slowe
 
 With all of these words you can generally replace them by breaking the term into what you’re actually doing. Be open and specific.
 
-[Read more about using plain English](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/clear-language/).
+[Read more about using plain English](/writing-to-gov-uk-standards/tone-of-voice/clear-language/).
 
 ### Working Tax Credit	
 

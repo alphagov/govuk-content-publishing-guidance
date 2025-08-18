@@ -5,9 +5,11 @@ eleventyNavigation:
   parent: Tone of voice
   order: 2
 title: Create a clear structure for your content
+description: Learn how to structure GOV.UK content clearly, including frontloading and using headings, bullet points and lists.
 lastUpdated:
 ---
 People read content on the web differently. They will often skim it and not read every sentence.
+
 For example, most people will:
 
 - [only read 20 to 28% of text on a webpage](http://www.nngroup.com/articles/how-little-do-users-read/), and can skim even more out of impatience
@@ -50,7 +52,7 @@ Bullet point lists and steps can:
 - reduce duplication 
 - make lists easier to read
 
-See the [style guide A to Z](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for information about how you should format bullet points and steps.
+See the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for information about how you should format bullet points and steps.
 
 ## Avoid footnotes
 
@@ -60,6 +62,6 @@ If the information in the footnotes is important, include it in the body text. I
 
 ## Do not repeat yourself
 
-You’ll have to [write a summary](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/summaries/) to go at the top of the page.
+You’ll have to [write a summary](/writing-to-gov-uk-standards/tone-of-voice/summaries/) to go at the top of the page.
 
 Do not repeat the summary in the first paragraph.

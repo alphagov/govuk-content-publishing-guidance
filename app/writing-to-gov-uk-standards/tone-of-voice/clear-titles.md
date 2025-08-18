@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Tone of voice
   order: 6
 title: Write clear titles
+description: Learn how to create a title for your GOV.UK content, including what language to use and the recommended length.
 lastUpdated:
 ---
 Most people who use GOV.UK start with a search engine. Use the same language as your audience so they can find your content. This begins with your page title.
@@ -42,7 +43,7 @@ Your title should make sense:
 
 Titles do not have to reflect the official publication title. Make them user focused, clear and descriptive so that users can distinguish if it’s the right content for them.
 
-Find out what the public calls your content by [looking at common search terms](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/). The official or internal name may not be what the public calls it.
+Find out what the public calls your content by [looking at common search terms](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/). The official or internal name may not be what the public calls it.
 
 Once you know the most common search terms, you can prioritise them in the title.
 

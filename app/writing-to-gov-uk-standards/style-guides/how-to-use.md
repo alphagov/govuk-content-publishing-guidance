@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Style guides
   order: 1
 title: How to use the style guide
+description: Understand the purpose of the style guide, what to do if you cannot find something in it and how to ask for updates to it.
 lastUpdated:
 ---
 This style guide applies to all content published on GOV.UK.
@@ -14,7 +15,7 @@ It covers:
 - general points of style, such as abbreviations and numbers
 - how to spell and format specific words and phrases, including hyphenation and capitalisation
 
-There's separate [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) that explains how to write effective and clear content.
+There's separate [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) that explains how to write effective and clear content.
 
 ## If you cannot find a word or phrase
 
@@ -35,7 +36,7 @@ Other government style guides include:
 If you cannot find what you're looking for, see how the spelling or formatting is used in:
 
 - existing GOV.UK content – [use Govsearch](https://gov-search.service.gov.uk/) to compare how often different spellings or formats are used
-- searches that users have done – see the [guidance on data and analytics](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/)
+- searches that users have done – see the [guidance on data and analytics](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/)
 
 ## If you want to suggest a change to the style guide
 
@@ -63,7 +64,7 @@ In your ticket, include:
 - what the style guide currently says (if you’re suggesting a change to an existing entry)
 - evidence to support the change – for example, user research or data
 
->If you only want to update the [technical content A to Z](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/technical-a-to-z/), email <technical-writers@digital.cabinet-office.gov.uk> instead.
+>If you only want to update the [technical content A to Z](/writing-to-gov-uk-standards/style-guides/technical-a-to-z/), email <technical-writers@digital.cabinet-office.gov.uk> instead.
 
 ### What happens next
 
@@ -74,3 +75,8 @@ You’ll be told if your suggestion:
 - has been approved and published in the style guide
 - has been rejected, with a reason why
 - needs more information before GDS can make a decision
+
+*[GDS]: Government Digital Service
+*[DfE]: Department for Education
+*[HMRC]: HM Revenue and Customs
+*[ONS]: Office for National Statistics

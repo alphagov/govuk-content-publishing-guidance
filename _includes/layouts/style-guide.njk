@@ -26,11 +26,6 @@
     <h1 class="doc-header__title govuk-heading-xl">
       {{ title | smart }}
     </h1>
-    {% if description %}
-      <p class="doc-header__description govuk-body-l">
-        {{ description | markdown("inline") }}
-      </p>
-    {% endif %}
     {% include "layouts/shared/last-updated.njk" %}
   </header>
 {% endif %}

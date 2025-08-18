@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Find tools and resources for analysing content
   order: 4
 title: Find out how users interact with your content
+description: Use Google Analytics tools to see page views, where users go after viewing your content and how many times links in your content are clicked.
 lastUpdated:
 ---
 For some of the tools on this page, you’ll need a GOV.UK Google Analytics account. If you do not have an account, your organisation’s analytics ‘single point of contact’ (SPOC) will need to raise a ticket. If you do not know who your SPOC is, [raise an analytics ticket](https://support.publishing.service.gov.uk/analytics_request/new).
@@ -142,7 +143,7 @@ Take a look at the search terms they’re using when they’re on your content.
 
 You can also use [Content Data](https://content-data.publishing.service.gov.uk/content) if you just want to see how many users are searching when on your content.
 
-###Look at feedback comments
+### Look at feedback comments
 
 Feedback comments can show if users:
 
@@ -176,3 +177,5 @@ This can help you get a more in-depth understanding about how users use your con
 Read the [resources for user researchers](https://www.gov.uk/service-manual/user-researchers) for guidance on how to conduct user research.
 
 The guidance is mostly aimed at creating new services, but a lot of it can be used when designing other types of content.
+
+*[SPOC]: Single point of contact

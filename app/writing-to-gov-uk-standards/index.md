@@ -2,9 +2,11 @@
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
 title: Writing to GOV.UK standards
-description: The guidance in this topic will help you design clear and helpful content for GOV.UK users. 
+description: Learn how to design content for GOV.UK.
 lastUpdated:
 ---
+The guidance in this topic will help you design clear and helpful content for GOV.UK users.
+
 You’ll find guidance to help you plan content in line with good content design principles. This includes things like: 
 
 * how to identify user needs
@@ -14,3 +16,5 @@ You’ll find guidance to help you plan content in line with good content design
 * tools and resources for gathering insights into your content
 
 It also includes the Government Digital Service (GDS) style guide, tone of voice and guidance to make sure your content meets accessibility requirements. 
+
+*[GDS]: Government Digital Service

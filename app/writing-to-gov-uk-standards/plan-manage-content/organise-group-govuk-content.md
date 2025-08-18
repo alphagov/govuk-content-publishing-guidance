@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Plan and manage content
   order: 3
 title: Organise and group GOV.UK content
+description: Put content together based on related topics or tasks.
 lastUpdated:
 ---
 Content on GOV.UK is grouped with other similar content to help users explore particular topics or tasks.
@@ -23,7 +24,7 @@ Topics are organised in a hierarchical taxonomy. This means topics can have subt
 
 We explain how to tag your content in [the guidance on creating and updating pages](link tbc). 
 
-If you want to request a new topic, or changes to an existing topic, [contact GDS](link tbc).
+If you want to request a new topic, or changes to an existing topic, [contact the Government Digital Service (GDS)](link tbc).
 
 ## Document collections
 
@@ -51,7 +52,7 @@ Mainstream browse has 2 levels:
 
 Some subtopics list the content alphabetically and some are arranged under headings. 
 
-Most content in mainstream browse is ‘mainstream’ content - content published by Government Digital Service (GDS) content designers rather than by departments. You can ask to add other content to a mainstream browse page if:
+Most content in mainstream browse is ‘mainstream’ content - content published by GDS content designers rather than by departments. You can ask to add other content to a mainstream browse page if:
 
 * it gives users information about how to complete a task or use a government service
 * it’s a detailed guide or certain types of publication - guidance, statutory guidance or form
@@ -63,3 +64,5 @@ To ask to add content to a mainstream browse page, [contact GDS](link tbc).
 If the task users need to do is part of a much broader process with multiple steps, like [learning to drive](https://www.gov.uk/learn-to-drive-a-car), content can be grouped into a step by step navigation.
 
 If you’ve published content that you think should be added to an existing step by step navigation, or a new one should be created, [contact GDS](link tbc).
+
+*[GDS]: Government Digital Service

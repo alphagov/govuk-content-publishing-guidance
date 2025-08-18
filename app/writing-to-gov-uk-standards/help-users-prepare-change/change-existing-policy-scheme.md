@@ -5,13 +5,14 @@ eleventyNavigation:
   parent: Help users prepare for change
   order: 1
 title: If it's a change to an existing policy or scheme
+description: Plan updates to GOV.UK guidance if an existing policy or scheme is about to change.
 lastUpdated:
 ---
 A change to an existing policy or scheme means users will have to do something they do now in a different way, such as apply online instead of by post.
 
 ### Update existing guidance
 
-Because it’s an existing policy or scheme, there should already be guidance about it on GOV.UK which you can update. Check your [content audit](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see where this sits.
+Because it’s an existing policy or scheme, there should already be guidance about it on GOV.UK which you can update. Check your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see where this sits.
 
 Do not create new guidance if some already exists that meets the user need. You should update the existing guidance instead.
 
@@ -42,9 +43,11 @@ A call out was added a few weeks before the change happened:
 
 >From 6 April, you'll have to apply online to the Insolvency Service to become bankrupt. This will be cheaper than applying to the court. If you have an existing application you must send it to the court before 6 April.
 
-Before the new policy came into effect, GDS worked with the Insolvency Service to:
+Before the new policy came into effect, the Government Digital Service (GDS) worked with the Insolvency Service to:
 
 + rewrite the [guide on bankruptcy](https://www.gov.uk/bankruptcy) to reflect the new policy
 + remove the call out informing users in advance
 
 The rewritten content was published on the day the new policy came into effect.
+
+*[GDS]: Government Digital Service

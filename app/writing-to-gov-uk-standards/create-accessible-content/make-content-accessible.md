@@ -5,13 +5,14 @@ eleventyNavigation:
   parent: Create accessible content
   order: 2
 title: Make your content accessible
+description: Find out how to create GOV.UK content that follows the accessibility regulations.
 lastUpdated:
 ---
 Anything published on GOV.UK needs to meet accessibility requirements set out in regulations. 
 
-This page is a ‘how to’ for ensuring the accessibility of the different types of content formatting. It’s not a breakdown of the accessibility regulations and guidelines. That’s covered in the guidance on [understanding accessibility](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/). 
+This page is a ‘how to’ for ensuring the accessibility of the different types of content formatting. It’s not a breakdown of the accessibility regulations and guidelines. That’s covered in the guidance on [understanding accessibility](/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/). 
 
-You should also check our [style guide](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
+You should also check our [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
 
 ## Attachments
 
@@ -271,3 +272,7 @@ At the end of a press conference, if there’s an important handshake between mi
 If you show a user journey of a new service or product, you’ll need to describe the journey so everyone has access to the context.
 
 You must make sure that any important information that affects people’s understanding of the video is explained verbally, not just through imagery.
+
+*[BSL]: British Sign Language
+*[SVG]: Scalable vector graphic
+*[WCAG]: Web Content Accessibility Guidance

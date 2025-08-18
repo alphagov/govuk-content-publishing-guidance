@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Tone of voice
   order: 8
 title: Write change notes
+description: Learn when to create change notes for GOV.UK content updates and how to write effective change notes.
 lastUpdated:
 ---
 When you update content on an already published page, you may need to write a change note.

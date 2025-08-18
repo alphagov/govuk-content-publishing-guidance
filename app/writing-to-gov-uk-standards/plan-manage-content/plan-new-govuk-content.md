@@ -5,6 +5,7 @@ eleventyNavigation:
   parent: Plan and manage content
   order: 4
 title: Plan new GOV.UK content
+description: Know what to do when creating new information or guidance for GOV.UK.
 lastUpdated:
 ---
 ## Decide whether to publish on GOV.UK
@@ -15,7 +16,7 @@ GOV.UK content should serve one of these user groups:
 + UK businesses that need to comply with their responsibilities
 + anyone who wants to visit, live in, or do business with, the UK
 
-It must have a [user need](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) backed up with evidence, and help users do one of the following:
+It must have a [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) backed up with evidence, and help users do one of the following:
 
 + use a government service
 + understand policy for a specific sector
@@ -34,7 +35,7 @@ However, content cannot go on GOV.UK if it:
 + is party political content
 + is for internal work management or better placed on departmental intranets
 + is only relevant to devolved governments – these are the Scottish Government, the Welsh Government and the Northern Ireland Executive, who have their own websites
-+ duplicates other content or services on GOV.UK (you can [review existing content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) if you’re not sure)
++ duplicates other content or services on GOV.UK (you can [review existing content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) if you’re not sure)
 
 There’s more details about these rules in the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition).
 
@@ -82,11 +83,11 @@ Your own content team can publish this. You’ll need to [choose an appropriate 
 
 ## Create new content
 
-Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/). This will explain the main principles of writing GOV.UK content.
+Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/). This will explain the main principles of writing GOV.UK content.
 
-You can also check the [style guide A to Z](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for the rules about spelling and formatting certain words.
+You can also check the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for the rules about spelling and formatting certain words.
 
-If you’re creating guidance to help users prepare for an upcoming change, [read our guidance on helping users prepare for a change](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/help-users-prepare-change/).
+If you’re creating guidance to help users prepare for an upcoming change, [read our guidance on helping users prepare for a change](/writing-to-gov-uk-standards/help-users-prepare-change/).
 
 Depending on what’s in your content, you should also read guidance on:
 
@@ -128,7 +129,7 @@ After publishing, you can then:
 - consider updating your tags so your content will appear on other topic pages
 - create or update a document collection
 
-Read our [guidance on organising and grouping content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/) for more information.
+Read our [guidance on organising and grouping content](/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/) for more information.
 
 ### Raise awareness of content
 
@@ -156,3 +157,5 @@ You should work with your communications teams to write the email or letter, or 
 + link to the guidance content you have created or updated about the change, and not to another page on GOV.UK
 + use language consistent with the GOV.UK guidance
 + focus on what users need to do and when - evidence shows that people can feel overwhelmed if there’s too much information
+
+*[GDS]: Government Digital Service
