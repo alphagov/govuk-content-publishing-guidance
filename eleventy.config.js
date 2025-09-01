@@ -1,6 +1,56 @@
 import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin';
+import Nunjucks from "nunjucks";
+import * as esbuild from 'esbuild'
+import * as fs from 'fs';
+import * as path from 'path';
 
 export default function(eleventyConfig) {
+  eleventyConfig.addBundle("js", {
+    toFileDirectory: "bundle",
+    outputFileExtension: "js",
+    shortcodeName: "js",
+    transforms: [
+      async function(code) {
+        async function copyDir(src, dest) {
+            let entries = fs.readdirSync(src, { recursive: true, withFileTypes: true })
+
+            for (let entry of entries) {
+                let srcPath = path.join(entry.path, entry.name);
+                let destPath = srcPath.replace(src, dest);
+                let destDir = path.dirname(destPath);
+
+                if (entry.isFile()) {
+                  fs.mkdirSync(destDir, { recursive: true })
+                  fs.copyFileSync(srcPath, destPath);
+                }
+            }
+        }
+
+        await copyDir('_includes/javascripts', 'tmp')
+
+        const app = fs.readFileSync('./tmp/application.mjs')
+        
+        fs.writeFileSync('./tmp/index.mjs', app + "\n" + code)
+        
+        esbuild.buildSync({
+          entryPoints: ['./tmp/index.mjs'],
+          outfile: './tmp/out.js',
+          minify: true,
+          bundle: true,
+        })
+        return fs.readFileSync('./tmp/out.js', 'utf8')
+      }
+    ],
+    hoist: true,
+    bundleExportKey: "bundle",
+  });
+
+  let nunjucksEnvironment = new Nunjucks.Environment(
+    new Nunjucks.FileSystemLoader("node_modules/govuk-frontend/dist")
+  );
+
+  eleventyConfig.setLibrary("njk", nunjucksEnvironment);
+
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     homeKey: 'GOV.UK Content and publishing guidance',
