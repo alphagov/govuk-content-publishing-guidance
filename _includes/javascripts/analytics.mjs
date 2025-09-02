@@ -21,3 +21,58 @@ export function loadAnalytics() {
     })(window, document, 'script', 'dataLayer', 'GTM-NDQ4DC87')
   }
 }
+
+/**
+ * Push to Google Analytics
+ *
+ * @param {object} payload - Google Analytics payload
+ */
+export function addToDataLayer(payload) {
+  // @ts-expect-error Property does not exist on window
+  window.dataLayer = window.dataLayer || []
+  // @ts-expect-error Property does not exist on window
+  window.dataLayer.push(payload)
+}
+
+/**
+ * Strip possible personally identifiable information (PII)
+ *
+ * @param {string} string - Input string
+ * @returns {string} Output string
+ */
+export function stripPossiblePII(string) {
+  // Try to detect emails, postcodes, and NI numbers, and redact them.
+  // Regexes copied from GTM variable 'JS - Remove PII from Hit Payload'
+  string = string.replace(/[^\s=/?&]+(?:@|%40)[^\s=/?&]+/g, '[REDACTED EMAIL]')
+  string = string.replace(
+    /\b[A-PR-UWYZ][A-HJ-Z]?[0-9][0-9A-HJKMNPR-Y]?(?:[\s+]|%20)*[0-9](?!refund)[ABD-HJLNPQ-Z]{2,3}\b/gi,
+    '[REDACTED POSTCODE]'
+  )
+  string = string.replace(
+    /^\s*[a-zA-Z]{2}(?:\s*\d\s*){6}[a-zA-Z]?\s*$/g,
+    '[REDACTED NI NUMBER]'
+  )
+  // If someone has typed in a number it's likely not related so redact it
+  string = string.replace(/[0-9]+/g, '[REDACTED NUMBER]')
+  return string
+}
+
+/**
+ * Translate list of search results to
+ * format compatiable with GA4 ecommerce
+ * `items` attribute
+ *
+ * @param {Array} searchResults - Array of search results
+ * @param {string} searchTerm - Search string entered by user
+ * @returns {Array} items - Array of `items`
+ */
+export function translateToItems(searchResults, searchTerm) {
+  const items = searchResults.map((result, key) => ({
+    name: result.title,
+    category: result.section,
+    list: searchTerm, // Used to match an searchTerm with results
+    position: key + 1
+  }))
+
+  return items
+}
