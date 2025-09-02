@@ -11,6 +11,8 @@
  */
 
 import { loadAnalytics } from './analytics.mjs'
+import { createAll } from 'govuk-frontend'
+import SearchTracker from './search-tracker.mjs'
 
 /* Name of the cookie to save users cookie preferences to. */
 const CONSENT_COOKIE_NAME = 'content_and_publishing_guidance_policy'
@@ -126,6 +128,7 @@ export function resetCookies() {
       window[`ga-disable-G-${TRACKING_PREVIEW_ID}`] = false
       window[`ga-disable-G-${TRACKING_LIVE_ID}`] = false
       loadAnalytics()
+      createAll(SearchTracker)
     } else {
       // Disable GA if not allowed
       window[`ga-disable-G-${TRACKING_PREVIEW_ID}`] = true

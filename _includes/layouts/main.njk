@@ -3,6 +3,12 @@
 {# Extend GOV.UK Eleventy Plugin base layout #}
 {% extends "layouts/base.njk" %}
 
+{% block header %}
+  <div data-module="search-tracker">
+    {{ super() }}
+  </div>
+{% endblock %}
+
 {% block bodyStart %}
   {% call cookieBanner({
     category: "analytics"
@@ -18,14 +24,10 @@
   {% js %}
     window.GDS_CONSENT_COOKIE_VERSION = 1;
 
+    initialiseAnalytics()    
+
     createAll(CookieBanner)
     createAll(CookiesPage)
-
-    // Check for consent before initialising analytics
-    const userConsent = getConsentCookie()
-    if (userConsent && isValidConsentCookie(userConsent) && userConsent.analytics) {
-      loadAnalytics()
-    }
   {% endjs %}
 
   <script type="module" src="{% getBundleFileUrl 'js' %}"></script>

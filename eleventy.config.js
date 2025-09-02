@@ -35,7 +35,7 @@ export default function(eleventyConfig) {
         esbuild.buildSync({
           entryPoints: ['./tmp/index.mjs'],
           outfile: './tmp/out.js',
-          minify: true,
+          minify: process.env.ELEVENTY_RUN_MODE == 'build',
           bundle: true,
         })
         return fs.readFileSync('./tmp/out.js', 'utf8')
