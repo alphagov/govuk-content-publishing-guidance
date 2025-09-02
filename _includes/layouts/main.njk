@@ -18,14 +18,10 @@
   {% js %}
     window.GDS_CONSENT_COOKIE_VERSION = 1;
 
+    initialiseAnalytics()    
+
     createAll(CookieBanner)
     createAll(CookiesPage)
-
-    // Check for consent before initialising analytics
-    const userConsent = getConsentCookie()
-    if (userConsent && isValidConsentCookie(userConsent) && userConsent.analytics) {
-      loadAnalytics()
-    }
   {% endjs %}
 
   <script type="module" src="{% getBundleFileUrl 'js' %}"></script>
