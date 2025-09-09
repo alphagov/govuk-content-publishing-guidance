@@ -1,8 +1,8 @@
 ---
 layout: landing-page
-sectionKey: Publish, update or retire content
+sectionKey: Publish update retire content
 eleventyNavigation:
-  parent: Publish, update or retire content
+  parent: Publish update retire content
   order: 1
 title: Choose a content type
 description: Understand what the right content type is for what you want to publish.
@@ -47,7 +47,7 @@ Use the [publication content type](LINK).
 
 You can use the same page to attach guidance about how to complete the form.
 
-##If you’re asking for people’s views on a policy
+## If you’re asking for people’s views on a policy
 
 You can use the [consultation content type](LINK) if your content is:
 

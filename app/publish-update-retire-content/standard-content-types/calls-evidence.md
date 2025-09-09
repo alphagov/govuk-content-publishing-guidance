@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-sectionKey: Publish, update or retire content
+sectionKey: Publish update retire content
 eleventyNavigation:
   parent: Standard content types
   order: 1
@@ -8,6 +8,10 @@ title: Calls for evidence
 description: Learn how to publish and edit common content types, such as detailed guides, publications and new articles.
 lastUpdated:
 ---
+[[toc]]
+
+## When to use
+
 Do not use the call for evidence content type for:
 
 - consultations – use the [consultation content type](LINK)
