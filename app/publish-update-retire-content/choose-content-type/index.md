@@ -8,6 +8,9 @@ title: Choose a content type
 description: Understand what the right content type is for what you want to publish.
 lastUpdated:
 ---
+
+[[toc]]
+
 Before you make any decisions, read the [guidance on planning new content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) to decide whether the content is mainstream or specialist.
 
 If it’s mainstream content, [contact the Government Digital Service (GDS)](LINK). They can help you decide which mainstream content type to use.
@@ -120,7 +123,7 @@ Use the [statistical data set content type] for data that you publish:
 
 For other statistical data, use the [statistics announcements and statistics publication content types](LINK).
 
-##If you’re collecting information about a worldwide organisation
+## If you’re collecting information about a worldwide organisation
 
 Worldwide organisations include embassies, high commissions and consulates.
 

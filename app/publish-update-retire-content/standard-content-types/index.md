@@ -25,6 +25,7 @@ Some content types on GOV.UK have similar processes for how you'll create, updat
 
 This section of guidance covers these content types, as well as the common processes for:
 
+- sending content for '2nd eyes' (2i)
 - reviewing content that's been sent for '2nd eyes' (2i)
 - publishing content
 - 'retiring' content - either withdrawing or unpublishing
