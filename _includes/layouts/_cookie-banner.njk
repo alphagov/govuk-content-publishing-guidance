@@ -4,13 +4,13 @@
 
   {%- set category = params.category or "analytics" -%}
 
-  {%- set title = params.title or "Cookies on GOV.UK Design System" -%}
+  {%- set title = params.title or "Cookies on GOV.UK Content Publishing Guidance" -%}
 
   {%- set html %}
     {% if params.html %}
       {{ params.html | safe }}
     {% else %}
-      <p class="govuk-body">We’d like to use analytics cookies so we can understand how you use the Design System and make improvements.</p>
+      <p class="govuk-body">We’d like to use analytics cookies so we can understand how you use the GOV.UK Content Publishing Guidance and make improvements.</p>
       <p class="govuk-body">We also use essential cookies to remember if you’ve accepted analytics cookies.</p>
     {% endif %}
   {% endset %}
