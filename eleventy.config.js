@@ -74,6 +74,10 @@ export default function(eleventyConfig) {
             text: "Writing to GOV.UK standards",
             href: "/writing-to-gov-uk-standards"
         },
+        {
+            text: "Publish, update or retire content",
+            href: "/publish-update-retire-content"
+        }
       ]
     },
     footer: {
