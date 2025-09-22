@@ -1,5 +1,6 @@
 import { Component } from 'govuk-frontend'
-import { cookiesAccepted, addToDataLayer, stripPossiblePII, ecommerceSchema } from './analytics.mjs'
+import { cookiesAccepted, addToDataLayer, stripPossiblePII } from './analytics.mjs'
+import Schemas from './schemas.mjs'
 
 class SearchTracker extends Component {
   static checkSupport() {
@@ -25,7 +26,7 @@ class SearchTracker extends Component {
     return results.map((searchResult, index) => ({
       item_name: searchResult.childNodes[0].nodeValue,
       item_list_name,
-      index
+      index: `${index}`,
     }))
   }
 
@@ -67,25 +68,21 @@ class SearchTracker extends Component {
   // based on the search tracking from alphagov#govuk-design-system
   // https://github.com/alphagov/govuk-design-system/blob/main/src/javascripts/components/search.tracking.mjs
   trackSearchInteraction(searchTerm, searchResults, clickedItem) {
-    const data = { ...ecommerceSchema }
-
     if ('DO_NOT_TRACK_ENABLED' in window && window.DO_NOT_TRACK_ENABLED) {
       return
     }
 
     const items = clickedItem ? [searchResults.find(({ item_name }) => clickedItem == item_name)] : searchResults
 
-    data.event = 'search_results'
-    data.event_data = { external: false }
-    data.search_results = {
+    const event = Schemas.mergeProperties({
       event_name: clickedItem ? 'select_item' : 'view_item_list',
       results: searchResults.length,
       term: stripPossiblePII(searchTerm),
       ecommerce: { items }
-    }
+    }, 'search_results', Schemas.ecommerceSchema)
 
     addToDataLayer({ search_results: { ecommerce: null } })
-    addToDataLayer(data)
+    addToDataLayer(event)
   }
 }
 

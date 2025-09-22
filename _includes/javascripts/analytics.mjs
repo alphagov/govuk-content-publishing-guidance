@@ -67,20 +67,3 @@ export function cookiesAccepted() {
 
   return userConsent && isValidConsentCookie(userConsent) && userConsent.analytics
 }
-
-// https://github.com/alphagov/govuk_publishing_components/blob/main/app/assets/javascripts/govuk_publishing_components/analytics-ga4/ga4-schemas.js
-// to get the same event structure as used on GOV.UK, sadly not an importable
-// module so need to hardcode this copy-and-paste (and update it if changes) :(
-export const ecommerceSchema = {
-  event: null,
-  search_results: {
-    event_name: null,
-    term: null,
-    sort: null,
-    results: null,
-    ecommerce: {
-      items: null
-    }
-  },
-  event_data: null
-}
