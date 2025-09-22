@@ -1,5 +1,4 @@
 import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin';
-import Nunjucks from "nunjucks";
 import * as esbuild from 'esbuild'
 import * as fs from 'fs';
 import * as path from 'path';
@@ -44,12 +43,6 @@ export default function(eleventyConfig) {
     hoist: true,
     bundleExportKey: "bundle",
   });
-
-  let nunjucksEnvironment = new Nunjucks.Environment(
-    new Nunjucks.FileSystemLoader("node_modules/govuk-frontend/dist")
-  );
-
-  eleventyConfig.setLibrary("njk", nunjucksEnvironment);
 
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {

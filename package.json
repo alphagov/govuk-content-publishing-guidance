@@ -11,8 +11,6 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@x-govuk/govuk-eleventy-plugin": "^7.2.1",
-    "esbuild": "^0.25.9",
-    "govuk-frontend": "^5.11.2",
-    "nunjucks": "^3.2.4"
+    "esbuild": "^0.25.9"
   }
 }
