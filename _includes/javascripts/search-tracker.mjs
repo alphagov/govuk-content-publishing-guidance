@@ -17,6 +17,7 @@ class SearchTracker extends Component {
 
     this.siteSearch = this.$root.querySelector('site-search')
 
+    this.inputDebounceTimer = null
     this.siteSearch.addEventListener("input", this.trackSearch.bind(this))
     this.siteSearch.addEventListener("click", this.trackConfirm.bind(this))
   }
@@ -33,11 +34,9 @@ class SearchTracker extends Component {
   // https://github.com/alphagov/govuk-design-system/blob/main/src/javascripts/components/search.tracking.mjs
   trackSearch({ target }) {
     const searchTerm = target.value
-    let inputDebounceTimer = null
+    clearTimeout(this.inputDebounceTimer)
 
-    clearTimeout(inputDebounceTimer)
-
-    inputDebounceTimer = setTimeout(() => {
+    this.inputDebounceTimer = setTimeout(() => {
       const searchResults = this.siteSearch.querySelectorAll('#app-site-search__input__listbox li');
 
       addToDataLayer({
@@ -51,7 +50,7 @@ class SearchTracker extends Component {
       })
 
       this.trackSearchInteraction(searchTerm, this.formatResults(searchTerm, [...searchResults]))
-    }, 100)
+    }, 200)
   }
 
   // based on the search tracking from alphagov#govuk-design-system
