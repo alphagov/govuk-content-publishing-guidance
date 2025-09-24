@@ -1,9 +1,10 @@
-import { loadAnalytics, cookiesAccepted } from './analytics.mjs';
+import { loadAnalytics, cookiesAccepted } from './analytics.mjs'
 import { getConsentCookie, isValidConsentCookie } from './cookie-functions.mjs'
-import CookieBanner from './cookie-banner.mjs';
-import CookiesPage from './cookies-page.mjs';
-import { createAll } from 'govuk-frontend';
-import SearchTracker from './search-tracker.mjs';
+import CookieBanner from './cookie-banner.mjs'
+import CookiesPage from './cookies-page.mjs'
+import { createAll } from 'govuk-frontend'
+import SearchTracker from './search-tracker.mjs'
+import PageViewTracker from './page-view-tracker.mjs'
 
 const initialiseAnalytics = () => {
   if (cookiesAccepted()) {
@@ -11,4 +12,5 @@ const initialiseAnalytics = () => {
   }
 
   createAll(SearchTracker)
+  createAll(PageViewTracker)
 }

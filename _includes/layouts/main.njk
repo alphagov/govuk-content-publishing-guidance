@@ -10,6 +10,7 @@
 {% endblock %}
 
 {% block bodyStart %}
+  <div data-module="page-view-tracker"></div>
   {% call cookieBanner({
     category: "analytics"
   }) %}{% endcall %}
@@ -36,4 +37,5 @@
 {% block head %}
   {{ super() }}
   <meta name="robots" content="noindex, nofollow">
+  <meta name="govuk:rendering-app" content="govuk-content-publishing-guidance">
 {% endblock %}
