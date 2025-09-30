@@ -51,7 +51,7 @@ class SearchTracker extends Component {
       })
 
       this.trackSearchInteraction(searchTerm, this.formatResults(searchTerm, [...searchResults]))
-    }, 200)
+    }, 500)
   }
 
   // based on the search tracking from alphagov#govuk-design-system
