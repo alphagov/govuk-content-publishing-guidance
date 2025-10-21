@@ -84,6 +84,7 @@ Start each part of the address on a new line. You should:
 
 For example:
 
+>[!NOTE]
 >HM Revenue and Customs - Child Benefit Office
 PO Box 1
 Newcastle Upon Tyne
@@ -199,6 +200,7 @@ When adding bank details:
 
 For example:
 
+>[!NOTE]
 > Transfer the fee to the following account within 5 working days of emailing your form:
 >
 > * sort code - 80 26 50
