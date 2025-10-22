@@ -96,6 +96,7 @@ Some content can be ‘retired’ automatically. This is called ‘history mode�
 + puts a banner on the content to explain that it was published under a previous government
 + makes the content appear less prominently in internal search results
 
+>[!NOTE]
 >If you want to retire mainstream content, you can only unpublish it. [Raise a ticket with the content team at GDS](link tbc) to discuss this.
 
 ### When you can withdraw content

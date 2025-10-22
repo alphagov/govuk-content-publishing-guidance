@@ -37,6 +37,7 @@ This meant GOV.UK needed to publish content in advance to announce the closure s
 
 A callout was added to the content several months before the change came into effect:
 
+>[!NOTE]
 >From 4 October 2018, childcare voucher schemes will close to new applicants. You may be able to get [Tax-Free Childcare](https://www.gov.uk/help-with-childcare-costs/tax-free-childcare) instead. You can keep getting vouchers if you’ve joined a scheme and you get your first voucher before the scheme closes.
 
 Once childcare vouchers were withdrawn, this content was replaced by a line explaining that they’re no longer available to new applicants.

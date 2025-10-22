@@ -41,6 +41,7 @@ In 2016, a new process for filing for bankruptcy came into effect which was easi
 
 A call out was added a few weeks before the change happened:
 
+>[!NOTE]
 >From 6 April, you'll have to apply online to the Insolvency Service to become bankrupt. This will be cheaper than applying to the court. If you have an existing application you must send it to the court before 6 April.
 
 Before the new policy came into effect, the Government Digital Service (GDS) worked with the Insolvency Service to:
