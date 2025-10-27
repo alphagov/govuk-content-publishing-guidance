@@ -1,0 +1,1 @@
+Select ‘Limit access’ if your draft is sensitive. This means only users from organisations tagged to the content can see it before it’s published. It will not be copied across to [Integration](LINK).

@@ -1,0 +1,1 @@
+You cannot add translations of this content type.

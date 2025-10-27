@@ -1,0 +1,1 @@
+Make sure your content follows the Government Digital Service (GDS) [style guide](/writing-to-gov-uk-standards/style-guides/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/) guidance.

@@ -1,0 +1,1 @@
+Search for the translated version on Whitehall Publisher and create a new draft. It will exist as a completely separate piece of content to the English version.
