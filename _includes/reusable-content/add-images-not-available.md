@@ -1,0 +1,1 @@
+You cannot add images to this content type.

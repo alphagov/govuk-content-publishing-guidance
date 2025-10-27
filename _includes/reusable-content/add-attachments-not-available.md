@@ -1,0 +1,1 @@
+You cannot add attachments to this content type. If you want to include a link to a file, think about whether you can upload it as a separate piece of content.

@@ -1,0 +1,1 @@
+Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only be important if your organisation is asked to take part in an audit of content before a general election.
