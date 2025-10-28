@@ -74,6 +74,10 @@ export default function(eleventyConfig) {
           text: "Publishing during national events",
           href: "/publishing-national-events"  
         },
+        {
+          text: "Publish, update or retire content",
+          href: "/publish-update-retire"
+        }
       ]
     },
     footer: {
