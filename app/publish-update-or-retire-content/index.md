@@ -1,6 +1,6 @@
 ---
 layout: landing-page
-sectionKey: Publish, update or retire content
+sectionKey: Publish update or retire content
 title: Publish, update or retire content
 description: Learn how to publish content to GOV.UK, change published content or withdraw or unpublish it.
 lastUpdated:

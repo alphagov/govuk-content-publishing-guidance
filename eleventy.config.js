@@ -76,7 +76,7 @@ export default function(eleventyConfig) {
         },
         {
           text: "Publish, update or retire content",
-          href: "/publish-update-retire"
+          href: "/publish-update-or-retire-content"
         }
       ]
     },
