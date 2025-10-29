@@ -1,1 +1,1 @@
-> If you select ‘Create new edition’ and you get a message telling you that the ‘document is in history mode’, you cannot update it without help from the Government Digital Service (GDS). See the [guidance on removing history mode](LINK) for more details.
+^If you select ‘Create new edition’ and you get a message telling you that the ‘document is in history mode’, you cannot update it without help from the Government Digital Service (GDS). See the [guidance on removing history mode](LINK) for more details.^
