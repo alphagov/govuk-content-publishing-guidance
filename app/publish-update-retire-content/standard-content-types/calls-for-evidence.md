@@ -34,7 +34,7 @@ You can then add a final outcome to explain the government’s response to the c
 
 ## Create a draft
 
-{% include 'reusable-content/signon-account-whitehall.md' %}
+{% include "reusable-content/signon-account-whitehall.md" %}
 
 ### If you’re creating a new call for evidence
 
@@ -51,7 +51,7 @@ You can then add a final outcome to explain the government’s response to the c
 11. Select ‘Limit access’ under ‘Settings’ if your draft is sensitive. This means only users from organisations tagged to the content can see it before it’s published. It will not be copied across to [Integration](LINK).
 12. Select the ‘Save’ button at the bottom of the page.
 
-{% include 'reusable-content/style-formatting-extra.md' %}
+{% include "reusable-content/style-formatting-extra.md" %}
 
 Once that’s done, you can add attachments.
 
@@ -78,7 +78,7 @@ If you’re uploading a HTML attachment, read the [formatting guidance](LINK) fo
 10. Select the ‘Save’ button at the bottom of the page.
 11. Go to the ‘Attachments’ tab if you want to edit any of the documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
 
-{% include 'reusable-content/remove-history-mode.md' %}
+{% include "reusable-content/remove-history-mode.md" %}
 
 ### If you’re adding a final outcome to a closed call for evidence
 
@@ -106,25 +106,25 @@ Do not attach any documents that will be relevant after the call for evidence is
 
 ## Add or remove images
 
-{% include 'reusable-content/add-images-html-attachments.md' %}
+{% include "reusable-content/add-images-html-attachments.md" %}
 
 ## Add or remove tags to organisations, people and events
 
-{% include 'reusable-content/associations-introduction.md' %}
+{% include "reusable-content/associations-introduction.md" %}
 
-{% include 'reusable-content/associations-ministers.md' %}
+{% include "reusable-content/associations-ministers.md" %}
 
-{% include 'reusable-content/associations-topical.md' %}
+{% include "reusable-content/associations-topical.md" %}
 
-{% include 'reusable-content/associations-organisations.md' %}
+{% include "reusable-content/associations-organisations.md" %}
 
 ## Update settings of the draft
 
-{% include 'reusable-content/update-settings-attachments.md' %}
+{% include "reusable-content/update-settings-attachments.md" %}
 
 ## Add or remove topic tags
 
-{% include 'reusable-content/add-remove-topic-tags.md' %}
+{% include "reusable-content/add-remove-topic-tags.md" %}
 
 ## Add or edit translations
 
@@ -140,15 +140,15 @@ Repeat the steps to link the English version to the foreign language version. If
 
 ### Edit an existing translation
 
-{% include 'reusable-content/add-translations-new-draft.md' %}
+{% include "reusable-content/add-translations-new-draft.md" %}
 
 ## Update the URL
 
-{% include 'reusable-content/update-url.md' %}
+{% include "reusable-content/update-url.md" %}
 
 ## Publish the draft
 
-{% include 'reusable-content/publish-draft.md' %}
+{% include "reusable-content/publish-draft.md" %}
 
 *[GDS]: Government Digital Service
 
