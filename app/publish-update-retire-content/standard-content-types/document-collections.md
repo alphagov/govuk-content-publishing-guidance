@@ -35,7 +35,7 @@ Do not create a collection:
 
 ## Create a draft
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ### If you’re creating a new document collection
 
@@ -63,7 +63,7 @@ After saving the page, you can start adding the collection itself.
 
 After saving the page, you can start editing the collection itself.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Add or edit the content items in a collection
 
@@ -125,7 +125,7 @@ To reorder content in the group:
 
 ## Attachments
 
-{% include "reusable-content/add-attachments-not-available.md" %}
+{% include 'reusable-content/add-attachments-not-available.md' %}
 
 ## Images
 
@@ -133,23 +133,23 @@ To reorder content in the group:
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to organisations and events
 
-{% include "reusable-content/associations-introduction.md" %}
+{% include 'reusable-content/associations-introduction.md' %}
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
@@ -165,14 +165,14 @@ Repeat the steps to link the English version to the foreign language version. If
 
 ### Edit an existing translation
 
-{% include "reusable-content/add-translations-new-draft.md" %}
+{% include 'reusable-content/add-translations-new-draft.md' %}
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

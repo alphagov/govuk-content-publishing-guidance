@@ -17,7 +17,7 @@ Worldwide pages collect information about the UK’s government work abroad. The
 - worldwide organisation pages, which give overviews of UK government organisations that operate abroad
 - help and services navigation pages, which collect links to UK government services available in different worldwide locations
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ## World location news pages
 
@@ -167,7 +167,7 @@ If you need to publish it urgently without a review, find out when you can [publ
 
 ### Add or edit translations
 
-{% include "reusable-content/add-translations-current-draft-1.md" %}
+{% include 'reusable-content/add-translations-current-draft-1.md' %}
 
 If you want to edit an existing translation:
 
@@ -188,7 +188,7 @@ Select the ‘Attachments’ tab at the top of the page. You can add, edit or de
 
 You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
 
-{% include "reusable-content/add-attachments-markdown-2.md" %}
+{% include 'reusable-content/add-attachments-markdown-2.md' %}
 
 ### Add or edit office contact details, access and opening times
 

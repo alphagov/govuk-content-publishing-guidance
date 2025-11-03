@@ -22,7 +22,7 @@ For data sets you publish less frequently or with analysis, use [statistics cont
 
 ## Create a draft
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ### If you’re creating a new statistical data set
 
@@ -49,19 +49,19 @@ After saving the page, you can add the data set as an attachment.
 
 You can now edit the attachments.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Add or edit attachments
 
-{% include "reusable-content/add-attachments-markdown-1.md" %}
+{% include 'reusable-content/add-attachments-markdown-1.md' %}
 
 ### If you’re adding new attachments
 
-{% include "reusable-content/add-attachments-markdown-2.md" %}
+{% include 'reusable-content/add-attachments-markdown-2.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to organisations
 
@@ -71,22 +71,22 @@ Your own organisation will be set as a lead organisation as default, but you can
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## No translations available
 
-{% include "reusable-content/add-translations-no-translation.md" %}
+{% include 'reusable-content/add-translations-no-translation.md' %}
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

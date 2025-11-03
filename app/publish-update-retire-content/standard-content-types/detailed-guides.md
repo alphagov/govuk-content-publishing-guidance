@@ -50,15 +50,15 @@ After saving the page, you can add attachments and images.
 
 You can now edit the attachments and images.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Add or edit attachments
 
-{% include "reusable-content/add-attachments-markdown-1.md" %}
+{% include 'reusable-content/add-attachments-markdown-1.md' %}
 
 ### If you’re adding new attachments
 
-{% include "reusable-content/add-attachments-markdown-2.md" %}
+{% include 'reusable-content/add-attachments-markdown-2.md' %}
 
 ## Add or remove images
 
@@ -66,11 +66,11 @@ You can now edit the attachments and images.
 
 ## Add or remove contact details
 
-{% include "reusable-content/add-contacts.md" %}
+{% include 'reusable-content/add-contacts.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to related mainstream content
 
@@ -87,36 +87,36 @@ If it’s mainstream content with multiple chapters, you can only link to the fi
 
 ## Add or remove tags to organisations and events
 
-{% include "reusable-content/associations-introduction.md" %}
+{% include 'reusable-content/associations-introduction.md' %}
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
 ### Add a new translation
 
-{% include "reusable-content/add-translations-current-draft-1.md" %}
+{% include 'reusable-content/add-translations-current-draft-1.md' %}
 
 ### Edit an existing translation
 
-{% include "reusable-content/add-translations-current-draft-2.md" %}
+{% include 'reusable-content/add-translations-current-draft-2.md' %}
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

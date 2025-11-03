@@ -29,7 +29,7 @@ Do not use it for:
 - statements made to the media – use the [news article content type](LINK) instead
 - publishing a statement to Parliament as a matter of record – that’s already done in the [Hansard records](https://hansard.parliament.uk/)
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ## Choose the right type of speech
 
@@ -79,7 +79,7 @@ If you’re correcting an error:
 
 You can now edit the images.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Add or remove images
 
@@ -93,29 +93,29 @@ Update their photo on their people page if it needs changing.
 
 ## Attachments
 
-{% include "reusable-content/add-attachments-not-available.md" %}
+{% include 'reusable-content/add-attachments-not-available.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to organisations and events
 
-{% include "reusable-content/associations-introduction.md" %} 
+{% include 'reusable-content/associations-introduction.md' %} 
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-world.md" %}
+{% include 'reusable-content/associations-world.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
@@ -141,10 +141,10 @@ If you do want to add a translation:
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

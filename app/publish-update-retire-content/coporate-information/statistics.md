@@ -13,6 +13,6 @@ Use this page if you want to list your statistics collection. You can also link 
 
 If you create a ‘Statistics at [organisation]’ page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 View [a good example of a ‘Statistics at’ page](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics). 

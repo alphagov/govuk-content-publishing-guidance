@@ -39,7 +39,7 @@ Give a 1 or 2 month period when the statistics will be released. You must give a
 
 Do not create or modify statistics announcements unless you have permission from your organisation’s Head of Profession for Statistics.
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 All content should follow the [GOV.UK style guide](LINK). Read the [tone of voice guidelines](LINK) to find out how to write your title and summary.
 
@@ -88,19 +88,19 @@ You can tag your content under the body field. You do this by adding or removing
 
 These associations include:
 
-{% include "reusable-content/associations-ministers.md" %}
+{% include 'reusable-content/associations-ministers.md' %}
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-world.md" %}
+{% include 'reusable-content/associations-world.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 - statistical data sets – use this if the publication is associated with a [statistical data set](LINK)
 
 ## Review and publish a statistics publication
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 When the statistics publication is published, the announcement will disappear from the release calendar.
 

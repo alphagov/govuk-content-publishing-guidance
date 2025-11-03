@@ -33,7 +33,7 @@ Publication pages should not include multiple documents, unless they are:
 
 Otherwise, publish the documents separately and use a [document collection](LINK) to group them together.
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ## Choose the right type of publication
 
@@ -78,7 +78,7 @@ There are different types of publications. Make sure you choose the right type, 
 7. Select ‘Limit access’ under ‘Settings’ if your draft is sensitive. This means only users from organisations tagged to the content can see it before it’s published. It will not be copied across to [Integration](LINK).
 8. Select the ‘Save’ button at the bottom of the page.
 
-{% include "reusable-content/style-formatting-extra.md" %}
+{% include 'reusable-content/style-formatting-extra.md' %}
 
 After saving the page, you can add attachments and images.
 
@@ -99,7 +99,7 @@ After saving the page, you can add attachments and images.
 
 You can now edit the attachments and images.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Add or edit attachments
 
@@ -157,23 +157,23 @@ If it’s an unnumbered act paper, fill in these fields:
 
 ## Add or remove contact details
 
-{% include "reusable-content/add-contacts.md" %}
+{% include 'reusable-content/add-contacts.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to organisations, people and events
 
-{% include "reusable-content/associations-introduction.md" %} 
+{% include 'reusable-content/associations-introduction.md' %} 
 
-{% include "reusable-content/associations-ministers.md" %}
+{% include 'reusable-content/associations-ministers.md' %}
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-world.md" %}
+{% include 'reusable-content/associations-world.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 - statistical data sets – use this if the publication is associated with a [statistical data set](LINK)
 
@@ -182,11 +182,11 @@ If it’s an unnumbered act paper, fill in these fields:
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
@@ -223,10 +223,10 @@ If you want to update the attached publication:
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

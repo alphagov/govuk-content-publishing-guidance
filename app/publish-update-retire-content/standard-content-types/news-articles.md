@@ -29,7 +29,7 @@ There are different types of news articles. Make sure you choose the right type.
 
 ## Create a draft
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ### If you’re creating a new article
 
@@ -64,7 +64,7 @@ If you’re correcting an error:
 
 You can now edit the images and attachments.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Add or remove images
 
@@ -88,42 +88,42 @@ You can add or change the default image on the relevant [organisation page](LINK
 
 ## Add or edit attachments
 
-{% include "reusable-content/add-attachments-markdown-1.md" %}
+{% include 'reusable-content/add-attachments-markdown-1.md' %}
 
 ### If you’re adding new attachments
 
-{% include "reusable-content/add-attachments-markdown-2.md" %}
+{% include 'reusable-content/add-attachments-markdown-2.md' %}
 
 ## Add or remove contact details
 
-{% include "reusable-content/add-contacts.md" %}
+{% include 'reusable-content/add-contacts.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to organisations, people and events
 
-{% include "reusable-content/associations-introduction.md" %} 
+{% include 'reusable-content/associations-introduction.md' %} 
 
-{% include "reusable-content/associations-ministers.md" %}
+{% include 'reusable-content/associations-ministers.md' %}
 
-{% include "reusable-content/associations-world.md" %}
+{% include 'reusable-content/associations-world.md' %}
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 > [!NOTE]
 > If you’re creating a world news story, you cannot tag it to a minister or a lead or supporting organisation, but you must tag it to a worldwide organisation.
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
@@ -133,19 +133,19 @@ Otherwise, you need to have an English version and then a translation.
 
 ### Add a new translation
 
-{% include "reusable-content/add-translations-current-draft-1.md" %}
+{% include 'reusable-content/add-translations-current-draft-1.md' %}
 
 ### Edit an existing translation
 
-{% include "reusable-content/add-translations-current-draft-2.md" %}
+{% include 'reusable-content/add-translations-current-draft-2.md' %}
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service
 

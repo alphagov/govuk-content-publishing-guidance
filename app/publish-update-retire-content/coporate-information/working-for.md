@@ -19,6 +19,6 @@ Use a ‘Working for’ page to describe:
 
 If you create a ‘Working for’ page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 View [a good example of a ‘Working for’ page](https://www.gov.uk/government/organisations/environment-agency/about/recruitment).

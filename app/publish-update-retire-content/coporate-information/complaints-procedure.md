@@ -21,7 +21,7 @@ Do not use it to:
 
 If you create a complaints procedure page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 ## What to include
 

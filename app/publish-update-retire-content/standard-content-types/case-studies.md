@@ -34,7 +34,7 @@ Remember, most users just want practical guidance. Case studies can make it hard
 
 ## Create a draft
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ### If you’re creating a new case study
 
@@ -47,7 +47,7 @@ Remember, most users just want practical guidance. Case studies can make it hard
 5. Select ‘Limit access’ under ‘Settings’ if your draft is sensitive. This means only users from organisations tagged to the content can see it before it’s published. It will not be copied across to [Integration](LINK).
 6. Select the ‘Save’ button at the bottom of the page.
 
-{% include "reusable-content/style-formatting-extra.md" %}
+{% include 'reusable-content/style-formatting-extra.md' %}
 
 After saving the page, you can add images and attachments.
 
@@ -63,7 +63,7 @@ After saving the page, you can add images and attachments.
 8. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under ‘Do users have to know the content has changed?’, and add your change notes if needed (you can edit them again before you publish the draft).
 9. Select the ‘Save’ button at the bottom of the page.
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 You can now edit the images and attachments.
 
@@ -89,41 +89,41 @@ If you want to remove the lead image completely, select ‘Remove lead image’.
 
 ## Add or edit attachments
 
-{% include "reusable-content/add-attachments-markdown-1.md" %}
+{% include 'reusable-content/add-attachments-markdown-1.md' %}
 
 ### If you’re adding new attachments
 
-{% include "reusable-content/add-attachments-markdown-2.md" %}
+{% include 'reusable-content/add-attachments-markdown-2.md' %}
 
 ## Add or remove contact details
 
-{% include "reusable-content/add-contacts.md" %}
+{% include 'reusable-content/add-contacts.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to organisations
 
-{% include "reusable-content/associations-introduction.md" %}
+{% include 'reusable-content/associations-introduction.md' %}
 
 - world organisations and locations – use this if you work for the Foreign, Commonwealth and Development Office (FCDO) and you want the case study to appear on [a worldwide organisation page or a world location news page](LINK)
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
 ### Add a new translation
 
-{% include "reusable-content/add-translations-current-draft-1.md" %}
+{% include 'reusable-content/add-translations-current-draft-1.md' %}
 
 ### Edit an existing translation
 
@@ -140,10 +140,10 @@ If you want to update an attachment:
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

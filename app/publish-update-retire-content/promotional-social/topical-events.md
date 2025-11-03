@@ -29,7 +29,7 @@ Do not use for:
 * events which can be reasonably covered by a lead news story on a departmental homepage (although news stories may develop into topical event pages following additional content generation or increased public interest)
 * influencing behaviour change – this is the role of [campaign sites](LINK)
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
 ## Get approval to create a new topical event page
 

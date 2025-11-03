@@ -23,6 +23,6 @@ For general information about your services use the services and guidance links 
 
 If you create an ‘About our services’ page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 View [a good example of an ‘About our services’ page](https://www.gov.uk/government/organisations/government-property-agency/about/about-our-services). 

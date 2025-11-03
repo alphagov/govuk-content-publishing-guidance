@@ -20,7 +20,7 @@ Do not use it for guidance or general information about equality and diversity.
 
 If you create an equality and diversity page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 ## What to include
 

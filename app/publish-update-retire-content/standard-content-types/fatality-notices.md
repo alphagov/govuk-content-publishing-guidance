@@ -63,38 +63,38 @@ There’s a default image that appears on every fatality notice before the body 
 
 ## Attachments
 
-{% include "reusable-content/add-attachments-not-available.md" %}
+{% include 'reusable-content/add-attachments-not-available.md' %}
 
 ## Change the ‘first published date’
 
-{% include "reusable-content/change-first-published.md" %}
+{% include 'reusable-content/change-first-published.md' %}
 
 ## Add or remove tags to ministers and organisations
 
-{% include "reusable-content/associations-introduction.md" %}
+{% include 'reusable-content/associations-introduction.md' %}
 
-{% include "reusable-content/associations-ministers.md" %}
+{% include 'reusable-content/associations-ministers.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Translations
 
-{% include "reusable-content/add-translations-no-translation.md" %}
+{% include 'reusable-content/add-translations-no-translation.md' %}
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service

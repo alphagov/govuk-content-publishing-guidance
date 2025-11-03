@@ -26,7 +26,7 @@ Do not use them for:
 
 If you create an ‘Our governance’ or ‘Memberships’ page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 ## What to include 
 

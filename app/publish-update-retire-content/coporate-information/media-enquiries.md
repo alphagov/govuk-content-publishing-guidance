@@ -15,7 +15,7 @@ Do not add a media enquiries page if you only have one or two contact numbers fo
 
 If you create a media enquiries page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
 
-{% include "reusable-content/corporate-info-style-tone.md" %}
+{% include 'reusable-content/corporate-info-style-tone.md' %}
 
 ## What to include
 

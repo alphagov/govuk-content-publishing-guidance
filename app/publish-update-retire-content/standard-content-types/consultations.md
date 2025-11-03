@@ -41,9 +41,9 @@ Do not add any more information or attachments to the page after the government 
 
 ## Create a draft
 
-{% include "reusable-content/signon-account-whitehall.md" %}
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
-{% include "reusable-content/remove-history-mode.md" %}
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ### If you’re creating a new consultation
 
@@ -61,7 +61,7 @@ Do not add any more information or attachments to the page after the government 
 12. Select ‘Limit access’ under ‘Settings’ if your draft is sensitive. This means only users from organisations tagged to the content can see it before it’s published. It will not be copied across to [Integration](LINK).
 13. Select the ‘Save’ button at the bottom of the page.
 
-{% include "reusable-content/style-formatting-extra.md" %}
+{% include 'reusable-content/style-formatting-extra.md' %}
 
 Once that’s done, you can add the consultation documents as attachments.
 
@@ -151,21 +151,21 @@ Do not attach any documents that will be relevant after the consultation is clos
 
 ## Add or remove tags to organisations, people and events
 
-{% include "reusable-content/associations-introduction.md" %} 
+{% include 'reusable-content/associations-introduction.md' %} 
 
-{% include "reusable-content/associations-ministers.md" %}
+{% include 'reusable-content/associations-ministers.md' %}
 
-{% include "reusable-content/associations-topical.md" %}
+{% include 'reusable-content/associations-topical.md' %}
 
-{% include "reusable-content/associations-organisations.md" %}
+{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 
-{% include "reusable-content/update-settings-attachments.md" %}
+{% include 'reusable-content/update-settings-attachments.md' %}
 
 ## Add or remove topic tags
 
-{% include "reusable-content/add-remove-topic-tags.md" %}
+{% include 'reusable-content/add-remove-topic-tags.md' %}
 
 ## Add or edit translations
 
@@ -181,14 +181,14 @@ Repeat the steps to link the English version to the foreign language version. If
 
 ### Edit an existing translation
 
-{% include "reusable-content/add-translations-new-draft.md" %}
+{% include 'reusable-content/add-translations-new-draft.md' %}
 
 ## Update the URL
 
-{% include "reusable-content/update-url.md" %}
+{% include 'reusable-content/update-url.md' %}
 
 ## Publish the draft
 
-{% include "reusable-content/publish-draft.md" %}
+{% include 'reusable-content/publish-draft.md' %}
 
 *[GDS]: Government Digital Service
