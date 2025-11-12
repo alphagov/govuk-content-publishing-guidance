@@ -22,7 +22,7 @@ gridItems:
     description: Find out more about the new GOV.UK content and publishing guidance.
     linktext: Read more about the guidance
     url: /about-the-guidance
-additionalInfo:
-  - title:
-    content:
+#additionalInfo:
+#  - title: Title
+#    content: Content
 ---
