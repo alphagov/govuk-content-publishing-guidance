@@ -5,10 +5,6 @@
 <div class="x-govuk-masthead x-govuk-masthead--inverse">
   <div class="govuk-width-container">
     {% include "layouts/shared/phase-banner.njk" %}
-      {{ govukBreadcrumbs({
-    classes: "govuk-breadcrumbs--inverse govuk-!-display-none-print",
-    items: breadcrumbItems
-  }) if showBreadcrumbs }}
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds-from-desktop">
         {% if customPageTitle %}
@@ -35,7 +31,7 @@
         {% block content %}
         
           {% if whatsNew and whatsNewDate %}
-            <section class="app-whatsNew">
+            <section>
               <h2 class="govuk-heading-l">What's new</h2>
               <h3 class="govuk-heading-s">{{ whatsNewDate }}{% if whatsNewHeadline %}: {{ whatsNewHeadline }}{% endif %}</p>
               <p class="govuk-body">{{ whatsNew | markdown }}</p>
@@ -44,7 +40,7 @@
           {% endif %}
 
           {% if gridItems %}
-            <section class="app-items">
+            <section>
             <h2 class="govuk-heading-l">Featured</h2>
               <div class="govuk-grid-row">
                 {% for item in gridItems %}

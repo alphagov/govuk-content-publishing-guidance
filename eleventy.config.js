@@ -46,7 +46,7 @@ export default function(eleventyConfig) {
 
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
-    homeKey: 'GOV.UK Content and publishing guidance',
+    homeKey: 'Home',
     titleSuffix: 'Content and publishing guidance - GOV.UK',
     showBreadcrumbs: true,
     stylesheets: [
@@ -55,7 +55,7 @@ export default function(eleventyConfig) {
     header: {
       productName: 'Content and publishing guidance',
       search: {
-        indexPath: '/search.json',
+        indexPath: '/search-index.json',
         sitemapPath: '/sitemap',
         label: "Search guidance"
       }
@@ -90,6 +90,9 @@ export default function(eleventyConfig) {
         ],
         html: 'Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service" class="govuk-footer__link">Government Digital Service</a>.',
       }
+    },
+    templates: {
+      searchIndex: true,
     }
   });
   eleventyConfig.addPreprocessor("macro-inject", ".njk,.md", (data, content) => {

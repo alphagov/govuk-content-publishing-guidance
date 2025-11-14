@@ -4,6 +4,7 @@ layout: homepage
 title: Home
 customPageTitle: Guidance and good practice for publishers on GOV.UK
 description: Find guidance about how to write to GOV.UK standards, use publishing applications and how to request support.
+includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 
@@ -22,7 +23,7 @@ gridItems:
     description: Find out more about the new GOV.UK content and publishing guidance.
     linktext: Read more about the guidance
     url: /about-the-guidance
-additionalInfo:
-  - title:
-    content:
+#additionalInfo:
+#  - title: Title
+#    content: Content
 ---
