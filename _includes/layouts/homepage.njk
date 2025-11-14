@@ -5,10 +5,6 @@
 <div class="x-govuk-masthead x-govuk-masthead--inverse">
   <div class="govuk-width-container">
     {% include "layouts/shared/phase-banner.njk" %}
-      {{ govukBreadcrumbs({
-    classes: "govuk-breadcrumbs--inverse govuk-!-display-none-print",
-    items: breadcrumbItems
-  }) if showBreadcrumbs }}
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds-from-desktop">
         {% if customPageTitle %}
