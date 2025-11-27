@@ -1,0 +1,11 @@
+<div class="govuk-grid-column-three-quarters-from-desktop" id="content">
+      {% if title %}
+  <header class="doc-header">
+    {% if eleventyNavigation.parent != options.homeKey %}
+      <span class="govuk-caption-xl">{% if eleventyNavigation.parent != options.homeKey %}{{ eleventyNavigation.parent }}{% endif %}</span>
+    {% endif %}
+    <h1 class="doc-header__title govuk-heading-xl">
+      {{ title | smart }}
+    </h1>
+  </header>
+{% endif %}
