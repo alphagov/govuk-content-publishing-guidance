@@ -16,7 +16,7 @@ class SearchTracker extends Component {
   constructor($root) {
     super($root)
 
-    this.siteSearch = this.$root.querySelector('site-search')
+    this.siteSearch = this.$root.querySelector('app-search')
 
     this.inputDebounceTimer = null
     this.siteSearch.addEventListener("input", this.trackSearch.bind(this))
@@ -38,7 +38,7 @@ class SearchTracker extends Component {
     clearTimeout(this.inputDebounceTimer)
 
     this.inputDebounceTimer = setTimeout(() => {
-      const searchResults = this.siteSearch.querySelectorAll('#app-site-search__input__listbox li');
+      const searchResults = this.siteSearch.querySelectorAll('#app-search__input__listbox li');
 
       addToDataLayer({
         event: "event_data",
@@ -57,9 +57,9 @@ class SearchTracker extends Component {
   // based on the search tracking from alphagov#govuk-design-system
   // https://github.com/alphagov/govuk-design-system/blob/main/src/javascripts/components/search.tracking.mjs
   trackConfirm({ target }) {
-    if (target.closest(".app-site-search__option")) {
+    if (target.closest(".app-search__option")) {
       const searchTerm = this.siteSearch.querySelector('input').value
-      const searchResults = this.siteSearch.querySelectorAll('#app-site-search__input__listbox li')
+      const searchResults = this.siteSearch.querySelectorAll('#app-search__input__listbox li')
       this.trackSearchInteraction(searchTerm, this.formatResults(searchTerm, [...searchResults]), target.childNodes[0].nodeValue)
     }
   }
