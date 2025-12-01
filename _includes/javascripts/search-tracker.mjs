@@ -25,7 +25,7 @@ class SearchTracker extends Component {
 
   formatResults (item_list_name, results) {
     return results.map((searchResult, index) => ({
-      item_name: searchResult.childNodes[0].nodeValue,
+      item_name: searchResult.childNodes[0].innerText,
       item_list_name,
       index: `${index}`,
     }))
@@ -60,7 +60,7 @@ class SearchTracker extends Component {
     if (target.closest(".app-search__option")) {
       const searchTerm = this.siteSearch.querySelector('input').value
       const searchResults = this.siteSearch.querySelectorAll('#app-search__input__listbox li')
-      this.trackSearchInteraction(searchTerm, this.formatResults(searchTerm, [...searchResults]), target.childNodes[0].nodeValue)
+      this.trackSearchInteraction(searchTerm, this.formatResults(searchTerm, [...searchResults]), target.childNodes[0].innerText)
     }
   }
 
