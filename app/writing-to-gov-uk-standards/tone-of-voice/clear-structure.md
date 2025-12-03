@@ -27,7 +27,7 @@ You can then taper down to smaller and smaller details as your content goes on. 
 
 ## Break up the text with headings
 
-The page title will be an H1 (heading level 1), so you can use H2s, H3s and H4s in your content. Read about [how to format headings](link tbc).
+The page title will be an H1 (heading level 1), so you can use H2s, H3s and H4s in your content. Read about [how to format headings](/formatting-content/text-formatting/headings/).
 
 Write headings that are:
 

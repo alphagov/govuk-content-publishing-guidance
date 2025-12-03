@@ -1,0 +1,34 @@
+---
+layout: landing-page
+sectionKey: Formatting content
+eleventyNavigation:
+  parent: Text formatting
+  order: 2
+title: Addresses
+description: Add addresses to GOV.UK content with Govspeak Markdown code.
+lastUpdated:
+---
+
+For addresses, use the code $A above and below the address text.
+
+For example:
+```
+$A
+10 Downing Street
+London
+SW1A 2AA
+$A
+```
+
+Looks like this:
+
+
+$A
+10 Downing Street
+London
+SW1A 2AA
+$A
+
+Do not use bold for the address title. This is not accessible because it looks like a heading and can be confusing for users of assistive technology.
+
+See the ‘Addresses in the UK’ section of the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for more information on writing addresses.

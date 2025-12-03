@@ -36,7 +36,7 @@ In these cases, check with a director in your department.
 
 ### Asking for updates to mainstream content
 
-You can [ask the Government Digital Service (GDS)](LINK) to publish small, factual changes during the pre-election period. That could include updates to:
+You can [ask the Government Digital Service (GDS)](link tbc) to publish small, factual changes during the pre-election period. That could include updates to:
 
 + change an address or phone number
 + fix something that’s stopping users completing a task
@@ -45,7 +45,7 @@ If you want to publish bigger changes during the pre-election period, get approv
 
 ## Preparing for history mode
 
-If the government changes after a general election, [history mode](LINK) could be activated.
+If the government changes after a general election, [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) could be activated.
 
 If you’re in one of the organisations that could be affected by history mode, you’ll be contacted by GDS.
 

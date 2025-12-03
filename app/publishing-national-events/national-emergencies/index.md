@@ -8,6 +8,7 @@ title: National emergencies
 description: Understand the process for publishing on GOV.UK during a national emergency.
 lastUpdated:
 ---
+
 The government will use GOV.UK to publish information for the public in the event of a national emergency.
 
 ## Who is involved
@@ -37,7 +38,7 @@ The co-ordinator should then work through the following steps:
 
 The government will promote a single page on GOV.UK as the destination for users who need information about the emergency.
 
-It should start with important information for the public, and then link out to more detailed information. The [Woolwich newsroom article](/government/news/woolwich-incident-government-response) is a good example of this.
+It should start with important information for the public, and then link out to more detailed information. The [Woolwich newsroom article](https://www.gov.uk/government/news/woolwich-incident-government-response) is a good example of this.
 
 A link to the destination page should be given to the news media.
 
@@ -45,10 +46,10 @@ A link to the destination page should be given to the news media.
 
 The co-ordinator from the lead agency needs to publish the page in Whitehall Publisher.
 
-Typically the page will use the [news article type](LINK), but this is flexible. For example, a co-ordinator could use:
+Typically the page will use the [news article type](link tbc), but this is flexible. For example, a co-ordinator could use:
 
-- a [topical event page](LINK) (this requires GDS approval)
-- a [travel advice page](LINK), in the case of an overseas crisis
+- a [topical event page](link tbc) (this requires GDS approval)
+- a [travel advice page](link tbc), in the case of an overseas crisis
 - an existing guide, in the case of a farming crisis
 
 The page’s title should include keywords specific to the incident, but be broad enough to allow for updates, for example:
@@ -75,7 +76,7 @@ Only do this if the emergency poses an immediate risk to life and demands immedi
 
 The co-ordinator in the lead agency needs to call the GDS emergency phone number.
 
-They can find the phone number under ‘Update GOV.UK following a national emergency’ on the [emergency contact details page](https://support.publishing.service.gov.uk/emergency-contact-details). They need a [Signon account](LINK) to access that page.
+They can find the phone number under ‘Update GOV.UK following a national emergency’ on the [emergency contact details page](https://support.publishing.service.gov.uk/emergency-contact-details). They need a [Signon account](link tbc) to access that page.
 
 GDS will confirm their identity and verify that the emergency is of an appropriate scale to deploy the GOV.UK emergency homepage.
 

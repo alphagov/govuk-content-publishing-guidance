@@ -13,7 +13,7 @@ Royal deaths (also known as ‘bridges’ or ‘bridge events’) can affect pub
 
 You’ll be told by the Government Digital Service (GDS) if a bridge event has begun. They’ll send messages:
 
-- on the [content community Basecamp](link to guidance on joining Basecamp) 
+- on the [content community Basecamp](link tbc) 
 - through emails to your GOV.UK lead
 
 ## Publishing on GOV.UK

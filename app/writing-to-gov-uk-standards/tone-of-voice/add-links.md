@@ -8,7 +8,7 @@ title: Add links to content
 description: Learn how to use links in GOV.UK content, including writing clear link text and using anchor links.
 lastUpdated:
 ---
-You can add links to body text, but not in titles, summaries or subheadings. Read about [how to format links](link tbc).
+You can add links to body text, but not in titles, summaries or subheadings. Read about [how to format links](/formatting-content/text-formatting/links/).
 
 ## Choose which links to use
 
