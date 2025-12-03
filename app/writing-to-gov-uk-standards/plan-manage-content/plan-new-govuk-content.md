@@ -91,11 +91,11 @@ If you’re creating guidance to help users prepare for an upcoming change, [rea
 
 Depending on what’s in your content, you should also read guidance on:
 
-+ [formatting text](link tbc), including adding headings, bullet points and addresses
-+ [adding attachments](link tbc)
-+ [adding tables](link tbc)
-+ [adding images](link tbc)
-+ [adding videos](link tbc)
++ [formatting text](/formatting-content/text-formatting/), including adding headings, bullet points and addresses
++ [adding attachments](/formatting-content/attachments/)
++ [adding tables](/formatting-content/text-formatting/tables/)
++ [adding images](/formatting-content/images-videos/formatting-images/)
++ [adding videos](/formatting-content/images-videos/formatting-videos/)
 
 All this guidance will tell you how to make your content accessible.
 
@@ -144,7 +144,7 @@ You should make sure:
 + the user need is met in one place only on GOV.UK – do not publish additional guidance that acts as a separate landing page for communications activity
 + campaign platform sites do not include any task-focused guidance – campaign sites should focus on attitude, perception or behaviour change, not on what users must do
 
-In the case of major national emergencies such as coronavirus (COVID-19), there might also be [limited campaign activity directly on GOV.UK](link tbc). This must not, however, compete with or duplicate existing guidance content.
+In the case of major national emergencies such as coronavirus (COVID-19), there might also be [limited campaign activity directly on GOV.UK](/publishing-national-events/national-emergencies/). This must not, however, compete with or duplicate existing guidance content.
 
 ### Contact affected users directly
 
