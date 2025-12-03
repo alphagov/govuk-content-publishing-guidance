@@ -190,11 +190,7 @@ The 3 different types of fruit are row headers, and Alice and Ben are column hea
 `|# Bananas | 2 | 3 |`
 `|# Pears | 0 | 0 |`
 
-| | Alice | Ben |
-|---|---|---|
-| **Apples** | 0 | 3 |
-| **Bananas** | 2 | 3 |
-| **Pears** | 0 | 0 |
+![Screenshot of how the table using the example 1 markdown would appear on GOV.UK](/app/assets/images/accessible_content_table_example1.svg)
 
 #### Example 2
 
@@ -206,11 +202,7 @@ The 3 different types of fruit are row headers, and Alice and Ben are column hea
 `|# 31-42 | Grade B | You’ll stay on the approved driving instructors (ADI) register |`
 `|# 43-51 | Grade A | You have shown a high standard of instruction and you’ll stay on the ADI register |`
 
-| Total score | Grade | Description| 
-|---------|---------|---------|
-| **0-30** | Fail | Your performance is unsatisfactory |
-| **31-42** | Grade B | You’ll stay on the approved driving instructors (ADI) register |
-| **43-51** | Grade A | You have shown a high standard of instruction and you’ll stay on the ADI register |
+![Screenshot of how the table using the example 2 markdown would appear on GOV.UK](/app/assets/images/accessible_content_table_example2.svg)
 
 ## Titles
 

@@ -59,13 +59,7 @@ If your table has more than one heading row or column, try to break it down into
 
 For example, the table below shows information about livestock over 2 periods, from 2021 to 2022 and from 2022 to 2023.
 
-| |2022-23|||2021-2022|||
-| | Feed cost | Newborns | Profit|Feed cost | Newborns | Profit|
-|---|---|---|---|---|---|---|
-| # Cows | 3500| 20 | 5%|3000| 15 | 25%| 
-| # Pigs | 1500 | 7 | 3%| 750 | 5 | 6%| 
-| # Sheep | 150 | 50 | 20%| 100 | 35 | 15%|
-
+![Screenshot of a table showing livestock information with 2 heading rows.](/app/assets/images/table_two_heading_rows.svg)
 
 There are 2 heading rows in this table – one for the years and one for the feed cost, newborns and profit. A screen reader will not be able to understand which of the column headings refers to which year group.
 
