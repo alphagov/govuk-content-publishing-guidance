@@ -23,7 +23,7 @@ No hyphen. Lower case level.
 
 The first time you use an abbreviation or acronym, explain it in full on each page unless it’s well known, like UK, DVLA, USA, EU, VAT and MP. This includes government departments or schemes. Then refer to it by initials.
 
-Always use [acronym Markdown](link tbc) so the full explanation is available as hover text.
+Always use [acronym Markdown](/formatting-content/text-formatting/acronyms/) so the full explanation is available as hover text.
 
 If you think an acronym is well known, please provide evidence that 80% of the UK population will understand and commonly use it. Evidence can be from search analytics or testing of a representative sample.
 
@@ -265,8 +265,8 @@ Do not use bold in other situations, for example to emphasise text.
 To emphasise words or phrases, you can:
 
 - front-load sentences
-- [use headings](link tbc)
-- [use bullet points](link tbc)
+- [use headings](/formatting-content/text-formatting/headings/)
+- [use bullet points](/formatting-content/text-formatting/bullets/)
 
 ### Brackets
 
@@ -337,7 +337,9 @@ The number and type of examples in a list may lead the user to believe the list 
 
 #### Steps
 
-Use numbered steps instead of bullet points to guide a user through a process. You do not need a lead-in line and you can use links and downloads (with [appropriate Markdown](link tbc)) in steps. Steps end in a full stop because each should be a complete sentence.
+Use numbered steps instead of bullet points to guide a user through a process. You do not need a lead-in line and you can use links and [attachments (with appropriate Markdown)](/formatting-content/attachments/) in steps. 
+
+Steps end in a full stop because each should be a complete sentence.
 
 ### business continuity management	
 
@@ -2121,7 +2123,7 @@ Use double quotes in body text for direct quotations.
 
 ####  Block quotes
 
-Use the [block quote Markdown](link tbc) for quotes longer than a few sentences.
+Use the [block quote Markdown](/formatting-content/text-formatting/blockquotes/) for quotes longer than a few sentences.
 
 {% include "layouts/shared/back-to-top.njk" %}
 

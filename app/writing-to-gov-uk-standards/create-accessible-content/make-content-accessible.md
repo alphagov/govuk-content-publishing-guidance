@@ -8,6 +8,9 @@ title: Make your content accessible
 description: Find out how to create GOV.UK content that follows the accessibility regulations.
 lastUpdated:
 ---
+
+[[toc]]
+
 Anything published on GOV.UK needs to meet accessibility requirements set out in regulations. 
 
 This page is a ‘how to’ for ensuring the accessibility of the different types of content formatting. It’s not a breakdown of the accessibility regulations and guidelines. That’s covered in the guidance on [understanding accessibility](/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/). 
@@ -184,21 +187,47 @@ If your table also has a row header, use the # header Markdown. The row headers 
 
 The 3 different types of fruit are row headers, and Alice and Ben are column headers. The first row and the first column are marked as headers. As the row headers do not need a column header, the first cell is empty.
 
+The markdown would look like this:
+
 `| | Alice | Ben |`
 `|---|---|---|`
 `|# Apples | 0 | 3 |`
 `|# Bananas | 2 | 3 |`
 `|# Pears | 0 | 0 |`
 
-| | Alice | Ben |
-|---|---|---|
-| **Apples** | 0 | 3 |
-| **Bananas** | 2 | 3 |
-| **Pears** | 0 | 0 |
+It would look like this on GOV.UK:
+
+<table class="govuk-table">
+  <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+      <th scope="col" class="govuk-table__header"> </th>
+      <th scope="col" class="govuk-table__header">Alice</th>
+      <th scope="col" class="govuk-table__header">Ben</th>
+    </tr>
+  <tbody class="govuk-table__body">
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Apples</th>
+      <td class="govuk-table__cell">0</td>
+      <td class="govuk-table__cell">3</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Bananas</th>
+      <td class="govuk-table__cell">2</td>
+      <td class="govuk-table__cell">3</td>
+    </tr>
+        <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Pears</th>
+      <td class="govuk-table__cell">0</td>
+      <td class="govuk-table__cell">0</td>
+    </tr>
+ </tbody>
+</table>
 
 #### Example 2
 
 ‘Total score’ is the column header for the row headers. In this example, the top left cell is not empty as the row headers need a column header.
+
+The markdown would look like this:
 
 `| Total score | Grade | Description|`
 `|---------|---------|---------|`
@@ -206,11 +235,34 @@ The 3 different types of fruit are row headers, and Alice and Ben are column hea
 `|# 31-42 | Grade B | You’ll stay on the approved driving instructors (ADI) register |`
 `|# 43-51 | Grade A | You have shown a high standard of instruction and you’ll stay on the ADI register |`
 
-| Total score | Grade | Description| 
-|---------|---------|---------|
-| **0-30** | Fail | Your performance is unsatisfactory |
-| **31-42** | Grade B | You’ll stay on the approved driving instructors (ADI) register |
-| **43-51** | Grade A | You have shown a high standard of instruction and you’ll stay on the ADI register |
+
+It would look like this on GOV.UK:
+
+<table class="govuk-table">
+  <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+      <th scope="col" class="govuk-table__header">Total score</th>
+      <th scope="col" class="govuk-table__header">Grade</th>
+      <th scope="col" class="govuk-table__header">Description</th>
+    </tr>
+  <tbody class="govuk-table__body">
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">0-30</th>
+      <td class="govuk-table__cell">Fail</td>
+      <td class="govuk-table__cell">Your performance is unsatisfactory</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">31-42</th>
+      <td class="govuk-table__cell">Grade B</td>
+      <td class="govuk-table__cell">You'll stay on the approved driving instructors (ADI) register</td>
+    </tr>
+        <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">43-51</th>
+      <td class="govuk-table__cell">Grade A</td>
+      <td class="govuk-table__cell">You have shown a high standard of instruction and you'll stay on the ADI register</td>
+    </tr>
+ </tbody>
+</table>
 
 ## Titles
 

@@ -67,8 +67,12 @@ export default function(eleventyConfig) {
             href: "/writing-to-gov-uk-standards"
         },
         {   
-            text: "Publishing during national events",
-            href: "/publishing-national-events"
+          text: "Formatting content",
+          href: "/formatting-content"
+        },
+        {
+          text: "Publishing during national events",
+          href: "/publishing-national-events"  
         },
       ]
     },
