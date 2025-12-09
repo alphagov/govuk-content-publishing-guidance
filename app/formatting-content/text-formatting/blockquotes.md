@@ -25,3 +25,7 @@ For example:
 >
 > This is the second line.
 ```
+Looks like this:
+> This is the first line of the blockquote.
+>
+> This is the second line.

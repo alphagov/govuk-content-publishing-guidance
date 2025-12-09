@@ -57,15 +57,65 @@ You should avoid publishing complex tables.
 
 If your table has more than one heading row or column, try to break it down into smaller tables. If you cannot break it down, make sure that the headings in your single heading row or column are descriptive and unique.
 
-For example, the table below shows information about livestock over 2 periods, from 2021 to 2022 and from 2022 to 2023.
+For example, this table shows information about livestock over 2 periods, from 2021 to 2022 and from 2022 to 2023.
 
-![Screenshot of a table showing livestock information with 2 heading rows.](/app/assets/images/table_two_heading_rows.svg)
+<table class="govuk-table">
+  <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+      <th scope="col" class="govuk-table__header"></th>
+      <th scope="col" class="govuk-table__header">2022-2023</th>
+      <th scope="col" class="govuk-table__header"></th>
+      <th scope="col" class="govuk-table__header"></th>
+      <th scope="col" class="govuk-table__header">2021-2022</th>
+      <th scope="col" class="govuk-table__header"></th>
+      <th scope="col" class="govuk-table__header"></th>
+    </tr>
+      <tr class="govuk-table__row">
+      <th scope="col" class="govuk-table__header"></th>
+      <th scope="col" class="govuk-table__header">Feed cost</th>
+      <th scope="col" class="govuk-table__header">Newborns</th>
+      <th scope="col" class="govuk-table__header">Profit</th>
+      <th scope="col" class="govuk-table__header">Feed cost</th>
+      <th scope="col" class="govuk-table__header">Newborns</th>
+      <th scope="col" class="govuk-table__header">Profit</th>
+    </tr>
+  <tbody class="govuk-table__body">
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Cows</th>
+      <td class="govuk-table__cell">3500</td>
+      <td class="govuk-table__cell">20</td>
+      <td class="govuk-table__cell">5%</td>
+      <td class="govuk-table__cell">3000</td>
+      <td class="govuk-table__cell">15</td>
+      <td class="govuk-table__cell">25%</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Pigs</th>
+      <td class="govuk-table__cell">1500</td>
+      <td class="govuk-table__cell">7</td>
+      <td class="govuk-table__cell">3%</td>
+      <td class="govuk-table__cell">750</td>
+      <td class="govuk-table__cell">5</td>
+      <td class="govuk-table__cell">6%</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Sheep</th>
+      <td class="govuk-table__cell">150</td>
+      <td class="govuk-table__cell">50</td>
+      <td class="govuk-table__cell">20%</td>
+      <td class="govuk-table__cell">100</td>
+      <td class="govuk-table__cell">35</td>
+      <td class="govuk-table__cell">15%</td>
+    </tr>
+ </tbody>
+</table>
+
 
 There are 2 heading rows in this table – one for the years and one for the feed cost, newborns and profit. A screen reader will not be able to understand which of the column headings refers to which year group.
 
 For example, a screen reader would read ‘Cows, newborns 20, cows newborns 15’ – the user would not be able to tell which year the number refers to.
 
-In this case, you could have 2 separate tables or use descriptive and unique headings as shown in the example below.
+In this case, you could have 2 separate tables or use descriptive and unique headings as shown in the next example.
 
 | | Feed cost 2022 - 23 | Newborns 2022 - 23 | Profit 2022 - 23 | Feed cost 2021 - 22 | Newborns 2021 - 22 | Profit 2021 – 22 |
 |---|---|---|---|---|---|---|
@@ -136,15 +186,14 @@ You need to:
 * add a hash (‘#’) character to text in the first column if it’s a heading – for example `|# Row 1 | item 1 | item 2 | item 3`
 * use the [link code](link tbc) to add links to the table
 
-For example, here is a table showing the number of different animals in 3 different farms.
+For example, here is the markdown for a table showing the number of different animals in 3 different farms.
 
-```
-| | Woodchurch | Moat | Jenkey |
-|--- |--- |--- |
-|# Sheep | 50 | 60 | 80| 
-|# Cows | 200 | 38 | 75|
-|# Pigs| 150 | 70 | 35|
-```
+`| | Woodchurch | Moat | Jenkey |`
+`|--- |--- |--- |`
+`|# Sheep | 50 | 60 | 80|`
+`|# Cows | 200 | 38 | 75|`
+`|# Pigs| 150 | 70 | 35|`
+
 
 > [!NOTE]
 > You can also use a [table generator](http://www.tablesgenerator.com/markdown_tables#) to convert an Excel document, Google sheet or webpage table to this code. If the first column’s cells are headings, add the hash (‘#’) character.
