@@ -11,15 +11,15 @@ lastUpdated:
 
 A publication scheme lists the classes of information that the organisation makes available. Most government organisations are required to have a publication scheme.
 
-Publication schemes follow a template set by the Information Commissioner’s Office (ICO). Use the text included in the next section and where appropriate:
+Publication schemes follow a template set by the Information Commissioner's Office (ICO). Use the text included in the next section and where appropriate:
 
-* add in your organisation’s name or acronym
+* add in your organisation's name or acronym
 * replace the links with the relevant link for your organisation (this includes links to external URLs and links to filtered search pages)
 * create documents or document collections and add links to them
 
 You can make small changes to the text and add or delete links and categories where these apply to your organisation.
 
-When you create a publication scheme, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
+When you create a publication scheme, a link to it will appear automatically in the 'Corporate information' section on your organisation and 'About us' pages.
 
 ## Publication scheme template
 
@@ -39,11 +39,11 @@ This includes:
 
 * our [organisational structure, roles and responsibilities](https://www.gov.uk/government/organisations/department-for-education) 
 * a [department organisational chart](http://reference.data.gov.uk/gov-structure/organogram/?dept=dfe) 
-* details of our ministers’ meetings with external organisations (create your own document collection to collate these and link to it)
-* details of senior staff’s meetings with external organisations (create your own document collection to collate these and link to it)
-* details of special advisers’ meetings with external organisations (create your own document collection to collate these and link to it)
+* details of our ministers' meetings with external organisations (create your own document collection to collate these and link to it)
+* details of senior staff's meetings with external organisations (create your own document collection to collate these and link to it)
+* details of special advisers' meetings with external organisations (create your own document collection to collate these and link to it)
 * information about the [organisations the department is responsible for, works in partnership with, or sponsors](https://www.gov.uk/government/organisations#department-for-education) 
-* [legislation relevant to the DfE’s functions](http://www.legislation.gov.uk/ukpga) 
+* [legislation relevant to the DfE's functions](http://www.legislation.gov.uk/ukpga) 
 * [our answers to Parliamentary Questions](http://www.parliament.uk/business/publications/)  on the Parliament website
 * [our location and contact details](https://www.gov.uk/government/organisations/department-for-education#org-contacts) 
 
@@ -58,16 +58,16 @@ This is where we publish financial information about projected and actual income
 * our capital programme (create your own document collection to collate these and link to it)
 * our spending reviews (create your own document collection or filtered search to link to it)
 * the [financial audit reports published by the National Audit Office](http://www.nao.org.uk/search/type/report/) 
-* our ministers’ allowances and expenses (create your own document collection to collate these and link to it)
-* our senior staff and board members’ allowances and expenses (create your own document collection to collate these and link to it)
+* our ministers' allowances and expenses (create your own document collection to collate these and link to it)
+* our senior staff and board members' allowances and expenses (create your own document collection to collate these and link to it)
 * our senior staff pay and grading structures (link directly to these on GOV.UK, or to relevant data.gov information)
 * our junior staff pay and grading structures (link directly to these on GOV.UK, or to relevant data.gov information)
-* our senior advisers’ salaries and salary ranges (link directly to these on GOV.UK, or to relevant data.gov information)
+* our senior advisers' salaries and salary ranges (link directly to these on GOV.UK, or to relevant data.gov information)
 * our [procurement procedures](https://www.gov.uk/government/organisations/department-for-education/about/procurement) 
 * our financial statements for projects and events (remove this if not applicable, or create a collection to collate these and link to them)
 * internal financial regulations
 
-### What our priorities are and how we’re doing
+### What our priorities are and how we're doing
 
 This category covers departmental strategies and plans, performance indicators, audits, inspections and reviews, including:
 
@@ -87,7 +87,7 @@ This category covers departmental strategies and plans, performance indicators, 
 
 This is where we publish details of our decision-making processes and records of our decisions. These include:
 
-* the department’s [major policy proposals and decisions](https://www.gov.uk/search/policy-papers-and-consultations?parent=department-for-education&content_store_document_type%5B%5D=policy_papers&organisations%5B%5D=department-for-education&order=updated-newest) 
+* the department's [major policy proposals and decisions](https://www.gov.uk/search/policy-papers-and-consultations?parent=department-for-education&content_store_document_type%5B%5D=policy_papers&organisations%5B%5D=department-for-education&order=updated-newest) 
 * our [public consultations](https://www.gov.uk/search/policy-papers-and-consultations?content_store_document_type%5B%5D=open_consultations&content_store_document_type%5B%5D=closed_consultations&keywords=&organisations%5B%5D=department-for-education) 
 * the minutes of senior-level meetings
 
@@ -96,7 +96,7 @@ This is where we publish details of our decision-making processes and records of
 This category covers our protocols, policies and procedures for providing services, and responsibilities, including:
 
 * how we conduct departmental business
-* delivering our services (possibly a single document, or create a document collection to link to - this could be combined with ‘customer service standards’, below)
+* delivering our services (possibly a single document, or create a document collection to link to - this could be combined with 'customer service standards', below)
 * [recruiting and employing staff](https://www.gov.uk/government/organisations/cabinet-office/about/recruitment) 
 * customer service standards (possibly a single publication, or create a collection of these to link to)
 * [records management and personal data policies](https://www.gov.uk/government/organisations/cabinet-office/about/personal-information-charter) 
@@ -104,14 +104,14 @@ This category covers our protocols, policies and procedures for providing servic
 
 ### Lists and registers
 
-Publish details of the department’s public registers, asset registers and disclosure logs, including:
+Publish details of the department's public registers, asset registers and disclosure logs, including:
 
 * our [public registers and registers held as public records]
-* the department’s [asset registers and information asset register] 
+* the department's [asset registers and information asset register] 
 * CCTV
-* the department’s [disclosure logs] listing all FOI requests received
+* the department's [disclosure logs] listing all FOI requests received
 * the [register of gifts] (these could be multiple links to multiple collections covering ministers, senior civil servants and special advisers separately)
-* a list of ministers’ interests in the department’s [register of interests]
+* a list of ministers' interests in the department's [register of interests]
 
 ### Services we offer (optional)
 

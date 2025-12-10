@@ -17,7 +17,7 @@ The policy should cover:
 * how accessible your documents are
 * how users can request accessible formats
 
-If you create an accessible documents policy, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
+If you create an accessible documents policy, a link to it will appear automatically in the 'Corporate information' section on your organisation and 'About us' pages.
 
 Use this [sample accessible documents policy](https://www.gov.uk/government/publications/sample-accessible-document-policy) to help you write yours. It explains what you need to cover and which forms of wording are legally required.
 

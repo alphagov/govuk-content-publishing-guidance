@@ -16,27 +16,27 @@ Corporate information pages explain different things about how a government orga
 * accessible documents policy
 * energy use
 
-When you publish a corporate information page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
+When you publish a corporate information page, a link to it will appear automatically in the 'Corporate information' section on your organisation and 'About us' pages.
 
 ## Add or edit a corporate information page
 
 To add a page:
 
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
-2. Select the ‘More’ tab.
-3. Select ‘Organisations’.
-4. Search for the organisation and select ‘View’ next to its name. 
-5. Select the ‘Pages’ tab.
-6. Select ‘Create a new corporate information page’ to add a new page.
+2. Select the 'More' tab.
+3. Select 'Organisations'.
+4. Search for the organisation and select 'View' next to its name. 
+5. Select the 'Pages' tab.
+6. Select 'Create a new corporate information page' to add a new page.
 7. Select the type of page and fill in the summary and body.
-8. When you’re happy with the content, select ‘Submit for 2nd eyes’ so another editor can review the page and publish.
+8. When you're happy with the content, select 'Submit for 2nd eyes' so another editor can review the page and publish.
 
 To edit a page:
 
-1. On your organisation page, select the ‘Pages’ tab.
-2. Select ‘view’ on the page you want to edit.
+1. On your organisation page, select the 'Pages' tab.
+2. Select 'view' on the page you want to edit.
 3. Edit the summary or body text as required.
-4. When you’re happy with the content, select ‘Submit for 2nd eyes’ so another editor can review the page and publish.
+4. When you're happy with the content, select 'Submit for 2nd eyes' so another editor can review the page and publish.
 
 ## Types of corporate information you can publish
 

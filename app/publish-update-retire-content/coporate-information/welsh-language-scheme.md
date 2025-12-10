@@ -9,11 +9,11 @@ description: Learn when and how to publish a Welsh language scheme page.
 lastUpdated:
 ---
 
-Use this page to explain the organisation’s Welsh language scheme, if it has one. 
+Use this page to explain the organisation's Welsh language scheme, if it has one. 
 
-If you create a Welsh language scheme page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
+If you create a Welsh language scheme page, a link to it will appear automatically in the 'Corporate information' section on your organisation and 'About us' pages.
 
-## What to include
+## What to include ##
 
 For the summary, use this text:
 

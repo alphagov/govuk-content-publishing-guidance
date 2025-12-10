@@ -11,7 +11,7 @@ lastUpdated:
 
 [[toc]]
 
-Campaigns are not published on GOV.UK but on separate ‘campaign.gov.uk’ campaign sites.
+Campaigns are not published on GOV.UK but on separate 'campaign.gov.uk' campaign sites.
 
 These campaign sites can be:
 
@@ -31,9 +31,9 @@ Before asking for a campaign site, think about:
 
 You should also read the guidance on what to do before you apply on the [GCS website](https://gcs.civilservice.gov.uk/guidance/marketing/how-to-set-up-a-new-government-campaign-online/).
 
-When you’re ready to create a campaign site:
+When you're ready to create a campaign site:
 
-1. Get approval for your campaign from your organisation’s head of communications. They can help with your application.
+1. Get approval for your campaign from your organisation's head of communications. They can help with your application.
 2. Ask your head of communications to submit a [campaign request form](https://support.publishing.service.gov.uk/campaign_request/new) for you.
 
 GCS will review your request. You should get a decision within 10 working days.
@@ -54,7 +54,7 @@ Is the user journey clear and coherent?
 
 Does the campaign include steps for objectives, audience insight, strategy, implementation and scoring (OASIS)? Read more about [campaign planning](https://gcs.civilservice.gov.uk/guidance/campaigns/guide-to-campaign-planning-2/).
 
-### 3. GOV.UK 
+### 3. GOV.UK
 
 Would it be better to link to existing GOV.UK content?
 
@@ -66,7 +66,7 @@ Does it link to a service on GOV.UK? If it does, make sure you link directly to 
 
 Does it link to an external site? If so, you must follow the [guidance on linking to non-GOV.UK websites](/writing-to-gov-uk-standards/tone-of-voice/add-links/).
 
-### 4. Alternatives 
+### 4. Alternatives
 
 If not suitable for a GOV.UK campaign platform site, could the aim be achieved using partner sites?
 
@@ -103,19 +103,19 @@ Your department's communications team is responsible for campaign sites. But inv
 The campaign owner will be responsible for:
 
 * ensuring the campaign site does not duplicate information already on GOV.UK
-* setting an end date for the campaign, if it’s a rolling campaign, set a review date 
+* setting an end date for the campaign, if it's a rolling campaign, set a review date 
 * helping and training people to publish to the campaign platform
 * ensuring content follows the [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/)
 * making sure the site follows the [design principles](https://www.gov.uk/design-principles)
-* evaluating the campaign’s performance using Google Analytics and other available data
+* evaluating the campaign's performance using Google Analytics and other available data
 * submitting your analytics and statistics to GCS at regular intervals
 * ensuring the content meets [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG/) standards - see [accessibility on GOV.UK](https://www.gov.uk/help/accessibility) 
 
 GCS will:
 
 * manage campaign requests 
-* assess your site and decide if it’s suitable to go public
-* review your sites six months after it’s live
+* assess your site and decide if it's suitable to go public
+* review your sites six months after it's live
 
 GDS will:
 

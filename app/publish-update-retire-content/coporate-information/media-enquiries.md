@@ -13,7 +13,7 @@ Use a media enquiries page to tell journalists who they should contact with spec
 
 Do not add a media enquiries page if you only have one or two contact numbers for media enquiries - just add the contact details to the organisation page.
 
-If you create a media enquiries page, a link to it will appear automatically in the ‘Corporate information’ section on your organisation and ‘About us’ pages.
+If you create a media enquiries page, a link to it will appear automatically in the 'Corporate information' section on your organisation and 'About us' pages.
 
 {% include 'reusable-content/corporate-info-style-tone.md' %}
 
@@ -22,18 +22,18 @@ If you create a media enquiries page, a link to it will appear automatically in 
 In the summary, make it clear that the contact details on this page are for journalists only. Adapt this text: 
 
 > [!NOTE]
-> Contact our press team if you’re a journalist with a media enquiry or interview request.
+> Contact our press team if you're a journalist with a media enquiry or interview request.
 
 In the body section, group media contacts according to area of responsibility. Using this format means that media contacts can be entered into Whitehall Publisher correctly and reused across the site. 
 
-For example, if the Ministry of Justice (MOJ) had 4 press officers working across 2 different areas, their ‘Media enquiries’ page would be organised like this:
+For example, if the Ministry of Justice (MOJ) had 4 press officers working across 2 different areas, their 'Media enquiries' page would be organised like this:
 
 >[!NOTE]
 > ### Criminal justice desk
 > 
 > Contact the criminal justice desk with questions about government policy on criminal justice cases.
 >
-> #### Media officer name, job title 
+> #### Media officer name, job title
 > 
 > Telephone:    
 > 
@@ -54,9 +54,9 @@ For example, if the Ministry of Justice (MOJ) had 4 press officers working acros
 > Telephone:    
 > 
 > 
-> ### Out of hours   
+> ### Out of hours
 > 
 > Contact the duty officer on [phone number].  
 
-View [a good example of a ‘Media enquiries’ page](https://www.gov.uk/government/organisations/ofsted/about/media-enquiries). 
+View [a good example of a 'Media enquiries' page](https://www.gov.uk/government/organisations/ofsted/about/media-enquiries). 
 
