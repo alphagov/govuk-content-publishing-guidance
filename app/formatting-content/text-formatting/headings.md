@@ -23,7 +23,7 @@ For example:
 ```
 Do not use bold text instead of hashtags. This is inaccessible because a screen reader will not recognise it as a header.
 
-There’s no need to use this code in the page title and summary. They are styled automatically.
+There's no need to use this code in the page title and summary. They are styled automatically.
 
 See the section about headings in the [content structuring guidance](/writing-to-gov-uk-standards/tone-of-voice/clear-structure/) for more help with writing headings.
 

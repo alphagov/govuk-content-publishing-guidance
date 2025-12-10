@@ -11,5 +11,5 @@ This section will help you understand the special rules around publishing during
 That includes:
 
 - [general elections](/publishing-national-events/general-elections/)
-- [royal deaths](/publishing-national-events/royal-deaths/), also known as ‘bridge events’
+- [royal deaths](/publishing-national-events/royal-deaths/), also known as 'bridge events'
 - [national emergencies](/publishing-national-events/national-emergencies/)

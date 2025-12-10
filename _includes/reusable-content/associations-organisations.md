@@ -1,1 +1,1 @@
-- lead and supporting organisations – your own organisation will be set as a lead organisation as default, but you can change that or add any other organisations if they’re responsible for the content
+- lead and supporting organisations – your own organisation will be set as a lead organisation as default, but you can change that or add any other organisations if they're responsible for the content

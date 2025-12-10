@@ -29,9 +29,9 @@ You will need to choose a lead image for some content types. It will show at the
 * speeches
 * fatality notices
 
-You can also add images of a person to ‘People’ pages. 
+You can also add images of a person to 'People' pages. 
 
-Before you can add images into the content, you’ll need to properly format them for uploading into Whitehall Publisher. How you do this has some differences depending on if the image is:
+Before you can add images into the content, you'll need to properly format them for uploading into Whitehall Publisher. How you do this has some differences depending on if the image is:
 
 * informative or decorative
 * a chart, diagram, infographic or scientific equation
@@ -55,19 +55,19 @@ For both types of image:
 * use a JPG, PNG or GIF file type
 * make it a minimum size of 960 pixels wide by 640 pixels high at 72 DPI - you can upload larger images and resize after uploading
 
-If you’re using informative images:
+If you're using informative images:
 
 * do not use images alone to provide information - it will exclude users who cannot see or access the image
 * use the caption and credit field to name a person in an image
 * write a description of the image in the body of the content
 
-When you describe the image, describe it as though there is no image on the page if you can. For example, write “the minister gave a speech…”, instead of “an image of the minister giving a speech”. 
+When you describe the image, describe it as though there is no image on the page if you can. For example, write "the minister gave a speech…", instead of "an image of the minister giving a speech". 
 
-## Images of charts or diagrams 
+## Images of charts or diagrams
 
 Use svg files for images that contain useful information, for example diagrams, charts or infographics. This is because it scales well, without pixellating, for people who zoom in using magnifying software. 
 
-There’s no minimum image size for SVG files. 
+There's no minimum image size for SVG files. 
 
 ### Using colour
 
@@ -79,9 +79,9 @@ Read more about [using colours in charts on the Government Analysis Function web
 
 Do not use the image to convey information without also explaining it in the text of your content. 
 
-When you explain it, imagine you’re describing it to someone over the phone. Do not just repeat the headline title.
+When you explain it, imagine you're describing it to someone over the phone. Do not just repeat the headline title.
 
-Avoid describing the chart vaguely or too broadly. For example, it would be too broad to say: “The bar chart shows EU funds by percentage on the vertical axis and EU countries on the horizontal axis”. Explain what is happening in the data and any important trends
+Avoid describing the chart vaguely or too broadly. For example, it would be too broad to say: "The bar chart shows EU funds by percentage on the vertical axis and EU countries on the horizontal axis". Explain what is happening in the data and any important trends
 
 Leave the alt text field blank. Instead, add at least one of the following:
 
@@ -106,7 +106,7 @@ Example
 
 Only use a diagram if it makes the content clearer or summarises a large amount of information.
 
-When you’re creating the diagram, try to:
+When you're creating the diagram, try to:
 
 * follow normal reading direction - users want to read from left to right
 * avoid overlapping connector lines
@@ -119,15 +119,15 @@ Include a detailed explanation of the processes and relationships explained in t
 
 An infographic is an image which usually displays data, graphs, charts or text to explain a complex process or overview of a subject.
 
-Infographics can be hard to make accessible if they’re too complicated. This is because screen magnifier users may need to scroll horizontally and vertically across the image. This may make them hard to understand when not seen all at once. It can also be difficult to describe in text. The image may also become blurred and pixelated when magnified if you’re not using an SVG format.
+Infographics can be hard to make accessible if they're too complicated. This is because screen magnifier users may need to scroll horizontally and vertically across the image. This may make them hard to understand when not seen all at once. It can also be difficult to describe in text. The image may also become blurred and pixelated when magnified if you're not using an SVG format.
 
 If you do use an infographic you should provide a plain text version of the content. This should explain everything that is shown in the infographic and be in the body text next to the infographic.
 
 Read more about creating accessible infographics in the [infographics guidance on the Government Analysis Function website](https://analysisfunction.civilservice.gov.uk/policy-store/infographics/).
 
-### How to create an SVG file 
+### How to create an SVG file
 
-The tool you use to create graphs and charts must have a ‘save as svg’ or ‘export as svg’ option. Changing a bitmap file type into an svg does not make it scalable - it must be done from the source file.
+The tool you use to create graphs and charts must have a 'save as svg' or 'export as svg' option. Changing a bitmap file type into an svg does not make it scalable - it must be done from the source file.
 
 There are several free tools you can use to create svgs. Some examples include:
 
@@ -148,15 +148,15 @@ Your organisation may already be using a paid tool which can create svgs. Some e
 
 You must give all images a meaningful, unique file name before uploading. This helps it to show up in search results. The file name also becomes part of the code you copy into the body content so it will help you to recognise the image. Do not use special characters in the file names. 
 
-A good example would be “delegates_at_COP_2022.jpg” for a picture of delegates from the climate change conference.
+A good example would be "delegates_at_COP_2022.jpg" for a picture of delegates from the climate change conference.
 
 ## If the image has a white background
 
-For images with a white background - such as ministers’ portraits - add a light grey overlay to help them stand out from the website background.
+For images with a white background - such as ministers' portraits - add a light grey overlay to help them stand out from the website background.
 
 ## Borders
 
-Avoid putting borders around images. The image should go right to the edge of the frame (called ‘full bleed’).
+Avoid putting borders around images. The image should go right to the edge of the frame (called 'full bleed').
 
 ## Copyright standards and attributing images
 
@@ -169,7 +169,7 @@ If possible choose images that are free to use. These will usually be either:
 * covered by [crown copyright](http://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/) - these images are produced by or for government and can be reused by non-government users under the [Open Government Licence](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) 
 * available for reuse under a [Creative Commons licence](https://creativecommons.org/licenses/) such as the CC-BY licence
 
-If you want to change the image, such as by cropping it or changing the colours, check that the licence you’re using allows for adaptations or derivatives. For example, some Creative Commons licences have a ‘no derivatives’ (ND) rule.
+If you want to change the image, such as by cropping it or changing the colours, check that the licence you're using allows for adaptations or derivatives. For example, some Creative Commons licences have a 'no derivatives' (ND) rule.
 
 ### Using images not covered by crown copyright
 
@@ -189,27 +189,27 @@ Do not use embedded images that remain under the control of the supplier.
 
 ### Using images of people
 
-If you’re using images of people:
+If you're using images of people:
 
 * check with the copyright holder if the people in the image are happy for you to use it
-* get written consent from people if you’re arranging the photography yourself
+* get written consent from people if you're arranging the photography yourself
 * avoid showing identifiable people in connection with things that may cause offence
 
 ### Attributing images
 
 You need to attribute images covered by a Creative Commons or third party licence. You do not need to attribute crown copyright (Open Government Licence) images. 
 
-Add the attribution text to the ‘Caption and credit’ field when uploading an image, or at the bottom of the page where the image appears. You cannot add a credit to featured images or your organisation’s default image. 
+Add the attribution text to the 'Caption and credit' field when uploading an image, or at the bottom of the page where the image appears. You cannot add a credit to featured images or your organisation's default image. 
 
 State if the image cannot be reused for free. 
 
 For Creative Commons images, you also need to include:
 
-* the image creator’s name
+* the image creator's name
 * a link to the original image
 * the name of the specific Creative Commons licence that applies (like Creative Commons BY-NC-ND 3.0)
 * a link to the specific Creative Commons licence
-* details of any changes you’ve made to the image, like if you’ve cropped it or changed the colours
+* details of any changes you've made to the image, like if you've cropped it or changed the colours
 * the title of the image, if the image has a Creative Commons licence prior to version 4.0
 
 For example:
@@ -221,10 +221,10 @@ For example:
 
 To upload the image:
 
-1. Select ‘Edit draft’ on the content you want to add an image to.
-2. Go to the ‘Images’ tab, select ‘Choose file’ and upload the image you want to use.
-3. Preview your image. You can resize your image by selecting and dragging the frame if it is too large. Select ‘Save and continue’.
+1. Select 'Edit draft' on the content you want to add an image to.
+2. Go to the 'Images' tab, select 'Choose file' and upload the image you want to use.
+3. Preview your image. You can resize your image by selecting and dragging the frame if it is too large. Select 'Save and continue'.
 4. Add image details like captions and credits if you need to. 
-5. Select ‘Save’ to make sure the image has uploaded correctly.
+5. Select 'Save' to make sure the image has uploaded correctly.
 
-Once you upload an image, you’ll be given a ‘Markdown code’ that you can copy and paste into the body. Paste it wherever you want the image to appear, and check it’s in the right place using the ‘Preview’ button. 
+Once you upload an image, you'll be given a 'Markdown code' that you can copy and paste into the body. Paste it wherever you want the image to appear, and check it's in the right place using the 'Preview' button. 

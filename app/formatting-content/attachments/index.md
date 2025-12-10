@@ -11,7 +11,7 @@ lastUpdated:
 
 You can add attachments to most content on GOV.UK. Before you do, [choose the right file type and file name for your attachments](link tbc) and [prepare the attachments and make them accessible](link tbc).
 
-Once you have prepared your attachments, read about how you can add them in the [publishing content guidance](link tbc) for the content type you’re working on.
+Once you have prepared your attachments, read about how you can add them in the [publishing content guidance](link tbc) for the content type you're working on.
 
 Your attachments will show up automatically on the page if you add them to a:
 
@@ -19,25 +19,25 @@ Your attachments will show up automatically on the page if you add them to a:
 - call for evidence
 - consultation
 
-Otherwise, you’ll be given a code after you add an attachment. You then need to copy and paste the code so your attachment can appear as a download link in the body content. You can usually choose whether you want the download link to appear as:
+Otherwise, you'll be given a code after you add an attachment. You then need to copy and paste the code so your attachment can appear as a download link in the body content. You can usually choose whether you want the download link to appear as:
 
-- an ‘inline’ link
-- a ‘publication box’
+- an 'inline' link
+- a 'publication box'
 
 ## Inline links
 
-‘Inline’ links will use the attachment title as a link to download the attachment. The file type and size is shown in brackets after the title. They’re best if you’re including multiple attachments in a list. You need to include details about how to request the attachments in an accessible format elsewhere on the page.
+'Inline' links will use the attachment title as a link to download the attachment. The file type and size is shown in brackets after the title. They're best if you're including multiple attachments in a list. You need to include details about how to request the attachments in an accessible format elsewhere on the page.
 
 ## Publication boxes
 
-‘Publication boxes’ are more prominent and should not be added to the middle of sentences. They show the attachment’s cover, file type and file size, and have details about how to request the attachment in an accessible format. They’re best if you have just a few attachments.
+'Publication boxes' are more prominent and should not be added to the middle of sentences. They show the attachment's cover, file type and file size, and have details about how to request the attachment in an accessible format. They're best if you have just a few attachments.
 
 > [!NOTE]
-> You have to use an ‘inline’ link when adding attachments on Manuals Publisher or Specialist Publisher. You cannot use a ‘publication box’.
+> You have to use an 'inline' link when adding attachments on Manuals Publisher or Specialist Publisher. You cannot use a 'publication box'.
 
 ## Examples of attachments
 
 You can see what these different codes look like in some [example guidance with attachments](https://www.gov.uk/guidance/set-up-and-run-an-authorised-testing-facility-atf-for-vehicle-tests):
 
-- the ‘inline’ link appears under the ‘What you need to set up and start testing’ heading
-- the ‘publication box’ appears under the ‘Apply to set up a test centre’ heading
+- the 'inline' link appears under the 'What you need to set up and start testing' heading
+- the 'publication box' appears under the 'Apply to set up a test centre' heading

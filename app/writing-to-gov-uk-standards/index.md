@@ -7,7 +7,7 @@ lastUpdated:
 ---
 The guidance in this topic will help you design clear and helpful content for GOV.UK users.
 
-You’ll find guidance to help you plan content in line with good content design principles. This includes things like: 
+You'll find guidance to help you plan content in line with good content design principles. This includes things like: 
 
 * how to identify user needs
 * how to plan new content or changes to existing content

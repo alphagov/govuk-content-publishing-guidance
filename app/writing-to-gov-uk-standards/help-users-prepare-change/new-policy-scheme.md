@@ -12,12 +12,12 @@ If a new policy or scheme is being introduced users will have to do something fo
 
 ### Update or create guidance
 
-Check your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see if there’s existing guidance that meets the user need.
+Check your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see if there's existing guidance that meets the user need.
 
-You’ll need to either:
+You'll need to either:
 
 + update the existing guidance with the new information
-+ create new guidance if there’s no existing content with the same user need
++ create new guidance if there's no existing content with the same user need
 
 ### When to publish guidance in advance
 
@@ -31,14 +31,14 @@ The content you publish in advance should tell users:
 
 ### When changes announced in advance come into effect
 
-You’ll need to:
+You'll need to:
 
 + update the guidance to reflect the new policy or scheme - this might include content linking to a new service
 + publish the updated guidance when the change comes into effect
 
 #### Example
 
-In 2018, the government announced that EU citizens would need to apply for a new scheme called ‘settled status’ to continue living in the UK after 2020. 
+In 2018, the government announced that EU citizens would need to apply for a new scheme called 'settled status' to continue living in the UK after 2020. 
 
 Even though users did not need to do anything immediately, they needed to know what their options were well in advance as it would have a major impact on life decisions.
 

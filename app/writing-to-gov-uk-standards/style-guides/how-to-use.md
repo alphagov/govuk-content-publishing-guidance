@@ -22,7 +22,7 @@ There's separate [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-v
 Check the following style guides:
 
 - [the Guardian style guide](https://www.theguardian.com/guardian-observer-style-guide-a)
-- your organisation’s style guide, if you have one
+- your organisation's style guide, if you have one
 - style guides from other government organisations
 
 Other government style guides include:
@@ -40,28 +40,28 @@ If you cannot find what you're looking for, see how the spelling or formatting i
 
 ## If you want to suggest a change to the style guide
 
-If you’re a publisher or content designer in government, you can suggest an addition, change or clarification to the style guide.
+If you're a publisher or content designer in government, you can suggest an addition, change or clarification to the style guide.
 
 ### Before you suggest a change
 
-If you want to add a new entry, check if it’s already been covered in:
+If you want to add a new entry, check if it's already been covered in:
 
 - [the Guardian style guide](https://www.theguardian.com/guardian-observer-style-guide-a)
-- your organisation’s style guide, if you have one
+- your organisation's style guide, if you have one
 
-If your suggestion is in another style guide, you’ll need to explain why this style guide should have an entry for it as well.
+If your suggestion is in another style guide, you'll need to explain why this style guide should have an entry for it as well.
 
-Consider whether there’s a cross-government need for a consistent style. If the style would only affect your organisation, consider creating or updating your own style guide. For example, this might include the name of a specific policy you manage.
+Consider whether there's a cross-government need for a consistent style. If the style would only affect your organisation, consider creating or updating your own style guide. For example, this might include the name of a specific policy you manage.
 
 ### How to suggest a change
 
-[Raise a support ticket](https://support.publishing.service.gov.uk/content_advice_request/new). You’ll need a GOV.UK Signon account. If you do not have one, contact your organisation’s GOV.UK content lead to send a ticket for you.
+[Raise a support ticket](https://support.publishing.service.gov.uk/content_advice_request/new). You'll need a GOV.UK Signon account. If you do not have one, contact your organisation's GOV.UK content lead to send a ticket for you.
 
 In your ticket, include:
 
 - what you want to add, change or remove
-- why you’re suggesting the change
-- what the style guide currently says (if you’re suggesting a change to an existing entry)
+- why you're suggesting the change
+- what the style guide currently says (if you're suggesting a change to an existing entry)
 - evidence to support the change – for example, user research or data
 
 >[!NOTE]
@@ -71,7 +71,7 @@ In your ticket, include:
 
 All suggestions are reviewed once a month by content designers and technical writers at the Government Digital Service (GDS).
 
-You’ll be told if your suggestion:
+You'll be told if your suggestion:
 
 - has been approved and published in the style guide
 - has been rejected, with a reason why

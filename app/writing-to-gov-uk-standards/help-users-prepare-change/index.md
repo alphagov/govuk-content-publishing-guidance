@@ -10,7 +10,7 @@ lastUpdated:
 ---
 ## Understand what needs to change
 
-Before you decide what content to update, you need to find out from your policy teams what’s changing. 
+Before you decide what content to update, you need to find out from your policy teams what's changing. 
 
 Your policy colleagues should give you this information as early as possible so you can identify the [user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) and plan your content.
 
@@ -19,14 +19,14 @@ Your policy colleagues should give you this information as early as possible so 
 When you have the information from your policy teams, you need to work out whether:
 
 + you need to fix existing content with factual inaccuracies
-+ it’s a change to an existing policy or scheme, which means users will have to do something differently (such as apply online instead of by post)
++ it's a change to an existing policy or scheme, which means users will have to do something differently (such as apply online instead of by post)
 + a new set of users will have to do an existing thing for the first time
-+ it’s a new policy or scheme, which means users will have to do something for the first time
++ it's a new policy or scheme, which means users will have to do something for the first time
 + a policy or scheme is being removed or phased out, which means users will no longer be able to do something
 
 ### Work out when users need to know about the change
 
-When you know what’s changing, you also need to work out whether users need to know about the change before it comes into effect.
+When you know what's changing, you also need to work out whether users need to know about the change before it comes into effect.
 
 Users do not need guidance until they need to take action. In most cases, this is not until the change comes into effect. 
 
@@ -34,21 +34,21 @@ Only publish guidance in advance if all the following apply:
 
 + the change is certain or very likely to happen
 + it affects a decision users must make now or very soon
-+ users must do something differently now (not just ‘be aware of’ something) – for example, a scheme is changing and users must apply earlier, later or for a different scheme
++ users must do something differently now (not just 'be aware of' something) – for example, a scheme is changing and users must apply earlier, later or for a different scheme
 
-If users need guidance about a change in advance, you’ll need to identify exactly when they need to know so that you can plan your changes.
+If users need guidance about a change in advance, you'll need to identify exactly when they need to know so that you can plan your changes.
 
 In exceptional cases, users might need reassurance in advance that something will not change or will not have a big impact on them. You must have evidence that users genuinely need this on GOV.UK (such as on-page feedback, call centre data and analytics). However, usually reassurance messaging should be channelled through communications activity outside GOV.UK.
 
-If you’re unsure, [ask the content team at the Government Digital Service (GDS)](link tbc).
+If you're unsure, [ask the content team at the Government Digital Service (GDS)](link tbc).
 
 ## Review content that already exists
 
-Do a basic review of existing guidance content as soon as you know roughly what’s changing. Do not wait until you have all the details.
+Do a basic review of existing guidance content as soon as you know roughly what's changing. Do not wait until you have all the details.
 
 This will help you avoid duplicating content when you have to tell users about the change.
 
-Multiple pages with similar content can give users the impression that there’s no single version of the truth. This can mean they lose trust in what they read on GOV.UK. It can also make it difficult for users to know where to look to find content they need.
+Multiple pages with similar content can give users the impression that there's no single version of the truth. This can mean they lose trust in what they read on GOV.UK. It can also make it difficult for users to know where to look to find content they need.
 
 ### Do an audit
 
@@ -73,7 +73,7 @@ Make improvements to existing guidance before you add information about the chan
 + to build in updates when you get the details from your policy colleagues
 + for users to find the content and know what they must do to prepare
 
-Focus on removing any duplicated content first. If you identify duplication across guidance owned by other organisations as well as your own, you’ll need to work with them.
+Focus on removing any duplicated content first. If you identify duplication across guidance owned by other organisations as well as your own, you'll need to work with them.
 
 If you have time, make general improvements too.
 

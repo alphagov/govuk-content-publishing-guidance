@@ -9,7 +9,7 @@ description: Add bar charts to GOV.UK content with Govspeak Markdown code.
 lastUpdated:
 ---
 
-You can add ‘simple’, ‘stacked’ and ‘compact’ bar charts to your content. You can combine these different types within one bar chart. 
+You can add 'simple', 'stacked' and 'compact' bar charts to your content. You can combine these different types within one bar chart. 
 
 All bar charts can display negative values.
 
@@ -97,8 +97,8 @@ Combine the different styles of bar charts by using more than one tag on separat
 
 You can use up to 6 colours to represent different categories when you add a bar chart on GOV.UK. The colours and the order they appear cannot be changed. 
 
-This is so they’re accessible for users who are colour blind or have low vision.
+This is so they're accessible for users who are colour blind or have low vision.
 
 ## Add other types of charts
 
-If you want to add another type of chart, like a line graph or pie chart, you’ll need to upload it as an image. Read the guidance on [formatting images](/formatting-content/images-videos/formatting-images/) to find out how to create an accessible image.
+If you want to add another type of chart, like a line graph or pie chart, you'll need to upload it as an image. Read the guidance on [formatting images](/formatting-content/images-videos/formatting-images/) to find out how to create an accessible image.
