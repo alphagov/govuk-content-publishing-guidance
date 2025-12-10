@@ -12,7 +12,7 @@ Content on GOV.UK is grouped with other similar content to help users explore pa
 
 ## Topic tagging
 
-Most GOV.UK content needs to be tagged to a topic. You’ll do this when creating or updating content. 
+Most GOV.UK content needs to be tagged to a topic. You'll do this when creating or updating content. 
 
 Topics are organised in a hierarchical taxonomy. This means topics can have subtopics, those subtopics can have subtopics and so on. Topics get more specific the further down the hierarchy you go.
 
@@ -43,19 +43,19 @@ Do not use a document collection to:
 
 ## Mainstream browse pages
 
-Mainstream browse pages group content into topic areas. These topics are shown in the ‘services and information’ menu on the GOV.UK homepage and sitewide navigation bar. 
+Mainstream browse pages group content into topic areas. These topics are shown in the 'services and information' menu on the GOV.UK homepage and sitewide navigation bar. 
 
 Mainstream browse has 2 levels:
 
-* level 1 – the main topic, for example ‘[Environment and countryside](https://www.gov.uk/browse/environment-countryside)’
-* level 2 – subtopics, for example ‘[Boats and waterways](https://www.gov.uk/browse/environment-countryside/boats-waterways)’
+* level 1 – the main topic, for example '[Environment and countryside](https://www.gov.uk/browse/environment-countryside)'
+* level 2 – subtopics, for example '[Boats and waterways](https://www.gov.uk/browse/environment-countryside/boats-waterways)'
 
 Some subtopics list the content alphabetically and some are arranged under headings. 
 
-Most content in mainstream browse is ‘mainstream’ content - content published by GDS content designers rather than by departments. You can ask to add other content to a mainstream browse page if:
+Most content in mainstream browse is 'mainstream' content - content published by GDS content designers rather than by departments. You can ask to add other content to a mainstream browse page if:
 
 * it gives users information about how to complete a task or use a government service
-* it’s a detailed guide or certain types of publication - guidance, statutory guidance or form
+* it's a detailed guide or certain types of publication - guidance, statutory guidance or form
 
 To ask to add content to a mainstream browse page, [contact GDS](link tbc).
 
@@ -63,6 +63,6 @@ To ask to add content to a mainstream browse page, [contact GDS](link tbc).
 
 If the task users need to do is part of a much broader process with multiple steps, like [learning to drive](https://www.gov.uk/learn-to-drive-a-car), content can be grouped into a step by step navigation.
 
-If you’ve published content that you think should be added to an existing step by step navigation, or a new one should be created, [contact GDS](link tbc).
+If you've published content that you think should be added to an existing step by step navigation, or a new one should be created, [contact GDS](link tbc).
 
 *[GDS]: Government Digital Service

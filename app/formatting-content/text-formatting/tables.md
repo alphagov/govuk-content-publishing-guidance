@@ -20,14 +20,14 @@ Do not use tables for cosmetic reasons or when you can use normal page structure
 
 ## Design a table
 
-Read these steps before you add a table to your content. They’re important to make your tables accessible and readable.
+Read these steps before you add a table to your content. They're important to make your tables accessible and readable.
 
 ### Keep tables to an appropriate size
 
 Tables should not be:
 
 - too small – the minimum size should be 2 columns and 3 rows (including headings)
-- too large – this will depend on how much text is in each cell and the size of the user’s screen (on a desktop, you can usually see 4 or 5 columns and 10 rows without scrolling)
+- too large – this will depend on how much text is in each cell and the size of the user's screen (on a desktop, you can usually see 4 or 5 columns and 10 rows without scrolling)
 
 If your table is too small, you can probably present the same information as normal text.
 
@@ -113,7 +113,7 @@ For example, this table shows information about livestock over 2 periods, from 2
 
 There are 2 heading rows in this table – one for the years and one for the feed cost, newborns and profit. A screen reader will not be able to understand which of the column headings refers to which year group.
 
-For example, a screen reader would read ‘Cows, newborns 20, cows newborns 15’ – the user would not be able to tell which year the number refers to.
+For example, a screen reader would read 'Cows, newborns 20, cows newborns 15' – the user would not be able to tell which year the number refers to.
 
 In this case, you could have 2 separate tables or use descriptive and unique headings as shown in the next example.
 
@@ -134,7 +134,7 @@ Do any calculations for the user. For example, include totals or differences bet
 
 Your table must have:
 
-- ‘no data’ or ‘not applicable’ instead of empty cells – only the top left cell can be empty
+- 'no data' or 'not applicable' instead of empty cells – only the top left cell can be empty
 - no split or merged cells
 - only one item per row cell
 
@@ -175,15 +175,15 @@ If you do not need to use exact numbers, consider rounding large numbers with de
 
 ## Add a table
 
-Once you’ve designed the table, you’re ready to put the code together.
+Once you've designed the table, you're ready to put the code together.
 
 You need to:
 
 * leave one empty line space before the table starts and one at the end  
-* use the code for ‘dividers’ (sometimes called ‘pipes’) to split the content into cells, for example: `item 1 | item 2 | item 3`  
+* use the code for 'dividers' (sometimes called 'pipes') to split the content into cells, for example: `item 1 | item 2 | item 3`  
 * make sure every row has the same number of dividers  
 * make a bold heading row by using hyphens between the dividers in the second row, for example: `----|----|----`
-* add a hash (‘#’) character to text in the first column if it’s a heading – for example `|# Row 1 | item 1 | item 2 | item 3`
+* add a hash ('#') character to text in the first column if it's a heading – for example `|# Row 1 | item 1 | item 2 | item 3`
 * use the [link code](link tbc) to add links to the table
 
 For example, here is the markdown for a table showing the number of different animals in 3 different farms.
@@ -196,23 +196,23 @@ For example, here is the markdown for a table showing the number of different an
 
 
 > [!NOTE]
-> You can also use a [table generator](http://www.tablesgenerator.com/markdown_tables#) to convert an Excel document, Google sheet or webpage table to this code. If the first column’s cells are headings, add the hash (‘#’) character.
+> You can also use a [table generator](http://www.tablesgenerator.com/markdown_tables#) to convert an Excel document, Google sheet or webpage table to this code. If the first column's cells are headings, add the hash ('#') character.
 
 ### Change the alignment of a column
 
-By default, the column items align to the left. If you have a column full of numbers that need to be easily compared, it’s best to right-align that column.
+By default, the column items align to the left. If you have a column full of numbers that need to be easily compared, it's best to right-align that column.
 
 You can align text in the columns to the left, right, or centre by adding a colon (:) to the left, right, or on both sides of the hyphens in the heading row.
 
 ```
 | Left | Centre | Right |
 | :-------- | :---------: | ----------: |
-| Header | Title | Here’s this |
+| Header | Title | Here's this |
 | Paragraph | Text | And more |
 ```
 It will look like this:
 
 | Left | Centre | Right |
 | :-------- | :---------: | ----------: |
-| Header | Title | Here’s this |
+| Header | Title | Here's this |
 | Paragraph | Text | And more |

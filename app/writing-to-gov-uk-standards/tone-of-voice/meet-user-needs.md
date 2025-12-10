@@ -10,9 +10,9 @@ lastUpdated:
 ---
 Before you start writing, [identify a user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/).
 
-Publish only what’s needed to meet that user need and nothing more. 
+Publish only what's needed to meet that user need and nothing more. 
 
-For example, if you’re creating guidance, only include what someone needs to know so they can complete a task.
+For example, if you're creating guidance, only include what someone needs to know so they can complete a task.
 
 This will help your content be:
 

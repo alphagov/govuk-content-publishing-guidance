@@ -9,18 +9,18 @@ description: Understand the process for publishing on GOV.UK when a member of th
 lastUpdated:
 ---
 
-Royal deaths (also known as ‘bridges’ or ‘bridge events’) can affect publishing.
+Royal deaths (also known as 'bridges' or 'bridge events') can affect publishing.
 
-You’ll be told by the Government Digital Service (GDS) if a bridge event has begun. They’ll send messages:
+You'll be told by the Government Digital Service (GDS) if a bridge event has begun. They'll send messages:
 
 - on the [content community Basecamp](link tbc) 
 - through emails to your GOV.UK lead
 
 ## Publishing on GOV.UK
 
-Following a royal death, you’ll be told if there’s a freeze on publishing content on GOV.UK.
+Following a royal death, you'll be told if there's a freeze on publishing content on GOV.UK.
 
-If there’s a freeze, content that cannot be published includes:
+If there's a freeze, content that cannot be published includes:
 
 - press releases and news stories
 - policy documents
@@ -61,11 +61,11 @@ Other non-GOV.UK sites (those with an exemption) do not have to deploy a banner,
 
 If non-GOV.UK sites do want to deploy a banner, it should:
 
-- be consistent with the site’s design styles, such as typography specifications
+- be consistent with the site's design styles, such as typography specifications
 - follow responsive web design principles (for example, the banner should adjust to screen size allowing it to be viewed on mobile and tablet devices)
 - not use modal pop-up windows (for example, a pop-up window over content)
 - not use images unless appropriate licensing has been procured
-- match the site’s width
+- match the site's width
 - meet [government accessibility requirements](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag) (for example, colour contrast, font size, link focus states, and making sure the design works with screen readers)
 
 The banner should be displayed for all of the period of national mourning.

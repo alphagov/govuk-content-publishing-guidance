@@ -20,4 +20,4 @@ Government content must be accessible to anybody who needs to use it. Accessibil
 This guidance will help you:
 
 * [understand the accessibility regulations](/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/) you need to follow
-* [make accessible content](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) when you’re formatting your content 
+* [make accessible content](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) when you're formatting your content 

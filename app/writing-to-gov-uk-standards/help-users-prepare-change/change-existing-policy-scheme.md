@@ -12,7 +12,7 @@ A change to an existing policy or scheme means users will have to do something t
 
 ### Update existing guidance
 
-Because it’s an existing policy or scheme, there should already be guidance about it on GOV.UK which you can update. Check your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see where this sits.
+Because it's an existing policy or scheme, there should already be guidance about it on GOV.UK which you can update. Check your [content audit](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to see where this sits.
 
 Do not create new guidance if some already exists that meets the user need. You should update the existing guidance instead.
 
@@ -30,7 +30,7 @@ This will usually be a call out with one or two sentences or a short paragraph w
 
 ### When the changes announced in advance come into effect
 
-You’ll need to:
+You'll need to:
 
 + update the guidance to reflect the new policy or scheme - this might include content linking to a new service
 + publish the updated guidance

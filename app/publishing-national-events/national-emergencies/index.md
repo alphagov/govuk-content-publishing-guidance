@@ -31,7 +31,7 @@ The lead agency should nominate a co-ordinator - for example, the head of its di
 The co-ordinator should then work through the following steps:
 
 1. Create a destination page on GOV.UK.
-2. Contact GDS to deploy the GOV.UK ‘national emergency’ homepage (if needed).
+2. Contact GDS to deploy the GOV.UK 'national emergency' homepage (if needed).
 3. Organise further publishing with other agencies.
 
 ## Step 1: Create a destination page on GOV.UK
@@ -52,7 +52,7 @@ Typically the page will use the [news article type](link tbc), but this is flexi
 - a [travel advice page](link tbc), in the case of an overseas crisis
 - an existing guide, in the case of a farming crisis
 
-The page’s title should include keywords specific to the incident, but be broad enough to allow for updates, for example:
+The page's title should include keywords specific to the incident, but be broad enough to allow for updates, for example:
 
 + Woolwich incident: government response
 + Woolwich incident: government updates
@@ -70,13 +70,13 @@ For significant changes, change notes must be used to describe how the page has 
 
 Updates should go live within 5 minutes of publishing.
 
-## Step 2: Contact GDS to deploy the GOV.UK ‘national emergency’ homepage
+## Step 2: Contact GDS to deploy the GOV.UK 'national emergency' homepage
 
 Only do this if the emergency poses an immediate risk to life and demands immediate mass public action.
 
 The co-ordinator in the lead agency needs to call the GDS emergency phone number.
 
-They can find the phone number under ‘Update GOV.UK following a national emergency’ on the [emergency contact details page](https://support.publishing.service.gov.uk/emergency-contact-details). They need a [Signon account](link tbc) to access that page.
+They can find the phone number under 'Update GOV.UK following a national emergency' on the [emergency contact details page](https://support.publishing.service.gov.uk/emergency-contact-details). They need a [Signon account](link tbc) to access that page.
 
 GDS will confirm their identity and verify that the emergency is of an appropriate scale to deploy the GOV.UK emergency homepage.
 
@@ -116,12 +116,12 @@ Examples:
 > [!NOTE]
 > Headline: London security incident
 > Body text: There has been a major incident in central London. Public transport is suspended in Zone 1.
-> Link: Find out about the government’s response to the incident.
+> Link: Find out about the government's response to the incident.
 
 > [!NOTE]
 > Headline: Flooding in south west England
 > Body text: There are severe floods and storms across the south west of England. The M5 motorway is closed.
-> Link: Find out about the government’s response to the flooding.
+> Link: Find out about the government's response to the flooding.
 
 ## Step 3: Organise further publishing with other agencies
 

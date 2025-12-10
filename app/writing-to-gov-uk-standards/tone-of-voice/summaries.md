@@ -14,7 +14,7 @@ Make sure people can see quickly whether the page will have the information they
 
 ## Use clear and common language
 
-Make summaries user focused, clear and descriptive so that users can distinguish if it’s the right content for them.
+Make summaries user focused, clear and descriptive so that users can distinguish if it's the right content for them.
 
 Like when writing a title, you can find out what words users will be familiar with by [looking at common search terms](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/). You can choose common words for the summary that you have not already used for the title.
 
@@ -32,12 +32,12 @@ Summaries should end with a full stop. It can help people who use assistive tech
 
 ## Avoid redundant introductory words
 
-Do not mention the content type in the summary. For example, do not say “this consultation is about…” or “a form to…”.  
+Do not mention the content type in the summary. For example, do not say "this consultation is about…" or "a form to…".  
 
-Use as few words from the title as possible, and include keywords that you’ve not used in the title.
+Use as few words from the title as possible, and include keywords that you've not used in the title.
 
 ## Use active language
 
 Keep summaries active and include a verb. 
 
-You can use words like ‘How…’, ‘What…’ and ‘When…’ to introduce active words. For example ‘When applying for a…’.
+You can use words like 'How…', 'What…' and 'When…' to introduce active words. For example 'When applying for a…'.

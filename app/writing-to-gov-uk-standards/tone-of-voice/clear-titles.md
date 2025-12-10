@@ -10,7 +10,7 @@ lastUpdated:
 ---
 Most people who use GOV.UK start with a search engine. Use the same language as your audience so they can find your content. This begins with your page title.
 
-If people cannot find your page, they will not be able to act on it or know it’s for them.
+If people cannot find your page, they will not be able to act on it or know it's for them.
 
 ## Make your title unique
 
@@ -18,15 +18,15 @@ Titles must be unique and informative so that users know which page they are on.
 
 Duplicate titles can confuse users - for example, if they have more than one page open. This is particularly true for those with visual, cognitive or mobility impairments.
 
-In Whitehall Publisher, a message appears at the top of your content after you save it if the title is already being used: “This title is already used on GOV.UK. Please create a unique title”. 
+In Whitehall Publisher, a message appears at the top of your content after you save it if the title is already being used: "This title is already used on GOV.UK. Please create a unique title". 
 
-In other publishing tools, you may not get a warning that the title is already being used. You’ll need to search for the title you want to use to check it’s not already in use.
+In other publishing tools, you may not get a warning that the title is already being used. You'll need to search for the title you want to use to check it's not already in use.
 
 ## Keep your title short, where possible
 
 Your title should be 65 characters or less (including spaces).
 
-You can use more than 65 characters if it’s essential for making the title clear or unique, but do not do this routinely because:
+You can use more than 65 characters if it's essential for making the title clear or unique, but do not do this routinely because:
 
 * Google cuts off the rest of the title at around 65 characters
 * longer titles are harder to understand
@@ -35,13 +35,13 @@ You can use more than 65 characters if it’s essential for making the title cle
 
 Your title should make sense:
 
-* by itself – for example ‘Regulations’ does not say much, but ‘Regulations for environmental waste’ does
+* by itself – for example 'Regulations' does not say much, but 'Regulations for environmental waste' does
 * in search results
 * in [document collections](link tbc)
 
 ## Use clear and common language
 
-Titles do not have to reflect the official publication title. Make them user focused, clear and descriptive so that users can distinguish if it’s the right content for them.
+Titles do not have to reflect the official publication title. Make them user focused, clear and descriptive so that users can distinguish if it's the right content for them.
 
 Find out what the public calls your content by [looking at common search terms](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/). The official or internal name may not be what the public calls it.
 
@@ -51,7 +51,7 @@ This will also help make your content easier to find.
 
 ## Make your titles descriptive
 
-The title should provide full context so that users can easily see if they’ve found what they’re looking for. By being general about a topic, you leave the user asking ‘what is this about?’
+The title should provide full context so that users can easily see if they've found what they're looking for. By being general about a topic, you leave the user asking 'what is this about?'
 
 Bad title example: Hazardous waste – new process
 
@@ -77,7 +77,7 @@ Good guidance title example: Submitting your business expenses
 
 ## Do not include the content type in the title
 
-Do not include the name of the content type, such as 'guidance' or 'consultation’. The content type appears automatically at the top of the page.
+Do not include the name of the content type, such as 'guidance' or 'consultation'. The content type appears automatically at the top of the page.
 
 Bad title example: Potato guidance
 
@@ -93,12 +93,12 @@ For example, a list of annual reports:
 - [Organisation name] annual report 2019
 - [Organisation name] annual report 2018
 
-If you publish multiple parts of the series in the same year, include the date range as well. For example,  ‘January to March 2020’ and ‘April to June 2020’.
+If you publish multiple parts of the series in the same year, include the date range as well. For example,  'January to March 2020' and 'April to June 2020'.
 
 ## Do not include your organisation name unless it makes the title unique
 
-Only add your organisation’s name to the title if the content is about your organisation. For example, your organisation’s annual reports or corporate information.
+Only add your organisation's name to the title if the content is about your organisation. For example, your organisation's annual reports or corporate information.
 
 Title example: Highways Agency environmental strategy
 
-On its own, ‘Environmental strategy’ could apply to any department or agency. In this case, it’s better to add the department name to differentiate it.
+On its own, 'Environmental strategy' could apply to any department or agency. In this case, it's better to add the department name to differentiate it.

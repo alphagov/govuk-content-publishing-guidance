@@ -23,13 +23,13 @@ Content design starts by taking a user need and meeting it on GOV.UK in the best
 
 A user need is something that a user will need to do or find out from government, such as:
 
-* checking if they’re eligible to claim a benefit
+* checking if they're eligible to claim a benefit
 * registering to vote
 * applying for a business scheme
 * checking their tax code or State Pension
 * applying for a passport or driving licence
 
-Before publishing on GOV.UK, you need to know your users’ needs and design your content to meete them. Read more about this in the guidance on [identifying user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/). 
+Before publishing on GOV.UK, you need to know your users' needs and design your content to meete them. Read more about this in the guidance on [identifying user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/). 
 
 ## Consider the amount, format and best place to publish your content
 
@@ -57,7 +57,7 @@ You should also check the guidance on [making your content accessible](/writing-
 Content on GOV.UK should either be:
 
 * current, meeting a user need and kept up to date
-* no longer current but kept as a record of the government’s past work
+* no longer current but kept as a record of the government's past work
 
 Read the guidance on [managing existing GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) to understand how you should maintain your content. 
 

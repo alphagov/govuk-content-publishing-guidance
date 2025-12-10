@@ -22,16 +22,16 @@ Read the [GOV.UK homepage](https://www.gov.uk/).
 
 ## Include links to Whitehall Publisher content
 
-If you’re publishing on Whitehall Publisher and you want to link to other content on Whitehall Publisher, you can either:
+If you're publishing on Whitehall Publisher and you want to link to other content on Whitehall Publisher, you can either:
 
 - use the full public URL of the content from GOV.UK
-- use the Whitehall Publisher link, if you’re linking to anything in the ‘Documents’ section
+- use the Whitehall Publisher link, if you're linking to anything in the 'Documents' section
 
-If you’re using the Whitehall Publisher link, you should delete the first part of the URL, that reads `https://whitehall-admin.publishing.service.gov.uk/`. Only use the 'relative path', for example: `/government/admin/publications/123456`.
+If you're using the Whitehall Publisher link, you should delete the first part of the URL, that reads `https://whitehall-admin.publishing.service.gov.uk/`. Only use the 'relative path', for example: `/government/admin/publications/123456`.
 
 ## Include email links
  
-Use ‘less than’ and ‘greater than’ arrows around email addresses to make them a link.
+Use 'less than' and 'greater than' arrows around email addresses to make them a link.
 
 For example:
 
@@ -50,20 +50,20 @@ You can link to a particular heading on a GOV.UK page. This is known as an ancho
 
 To add an anchor link to a heading on the same page, do not include any URLs. Instead, put # and then the heading name with all words separated by hyphens. 
 
-For example, to link to the heading ‘Capacity management’ further down on the same page, use ‘#capacity-management’.
+For example, to link to the heading 'Capacity management' further down on the same page, use '#capacity-management'.
 
 To add an anchor link to a heading on a different page:
 
 - use the URL
 - add # and then the heading name, with all words separated by hyphens
 
-For example, to link to the heading ‘Risk management’ on another page, use ‘/management-guidance#risk-management’.
+For example, to link to the heading 'Risk management' on another page, use '/management-guidance#risk-management'.
 
 Either way, if the heading starts with any numbers, remove them from after the #. For example, to link to the heading '10 Downing Street', use '#downing-street'.
 
 ## Include links in translations for languages that read right to left
 
-If you’re creating a translation for a language that reads from right to left ​​(like Arabic or Urdu), switch the order of the code when adding links.
+If you're creating a translation for a language that reads from right to left ​​(like Arabic or Urdu), switch the order of the code when adding links.
 
 For example:
 
