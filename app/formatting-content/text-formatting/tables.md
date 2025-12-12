@@ -31,7 +31,7 @@ Tables should not be:
 
 If your table is too small, you can probably present the same information as normal text.
 
-If your table is too large, either break it down into smaller tables or consider uploading it as a [spreadsheet attachment](LINK) instead.
+If your table is too large, either break it down into smaller tables or consider uploading it as a [spreadsheet attachment](/formatting-content/attachments/prepare-attachments/) instead.
 
 ### Add headings to tables
 
@@ -165,7 +165,7 @@ For example:
 
 ### Follow the GOV.UK style
 
-Keep text in cells concise and clear, and follow the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). You can depart from this style to:
+Keep text in cells concise and clear, and follow the [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). You can depart from this style to:
 
 - truncate the names of months to save room, for example Jan and Feb
 - use a dash to show a span between numbers, for example 500 – 900

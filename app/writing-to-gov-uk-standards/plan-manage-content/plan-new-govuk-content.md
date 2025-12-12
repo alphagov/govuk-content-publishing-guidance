@@ -69,7 +69,7 @@ This guidance is written and maintained by the content team at GDS. You'll need 
 
 [Find out how to raise a ticket with the content team at GDS](link tbc).
 
-If it's for specialists, this can be published by your own content team. You'll need to [choose an appropriate content type](link tbc).
+If it's for specialists, this can be published by your own content team. You'll need to [choose an appropriate content type](/publish-update-retire-content/choose-content-type/).
 
 Guidance might be split between mainstream users and specialists where there's a common scenario that affects most users and a separate process for 'edge cases'. 
 
@@ -79,7 +79,7 @@ However, [National Insurance for share fishermen](https://www.gov.uk/guidance/sh
 
 ### If you're publishing information about what the government is doing
 
-Your own content team can publish this. You'll need to [choose an appropriate content type](link tbc).
+Your own content team can publish this. You'll need to [choose an appropriate content type](/publish-update-retire-content/choose-content-type/).
 
 ## Create new content
 
@@ -103,7 +103,7 @@ Depending on the content type, you might also be able to create and add translat
 
 ## Publish new content
 
-Read our guidance on [how to publish content on GOV.UK](link tbc).
+Read our guidance on [how to publish content on GOV.UK](/publish-update-retire-content/).
 
 ## Help users find the content
 

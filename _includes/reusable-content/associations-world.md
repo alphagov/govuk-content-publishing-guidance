@@ -1,1 +1,1 @@
-- world locations – use this if you work for the Foreign, Commonwealth and Development Office (FCDO) and you want the content to appear on a [world location news page](LINK)
+- world locations – use this if you work for the Foreign, Commonwealth and Development Office (FCDO) and you want the content to appear on a [world location news page](/publish-update-retire-content/standard-content-types/worldwide/)

@@ -11,6 +11,6 @@ You can:
 1. Create a new piece of content with the desired title and URL.
 2. Copy over the current content to this new draft.
 3. Publish the new draft.
-4. [Unpublish the page](LINK) with the incorrect URL. When you unpublish it, you'll be able to set up a redirect to the new page.
+4. [Unpublish the page](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) with the incorrect URL. When you unpublish it, you'll be able to set up a redirect to the new page.
 
 The change notes history will be lost if you do this. If you need to keep that history, [contact the Government Digital Service (GDS)](LINK) and ask them to change the URL instead.

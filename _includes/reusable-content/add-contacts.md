@@ -1,6 +1,6 @@
 You can add contact details using your organisation's contact directory. That means if the details in the directory are updated, they'll automatically update in your content too.
 
-Your organisation's most used contact details should be in the contact directory. Find out how to [create or update contacts](LINK).
+Your organisation's most used contact details should be in the contact directory. Find out how to [create or update contacts](/publish-update-retire-content/organisations-people/organisations/#contact-details).
 
 To add a contact from a directory:
 
@@ -11,4 +11,4 @@ To add a contact from a directory:
 
 You can remove the contact details by deleting the code.
 
-If you do not want to use the contact directory, use the [formatting guidance](LINK) to add contact details.
+If you do not want to use the contact directory, use the [formatting guidance](/formatting-content/) to add contact details.

@@ -78,7 +78,7 @@ If your organisation is not tagged, they can direct you to the tagged organisati
 
 ### If your content is on any other type of page
 
-Your content team can update the content without GDS help. Read our [guidance on how to update content on GOV.UK](link tbc).
+Your content team can update the content without GDS help. Read our [guidance on how to update content on GOV.UK](/publish-update-retire-content/).
 
 You will not be able to update content if it's in 'history mode'. If it's in history mode, you'll see a banner explaining that the content was published under a previous government.
 
@@ -123,9 +123,9 @@ If you withdraw content, it will not appear on:
 It will still appear in:
 
 - Google search results 
-- featured link slots on organisation pages if you've featured it - you'll have to [un-feature the content](link tbc) separately
+- featured link slots on organisation pages if you've featured it - you'll have to [un-feature the content](/publish-update-retire-content/organisations-people/organisations/) separately
 
-Find out [how to withdraw content](link tbc).
+The [guidance on how to update content on GOV.UK](/publish-update-retire-content/) explains how to withdraw content.
 
 ### When you can unpublish content
 
@@ -145,7 +145,7 @@ However, you can unpublish a page when:
 
 You can republish content later if you change your mind.
 
-Find out [how to unpublish content](link tbc).
+The [guidance on how to update content on GOV.UK](/publish-update-retire-content/) explains how to unpublish content.
 
 ### When history mode gets applied
 
@@ -155,7 +155,7 @@ History mode is applied to content when:
 + the 'first published' date of the content or the 'delivered on' date for a speech is during a previous government
 + it was published through Whitehall Publisher or Content Publisher
 + it was tagged to an organisation that is associated with government policy when it was first published (for example, ministerial departments)
-+ the 'political' box has been ticked (see more details about this box in our guidance on [how to publish on GOV.UK](link tbc))
++ the 'political' box has been ticked (see more details about this box in our [guidance on how to update content on GOV.UK](/publish-update-retire-content/))
 
 History mode applies to these content types automatically:
 

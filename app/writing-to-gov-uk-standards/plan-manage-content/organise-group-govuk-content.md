@@ -22,7 +22,7 @@ Topics are organised in a hierarchical taxonomy. This means topics can have subt
 * [Further and higher education, skills and vocational training](https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training)
 * [Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
 
-We explain how to tag your content in [the guidance on creating and updating pages](link tbc). 
+We explain how to tag your content in [the guidance on creating and updating pages](/publish-update-retire-content/). 
 
 If you want to request a new topic, or changes to an existing topic, [contact the Government Digital Service (GDS)](link tbc).
 
@@ -35,11 +35,11 @@ You can group content into a collection. Unlike topic tagging, you should only u
 
 Do not use a document collection to:
 
-* group parts of a single document - instead, put all the attachments on a single [publication page](link tbc)
-* guide users through a task - convert the documents into a [detailed guide](link tbc) instead
-* group long complex documents that specialist users need to do their job - think about using [a manual](link tbc) instead
+* group parts of a single document - instead, put all the attachments on a single [publication page](/publish-update-retire-content/standard-content-types/publications/)
+* guide users through a task - convert the documents into a [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) instead
+* group long complex documents that specialist users need to do their job - think about using [a manual](/publish-update-retire-content/other-content-types/manuals/) instead
 
-[Read more about creating and updating document collections](link tbc). 
+[Read more about creating and updating document collections](/publish-update-retire-content/standard-content-types/document-collections/). 
 
 ## Mainstream browse pages
 
