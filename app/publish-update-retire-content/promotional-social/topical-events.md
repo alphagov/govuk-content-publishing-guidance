@@ -24,10 +24,10 @@ Use for an event or crisis that is all of the following:
 
 Do not use for:
 
-* issues on which the government position can be covered by [publications](LINK) or [document collections](LINK) (for example, changes to the healthcare system)
+* issues on which the government position can be covered by [publications](/publish-update-retire-content/standard-content-types/publications/) or [document collections](/publish-update-retire-content/standard-content-types/document-collections/) (for example, changes to the healthcare system)
 * issuing emergency guidance – consider how to reach your intended audience quickly, like social media or press releases
 * events which can be reasonably covered by a lead news story on a departmental homepage (although news stories may develop into topical event pages following additional content generation or increased public interest)
-* influencing behaviour change – this is the role of [campaign sites](LINK)
+* influencing behaviour change – this is the role of [campaign sites](/publish-update-retire-content/promotional-social/campaigns/)
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
@@ -123,19 +123,19 @@ Use this page to give more detailed information on what the government is doing 
 
 You can tag content by adding an association to the topical event. You can do it for these content types:
 
-- [call for evidence](LINK)
-- [consultation](LINK)
-- [detailed guide](LINK)
-- [document collection](LINK)
-- [news article](LINK)
-- [publication](LINK)
-- [speech](LINK)
+- [call for evidence](/publish-update-retire-content/standard-content-types/calls-for-evidence/)
+- [consultation](/publish-update-retire-content/standard-content-types/consultations/)
+- [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/)
+- [document collection](/publish-update-retire-content/standard-content-types/document-collections/)
+- [news article](/publish-update-retire-content/standard-content-types/news-articles)
+- [publication](/publish-update-retire-content/standard-content-types/publications/)
+- [speech](/publish-update-retire-content/standard-content-types/speeches/)
 
 Content tagged to the topical event will automatically appear in the 'Latest' feed.
 
 ## Feature tagged content
 
-You can feature up to 6 pieces of content. Any items you feature must include an image. Read the guidance on [formatting images](LINK) for help with picking an image.
+You can feature up to 6 pieces of content. Any items you feature must include an image. Read the guidance on [formatting images](/formatting-content/images-videos/formatting-images/) for help with picking an image.
 
 If the content is published through Whitehall Publisher:
 

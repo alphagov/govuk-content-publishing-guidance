@@ -48,6 +48,7 @@ Is there user research pointing to the likely success of a government-run campai
 
 Is the user journey clear and coherent?
 
+> [!NOTE]
 > We recommend that a content designer in your organisation reviews the content and advises on how your site can best meet user needs.
 
 ### 2. Campaign plan
@@ -90,9 +91,9 @@ It helps to have a memorable short URL for campaigns.
 
 You might want to support your campaign site with content on GOV.UK, including:
 
-- promotional material [publications](LINK), for leaflets, posters, fact sheets and marketing collateral
-- [document collections](LINK), if you want to collect together multiple promotional material publications
-- [topical event pages](LINK)
+- promotional material [publications](/publish-update-retire-content/standard-content-types/publications/), for leaflets, posters, fact sheets and marketing collateral
+- [document collections](/publish-update-retire-content/standard-content-types/document-collections/), if you want to collect together multiple promotional material publications
+- [topical event pages](/publish-update-retire-content/promotional-social/topical-events/)
 
 ## Manage your campaign
 

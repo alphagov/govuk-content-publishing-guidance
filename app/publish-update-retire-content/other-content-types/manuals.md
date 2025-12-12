@@ -27,7 +27,7 @@ Use them for:
 
 * content that requires at least 2 levels of hierarchy (meaning it is broken down into sections and sub-sections)
 * complex content which includes named chapters, clauses or sub-sections that are referenced regularly by the intended audience (for example legislative documents and regulations)
-* content that is too long to be easily readable in a [publication](LINK) or [detailed guide](LINK)
+* content that is too long to be easily readable in a [publication](/publish-update-retire-content/standard-content-types/publications/) or [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/)
 * content users think of as a single body or document
 * legal or guidance documents which need to be browsable
 * content that has a valid [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/)
@@ -64,7 +64,7 @@ You'll also need to ask for the 'editor' permission to publish your draft, or fi
 
 ## Create a draft
 
-Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help with writing the content.
+Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help with writing the content.
 
 ### If you're creating a new manual
 
@@ -100,7 +100,7 @@ If you do not want any accordions in a section, tick the 'Remove collapsible con
 
 You can add attachments as 'inline' links within the body of each section. You cannot add HTML attachments to this content type.
 
-Read the guidance on [formatting attachments](LINK) before you start.
+Read the guidance on [formatting attachments](/formatting-content/attachments/) before you start.
 
 When the attachment is ready:
 

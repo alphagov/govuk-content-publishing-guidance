@@ -46,7 +46,7 @@ This will take you to the organisation page to edit.
 
 Featured content appears under the 'Featured' section near the top of your organisation page. You can feature up to 6 pieces of published content. Do not feel that you have to use all the feature slots: the fewer content items you feature, the more they stand out.
 
-Any items you feature must include an image that's 960 pixels wide and 640 pixels high. There's more [guidance on formatting images](link tbc) if you need it.
+Any items you feature must include an image that's 960 pixels wide and 640 pixels high. There's more [guidance on formatting images](/formatting-content/images-videos/formatting-images/) if you need it.
 
 You can feature some content not published using Whitehall Publisher, including:
 
@@ -106,11 +106,11 @@ Only managing editors can edit the featured links layout and add links. To edit 
 When choosing links, consider:
 
 * what users are searching for from your organisation page
-* linking to high level [topic pages](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/) (if you have them)
+* linking to high level [topic pages](/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/) (if you have them)
 * most popular content based on page views
 * user feedback comments
 * frequent contact centre queries
-* balancing mainstream and specialist user needs - the [guidance on planning new content](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) includes more information about the difference between mainstream and specialist content
+* balancing mainstream and specialist user needs - the [guidance on planning new content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) includes more information about the difference between mainstream and specialist content
 * seasonal trends (for example applications for study visas or fishing rod licences)
 
 See [a good example of a service priority organisation page](https://www.gov.uk/government/organisations/companies-house). 
@@ -135,6 +135,7 @@ Do not include links to content that's already featured elsewhere on your organi
 * corporate information pages
 
 Do not include campaign sites unless there's evidence of significant user demand.
+
 See [a good example of a news priority organisation page](https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero). 
 
 ## The 'what we do' section and 'About us' page
@@ -157,7 +158,7 @@ When writing the 'About us' page:
 2. Select 'Create new corporate information page'.
 3. Select 'About us' from the 'Type' dropdown.
 4. Add a summary and a body – the summary is the part that will show up under the 'What we do' section and the body will only be on the separate 'About us' page.
-5. When you're happy with the content, select 'Submit for 2nd eyes' so another editor can [review the page and publish](link tbc).
+5. When you're happy with the content, select 'Submit for 2nd eyes' so another editor can review the page and publish.
 
 ### Edit an 'About us' page
 
@@ -165,7 +166,7 @@ When writing the 'About us' page:
 2. Select the 'View' link next to the 'About us' heading.
 3. Select 'Create new edition'.
 4. Edit the summary to change the 'What we do' section or body to change the 'About us' page.
-5. When you've made your edits, select 'Submit for 2nd eyes' so another editor can [review the page and publish](link tbc).
+5. When you've made your edits, select 'Submit for 2nd eyes' so another editor can review the page and publish.
 
 ## Corporate information pages
 
@@ -197,6 +198,7 @@ You must add a Freedom of Information contact and general enquiries contact. Bot
 Add other contacts (not for your organisation page) that appear frequently in your news and other documents. You'll be able to add these to content from the list you create here.
 
 Contact details are shown in the order you add them. You can reorder them using the 'Reorder' option at the top of the contacts list. 
+
 ## Social media accounts
 
 1. On your organisation page, select the 'Social media accounts' tab.
@@ -208,7 +210,7 @@ These will show under the 'Follow us' heading under the 'What we do' section of 
 
 Organisation pages automatically show people tagged to the organisation under 'Our ministers' and 'Our management' on the organisation page. 
 
-Read the guidance on [adding people and role pages](link tbc) to find out how to add people and roles, and tag them to your organisation.
+Read the guidance on [adding people and role pages](/publish-update-retire-content/organisations-people/people-roles) to find out how to add people and roles, and tag them to your organisation.
 
 Once people are tagged, you can use the 'People' tab of your organisation page to reorder them. 
 
@@ -262,7 +264,7 @@ Once you've added a translation, a tab next to the 'Features' tab will show call
 9. If you want to add any translated attachments, go back to the English version and add the attachments there. You can then copy the code and paste it into the translated version.
 10. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
 
-> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](LINK).
+> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
 
 The translated version will automatically show up on the translated organisation page.
 
@@ -281,7 +283,7 @@ If you want to update an attachment:
 
 ### Add translated people pages
 
-Follow the [guidance on adding translations to people pages](link tbc). Once you've added a translated version, it will show up on the translated organisation page automatically. 
+Follow the [guidance on adding translations to people pages](/publish-update-retire-content/organisations-people/people-roles/#add-a-translation-to-a-role-or-people-page). Once you've added a translated version, it will show up on the translated organisation page automatically. 
 
 ## Add or change the accessible formats request email
 

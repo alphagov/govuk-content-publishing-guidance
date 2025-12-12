@@ -153,7 +153,7 @@ You must only assign a role to a person on or after the day they take up the rol
 
 Once you've assigned someone to the role, check if the biography on their people page needs updating. 
 
-## Add a translation to a role or people pages
+## Add a translation to a role or people page
 
 You need to translate both the role page and the people page separately.
 

@@ -17,7 +17,7 @@ Use the call for evidence content type if you want to ask for people's views, bu
 
 Do not use this content type for:
 
-- consultations – use the [consultation content type](LINK)
+- consultations – use the [consultation content type](/publish-update-retire-content/standard-content-types/consultations/)
 - documents that should be added to an existing call for evidence (such as supporting or outcome documents)
 
 There could be legal consequences if you use a call for evidence content type when you are actually carrying out a consultation.
@@ -46,9 +46,9 @@ You can then add a final outcome to explain the government's response to the cal
 6. In the body, add a brief account of what you are asking people about and who the call for evidence is aimed at. Keep it to under 100 words, and do not include the closing date as it's added automatically.
 7. Add an opening and closing date for the call for evidence. You can also add a specific opening and closing time.
 8. If the documents and way of responding are not hosted on GOV.UK, tick 'This call for evidence is held on another website' and include the link.
-9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](LINK).
+9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](/formatting-content/attachments/).
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
-11. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+11. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 12. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -59,10 +59,10 @@ Go to the 'Attachments' tab. Your attachments can either be file attachments or 
 
 If you're uploading a file attachment:
 
-- make sure you've correctly [formatted the attachment](LINK) before you upload it
+- make sure you've correctly [formatted the attachment](/formatting-content/attachments/) before you upload it
 - do not tick 'Attachment is accessible' – this will let users see a box with information about requesting the attachment in an accessible format, like audio or Braille
 
-If you're uploading a HTML attachment, read the [formatting guidance](LINK) for help.
+If you're uploading a HTML attachment, read the [formatting guidance](/formatting-content/) for help.
 
 ### If you're updating a call for evidence
 
@@ -70,10 +70,10 @@ If you're uploading a HTML attachment, read the [formatting guidance](LINK) for 
 2. Select the 'Documents' tab.
 3. Search for the call for evidence you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Make any changes to the title, summary and body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+5. Make any changes to the title, summary and body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
 7. Change the options under 'Excluded nations (required)' if needed.
-8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 9. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select the relevant option under 'Do users have to know the content has changed?' and add your change notes (you can edit them again before you publish the draft).
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
@@ -89,7 +89,7 @@ Do not change the original content or documents. They will move to the bottom of
 3. Search for the call for evidence you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish anything).
-6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Final outcome' tab at the top of the page. Add a publication date and content to describe the outcome.
 9. Select 'Save'.
@@ -97,10 +97,10 @@ Do not change the original content or documents. They will move to the bottom of
 
 If you're uploading a file attachment:
 
-- make sure you've correctly [formatted the attachment](LINK) before you upload it
+- make sure you've correctly [formatted the attachment](/formatting-content/attachments/) before you upload it
 - do not tick 'Attachment is accessible' – this will let users see a box with information about requesting the attachment in an accessible format, like audio or Braille
 
-If you're uploading a HTML attachment, read the [formatting guidance](LINK) for help.
+If you're uploading a HTML attachment, read the [formatting guidance](/formatting-content/) for help.
 
 Do not attach any documents that will be relevant after the call for evidence is closed, like policy papers or new guidance. Create separate pages for them.
 
@@ -134,7 +134,7 @@ Read the [guidance about deciding whether to add a translation](LINK).
 
 If you want to add a translation, you'll need to create a completely separate draft and select 'Create a foreign language only call for evidence'.
 
-Add the link to the foreign language version at the top of the English version. Use this format: "[View this call for evidence in Arabic](link)".
+Add the link to the foreign language version at the top of the English version. Use this format: "[View this call for evidence in Arabic](url)".
 
 Repeat the steps to link the English version to the foreign language version. If you have multiple translations, make sure all the translations are linked.
 

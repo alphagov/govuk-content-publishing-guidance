@@ -21,9 +21,9 @@ There are different types of news articles. Make sure you choose the right type.
 
 | Content type | What to use it for | What not to use it for| 
 |---|---|---|
-| Government response | Government statements produced in response to media coverage by your organisation's press team. For example, rebuttals or 'myth busters'. These are usually short and to the point, consisting of a quotation with no headings. | Statements issued to Parliament. Speeches or press articles. Letters to newspapers written by ministers. Use the [speech type](LINK) for all of these instead. |
-| News story | News content written only for GOV.UK which users need, can act on, would expect to get directly from the government and cannot get from other sources. For example, the opening of a government grant scheme or a change to public services that affects public sector employees. The content should be self-contained. It should be possible to delete it from the site without affecting anything else. You can also use this to set out details about future events that your organisation is holding. Use a [document collection](LINK) to collect multiple news stories if you're holding a programme of events. | Information that puts your organisation's views on record. Use the government response type instead. Duplication of press releases or [fatality notices](LINK). Duplication of another organisation's news story. Consider publishing a news story jointly, or cover the same story from different angles or for different audiences. Promotion of the publication of other content, like statistics. General purpose content pages or just to link through to other GOV.UK content. Guidance for users. Link to a [guidance publication](LINK) or [detailed guide](LINK) if there's something a user can act on. |
-| Press release | Unedited press releases as sent to the media. You can put additional notes at the end under a 'Background' heading. Official statements by an organisation spokesperson. Official statements made by a minister, apart from parliamentary statements. | Ministerial statements issued to Parliament. Use the [speech type](LINK) instead. Promotion of the publication of other content, like statistics. Guidance for users. Link to a [guidance publication](LINK) or [detailed guide](LINK) if there's something a user can act on. |
+| Government response | Government statements produced in response to media coverage by your organisation's press team. For example, rebuttals or 'myth busters'. These are usually short and to the point, consisting of a quotation with no headings. | Statements issued to Parliament. Speeches or press articles. Letters to newspapers written by ministers. Use the [speech type](/publish-update-retire-content/standard-content-types/speeches/) for all of these instead. |
+| News story | News content written only for GOV.UK which users need, can act on, would expect to get directly from the government and cannot get from other sources. For example, the opening of a government grant scheme or a change to public services that affects public sector employees. The content should be self-contained. It should be possible to delete it from the site without affecting anything else. You can also use this to set out details about future events that your organisation is holding. Use a [document collection](/publish-update-retire-content/standard-content-types/document-collections/) to collect multiple news stories if you're holding a programme of events. | Information that puts your organisation's views on record. Use the government response type instead. Duplication of press releases or [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/). Duplication of another organisation's news story. Consider publishing a news story jointly, or cover the same story from different angles or for different audiences. Promotion of the publication of other content, like statistics. General purpose content pages or just to link through to other GOV.UK content. Guidance for users. Link to a [guidance publication](/publish-update-retire-content/standard-content-types/publications/) or [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) if there's something a user can act on. |
+| Press release | Unedited press releases as sent to the media. You can put additional notes at the end under a 'Background' heading. Official statements by an organisation spokesperson. Official statements made by a minister, apart from parliamentary statements. | Ministerial statements issued to Parliament. Use the [speech type](/publish-update-retire-content/standard-content-types/speeches/) instead. Promotion of the publication of other content, like statistics. Guidance for users. Link to a [guidance publication](/publish-update-retire-content/standard-content-types/publications/) or [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) if there's something a user can act on. |
 | World news story | Announcements specific to one or more world locations. For example, news related to a British embassy. | Duplication of another government organisation's news story. |
 
 
@@ -37,8 +37,8 @@ There are different types of news articles. Make sure you choose the right type.
 2. Select the 'New document' tab.
 3. Select 'News article' and then select the 'Next' button.
 4. Select the content type from the dropdown under 'News article type (required)'.
-5. Add the title, summary and body. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
-6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+5. Add the title, summary and body. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
+6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 7. If you're creating a world news story, tag the story to a world location and worldwide organisation under the 'Associations' heading.
 7. Select the 'Save' button at the bottom of the page.
 
@@ -48,7 +48,7 @@ After saving the page, you can add images and attachments.
 
 Do not make updates unless you're correcting an error. News articles are supposed to reflect the government's position at a particular moment in time.
 
-If a news article is outdated, consider [withdrawing or unpublishing the existing content](LINK) and publishing a new article.
+If a news article is outdated, consider [withdrawing or unpublishing the existing content](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) and publishing a new article.
 
 If you're correcting an error:
 
@@ -56,9 +56,9 @@ If you're correcting an error:
 2. Select the 'Documents' tab.
 3. Search for the news article you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+5. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
-7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 8. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 9. Select the 'Save' button at the bottom of the page.
 
@@ -68,7 +68,7 @@ You can now edit the images and attachments.
 
 ## Add or remove images
 
-Make sure you've correctly [formatted the images](LINK) before you add them.
+Make sure you've correctly [formatted the images](/formatting-content/images-videos/formatting-images/) before you add them.
 
 Select the 'Images' tab at the top of the page. You can upload images here. Each image will need a different file name.
 
@@ -84,7 +84,7 @@ If you want to remove an image, you can remove its code from the body. You can t
 
 The default image for the lead organisation will be used as the lead image, if there is one.
 
-You can add or change the default image on the relevant [organisation page](LINK).
+You can add or change the default image on the relevant [organisation page](/publish-update-retire-content/organisations-people/organisations/).
 
 ## Add or edit attachments
 

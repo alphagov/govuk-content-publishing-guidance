@@ -22,7 +22,7 @@ You should also use statistics announcements for:
 
 Do not use them for:
 
-+ data that you publish monthly or more often without analysis, such as raw data - use a [statistical data set](LINK) instead
++ data that you publish monthly or more often without analysis, such as raw data - use a [statistical data set](/publish-update-retire-content/standard-content-types/statistical-data-sets/) instead
 + announcing supporting documents (such as quality reports or methodology)
 
 You must create a statistics publication joined to your statistics announcement. You should publish or schedule it for the release date. 
@@ -41,7 +41,7 @@ Do not create or modify statistics announcements unless you have permission from
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
-All content should follow the [GOV.UK style guide](LINK). Read the [tone of voice guidelines](LINK) to find out how to write your title and summary.
+All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/). Read the [tone of voice guidelines](/writing-to-gov-uk-standards/tone-of-voice/) to find out how to write your title and summary.
 
 The title and summary are displayed in the release calendar and search engine results. They help users understand if your statistics content is what they need.
 
@@ -72,7 +72,7 @@ Only choose 'Add an existing document' if you've already created a statistics pu
 1. Click 'Create new document'. This will automatically create a statistics publication page for your statistics document. The publication type, title, summary and scheduled publishing date and time will be filled in automatically for you.
 2. Add a description of the publication to the body. Describe the purpose of the statistics and do not summarise what the publication says. Say whether the method of classification has changed since the last publication.
 3. Select the relevant options under 'Excluded nations (required)'.
-4. Select 'Limit access' if your draft is sensitive. This means only users from tagged organisations can see it before it's published and it will not be copied across to [Integration](LINK).
+4. Select 'Limit access' if your draft is sensitive. This means only users from tagged organisations can see it before it's published and it will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 5. Select 'Save' so you can attach the file containing the statistics under the 'Attachments' tab.
 6. Go back to the 'Documents' tab and select 'Save and go to document summary'.
 7. Add topic tagging by selecting the 'Add tag' under the 'Topic taxonomy tags' heading.
@@ -96,7 +96,7 @@ These associations include:
 
 {% include 'reusable-content/associations-organisations.md' %}
 
-- statistical data sets – use this if the publication is associated with a [statistical data set](LINK)
+- statistical data sets – use this if the publication is associated with a [statistical data set](/publish-update-retire-content/standard-content-types/statistical-data-sets/)
 
 ## Review and publish a statistics publication
 
@@ -111,9 +111,9 @@ When the statistics publication is published, the announcement will disappear fr
 3. Select the 'Edit' button.
 4. Make your changes.
 5. Do not change anything under the 'Political' heading. This is related to [history mode](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only be important if your organisation is asked to take part in a history mode audit.
-6. Decide whether you need to [write change notes](LINK). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
+6. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 7. Select the 'Save' button at the bottom of the page.
-8. Select 'Submit for 2nd eyes'. This will allow another editor to [review your document](LINK) and then they can publish or schedule it.
+8. Select 'Submit for 2nd eyes'. This will allow another editor to [review your document](/publish-update-retire-content/standard-content-types/review-standard/) and then they can publish or schedule it.
 
 ## Edit a statistics announcement title, summary, organisation or topic
 
@@ -166,4 +166,6 @@ Select 'View' next to the announcement you want to unpublish.
 Select the 'Unpublish announcement' button. 
 Add the URL you want the announcement to redirect to and click the 'Unpublish' button.
 
-Find out how to [withdraw or unpublish](LINK) a statistics publication.
+Find out how to [withdraw or unpublish](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) a statistics publication.
+
+*[GDS]: Government Digital Service

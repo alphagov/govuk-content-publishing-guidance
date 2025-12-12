@@ -37,7 +37,7 @@ Your title should make sense:
 
 * by itself – for example 'Regulations' does not say much, but 'Regulations for environmental waste' does
 * in search results
-* in [document collections](link tbc)
+* in [document collections](/publish-update-retire-content/standard-content-types/document-collections/)
 
 ## Use clear and common language
 

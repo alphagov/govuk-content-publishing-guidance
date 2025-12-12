@@ -63,21 +63,21 @@ export default function(eleventyConfig) {
     serviceNavigation: {
       navigation: [
         {
-            text: "Writing to GOV.UK standards",
+            text: "Writing standards",
             href: "/writing-to-gov-uk-standards"
+        },
+        {
+          text: "Publishing content",
+          href: "/publish-update-retire-content"
         },
         {   
           text: "Formatting content",
           href: "/formatting-content"
         },
         {
-          text: "Publishing during national events",
+          text: "National events",
           href: "/publishing-national-events"  
         },
-        {
-          text: "Publish, update or retire content",
-          href: "/publish-update-or-retire-content"
-        }
       ]
     },
     footer: {

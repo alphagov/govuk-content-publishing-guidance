@@ -20,9 +20,9 @@ Use publications for publishing attachments like:
 
 Do not create a publication for:
 
-- meeting minutes, agendas or other meeting papers – these should be attached directly to a [group page](LINK) or [governance corporate information page](LINK) 
+- meeting minutes, agendas or other meeting papers – these should be attached directly to a [group page](/publish-update-retire-content/organisations-people/groups/) or [governance corporate information page](/publish-update-retire-content/coporate-information/our-governance-memberships/) 
 - videos – these should be embedded directly in the content they relate to
-- guidance that is not in an attachment – use the [detailed guidance content type](LINK) instead
+- guidance that is not in an attachment – use the [detailed guidance content type](/publish-update-retire-content/standard-content-types/detailed-guides/) instead
 
 Publication pages should not include multiple documents, unless they are:
 
@@ -31,7 +31,7 @@ Publication pages should not include multiple documents, unless they are:
 - forms and guidance about filling in those forms
 - policy papers and impact assessments of those policies
 
-Otherwise, publish the documents separately and use a [document collection](LINK) to group them together.
+Otherwise, publish the documents separately and use a [document collection](/publish-update-retire-content/standard-content-types/document-collections/) to group them together.
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
@@ -47,7 +47,7 @@ There are different types of publications. Make sure you choose the right type, 
 |---|---|---|
 | Corporate report | Publications about your organisation as a corporate entity. This includes accounts, annual reports, business plans, performance and efficiency reviews and structural reform plans. | Publications about what your organisation does, like strategy documents. Use the policy paper type instead. |
 | Correspondence | Correspondence created by your organisation or ministers. This includes announcements, letters, responses and statements. It also includes bulletins, circulars, e-bulletins and newsletters. | Formal decision letters from tribunals, regulators or adjudicators. Use the decision type instead. |
-| Decision | Formal decisions made by tribunals, regulators or adjudicators that need to be published for legal reasons or because they relate to significant local or national issues. | Responses to consultations and calls for evidence. Use the [consultation type](LINK) or [call for evidence type](LINK) instead. Also, press announcements about the decision. Use the [news article type](LINK) instead. |
+| Decision | Formal decisions made by tribunals, regulators or adjudicators that need to be published for legal reasons or because they relate to significant local or national issues. | Responses to consultations and calls for evidence. Use the [consultation type](/publish-update-retire-content/standard-content-types/consultations/) or [call for evidence type](/publish-update-retire-content/standard-content-types/calls-for-evidence/) instead. Also, press announcements about the decision. Use the [news article type](/publish-update-retire-content/standard-content-types/news-articles) instead. |
 | Form | Forms or pro forma documents that need to be completed by the user. The page can also include guidance on how to fill in the form. | Anything that is not a form or guidance about filling in a form. |
 | Freedom of information (FOI) release | Response to FOI requests | Anything that is not a response to an FOI request |
 |Guidance | Non-statutory guidance publications like handbooks or other documents that offer advice. Also, guidance material that has been produced as a standalone hard copy document rather than a web original document. | Statutory guidance. Use the statutory guidance type instead. Guidance about completing a form. Attach it to the same publication as the form itself. |
@@ -57,12 +57,12 @@ There are different types of publications. Make sure you choose the right type, 
 | Map | Drawn maps and geographical data. | Anything that is not a map or geographical data. |
 | Notice | Permit and licence applications that have to be published temporarily in a public space so users can view, comment or lodge an objection. | Anything that is not a permit or licence application. |
 | Policy paper | Publications that explain the government's position on something. This includes action plans, implementation plans, operational plans, strategies and white papers. The page can also include any related impact assessments. | Publications that include instructions about how to carry out a task. Use the guidance type instead. |
-| Promotional material | Fact sheets, leaflets, marketing collateral and posters. | Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the [news article type](LINK) instead. |
+| Promotional material | Fact sheets, leaflets, marketing collateral and posters. | Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the [news article type](/publish-update-retire-content/standard-content-types/news-articles) instead. |
 | Regulation | Regulations imposed by independent regulatory authorities, like Ofsted or the Military Aviation Authority. | Statutory guidance describing requirements that are mandatory by law. Use the statutory guidance type instead. Also, non-statutory guidance like handbooks and other documents that offer advice. Use the guidance type instead. |
-| Research and analysis | Analyses, evaluations, research reports and surveys. They can be conducted by government, commissioned by government or independent of government. | Responses to consultations and calls for evidence. Use the [consultation type](LINK) or [call for evidence type](LINK) instead. |
+| Research and analysis | Analyses, evaluations, research reports and surveys. They can be conducted by government, commissioned by government or independent of government. | Responses to consultations and calls for evidence. Use the [consultation type](/publish-update-retire-content/standard-content-types/consultations/) or [call for evidence type](/publish-update-retire-content/standard-content-types/calls-for-evidence/) instead. |
 | Standard | Requirements, specifications, guidelines or patterns that can be consistently applied to products, processes and services within government. | Any standards that are not about products, processes or services within government. |
 | Statutory guidance | Guidance that relevant users must follow. | Non-statutory guidance. Use the guidance type instead. |
-| Transparency data | Data that organisations are routinely required to make available to the public. This includes departmental spending and ministerial expenses. | Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the [statistical data set type](LINK) instead. |
+| Transparency data | Data that organisations are routinely required to make available to the public. This includes departmental spending and ministerial expenses. | Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the [statistical data set type](/publish-update-retire-content/standard-content-types/statistical-data-sets/) instead. |
 
 
 ## Create a draft
@@ -75,7 +75,7 @@ There are different types of publications. Make sure you choose the right type, 
 4. Select the content type from the dropdown under 'Publication type (required)'.
 5. Add the title and summary. Add a description of the publication to the body.
 6. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
-7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 8. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -91,9 +91,9 @@ After saving the page, you can add attachments and images.
 3. Search for the publication you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Do not change anything under the 'Political' heading. This is related to [history mode](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
-6. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+6. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 7. Change the options under 'Excluded nations (required)' if needed.
-8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 9. Decide whether you need to [write public change notes](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 10. Select the 'Save' button at the bottom of the page.
 
@@ -105,7 +105,7 @@ You can now edit the attachments and images.
 
 The publication itself should be added as an attachment.
 
-Make sure you've correctly [formatted the attachment](LINK) before you upload it.
+Make sure you've correctly [formatted the attachment](/formatting-content/attachments/) before you upload it.
 
 Select the 'Attachments' tab at the top of the page. You can add, edit or delete attachments from here, and change the order they appear on the page.
 
@@ -175,7 +175,7 @@ If it's an unnumbered act paper, fill in these fields:
 
 {% include 'reusable-content/associations-organisations.md' %}
 
-- statistical data sets – use this if the publication is associated with a [statistical data set](LINK)
+- statistical data sets – use this if the publication is associated with a [statistical data set](/publish-update-retire-content/standard-content-types/statistical-data-sets/)
 
 > [!NOTE]
 > If you're publishing transparency data, check if there's relevant ['How to publish' guidance](https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data) which includes the associations you need to use.
@@ -206,7 +206,7 @@ If you do want to add a translation:
 8. Select 'Save and go to document summary' on the 'Document' tab.
 9. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
 
-> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](LINK).
+> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
 
 ### Edit an existing translation
 

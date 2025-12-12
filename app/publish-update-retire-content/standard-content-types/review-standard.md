@@ -14,7 +14,7 @@ If you've been asked to review someone else's content, check that it:
 - [should be on GOV.UK](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/)
 - does not duplicate content already on GOV.UK
 - has a clear [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/)
-- is the right [content type](LINK)
+- is the right [content type](/publish-update-retire-content/choose-content-type/)
 
 Titles must be:
 
@@ -66,7 +66,7 @@ Check in Whitehall Publisher if:
 
 ## After you finish reviewing
 
-If the draft meets publishing standards, read the guidance on [how to publish content](LINK).
+If the draft meets publishing standards, read the guidance on [how to publish content](/publish-update-retire-content/standard-content-types/publish-standard/).
 
 If changes are needed, select 'Reject' and write an internal note explaining the reasons why. The draft will be sent back to the person who made the draft for further changes. They'll get an email about it.
 

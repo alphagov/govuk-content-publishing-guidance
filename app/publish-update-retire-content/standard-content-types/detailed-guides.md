@@ -15,9 +15,9 @@ lastUpdated:
 
 Use detailed guides to tell users the steps they need to take to complete a clearly defined task, like applying for a grant.
 
-Use this type for content that is regularly updated, for example if the process to apply for a grant will change regularly. If it's updated rarely, use a guidance [publication](LINK) instead.
+Use this type for content that is regularly updated, for example if the process to apply for a grant will change regularly. If it's updated rarely, use a guidance [publication](/publish-update-retire-content/standard-content-types/publications/) instead.
 
-Content containing background information about why a user needs to complete a task or the history behind it should be in a policy paper [publication](LINK).
+Content containing background information about why a user needs to complete a task or the history behind it should be in a policy paper [publication](/publish-update-retire-content/standard-content-types/publications/).
 
 > To work on a detailed guide, you'll need a [Signon account with access to Whitehall Publisher](LINK).
 
@@ -28,9 +28,9 @@ Content containing background information about why a user needs to complete a t
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
 2. Select the 'New document' tab.
 3. Select 'Detailed guide' and then select the 'Next' button.
-4. Add the title, summary and body. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+4. Add the title, summary and body. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 5. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
-6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 7. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can add attachments and images.
@@ -41,10 +41,10 @@ After saving the page, you can add attachments and images.
 2. Select the 'Documents' tab.
 3. Search for the detailed guide you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+5. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
 7. Change the options under 'Excluded nations (required)' if needed.
-8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 9. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 10. Select the 'Save' button at the bottom of the page.
 

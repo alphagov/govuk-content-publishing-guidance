@@ -84,7 +84,7 @@ If you want to update multiple links at once:
 You cannot mark links as 'Missing' using this method. You'll need to go to each individual link and leave it blank, rather than doing that on the CSV file.
 
 > [!NOTE]
-> If you want to update links on ['Find your local council'](/find-local-council) or the homepage links that appear by default when a link is missing, select the 'Councils' tab instead. Search for the relevant council, select 'Edit' next to their name and then 'Edit homepage URL'.
+> If you want to update links on ['Find your local council'](https://www.gov.uk/find-local-council) or the homepage links that appear by default when a link is missing, select the 'Councils' tab instead. Search for the relevant council, select 'Edit' next to their name and then 'Edit homepage URL'.
 
 ### Update the name of a council
 

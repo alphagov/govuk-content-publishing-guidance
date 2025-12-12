@@ -23,9 +23,9 @@ Use specialist finders for document collections that:
 
 Do not use them for:
 
-+ complex content with numbered or named chapters or clauses – these are more suited to [manuals](LINK)
++ complex content with numbered or named chapters or clauses – these are more suited to [manuals](/publish-update-retire-content/other-content-types/manuals/)
 + grouping pages that contain different types of content – these are more suited to [topic pages](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/)
-+ collections that will have fewer than 100 documents and will not be used or updated regularly - these are more suited to [document collections](LINK)
++ collections that will have fewer than 100 documents and will not be used or updated regularly - these are more suited to [document collections](/publish-update-retire-content/standard-content-types/document-collections/)
 
 See a [good example of a specialist finder](https://www.gov.uk/algorithmic-transparency-records).
 
@@ -71,7 +71,7 @@ If you need access to Specialist Publisher, ask one of your organisation admins.
 
 ## Writing and formatting requirements for specialist finders
 
-All content should follow the [GOV.UK style guide](LINK) and [tone of voice guidance](LINK). Read these to find out how to write your title, summary and body copy.
+All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/). Read these to find out how to write your title, summary and body copy.
 
 Name the specialist finder with a verb, like 'Find funding for land or farms'. Specialist finders are used to do a specific task, which is usually to "find" a document related to a specialist interest. 
 

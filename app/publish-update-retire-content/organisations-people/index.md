@@ -13,6 +13,6 @@ Some content types are for information about government organisations, or people
 
 These are:
 
-* [group pages](link tbc) (for groups within organisations, such as policy advisory groups)
-* [organisation pages](link tbc) (such as departments, agencies or arms length bodies)
-* [people and role pages](link tbd) (such as ministers or senior department staff)
+* [group pages](/publish-update-retire-content/organisations-people/groups/) (for groups within organisations, such as policy advisory groups)
+* [organisation pages](/publish-update-retire-content/organisations-people/organisations/) (such as departments, agencies or arms length bodies)
+* [people and role pages](/publish-update-retire-content/organisations-people/people-roles) (such as ministers or senior department staff)

@@ -43,7 +43,7 @@ Any changes you make to the page will appear instantly on the live site.
 
 1. Select the 'Details' tab.
 2. Select 'Edit'.
-3. Edit the text in the 'Mission statement' field. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+3. Edit the text in the 'Mission statement' field. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 4. Select 'Preview' at the top of the 'Mission statement' field to check the text is correctly formatted.
 5. When you've finished, select 'Save'.
 
@@ -86,7 +86,7 @@ If the content is published through Whitehall Publisher:
 2. Select the 'Documents' tab (or 'Topical events' tab for a topical event).
 3. You'll see a list of published content tagged to this world location. Use the search filter to the left of the list to find the content you want to feature.
 4. Select the 'Feature' button next to the document you want to feature.
-5. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](LINK) for help.
+5. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](/formatting-content/images-videos/formatting-images/) for help.
 6. Select 'Save'.
 7. You can select the top 5 items you want to appear. Reorder the items by selecting 'Reorder documents'.
 
@@ -97,7 +97,7 @@ If the content is not published through Whitehall Publisher:
 3. Complete the required fields, including the URL.
 4. Select 'Save'.
 5. Select 'Feature' next to the link you want to feature.
-6. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](LINK) for help.
+6. Select a 960 pixels wide and 640 pixels high image to be shown on your organisation page with this feature. Read the [image formatting guidance](/formatting-content/images-videos/formatting-images/) for help.
 7. Select 'Save'.
 
 If you want to reorder the featured content:
@@ -137,16 +137,16 @@ Only create a new worldwide organisation page if you have permission from a mana
 2. Select 'New document'.
 3. Select 'Worldwide organisation' and then select 'Next'.
 4. Complete the title, summary and body text.
-5. Under 'Associations', you can tag the organisation to world locations, [role pages](LINK) and UK government organisations.
+5. Under 'Associations', you can tag the organisation to world locations, [role pages](/publish-update-retire-content/organisations-people/people-roles) and UK government organisations.
 6. In the 'Logo formatted name' box, write the organisation name as you want it to appear. For example, all on one line or split on different lines.
-7. You can also upload and save a default news image for the organisation page. Make sure you've correctly [formatted the image](LINK) before you add it.
+7. You can also upload and save a default news image for the organisation page. Make sure you've correctly [formatted the image](/formatting-content/images-videos/formatting-images/) before you add it.
 8. Select 'Save'.
 
 You can now add translations, attachments, offices, information pages and social media accounts.
 
-When you're ready to publish your draft, find out how to [send the draft for review](LINK).
+When you're ready to publish your draft, find out how to [send the draft for review](/publish-update-retire-content/standard-content-types/review-standard/).
 
-If you need to publish it urgently without a review, find out when you can [publish your own draft](LINK).
+If you need to publish it urgently without a review, find out when you can [publish your own draft](/publish-update-retire-content/standard-content-types/publish-standard/).
 
 ### Edit an existing world organisation page
 
@@ -161,9 +161,9 @@ If you need to publish it urgently without a review, find out when you can [publ
 
 You can now add or edit translations, attachments, offices, information pages and social media accounts.
 
-When you're ready to publish your draft, find out how to [send the draft for review](LINK).
+When you're ready to publish your draft, find out how to [send the draft for review](/publish-update-retire-content/standard-content-types/review-standard/).
 
-If you need to publish it urgently without a review, find out when you can [publish your own draft](LINK).
+If you need to publish it urgently without a review, find out when you can [publish your own draft](/publish-update-retire-content/standard-content-types/publish-standard/).
 
 ### Add or edit translations
 
@@ -182,7 +182,7 @@ If you want to update an attachment in a translation:
 
 ### Add or edit attachments
 
-Make sure you correctly [format attachments](LINK) before you upload them. You can upload attachments one at a time or as a bulk upload.
+Make sure you correctly [format attachments](/formatting-content/attachments/) before you upload them. You can upload attachments one at a time or as a bulk upload.
 
 Select the 'Attachments' tab at the top of the page. You can add, edit or delete attachments from here.
 
@@ -307,7 +307,7 @@ You can tag content to these navigation pages if it tells users how to complete 
 
 There's a navigation page for each country and territory.
 
-[Contact GDS](https://support.publishing.service.gov.uk/content_advice_request/new) if you want:
+[Contact GDS](LINK) if you want:
 
 - a new navigation page
 - to edit the title, sections or description of an existing page
@@ -333,7 +333,7 @@ To tag the content:
 5. Select the topics you want to tag the content to.
 6. Select 'Save topic changes'.
 
-You can also [contact GDS](https://support.publishing.service.gov.uk/content_advice_request/new) if you want them to tag:
+You can also [contact GDS](LINK) if you want them to tag:
 
 * mainstream content
 * manuals

@@ -1,4 +1,4 @@
-Make sure you've correctly [formatted the images](link tbc) before you add them.
+Make sure you've correctly [formatted the images](/formatting-content/images-videos/formatting-images/) before you add them.
 
 Select the 'Images' tab at the top of the page. You can upload images here. Each image will need a different file name.
 

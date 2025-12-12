@@ -13,7 +13,7 @@ Royal deaths (also known as 'bridges' or 'bridge events') can affect publishing.
 
 You'll be told by the Government Digital Service (GDS) if a bridge event has begun. They'll send messages:
 
-- on the [content community Basecamp](link tbc) 
+- on the [content community Basecamp](https://3.basecamp.com/4322319/projects/15005645) 
 - through emails to your GOV.UK lead
 
 ## Publishing on GOV.UK

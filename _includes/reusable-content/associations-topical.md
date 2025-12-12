@@ -1,1 +1,1 @@
-- topical events – use this if you want the content to appear on a [topical event page](LINK)
+- topical events – use this if you want the content to appear on a [topical event page](/publish-update-retire-content/promotional-social/topical-events/)

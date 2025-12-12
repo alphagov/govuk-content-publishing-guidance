@@ -43,14 +43,14 @@ When you're done, select the 'Save as draft' button and then the 'Publish' butto
 
 There are different ways to make edits depending on the type of licence page.
 
-For pages where users select a button to apply on an external website (for example '[Food examiner appointment (England, Northern Ireland, Wales)](/find-licences/food-examiner-appointment-england-northern-ireland-wales)'), you can update all of the content yourself in Specialist Publisher.
+For pages where users select a button to apply on an external website (for example '[Food examiner appointment (England, Northern Ireland, Wales)](https://www.gov.uk/find-licences/food-examiner-appointment-england-northern-ireland-wales)'), you can update all of the content yourself in Specialist Publisher.
 
-For pages where users enter their postcode and are directed to their local authority (for example ['Premises licence (England and Wales)](/find-licences/premises-licence)'):
+For pages where users enter their postcode and are directed to their local authority (for example ['Premises licence (England and Wales)](https://www.gov.uk/find-licences/premises-licence)'):
 
 - you can update the first page, and anywhere else that same text appears on the following pages, in Specialist Publisher
 - for any other changes, you'll need to ask the relevant local authority to make the updates in the licensing tool
 
-For pages where users select the 'How to apply' link and apply through the methods specified on the following pages (for example '[Register as a number plate supplier](/find-licences/register-as-number-plate-supplier/dvla)'):
+For pages where users select the 'How to apply' link and apply through the methods specified on the following pages (for example '[Register as a number plate supplier](https://www.gov.uk/find-licences/register-as-number-plate-supplier/dvla)'):
 
 - you can update the first page in Specialist Publisher
 - someone in your organisation can update the other pages in the licensing tool

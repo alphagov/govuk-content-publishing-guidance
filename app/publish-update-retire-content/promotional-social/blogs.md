@@ -50,7 +50,7 @@ You will need to request a blog from the Government Digital Service (GDS).
 
 1. Get approval from your GOV.UK lead or a managing editor.
 2. Figure out who would be the blog's owner. They are the main point of contact with GDS.
-3. Complete the [blog request form](https://docs.google.com/a/digital.cabinet-office.gov.uk/forms/d/1PqhvADUF8_6Zw02w5QtveyjqlMiMWh6COOfPYAuUre8/viewform?edit_requested=true). Contact blogeditors@digital.cabinet-office.gov.uk for an alternative version if you cannot access the form.
+3. Complete the [blog request form](https://docs.google.com/a/digital.cabinet-office.gov.uk/forms/d/1PqhvADUF8_6Zw02w5QtveyjqlMiMWh6COOfPYAuUre8/viewform?edit_requested=true). Contact <blogeditors@digital.cabinet-office.gov.uk> for an alternative version if you cannot access the form.
 
 All new blog requests are dealt with in the order they're received. It may take up to one month to get a response.
 
@@ -72,7 +72,7 @@ When you get a blog, GDS will send you your account details.
 
 ## Write blog posts
 
-All content should follow the [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/).
+All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/).
 
 There are some additional things you need to consider when writing a blog post.
 
@@ -80,7 +80,7 @@ There are some additional things you need to consider when writing a blog post.
 
 Blogging offers a personal way of engaging with people. Blog posts are mostly linked to named authors, who put a face to what might otherwise be perceived as a faceless organisation. It's this personal dimension that, for users, adds credibility and a sense of openness.
 
-This means you should write as you speak. Write as an individual, not as an impersonal organisation or team. You should still follow the [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) but this does not mean you cannot be warm or personal. 
+This means you should write as you speak. Write as an individual, not as an impersonal organisation or team. You should still follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) but this does not mean you cannot be warm or personal. 
 
 Blogs can – and should – spark conversation. This means being accountable for the things you write and responding to comments that meet your comment and moderation policy. If you engage in dialogue, both on your blog and on other social networks, it'll improve your reader's experience and help you learn more about them.
 
@@ -194,7 +194,7 @@ The blog owner must:
 
 - agree to post regularly (blogs that are not updated at least twice a month will be archived)
 - co-ordinate, schedule and check content quality of blog posts before they're published
-- ensure all blog content is accessible and follows the [style guidance](LINK)
+- ensure all blog content is accessible and follows the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/)
 - manage all blog content in WordPress
 - support contributors to publish their work
 - establish moderation principles, and ensure contributors keep to them

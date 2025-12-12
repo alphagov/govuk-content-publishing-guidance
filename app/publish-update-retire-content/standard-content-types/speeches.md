@@ -26,7 +26,7 @@ Do not create a new speech unless:
 
 Do not use it for:
 
-- statements made to the media – use the [news article content type](LINK) instead
+- statements made to the media – use the [news article content type](/publish-update-retire-content/standard-content-types/news-articles) instead
 - publishing a statement to Parliament as a matter of record – that's already done in the [Hansard records](https://hansard.parliament.uk/)
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
@@ -50,11 +50,11 @@ Before you start, decide whether the speech should be marked as:
 2. Select the 'New document' tab.
 3. Select 'Speech' and then select the 'Next' button.
 4. Select the content type from the dropdown under 'Speech type'.
-5. Add the title and summary, and put the speech itself in the body. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
-6. Add the 'Speaker' or 'Writer'. They need to have a [people page](LINK) to have a profile on GOV.UK.
+5. Add the title and summary, and put the speech itself in the body. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
+6. Add the 'Speaker' or 'Writer'. They need to have a [people page](/publish-update-retire-content/organisations-people/people-roles) to have a profile on GOV.UK.
 7. Add the date the speech was 'Delivered on' or 'Written on', and choose whether to add the exact time.
 8. You can choose whether to add the location of where the speech was delivered (unless you're creating an 'authored article').
-9. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+9. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 10. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can add images.
@@ -63,7 +63,7 @@ After saving the page, you can add images.
 
 Do not make updates unless you're correcting an error. Speeches are supposed to be a record of what was said at the time.
 
-If a speech is outdated, consider [withdrawing it](LINK).
+If a speech is outdated, consider [withdrawing it](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/).
 
 If you're correcting an error:
 
@@ -71,9 +71,9 @@ If you're correcting an error:
 2. Select the 'Documents' tab.
 3. Search for the speech you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Make any changes to the title, summary, body and speech details as needed. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](LINK) for help.
+5. Make any changes to the title, summary, body and speech details as needed. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Do not change anything under the 'Political' heading. This is related to [history mode](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
-7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](LINK).
+7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 8. Decide whether you need to [write public change notes](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 9. Select the 'Save' button at the bottom of the page.
 
@@ -87,7 +87,7 @@ You can now edit the images.
 
 ### If the tagged speaker or writer has a page on GOV.UK
 
-The photo used on their [people page](LINK) will automatically be added as a 'lead image' at the top of the page.
+The photo used on their [people page](/publish-update-retire-content/organisations-people/people-roles) will automatically be added as a 'lead image' at the top of the page.
 
 Update their photo on their people page if it needs changing.
 
@@ -131,7 +131,7 @@ If you do want to add a translation:
 4. Select 'Save'.
 5. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
 
-> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](LINK).
+> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
 
 ### Edit an existing translation
 

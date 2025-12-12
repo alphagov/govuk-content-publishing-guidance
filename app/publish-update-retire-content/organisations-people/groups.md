@@ -26,7 +26,7 @@ Group pages should only be set up when there's:
 
 For example, the user need for a group page on a policy advisory group is for transparency. The public should be able to see who is advising on and influencing government policy.
 
-Most groups will not need a group page, because people should not need to understand the structure of government in order to interact with it. Usually a reference to the group elsewhere on GOV.UK will be enough, such as in a [document collection](LINK).
+Most groups will not need a group page, because people should not need to understand the structure of government in order to interact with it. Usually a reference to the group elsewhere on GOV.UK will be enough, such as in a [document collection](/publish-update-retire-content/standard-content-types/document-collections/).
 
 ## What should go on group pages
 
@@ -42,7 +42,7 @@ If it's a policy advisory group, it can also include documents related to the gr
 Group pages should not be used to:
 
 - highlight a particular government scheme or project – if this is the purpose of the group, promote the relevant content pages rather than the group page
-- create an organisation homepage where everything about the group and the subject area it's responsible for is collected in one place – consider whether you need a new [organisation page](LINK) instead
+- create an organisation homepage where everything about the group and the subject area it's responsible for is collected in one place – consider whether you need a new [organisation page](/publish-update-retire-content/organisations-people/organisations/) instead
 - explain the internal structure of government
 
 ## Get permission before adding a new group page
@@ -100,7 +100,7 @@ You can now add attachments, if needed.
 
 You can add attachments to the group page so users can download relevant documents. Do not publish them on a separate page and link to them on the group page.
 
-Make sure you've correctly [formatted the attachments](LINK) before you upload them.
+Make sure you've correctly [formatted the attachments](/formatting-content/attachments/) before you upload them.
 
 Select the 'Attachments' tab. You can upload a new file attachment and edit or delete any existing ones.
 

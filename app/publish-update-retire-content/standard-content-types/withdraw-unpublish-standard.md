@@ -108,7 +108,7 @@ To unpublish a publication:
 
 You can then either select:
 
-- 'Unpublish: published in error' – you'll need to add a public explanation, and you can [add formatting](LINK) to that explanation if you want to include a link
+- 'Unpublish: published in error' – you'll need to add a public explanation, and you can [add formatting](/formatting-content/text-formatting/) to that explanation if you want to include a link
 - 'Unpublish: consolidated into another GOV.UK page'
 
 Select 'Unpublish: consolidated into another GOV.UK page' if you're unpublishing content that:

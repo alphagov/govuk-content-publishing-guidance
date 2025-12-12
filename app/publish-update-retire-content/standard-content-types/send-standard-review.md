@@ -24,7 +24,7 @@ These notes will only be seen by users with access to Whitehall Publisher.
 
 Select 'Submit for 2nd eyes' on the edition summary page.
 
-You can then share a link to the draft with someone on your team with 'editor' permissions. The system does not automatically notify anyone. You can send that reviewer the [guidance on reviewing drafts](LINK).
+You can then share a link to the draft with someone on your team with 'editor' permissions. The system does not automatically notify anyone. You can send that reviewer the [guidance on reviewing drafts](/publish-update-retire-content/standard-content-types/review-standard/).
 
 The reviewer can then decide whether to publish your draft. You'll get an email if they publish or reject it.
 
