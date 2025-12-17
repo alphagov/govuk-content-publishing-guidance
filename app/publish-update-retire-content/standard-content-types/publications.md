@@ -64,7 +64,7 @@ There are different types of publications. Make sure you choose the right type, 
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Decision</th>
       <td class="govuk-table__cell">Formal decisions made by tribunals, regulators or adjudicators that need to be published for legal reasons or because they relate to significant local or national issues.</td>
-      <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/">call for evidence type</a> instead. Also, press announcements about the decision. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles">news article type</a> instead.</td>
+      <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/" class="govuk-link">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/" class="govuk-link">call for evidence type</a> instead. Also, press announcements about the decision. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles" class="govuk-link">news article type</a> instead.</td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Form</th>
@@ -114,7 +114,7 @@ There are different types of publications. Make sure you choose the right type, 
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Promotional material</th>
       <td class="govuk-table__cell">Fact sheets, leaflets, marketing collateral and posters.</td>
-      <td class="govuk-table__cell">Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles">news article type</a> instead.</td>
+      <td class="govuk-table__cell">Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles" class="govuk-link">news article type</a> instead.</td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Regulation</th>
@@ -124,7 +124,7 @@ There are different types of publications. Make sure you choose the right type, 
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Research and analysis</th>
       <td class="govuk-table__cell">Analyses, evaluations, research reports and surveys. They can be conducted by government, commissioned by government or independent of government.	</td>
-      <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/">call for evidence type</a> instead.</td>
+      <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/" class="govuk-link">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/" class="govuk-link">call for evidence type</a> instead.</td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Standard</th>
@@ -139,7 +139,7 @@ There are different types of publications. Make sure you choose the right type, 
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Transparency data</th>
       <td class="govuk-table__cell">Data that organisations are routinely required to make available to the public. This includes departmental spending and ministerial expenses.</td>
-      <td class="govuk-table__cell">Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the <a href="/publish-update-retire-content/standard-content-types/statistical-data-sets/">statistical data set type</a> instead.</td>
+      <td class="govuk-table__cell">Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the <a href="/publish-update-retire-content/standard-content-types/statistical-data-sets/" class="govuk-link">statistical data set type</a> instead.</td>
     </tr>
 </tbody>
 </table>

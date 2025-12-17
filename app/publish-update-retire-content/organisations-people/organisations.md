@@ -98,7 +98,7 @@ Only managing editors can edit the featured links layout and add links. To edit 
 
 1. Go to the 'Details' tab and select 'Edit'.
 2. Scroll to 'Position of featured links on organisation homepage' and select the option you want.
-3. Add your featured links, with a title and URL for each link - the title will be the link text that displays. The text of the link must be as specific and active as possible, and not overlap with titles used for [corporate information pages](link tbc).
+3. Add your featured links, with a title and URL for each link - the title will be the link text that displays. The text of the link must be as specific and active as possible, and not overlap with titles used for [corporate information pages](/publish-update-retire-content/coporate-information/).
 4. Scroll to the bottom of the page and select 'Save'. 
 
 ### Choosing links for service priority layout
@@ -345,43 +345,43 @@ The different options for describing 'closed' organisations each generate slight
       <th scope="row" class="govuk-table__header">No longer exists</th>
       <td class="govuk-table__cell">Organisation is closed and its functions have not been taken over by anyone else.</td>
       <td class="govuk-table__cell">“[name of organisation] closed down in [month/year]”. Or, if the date is not known: “[name of organisation] has closed down”.</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/agricultural-wages-committee-x13">Agricultural Wages Committee</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/agricultural-wages-committee-x13" class="govuk-link">Agricultural Wages Committee</a></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Replaced</th>
       <td class="govuk-table__cell">Organisation is closed and has been replaced.</td>
       <td class="govuk-table__cell">“[name of organisation] was replaced by [name of organisation] in [month/year]”. Or, if the date is not known: “[name of organisation] was replaced by [name of organisation]”.</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/driving-standards-agency">Driving Standards Agency</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/driving-standards-agency" class="govuk-link">Driving Standards Agency</a></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Split</th>
       <td class="govuk-table__cell">Organisation is split into parts.</td>
       <td class="govuk-table__cell">“[name of organisation] was replaced by [name of organisation] and [name of organisation] in [month/year]”. Or, if the date is not known: “[name of organisation] was replaced by [name of organisation] and [name of organisation]”.</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/department-for-education-and-skills">Department for Education and Skills</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/department-for-education-and-skills" class="govuk-link">Department for Education and Skills</a></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Merged with other organisation</th>
       <td class="govuk-table__cell">Organisation is merged into / with another organisation.</td>
       <td class="govuk-table__cell">“[name of organisation] became part of [name of organisation] in [month/year]”. Or, if the date is not known: “[name of organisation] is now part of [name of organisation]”.</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/office-for-artificial-intelligence">Office for Artificial Intelligence</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/office-for-artificial-intelligence" class="govuk-link">Office for Artificial Intelligence</a></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Change of name</th>
       <td class="govuk-table__cell">Organisation changes its name.	</td>
       <td class="govuk-table__cell">“[name of organisation] is now called [name of new organisation]”.</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities">Department for Levelling Up, Housing and Communities</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/department-for-levelling-up-housing-and-communities" class="govuk-link">Department for Levelling Up, Housing and Communities</a></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">No longer part of central government</th>
       <td class="govuk-table__cell">Organisation is still operational, but no longer part of central government.</td>
       <td class="govuk-table__cell">“[name of organisation] is now independent of the UK government”. [Note: link to the organisation’s website in the text summary field].</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/design-council">Design Council</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/design-council" class="govuk-link">Design Council</a></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Devolved to regional government</th>
       <td class="govuk-table__cell">Organisation is devolved to regional government.</td>
       <td class="govuk-table__cell">“[name of organisation] is now run by the [name of new organisation]” (Scottish Government / Welsh Government / Northern Ireland Executive are modelled in the system). [Note: link to the organisation’s website in the text summary field].</td>
-      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/western-health-and-social-services-board">Western Health and Social Services Board</a></td>
+      <td class="govuk-table__cell"><a href="https://www.gov.uk/government/organisations/western-health-and-social-services-board" class="govuk-link">Western Health and Social Services Board</a></td>
     </tr>
  </tbody>
 </table>
