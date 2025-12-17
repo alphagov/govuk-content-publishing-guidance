@@ -41,22 +41,23 @@ Do not create or modify statistics announcements unless you have permission from
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
+
 All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/). Read the [tone of voice guidelines](/writing-to-gov-uk-standards/tone-of-voice/) to find out how to write your title and summary.
 
 The title and summary are displayed in the release calendar and search engine results. They help users understand if your statistics content is what they need.
 
 To create a statistics announcement: 
 
-Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
-Select the 'Statistics announcements' tab.
-Select the 'Create announcement' link.
-Choose a statistics type. Only select the 'Accredited Official Statistics' option if your statistics have been awarded the [accredited official statistics badge](https://osr.statisticsauthority.gov.uk/accredited-official-statistics/) by the Office for Statistics Regulation (OSR).
-Complete the 'Title' and 'Summary' fields.
-Add any relevant organisations.
-Select 'Exact date (confirmed)' if you're sure of the release date or select a provisional date.
-Get someone to review your work to check it's correct before you publish it.
-Select 'Publish announcement' - it will publish on GOV.UK immediately.
-Add topic tagging, select the 'Add tag' under the 'Topic taxonomy tags' heading.
+1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+2. Select the 'Statistics announcements' tab.
+3. Select the 'Create announcement' link.
+4. Choose a statistics type. Only select the 'Accredited Official Statistics' option if your statistics have been awarded the [accredited official statistics badge](https://osr.statisticsauthority.gov.uk/accredited-official-statistics/) by the Office for Statistics Regulation (OSR).
+5. Complete the 'Title' and 'Summary' fields.
+6. Add any relevant organisations.
+7. Select 'Exact date (confirmed)' if you're sure of the release date or select a provisional date.
+8. Get someone to review your work to check it's correct before you publish it.
+9. Select 'Publish announcement' - it will publish on GOV.UK immediately.
+10. Add topic tagging, select the 'Add tag' under the 'Topic taxonomy tags' heading.
 
 ## Create a statistics publication for your announcement
 
@@ -102,6 +103,7 @@ These associations include:
 
 {% include 'reusable-content/publish-draft.md' %}
 
+
 When the statistics publication is published, the announcement will disappear from the release calendar.
 
 ## Edit a statistics publication
@@ -117,21 +119,21 @@ When the statistics publication is published, the announcement will disappear fr
 
 ## Edit a statistics announcement title, summary, organisation or topic
 
-Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
-Select 'View' next to the announcement you want to edit.
-Select the 'Update announcement' button.
-Make your changes.
-Have someone else check your text for errors.
-Select 'Save and publish changes'.
+1. Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
+2. Select 'View' next to the announcement you want to edit.
+3. Select the 'Update announcement' button.
+4. Make your changes.
+5. Have someone else check your text for errors.
+6. Select 'Save and publish changes'.
 
 ## Change the release date of a statistics announcement
 
-Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
-Select 'View' next to the announcement you want to edit.
-Select 'Change dates' under the 'Release and delivery date' heading.
-Change the date.
-If you're changing a confirmed date, add a change note to explain the change of date - this will appear on the page for the public to read.
-Select 'Update date'.
+1. Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
+2. Select 'View' next to the announcement you want to edit.
+3. Select 'Change dates' under the 'Release and delivery date' heading.
+4. Change the date.
+5. If you're changing a confirmed date, add a change note to explain the change of date - this will appear on the page for the public to read.
+6. Select 'Update date'.
 
 ## Cancel or unpublish a statistics announcement
 
@@ -148,11 +150,11 @@ You should unpublish an announcement instead if it:
 
 If the statistics will not be published for any other reason, cancel the announcement. To cancel an announcement:
 
-Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
-Select 'View' next to the announcement you want to cancel.
-Select on the 'Cancel statistics release' button. 
-A box will appear asking you to give the 'Reason for cancellation'. This is a mandatory field which will appear on the website. You can edit the reason for cancellation after you've published it.
-Select the 'Publish cancellation' button.
+1. Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
+2. Select 'View' next to the announcement you want to cancel.
+3. Select on the 'Cancel statistics release' button. 
+4. A box will appear asking you to give the 'Reason for cancellation'. This is a mandatory field which will appear on the website. You can edit the reason for cancellation after you've published it.
+5. Select the 'Publish cancellation' button.
 
 ### Unpublish a statistics announcement
 
@@ -161,10 +163,11 @@ Only managing editors can unpublish a statistics announcement if it was publishe
 If your managing editor is not available, [contact GDS using the GOV.UK Support form](https://support.publishing.service.gov.uk/unpublish_content_request/new).
 
 To unpublish a duplicate announcement or one published by mistake:
-Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
-Select 'View' next to the announcement you want to unpublish.
-Select the 'Unpublish announcement' button. 
-Add the URL you want the announcement to redirect to and click the 'Unpublish' button.
+
+1. Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
+2. Select 'View' next to the announcement you want to unpublish.
+3. Select the 'Unpublish announcement' button. 
+4. Add the URL you want the announcement to redirect to and click the 'Unpublish' button.
 
 Find out how to [withdraw or unpublish](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) a statistics publication.
 

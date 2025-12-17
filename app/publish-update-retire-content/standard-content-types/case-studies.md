@@ -49,6 +49,7 @@ Remember, most users just want practical guidance. Case studies can make it hard
 
 {% include 'reusable-content/style-formatting-extra.md' %}
 
+
 After saving the page, you can add images and attachments.
 
 ### If you're updating an existing case study
@@ -64,6 +65,7 @@ After saving the page, you can add images and attachments.
 9. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/remove-history-mode.md' %}
+
 
 You can now edit the images and attachments.
 

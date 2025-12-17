@@ -41,8 +41,8 @@ If you want to add, update or retire mainstream content, [raise a ticket with th
 
 The only exception is if you want to update the results of a postcode lookup tool. You can do this yourself. See the guidance on updating the results of a:
 
-- ['Find my nearest' page](LINK) – these show users the local organisations that offer a service, like ['Find a driving test centre'](https://www.gov.uk/find-driving-test-centre)
-- [local transaction page](LINK) – these direct users to their local council's website to access a service or guidance, like ['Pay your Council Tax'](https://www.gov.uk/pay-council-tax)
+- ['Find my nearest' page](/publish-update-retire-content/other-content-types/find-my-nearest/) – these show users the local organisations that offer a service, like ['Find a driving test centre'](https://www.gov.uk/find-driving-test-centre)
+- [local transaction page](/publish-update-retire-content/other-content-types/local-transaction/) – these direct users to their local council's website to access a service or guidance, like ['Pay your Council Tax'](https://www.gov.uk/pay-council-tax)
 
 ## If you want to create, update or retire non-GOV.UK content
 
@@ -51,7 +51,7 @@ Ask your organisation's content team if you want to update:
 - any external sites managed by your organisation
 - any services managed by your organisation (they will have 'service' in the URL)
 
-There's guidance on creating and updating [blog sites](LINK) and [campaign sites](LINK).
+There's guidance on creating and updating [blog sites](/publish-update-retire-content/promotional-social/blogs/) and [campaign sites](/publish-update-retire-content/promotional-social/campaigns/).
 
 There's also [guidance on requesting an exemption from being on GOV.UK](LINK) if you want to create another type of site.
 

@@ -53,6 +53,7 @@ You can then add a final outcome to explain the government's response to the cal
 
 {% include 'reusable-content/style-formatting-extra.md' %}
 
+
 Once that's done, you can add attachments.
 
 Go to the 'Attachments' tab. Your attachments can either be file attachments or HTML attachments.

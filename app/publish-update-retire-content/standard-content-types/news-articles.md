@@ -19,13 +19,36 @@ Use the news article content type to share news and updates about the government
 
 There are different types of news articles. Make sure you choose the right type.
 
-| Content type | What to use it for | What not to use it for| 
-|---|---|---|
-| Government response | Government statements produced in response to media coverage by your organisation's press team. For example, rebuttals or 'myth busters'. These are usually short and to the point, consisting of a quotation with no headings. | Statements issued to Parliament. Speeches or press articles. Letters to newspapers written by ministers. Use the [speech type](/publish-update-retire-content/standard-content-types/speeches/) for all of these instead. |
-| News story | News content written only for GOV.UK which users need, can act on, would expect to get directly from the government and cannot get from other sources. For example, the opening of a government grant scheme or a change to public services that affects public sector employees. The content should be self-contained. It should be possible to delete it from the site without affecting anything else. You can also use this to set out details about future events that your organisation is holding. Use a [document collection](/publish-update-retire-content/standard-content-types/document-collections/) to collect multiple news stories if you're holding a programme of events. | Information that puts your organisation's views on record. Use the government response type instead. Duplication of press releases or [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/). Duplication of another organisation's news story. Consider publishing a news story jointly, or cover the same story from different angles or for different audiences. Promotion of the publication of other content, like statistics. General purpose content pages or just to link through to other GOV.UK content. Guidance for users. Link to a [guidance publication](/publish-update-retire-content/standard-content-types/publications/) or [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) if there's something a user can act on. |
-| Press release | Unedited press releases as sent to the media. You can put additional notes at the end under a 'Background' heading. Official statements by an organisation spokesperson. Official statements made by a minister, apart from parliamentary statements. | Ministerial statements issued to Parliament. Use the [speech type](/publish-update-retire-content/standard-content-types/speeches/) instead. Promotion of the publication of other content, like statistics. Guidance for users. Link to a [guidance publication](/publish-update-retire-content/standard-content-types/publications/) or [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) if there's something a user can act on. |
-| World news story | Announcements specific to one or more world locations. For example, news related to a British embassy. | Duplication of another government organisation's news story. |
-
+<table class="govuk-table">
+  <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+      <th scope="col" class="govuk-table__header">Content type</th>
+      <th scope="col" class="govuk-table__header">What to use it for</th>
+      <th scope="col" class="govuk-table__header">What not to use it for</th>
+    </tr>
+  <tbody class="govuk-table__body">
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Government response</th>
+      <td class="govuk-table__cell">Government statements produced in response to media coverage by your organisation’s press team. For example, rebuttals or ‘myth busters’. These are usually short and to the point, consisting of a quotation with no headings.</td>
+      <td class="govuk-table__cell">Statements issued to Parliament.<br><br> Speeches or press articles.<br><br> Letters to newspapers written by ministers.<br><br> Use the <a href="/publish-update-retire-content/standard-content-types/speeches/">speech type</a> for all of these instead.</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">News story</th>
+      <td class="govuk-table__cell">News content written only for GOV.UK which users need, can act on, would expect to get directly from the government and cannot get from other sources. For example, the opening of a government grant scheme or a change to public services that affects public sector employees. <br><br> The content should be self-contained. It should be possible to delete it from the site without affecting anything else. <br><br> You can also use this to set out details about future events that your organisation is holding. Use a <a href="/publish-update-retire-content/standard-content-types/document-collections/">document collection</a> to collect multiple news stories if you're holding a programme of events.</td>
+      <td class="govuk-table__cell">Information that puts your organisation's views on record. Use the government response type instead.<br><br> Duplication of press releases or <a href="/publish-update-retire-content/standard-content-types/fatality-notices/">fatality notices</a>.<br><br> Duplication of another organisation's news story. Consider publishing a news story jointly, or cover the same story from different angles or for different audiences.<br><br> Promotion of the publication of other content, like statistics.<br><br> General purpose content pages or just to link through to other GOV.UK content. Guidance for users. Link to a <a href="/publish-update-retire-content/standard-content-types/publications/">guidance publication</a> or <a href="/publish-update-retire-content/standard-content-types/detailed-guides/">detailed guide</a> if there's something a user can act on. </td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Press release</th>
+      <td class="govuk-table__cell">Unedited press releases as sent to the media. You can put additional notes at the end under a 'Background' heading.<br><br> Official statements by an organisation spokesperson.<br><br> Official statements made by a minister, apart from parliamentary statements.</td>
+      <td class="govuk-table__cell">Ministerial statements issued to Parliament. Use the <a href="/publish-update-retire-content/standard-content-types/speeches/">speech type</a> instead.<br><br> Promotion of the publication of other content, like statistics.<br><br> Guidance for users. Link to a <a href="/publish-update-retire-content/standard-content-types/publications/">guidance publication</a> or <a href="/publish-update-retire-content/standard-content-types/detailed-guides/">detailed guide</a> if there's something a user can act on.</td>
+    </tr>
+    <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">World news story</th>
+      <td class="govuk-table__cell">Announcements specific to one or more world locations. For example, news related to a British embassy.</td>
+      <td class="govuk-table__cell">Duplication of another government organisation's news story.</td>
+    </tr>
+ </tbody>
+</table>
 
 ## Create a draft
 

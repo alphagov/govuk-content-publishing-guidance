@@ -169,6 +169,7 @@ If you need to publish it urgently without a review, find out when you can [publ
 
 {% include 'reusable-content/add-translations-current-draft-1.md' %}
 
+
 If you want to edit an existing translation:
 
 1. Select 'Save and go to document summary' on your current draft. 
@@ -196,7 +197,7 @@ Offices appear under 'Contact us' on the organisation page.
 
 More detailed contact information will appear on a different page. The link to this page is called 'Access and opening times' and will appear directly under the contact block.  
 
-> You can alternatively publish a corporate information page called 'Office access and opening times'. You can find and create this page type in the 'Pages' tab. A link to this page will appear at the bottom of your worldwide organisation page.
+^You can alternatively publish a corporate information page called 'Office access and opening times'. You can find and create this page type in the 'Pages' tab. A link to this page will appear at the bottom of your worldwide organisation page.
 
 Select the 'Offices' tab.
 

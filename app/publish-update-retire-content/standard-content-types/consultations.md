@@ -63,6 +63,7 @@ Do not add any more information or attachments to the page after the government 
 
 {% include 'reusable-content/style-formatting-extra.md' %}
 
+
 Once that's done, you can add the consultation documents as attachments.
 
 Go to the 'Attachments' tab. Your attachments can either be file attachments or HTML attachments.

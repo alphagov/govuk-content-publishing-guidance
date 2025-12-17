@@ -131,7 +131,7 @@ If you do want to add a translation:
 4. Select 'Save'.
 5. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
 
-> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
+^If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
 
 ### Edit an existing translation
 

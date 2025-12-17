@@ -15,4 +15,5 @@ If you create a 'Statistics at [organisation]' page, a link to it will appear au
 
 {% include 'reusable-content/corporate-info-style-tone.md' %}
 
+
 View [a good example of a 'Statistics at' page](https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government/about/statistics). 

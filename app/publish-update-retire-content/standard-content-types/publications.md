@@ -43,26 +43,107 @@ There are different types of publications. Make sure you choose the right type, 
 - the content type can affect how and where the content appears in search and navigation
 - it could wrongly go into [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
 
-| Content type | What to use it for | What not to use it for| 
-|---|---|---|
-| Corporate report | Publications about your organisation as a corporate entity. This includes accounts, annual reports, business plans, performance and efficiency reviews and structural reform plans. | Publications about what your organisation does, like strategy documents. Use the policy paper type instead. |
-| Correspondence | Correspondence created by your organisation or ministers. This includes announcements, letters, responses and statements. It also includes bulletins, circulars, e-bulletins and newsletters. | Formal decision letters from tribunals, regulators or adjudicators. Use the decision type instead. |
-| Decision | Formal decisions made by tribunals, regulators or adjudicators that need to be published for legal reasons or because they relate to significant local or national issues. | Responses to consultations and calls for evidence. Use the [consultation type](/publish-update-retire-content/standard-content-types/consultations/) or [call for evidence type](/publish-update-retire-content/standard-content-types/calls-for-evidence/) instead. Also, press announcements about the decision. Use the [news article type](/publish-update-retire-content/standard-content-types/news-articles) instead. |
-| Form | Forms or pro forma documents that need to be completed by the user. The page can also include guidance on how to fill in the form. | Anything that is not a form or guidance about filling in a form. |
-| Freedom of information (FOI) release | Response to FOI requests | Anything that is not a response to an FOI request |
-|Guidance | Non-statutory guidance publications like handbooks or other documents that offer advice. Also, guidance material that has been produced as a standalone hard copy document rather than a web original document. | Statutory guidance. Use the statutory guidance type instead. Guidance about completing a form. Attach it to the same publication as the form itself. |
-| Impact assessment | Documents that assess the impact of new initiatives or changes to legislation. This includes impact assessments, equality impact assessments and equality impact analyses. | Impact assessments related to policy papers already published on GOV.UK. Attach it to the same publication as the policy paper. |
-| Independent report | Reports commissioned by the government but written by non-government organisations. This includes independent enquiries, investigations and reviews. | Reports written by the government. Use the policy paper type or research and analysis type instead. |
-| International treaty | Treaties and memoranda of understanding between the UK and other nations. | Anything that is not an international treaty or memoranda of understanding. |
-| Map | Drawn maps and geographical data. | Anything that is not a map or geographical data. |
-| Notice | Permit and licence applications that have to be published temporarily in a public space so users can view, comment or lodge an objection. | Anything that is not a permit or licence application. |
-| Policy paper | Publications that explain the government's position on something. This includes action plans, implementation plans, operational plans, strategies and white papers. The page can also include any related impact assessments. | Publications that include instructions about how to carry out a task. Use the guidance type instead. |
-| Promotional material | Fact sheets, leaflets, marketing collateral and posters. | Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the [news article type](/publish-update-retire-content/standard-content-types/news-articles) instead. |
-| Regulation | Regulations imposed by independent regulatory authorities, like Ofsted or the Military Aviation Authority. | Statutory guidance describing requirements that are mandatory by law. Use the statutory guidance type instead. Also, non-statutory guidance like handbooks and other documents that offer advice. Use the guidance type instead. |
-| Research and analysis | Analyses, evaluations, research reports and surveys. They can be conducted by government, commissioned by government or independent of government. | Responses to consultations and calls for evidence. Use the [consultation type](/publish-update-retire-content/standard-content-types/consultations/) or [call for evidence type](/publish-update-retire-content/standard-content-types/calls-for-evidence/) instead. |
-| Standard | Requirements, specifications, guidelines or patterns that can be consistently applied to products, processes and services within government. | Any standards that are not about products, processes or services within government. |
-| Statutory guidance | Guidance that relevant users must follow. | Non-statutory guidance. Use the guidance type instead. |
-| Transparency data | Data that organisations are routinely required to make available to the public. This includes departmental spending and ministerial expenses. | Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the [statistical data set type](/publish-update-retire-content/standard-content-types/statistical-data-sets/) instead. |
+<table class="govuk-table">
+  <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+      <th scope="col" class="govuk-table__header">Content type</th>
+      <th scope="col" class="govuk-table__header">What to use it for</th>
+      <th scope="col" class="govuk-table__header">What not to use it for</th>
+    </tr>
+<tbody class="govuk-table__body">
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Corporate report</th>
+      <td class="govuk-table__cell">Publications about your organisation as a corporate entity. This includes accounts, annual reports, business plans, performance and efficiency reviews and structural reform plans.</td>
+      <td class="govuk-table__cell">Publications about what your organisation does, like strategy documents. Use the policy paper type instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Correspondence</th>
+      <td class="govuk-table__cell">Correspondence created by your organisation or ministers. This includes announcements, letters, responses and statements. It also includes bulletins, circulars, e-bulletins and newsletters.</td>
+      <td class="govuk-table__cell">Formal decision letters from tribunals, regulators or adjudicators. Use the decision type instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Decision</th>
+      <td class="govuk-table__cell">Formal decisions made by tribunals, regulators or adjudicators that need to be published for legal reasons or because they relate to significant local or national issues.</td>
+      <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/">call for evidence type</a> instead. Also, press announcements about the decision. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles">news article type</a> instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Form</th>
+      <td class="govuk-table__cell">Forms or pro forma documents that need to be completed by the user. The page can also include guidance on how to fill in the form.</td>
+      <td class="govuk-table__cell">Anything that is not a form or guidance about filling in a form.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Freedom of information (FOI) release</th>
+      <td class="govuk-table__cell">Response to FOI requests.</td>
+      <td class="govuk-table__cell">Anything that is not a response to an FOI request.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Guidance</th>
+      <td class="govuk-table__cell">Non-statutory guidance publications like handbooks or other documents that offer advice. Also, guidance material that has been produced as a standalone hard copy document rather than a web original document.</td>
+      <td class="govuk-table__cell">Statutory guidance. Use the statutory guidance type instead. Guidance about completing a form. Attach it to the same publication as the form itself.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Impact assessment</th>
+      <td class="govuk-table__cell">Documents that assess the impact of new initiatives or changes to legislation. This includes impact assessments, equality impact assessments and equality impact analyses.</td>
+      <td class="govuk-table__cell">Impact assessments related to policy papers already published on GOV.UK. Attach it to the same publication as the policy paper.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Independent report</th>
+      <td class="govuk-table__cell">Reports commissioned by the government but written by non-government organisations. This includes independent enquiries, investigations and reviews.	</td>
+      <td class="govuk-table__cell">Reports written by the government. Use the policy paper type or research and analysis type instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">International treaty</th>
+      <td class="govuk-table__cell">Treaties and memoranda of understanding between the UK and other nations.</td>
+      <td class="govuk-table__cell">Anything that is not an international treaty or memoranda of understanding.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Map</th>
+      <td class="govuk-table__cell">Drawn maps and geographical data.</td>
+      <td class="govuk-table__cell">Anything that is not a map or geographical data.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Notice</th>
+      <td class="govuk-table__cell">Permit and licence applications that have to be published temporarily in a public space so users can view, comment or lodge an objection.</td>
+      <td class="govuk-table__cell">Anything that is not a permit or licence application.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Policy paper</th>
+      <td class="govuk-table__cell">Publications that explain the government’s position on something. This includes action plans, implementation plans, operational plans, strategies and white papers. The page can also include any related impact assessments.</td>
+      <td class="govuk-table__cell">Publications that include instructions about how to carry out a task. Use the guidance type instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Promotional material</th>
+      <td class="govuk-table__cell">Fact sheets, leaflets, marketing collateral and posters.</td>
+      <td class="govuk-table__cell">Letters or other correspondence. Use the correspondence type instead. Also, press releases. Use the <a href="/publish-update-retire-content/standard-content-types/news-articles">news article type</a> instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Regulation</th>
+      <td class="govuk-table__cell">Regulations imposed by independent regulatory authorities, like Ofsted or the Military Aviation Authority.</td>
+      <td class="govuk-table__cell">Statutory guidance describing requirements that are mandatory by law. Use the statutory guidance type instead. Also, non-statutory guidance like handbooks and other documents that offer advice. Use the guidance type instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Research and analysis</th>
+      <td class="govuk-table__cell">Analyses, evaluations, research reports and surveys. They can be conducted by government, commissioned by government or independent of government.	</td>
+      <td class="govuk-table__cell">Responses to consultations and calls for evidence. Use the <a href="/publish-update-retire-content/standard-content-types/consultations/">consultation type</a> or <a href="/publish-update-retire-content/standard-content-types/calls-for-evidence/">call for evidence type</a> instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Standard</th>
+      <td class="govuk-table__cell">Requirements, specifications, guidelines or patterns that can be consistently applied to products, processes and services within government.</td>
+      <td class="govuk-table__cell">Any standards that are not about products, processes or services within government.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Statutory guidance</th>
+      <td class="govuk-table__cell">Guidance that relevant users must follow.</td>
+      <td class="govuk-table__cell">Non-statutory guidance. Use the guidance type instead.</td>
+    </tr>
+  <tr class="govuk-table__row">
+      <th scope="row" class="govuk-table__header">Transparency data</th>
+      <td class="govuk-table__cell">Data that organisations are routinely required to make available to the public. This includes departmental spending and ministerial expenses.</td>
+      <td class="govuk-table__cell">Responses to FOI requests. Use the FOI release type instead. Also, information that is not going to be published on a regular and ongoing basis. Use the <a href="/publish-update-retire-content/standard-content-types/statistical-data-sets/">statistical data set type</a> instead.</td>
+    </tr>
+</tbody>
+</table>
+
 
 
 ## Create a draft
@@ -80,9 +161,10 @@ There are different types of publications. Make sure you choose the right type, 
 
 {% include 'reusable-content/style-formatting-extra.md' %}
 
+
 After saving the page, you can add attachments and images.
 
-> If you're publishing transparency data, check if there's relevant ['How to publish' guidance](https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data) with template titles, summaries and bodies that you must use.
+^ If you're publishing transparency data, check if there's relevant ['How to publish' guidance](https://www.gov.uk/government/collections/how-to-publish-central-government-transparency-data) with template titles, summaries and bodies that you must use.
 
 ### If you're updating an existing publication
 
@@ -206,7 +288,7 @@ If you do want to add a translation:
 8. Select 'Save and go to document summary' on the 'Document' tab.
 9. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
 
-> If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
+^If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
 
 ### Edit an existing translation
 
