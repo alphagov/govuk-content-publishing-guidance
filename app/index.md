@@ -2,8 +2,8 @@
 homepage: true
 layout: homepage
 title: Home
-customPageTitle: Guidance and good practice for publishers on GOV.UK
-description: Find guidance about how to write to GOV.UK standards, use publishing applications and how to request support.
+customPageTitle: How to create and update content
+description: Read the standards for digital content and find out how to use the government’s publishing tools.
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
