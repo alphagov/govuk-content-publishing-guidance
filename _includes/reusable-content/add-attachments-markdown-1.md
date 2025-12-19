@@ -1,4 +1,4 @@
-Make sure you correctly [format attachments](LINK) before you upload them.
+Make sure you correctly [format attachments](/formatting-content/attachments/) before you upload them.
 
 Select the 'Attachments' tab at the top of the page. You can add, edit or delete attachments from here.
 
