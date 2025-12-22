@@ -216,7 +216,7 @@ Once people are tagged, you can use the 'People' tab of your organisation page t
 
 ## Translations
 
-Read the [guidance about deciding whether to add a translation](LINK) first.
+Read the [guidance about deciding whether to add a translation](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/) first.
 
 Go to the 'Translations' tab. Then choose the language that you'll be adding the translation for and select the 'Create new translation' button. 
 
