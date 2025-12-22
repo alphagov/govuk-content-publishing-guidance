@@ -1,6 +1,5 @@
 ---
-layout: landing-page
-sectionKey: Accessibility statement
+layout: page
 title: Accessibility statement for GOV.UK Content and publishing guidance
 description: This accessibility statement applies to the GOV.UK Content and publishing guidance.
 ---
