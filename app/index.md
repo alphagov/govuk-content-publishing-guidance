@@ -22,7 +22,7 @@ gridItems:
   - title: Content types
     description: Get help deciding which format to use for your content.
     linktext: Read the guidance and choose an appropriate content type
-    url: /about-the-guidance
+    url: /publish-update-retire-content/choose-content-type/
 #additionalInfo:
 #  - title: Title
 #    content: Content
