@@ -1,4 +1,4 @@
-Read the [guidance about deciding whether to add a translation](LINK).
+Read the [guidance about deciding whether to add a translation](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/).
 
 If you do want to add a translation:
 

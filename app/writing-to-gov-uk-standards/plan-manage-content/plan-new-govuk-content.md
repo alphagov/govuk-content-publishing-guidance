@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
   parent: Plan and manage content
-  order: 4
+  order: 5
 title: Plan new GOV.UK content
 description: Know what to do when creating new information or guidance for GOV.UK.
 lastUpdated:

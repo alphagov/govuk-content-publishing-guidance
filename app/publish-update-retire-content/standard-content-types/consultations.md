@@ -172,7 +172,7 @@ Do not attach any documents that will be relevant after the consultation is clos
 
 ### Add a new translation
 
-Read the [guidance about deciding whether to add a translation](LINK).
+Read the [guidance about deciding whether to add a translation](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/).
 
 If you want to add a translation, you'll need to create a completely separate draft and select 'Create a foreign language only consultation'.
 
