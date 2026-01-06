@@ -10,21 +10,29 @@ export default function(eleventyConfig) {
     shortcodeName: "js",
     transforms: [
       async function(code) {
-        async function copyDir(src, dest) {
-            let entries = fs.readdirSync(src, { recursive: true, withFileTypes: true })
+        
+async function copyDir(src, dest) {
+  function walk(currentSrc) {
+    const entries = fs.readdirSync(currentSrc, { withFileTypes: true });
 
-            for (let entry of entries) {
-                let srcPath = path.join(entry.path, entry.name);
-                let destPath = srcPath.replace(src, dest);
-                let destDir = path.dirname(destPath);
+    for (const entry of entries) {
+      const srcPath = path.join(currentSrc, entry.name);
+      const destPath = srcPath.replace(src, dest);
 
-                if (entry.isFile()) {
-                  fs.mkdirSync(destDir, { recursive: true })
-                  fs.copyFileSync(srcPath, destPath);
-                }
-            }
-        }
+      if (entry.isDirectory()) {
+        walk(srcPath);
+      } else if (entry.isFile()) {
+        fs.mkdirSync(path.dirname(destPath), { recursive: true });
+        fs.copyFileSync(srcPath, destPath);
+      }
+    }
+  }
 
+  walk(src);
+}
+        if (!fs.existsSync('_includes/javascripts')) {
+  return code;
+}
         await copyDir('_includes/javascripts', 'tmp')
 
         const app = fs.readFileSync('./tmp/application.mjs')
