@@ -12,7 +12,7 @@ whatsNewHeadline:
 whatsNew: 
 gridItems:
   - title: Style guides
-    description: Style, spelling and grammar conventions for all content published on GOV.UK.
+    description: Style, spelling and grammar conventions for GOV.UK.
     linktext: View the style guides
     url: /writing-to-gov-uk-standards/style-guides
   - title: Tone of voice
@@ -20,9 +20,9 @@ gridItems:
     linktext: Read the tone of voice guidance
     url: /writing-to-gov-uk-standards/tone-of-voice
   - title: Content types
-    description: Get help deciding which format to use for your content.
-    linktext: Read the guidance and choose an appropriate content type
-    url: /publish-update-retire-content/choose-content-type
+    description: Get help deciding which type to use for your content.
+    linktext: Choose a content type
+    url: /publish-update-retire-content/choose-content-type/
 #additionalInfo:
 #  - title: Title
 #    content: Content
