@@ -14,7 +14,7 @@ export default function(eleventyConfig) {
             let entries = fs.readdirSync(src, { recursive: true, withFileTypes: true })
 
             for (let entry of entries) {
-                let srcPath = path.join(entry.path, entry.name);
+                let srcPath = path.join(entry.parentPath, entry.name);
                 let destPath = srcPath.replace(src, dest);
                 let destDir = path.dirname(destPath);
 
