@@ -18,7 +18,7 @@ Use a document collection for grouping GOV.UK content on a single page:
 - for a specific audience
 - around a specific theme or topic
 
-A collection could be used to publish:
+For example, you could use a collection to publish:
 
 - a set of forms
 - publications in the same series
@@ -159,7 +159,7 @@ Read the [guidance about deciding whether to add a translation](/writing-to-gov-
 
 If you want to add a translation, you'll need to create a completely separate draft and select 'Create a foreign language only document collection'.
 
-Add the link to the foreign language version at the top of the English version. Use this format: "[View this document collection in Arabic](link)".
+Add the link to the foreign language version at the top of the English version. Use this format: `[View this document collection in Arabic](link)`.
 
 Repeat the steps to link the English version to the foreign language version. If you have multiple translations, make sure all the translations are linked.
 
