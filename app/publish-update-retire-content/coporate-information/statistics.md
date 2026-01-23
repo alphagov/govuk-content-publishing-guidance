@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
   order: 12
-title: Statistics at [name of organisation]
+title: Statistics at [organisation name]
 description: Learn when and how to publish a statistics corporate information page. 
 lastUpdated:
 ---
