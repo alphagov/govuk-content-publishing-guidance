@@ -59,7 +59,7 @@ There are different types of news articles. Make sure you choose the right type.
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
 2. Select the 'New document' tab.
 3. Select 'News article' and then select the 'Next' button.
-4. Select the content type from the dropdown under 'News article type (required)'.
+4. Choose the type of news article from the following page and select ‘Next’.
 5. Add the title, summary and body. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 7. If you're creating a world news story, tag the story to a world location and worldwide organisation under the 'Associations' heading.
@@ -150,10 +150,6 @@ If you want to remove an image, you can remove its code from the body. You can t
 
 ## Add or edit translations
 
-If you're working on a world news story that will never be published in English, tick 'Create a foreign language only news article' and select the language.
-
-Otherwise, you need to have an English version and then a translation.
-
 ### Add a new translation
 
 {% include 'reusable-content/add-translations-current-draft-1.md' %}
@@ -161,6 +157,14 @@ Otherwise, you need to have an English version and then a translation.
 ### Edit an existing translation
 
 {% include 'reusable-content/add-translations-current-draft-2.md' %}
+
+### If your news article will not be published in English
+
+Under the ‘Language’ heading, choose the language from the drop down list. Select ‘Save’.
+
+You can then add translations in languages other than English following the steps under 'Add a new translation'.
+
+You cannot change the primary language if you’ve added translations to the page.
 
 ## Update the URL
 
