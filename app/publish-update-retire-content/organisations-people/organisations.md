@@ -19,7 +19,7 @@ Organisations include departments, agencies and public bodies. Every government 
 
 Your GOV.UK lead or a managing editor needs to [contact the Government Digital Service (GDS)](link tbc) to ask for a new organisation page. 
 
-Organisation pages will only be set up for:
+GDS will only set up organisation pages for:
 
 * brand new organisations
 * organisations that have changed name (for example, when the Department for Levelling Up, Housing and Communities changed to the Ministry of Housing, Communities and Local Government)
@@ -189,7 +189,7 @@ See [how to add and edit corporate information pages](/publish-update-retire-con
 ## Contact details
 
 1. On your organisation page, select the 'Contacts' tab.
-2. To add a contact, select the green 'Add contact' button. To edit or delete a contact, find it in the list of contacts and select 'Edit' or 'Delete.
+2. To add a contact, select the green 'Add contact' button. To edit or delete a contact, find it in the list of contacts and select ‘Edit’ or ‘Delete’.
 
 When adding or editing a contact, select 'Yes' under 'Homepage feature' to show them on your organisation page.
 
@@ -202,9 +202,11 @@ Contact details are shown in the order you add them. You can reorder them using 
 ## Social media accounts
 
 1. On your organisation page, select the 'Social media accounts' tab.
-2. To add an account, select the green 'Create a new account' button. To edit or delete a contact, find it in the list of contacts and select 'Edit' or 'Delete.
+2. To add an account, select the green 'Create a new account' button. To edit or delete a contact, find it in the list of contacts and select ‘Edit’ or ‘Delete’.
 
 These will show under the 'Follow us' heading under the 'What we do' section of the organisation page.
+
+Avoid putting something very short in the ‘Title’ field, which appears as link text. For example, put ‘DWP on X’ rather than just ‘X’. Very short links can create problems for users with limited dexterity.
 
 ## 'Our ministers' and 'Our management'
 
@@ -387,61 +389,78 @@ The different options for describing 'closed' organisations each generate slight
 </table>
 
 
-### Re-tagging content if the organisation is merging, changing its name or being replaced
+### Retagging content if the organisation is merging, changing its name or being replaced
 
-All documents tagged to the organisation will stay tagged after it closes, so the context of who published it is retained.
+All content tagged to the organisation will stay tagged after it closes, so the context of who published it is retained.
 
-You might need to re-tag some documents so they're tagged to both the closing and new organisation.
+You might need to retag some content so it's tagged to both the closing and new organisation.
 
-#### What you should re-tag
+#### What you should retag
 
-Only re-tag a document to the new organisation if the content is still current - for example, guidance or policy should still be followed. Keep the document tagged to the closing organisation too.
+Only retag content to the new organisation if it's still current - for example, guidance or policy should still be followed. Keep the content tagged to the closing organisation too.
 
-To get a list of your content to decide what needs re-tagging, go to the 'Documents' section of Whitehall Publisher. Filter the documents by your organisation name and select 'Export as CSV'.
+To get a list of your content to decide what needs retagging, go to the 'Documents' section of Whitehall Publisher. Filter by your organisation name and select 'Export as CSV'.
 
-GDS recommend re-tagging these content types to the new organisation:
+GDS recommend retagging these content types to the new organisation:
 
-* detailed guides
-* guidance publications
-* forms
-* research and analysis
-* fatality notices
-* independent reports
-* correspondence - unless directly associated with a previous minister
-* maps
-* decisions
-* case studies
-* international treaties
+- case studies
+- correspondence – unless directly associated with a previous minister
+- decisions
+- detailed guides
+- fatality notices
+- forms
+- guidance publications
+- independent reports
+- international treaties
+- maps
+- research and analysis
 
-GDS will re-tag the mainstream content, manuals and specialist finders that need tagging to the new organisation. 
+You should only retag the following content types to the new organisation if the content will be updated by the new organisation:
 
-You should only re-tag the following content types to the new organisation if the content will be updated by the new organisation:
+- accredited official statistics
+- official statistics
+- open consultations
+- transparency data
 
-* national statistics
-* statistical releases
-* transparency data
-* open consultations
+These content types should not be retagged to the new organisation:
 
-These content types should not be re-tagged to the new organisation:
+- closed consultations
+- corporate reports
+- documents in history mode
+- news articles
+- press releases
+- withdrawn documents
 
-* news stories
-* press releases
-* annual reports
-* transparency data (that will not be updated by the new organisation)
-* statistics
-* closed consultations
-* documents in history mode
-
-There may be exceptions to the list of content types that should not be re-tagged - for example:
+There may be exceptions to the list of content types that should not be retagged - for example:
 
 * things that are heavily used, like recent news articles
 * an announcement of something that has not yet happened
 * content that is in the wrong content type, such as things that have [incorrectly gone into history mode](link tbc)
 
-[Contact GDS for help](link tbc) if:
+#### Get help with retagging documents
 
-* you do not know what to re-tag to the new organisation
-* there are too many documents to re-tag manually - GDS can bulk re-tag
-* you need to retag a manual
+If there is too much content for you to retag manually, you can [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
+
+You’ll need to create and send over a new spreadsheet of the content that need retagging. Only include these columns in the spreadsheet, using these specific headings:
+
+- ‘URL’ – this is the full URL of the content and not just the slug
+- ‘Lead organisations’ – list the slugs of the organisation pages that should be tagged as lead organisations on the content (including any closed organisations), in quotes and separated by commas such as “department-for-science-innovation-and-technology, government-digital-service”
+- ‘Supporting organisations’ – the same as ‘Lead organisations’, but this column can be left blank if there are no supporting organisations
+
+In the spreadsheet, do not include:
+
+- HTML attachments – these will be retagged if the pages they’re attached to are included in the spreadsheet
+- translations – these will be retagged if the English versions are included in the spreadsheet
+
+You can also [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) if:
+
+- you do not know what to retag to the new organisation
+- you need to retag mainstream content, manuals or specialist finders
+
+### Update people and role pages
+
+If anyone is listed under ‘Our management’ on the organisation page, unassign them from their roles when you close the organisation. Read the [guidance about people and role pages](/publish-update-retire-content/organisations-people/people-roles) for help with that.
+
+If anyone is listed under ‘Our ministers’, [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
 
 *[GDS]: Government Digital Service
