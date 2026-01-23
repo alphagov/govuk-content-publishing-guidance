@@ -17,7 +17,7 @@ When a user enters a postcode, they get search results which show them their nea
 
 ## Add or update a page
 
-[Send a content request to the Government Digital Service (GDS](https://support.publishing.service.gov.uk/content_change_request/new) if you want to:
+[Send a content request to the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_change_request/new) if you want to:
 
 - update the content on a 'find my nearest' page, apart from the search results
 - create a new 'find my nearest' page
@@ -38,7 +38,7 @@ If you're the only organisation admin, use the [accounts form](https://support.p
 
 To check and update the live data set in a 'find my nearest' page:
 
-1. Log into [Places Manager](https://places-manager.publishing.service.gov.uk/admin).
+1. Sign into [Places Manager](https://places-manager.publishing.service.gov.uk/admin).
 2. Select your service name.
 3. Select 'Export active data set as CSV' to download the data set.
 4. Update the data file if needed - do not change any of the column headings. 
@@ -48,7 +48,7 @@ To check and update the live data set in a 'find my nearest' page:
 
 To replace the active data with a new version:
 
-1. Log into [Places Manager](https://places-manager.publishing.service.gov.uk/admin).
+1. Sign into [Places Manager](https://places-manager.publishing.service.gov.uk/admin).
 2. Select your service name.
 3. Select 'Upload new data set'. 
 4. Select 'Choose file' to select your new CSV file. 
