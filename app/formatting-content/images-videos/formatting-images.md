@@ -47,7 +47,7 @@ When you describe the image, describe it as though there is no image on the page
 
 ## Images of charts or diagrams
 
-Use svg files for images that contain useful information, for example diagrams, charts or infographics. This is because it scales well, without pixellating, for people who zoom in using magnifying software. 
+Use SVG files for images that contain useful information, for example diagrams, charts or infographics. This is because it scales well, without pixellating, for people who zoom in using magnifying software. 
 
 There's no minimum image size for SVG files. 
 
