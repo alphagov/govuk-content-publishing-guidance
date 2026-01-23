@@ -61,14 +61,14 @@ Do not say the page has been updated without saying what has changed.
 
 Some examples of good change notes include:
 
-- "Potatoes are now on the banned vegetable import list from outside the EU."
-- "Edited chapter 6 - centres in Cardiff and Aberystwyth have closed. There's only one service centre now, in Merthyr Tydfil."
-- "Form A123 - question 4 on page 2 now asks for your previous address."
-- "New guidance on school meal procedures that apply from 1 March 2019 added to the 'Meal planning for primary schools' section."
+- 'Potatoes are now on the banned vegetable import list from outside the EU.'
+- 'Edited chapter 6 - centres in Cardiff and Aberystwyth have closed. There's only one service centre now, in Merthyr Tydfil.'
+- 'Form A123 - question 4 on page 2 now asks for your previous address.'
+- 'New guidance on school meal procedures that apply from 1 March 2019 added to the 'Meal planning for primary schools' section.'
 
 Some examples of bad change notes are:
 
-- "Guidance updated."
-- "Updated the collection page to inform users of the name of the publication."
-- "Updated to add social media graphics for Twitter and Facebook."
-- "Removed broken link."
+- 'Guidance updated.'
+- 'Updated the collection page to inform users of the name of the publication.'
+- 'Updated to add social media graphics for Twitter and Facebook.'
+- 'Removed broken link.'

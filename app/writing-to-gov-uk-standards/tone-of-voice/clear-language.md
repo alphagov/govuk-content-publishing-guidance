@@ -10,7 +10,7 @@ lastUpdated:
 ---
 Plain English is mandatory for all of GOV.UK. That's because we want content to be accessible and understandable to everyone who needs it.
 
-[Data on adult literacy rates](https://literacytrust.org.uk/parents-and-families/adult-literacy/) from a range of studies show that:
+[Data on adult literacy rates](https://literacytrust.org.uk/parents-and-families/adult-literacy/) from a range of studies shows that:
 
 - 1 in 6 adults in England have very poor literacy skills
 - 1 in 4 adults in Scotland experience challenges due to their lack of literacy skills
@@ -21,7 +21,7 @@ The definition of 'literacy skills' varies by nation, but you can see that many 
 
 There will also be some users who do not have English as their first language, particularly if you're writing for an international audience.
 
-The GOV.UK audience is potentially:
+The GOV.UK audience includes:
 
 - anyone living in the UK
 - British citizens living abroad
@@ -44,7 +44,7 @@ Even when writing for a specialist audience, you still need to make sure everyon
 
 ## Know about words to avoid
 
-Take a look at the words to avoid entry in [the A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). The list is not exhaustive. It's an indicator to show you the sort of language that confuses users.
+Take a look at the words to avoid entry in the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). The list is not exhaustive. It's an indicator to show you the sort of language that confuses users.
 
 Do not use formal or long words when easy or short ones will do. Use 'buy' instead of 'purchase', 'help' instead of 'assist', and 'about' instead of 'approximately'.
 
@@ -71,21 +71,21 @@ You might want to [look at common search terms](/writing-to-gov-uk-standards/fin
 
 ## Be careful with contractions
 
-Use contractions like "you'll", but avoid negative contractions like "can't" or "don't". Many users find negative contractions hard to read, or misread them as the opposite of what they say.
+Use contractions like 'you'll', but avoid negative contractions like 'can't' or 'don't'. Many users find negative contractions hard to read, or misread them as the opposite of what they say.
 
-Avoid "should've", "could've", "would've" and "they've" too. These can also be hard to read.
+Avoid 'should've', 'could've', 'would've' and 'they've' too. These can also be hard to read.
 
 ## Make requirements clear
 
-If you're talking about a legal requirement, use "must". For example: "Your employer must pay you the National Minimum Wage (NMW)".
+If you're talking about a legal requirement, use 'must'. For example: 'Your employer must pay you the National Minimum Wage (NMW)'.
 
-If you feel that 'must' does not have enough emphasis, then use 'legal requirement', 'legally entitled' and so on. For example: "Once your child is registered at school, you're legally responsible for making sure they attend regularly".
+If you feel that 'must' does not have enough emphasis, then use 'legal requirement', 'legally entitled' and so on. For example: 'Once your child is registered at school, you're legally responsible for making sure they attend regularly'.
 
 When deciding whether to use 'must' or 'legally entitled', consider how important it is for us to talk about the legal aspect, as well as the overall tone of voice.
 
-If a requirement is legal, but it's administrative or part of a process that will not have criminal repercussions, then use "need". For example: "You will need to provide copies of your marriage certificate". This may be a legal requirement, but not completing it would just stop the person from moving on to the next stage of a process, rather than committing a more serious offence.
+If a requirement is legal, but it's administrative or part of a process that will not have criminal repercussions, then use 'need'. For example: 'You will need to provide copies of your marriage certificate'. This may be a legal requirement, but not completing it would just stop the person from moving on to the next stage of a process, rather than committing a more serious offence.
 
-If something is optional, you can use 'can'. Avoid more complicated terms like "You may be able to".
+If something is optional, you can use 'can'. Avoid more complicated terms like 'You may be able to'.
 
 ## Keep paragraphs and sentences short
 

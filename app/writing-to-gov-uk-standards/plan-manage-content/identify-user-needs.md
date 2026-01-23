@@ -120,8 +120,8 @@ Acceptance criteria can help define a user need by listing what must be done for
 
 For example, from the 'good example' used above, the acceptance criteria could be when the user:
 
-* understands what carer's allowance is
+* understands what Carer's Allowance is
 * understands if they're eligible
-* can apply for carer's allowance
+* can apply for Carer's Allowance
 * understands how much they are entitled to
 

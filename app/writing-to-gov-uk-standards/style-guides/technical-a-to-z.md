@@ -20,7 +20,7 @@ If you want to suggest a change, read the [guidance on how to use the style guid
 
 ### API
 
-Do not expand the acronym for technical users.
+Do not expand the abbreviation for technical users.
 
 ### API endpoints
 
@@ -48,7 +48,7 @@ You must include an `Authorisation` header in your request.
 
 ### API key
 
-Do not expand the acronym for technical users. Use:
+Do not expand the abbreviation for technical users. Use:
 
 - create an API key – not generate  
 - revoke an API key
@@ -77,6 +77,10 @@ Tell users they can 'include' a parameter in an API request, not that they can '
 
 
 ## B
+
+### backend
+
+Not 'back-end' or 'back end'.
 
 ### bold
 
@@ -124,6 +128,15 @@ Use code styling for the following, which is based on the [code styling list in 
 - HTTP methods - for example GET and PUT
 - placeholder variables
 
+### Components that control other components
+
+Use:
+
+- primary for a component that controls other components
+- secondary for a component that’s controlled by the primary component
+
+Do not use master or slave.
+
 ### conditions
 
 Use:
@@ -148,7 +161,7 @@ Do not abbreviate 'credential issuer' to 'CI' or 'CRI'.
 
 ### CSS
 
-Do not expand the acronym.
+Do not expand the abbreviation.
 
 ### custom
 
@@ -309,6 +322,10 @@ Use 'hackers' instead of 'actors' or 'hostile actors'.
 
 For example, 'Set a password that hackers cannot guess'.
 
+### HTTPS
+
+Upper case. Do not expand the abbreviation.
+
 ### HTTP status codes
 
 For example, a `200` HTTP status code. Use code styling for the status code.
@@ -336,7 +353,7 @@ Lower case i, capital OS.
 
 ### ID
 
-Use 'ID' or 'unique ID', not 'identifier'. Do not expand the acronym.
+Use 'ID' or 'unique ID', not 'identifier'. Do not expand the abbreviation.
 
 ### information
 
@@ -347,7 +364,7 @@ Use 'ID' or 'unique ID', not 'identifier'. Do not expand the acronym.
 
 ### IP
 
-Do not expand the acronym.
+Do not expand the abbreviation.
 
 {% include "layouts/shared/back-to-top.njk" %}
 
@@ -384,6 +401,10 @@ For example: 'Government uses a lot of older technology that's tied into costly 
 
 Lower case m. 
 
+### MD5
+
+Do not expand the abbreviation.
+
 ### meet needs
 
 Not suit needs.
@@ -408,7 +429,7 @@ Upper case.
 
 ### NVDA
 
-NonVisual Desktop Access. Expand the acronym on first use, and consider linking to [information about NonVisual Desktop Access](https://www.nvaccess.org/about-nvda/) or GDS documentation that explains its use.
+NonVisual Desktop Access. Expand the abbreviation on first use, and consider linking to [information about NonVisual Desktop Access](https://www.nvaccess.org/about-nvda/) or GDS documentation that explains its use.
 
 
 {% include "layouts/shared/back-to-top.njk" %}
@@ -435,7 +456,7 @@ Lower case. For example: 'use open standards', or 'follow open standards princip
 
 ### PHP
 
-Do not expand the acronym.
+Do not expand the abbreviation.
 
 ### placeholders
 
@@ -455,7 +476,7 @@ Not 'issues' or 'defects'.
 
 ### Progressive web apps (PWAs)
 
-Expand the acronym on first use. 
+Expand the abbreviation on first use. 
 
 ### Python
 
@@ -475,7 +496,7 @@ For example: 'If the CSS or JavaScript fails, your user's browser still renders 
 
 ### REST
 
-Upper case. Do not expand the acronym if you're writing for API developers.
+Upper case. Do not expand the abbreviation if you're writing for API developers.
 
 Use 'a REST API' instead of 'a RESTful API'. If you need to, include RESTful in brackets after the first use of REST. For example: 'Our API follows REST principles (it's 'RESTful')'.
 
@@ -512,11 +533,11 @@ Lower case.
 
 ### SOAP
 
-Do not expand the acronym if you're writing for API development teams.
+Do not expand the abbreviation if you're writing for API development teams.
 
 ### SQL
 
-Do not expand the acronym.
+Do not expand the abbreviation.
 
 {% include "layouts/shared/back-to-top.njk" %}
 

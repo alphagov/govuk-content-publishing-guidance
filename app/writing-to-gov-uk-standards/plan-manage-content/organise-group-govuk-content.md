@@ -37,7 +37,7 @@ Do not use a document collection to:
 
 * group parts of a single document - instead, put all the attachments on a single [publication page](/publish-update-retire-content/standard-content-types/publications/)
 * guide users through a task - convert the documents into a [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) instead
-* group long complex documents that specialist users need to do their job - think about using [a manual](/publish-update-retire-content/other-content-types/manuals/) instead
+* group long complex documents that specialist users need to do their job - think about using a [manual](/publish-update-retire-content/other-content-types/manuals/) instead
 
 [Read more about creating and updating document collections](/publish-update-retire-content/standard-content-types/document-collections/). 
 
