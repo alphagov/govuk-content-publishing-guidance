@@ -25,7 +25,7 @@ Do not use them for:
 
 + complex content with numbered or named chapters or clauses – these are more suited to [manuals](/publish-update-retire-content/other-content-types/manuals/)
 + grouping pages that contain different types of content – these are more suited to [topic pages](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/)
-+ collections that will have fewer than 100 documents and will not be used or updated regularly - these are more suited to [document collections](/publish-update-retire-content/standard-content-types/document-collections/)
++ collections that will have fewer than 100 documents and will not be used or updated regularly – these are more suited to [document collections](/publish-update-retire-content/standard-content-types/document-collections/)
 
 See a [good example of a specialist finder](https://www.gov.uk/algorithmic-transparency-records).
 
@@ -61,7 +61,7 @@ You can then select 'Request changes' next to either 'Finder details' or 'Filter
 
 Make any edits you want and then select 'Submit changes'.
 
-Your request will be passed to developers at GDS. 
+Your request will be passed to developers at the Government Digital Service (GDS). 
 
 It will usually take developers up to 1 month to make the changes. You can ask for them to be made on a specific day in the request form.
 
@@ -73,7 +73,7 @@ If you need access to Specialist Publisher, ask one of your organisation admins.
 
 All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/). Read these to find out how to write your title, summary and body copy.
 
-Name the specialist finder with a verb, like 'Find funding for land or farms'. Specialist finders are used to do a specific task, which is usually to "find" a document related to a specialist interest. 
+Name the specialist finder with a verb, like 'Find funding for land or farms'. Specialist finders are used to do a specific task, which is usually to 'find' a document related to a specialist interest. 
 
 Specialist finders also have a range of filters you can give to users. These can include different topics, like 'Region' and 'Company', and different selection options, like multiple choice and date ranges. Do user research to find out which filters users will need.
 
