@@ -49,6 +49,9 @@ If you're adding a new page, select 'Create topical event'. Otherwise, search fo
 
 Once you've done this, you can add or edit the details of the page.
 
+>[!NOTE]
+>When adding or editing a topical event page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
+
 ## Add or edit details
 
 Each topical page has a number of fields to fill in.

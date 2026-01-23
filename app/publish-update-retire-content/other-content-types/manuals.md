@@ -11,7 +11,7 @@ lastUpdated:
 
 Manuals are a browsable format that are generally created for specialist users who are familiar with a topic. 
 
-They also have features which make them suited to long or complex legal documents with named or numbered chapters or clauses. They can be used instead of a lengthy PDF.
+They also have features that make them suited to long or complex legal documents with named or numbered chapters or clauses. They can be used instead of a lengthy PDF.
 
 Manuals have:
 
@@ -26,10 +26,10 @@ Manuals have:
 Use them for:
 
 * content that requires at least 2 levels of hierarchy (meaning it is broken down into sections and sub-sections)
-* complex content which includes named chapters, clauses or sub-sections that are referenced regularly by the intended audience (for example legislative documents and regulations)
+* complex content that includes named chapters, clauses or sub-sections that are referenced regularly by the intended audience (for example legislative documents and regulations)
 * content that is too long to be easily readable in a [publication](/publish-update-retire-content/standard-content-types/publications/) or [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/)
 * content users think of as a single body or document
-* legal or guidance documents which need to be browsable
+* legal or guidance documents that need to be browsable
 * content that has a valid [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/)
 
 Do not use them for:
@@ -41,13 +41,15 @@ View a [good example of a manual](https://www.gov.uk/guidance/convert-to-an-acad
 
 ## Get approval to create a new manual
 
-Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for approval to create a manual](https://support.publishing.service.gov.uk/content_advice_request/new).
+Your GOV.UK lead or a managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
 
 Their request for a new manual must show:
 
 - the content has clear user needs
 - what the source content is
 - what else is covered on GOV.UK on the topic
+
+[Contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Get access to Manuals Publisher
 
@@ -125,13 +127,13 @@ You cannot add images to this content type.
 
 Your manual will be automatically tagged to the same organisation as your Signon account.
 
-If you want to change the organisation or tag more organisations, [raise a ticket with GDS](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you want to change the organisation or tag more organisations, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Tag to topic pages
 
 You can only tag the manual to topic pages once the first draft is published.
 
-You'll need to [raise a ticket with GDS](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
+You'll need to [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
 
 ## Unpublish a manual
 
@@ -146,6 +148,6 @@ To unpublish sections of a manual:
 3. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select 'Major change' and add your change notes.
 4. When you've done this for every relevant section, publish the draft.
 
-To unpublish the manual as a whole, [raise a ticket with GDS](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
+To unpublish the manual as a whole, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
 
 *[GDS]: Government Digital Service

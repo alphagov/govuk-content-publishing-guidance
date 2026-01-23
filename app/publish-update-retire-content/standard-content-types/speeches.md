@@ -50,12 +50,16 @@ Before you start, decide whether the speech should be marked as:
 2. Select the 'New document' tab.
 3. Select 'Speech' and then select the 'Next' button.
 4. Select the content type from the dropdown under 'Speech type'.
-5. Add the title and summary, and put the speech itself in the body. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
-6. Add the 'Speaker' or 'Writer'. They need to have a [people page](/publish-update-retire-content/organisations-people/people-roles) to have a profile on GOV.UK.
-7. Add the date the speech was 'Delivered on' or 'Written on', and choose whether to add the exact time.
-8. You can choose whether to add the location of where the speech was delivered (unless you're creating an 'authored article').
-9. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
-10. Select the 'Save' button at the bottom of the page.
+5. Add the title. Do not include the words 'speech', 'statement' or 'Parliament', or anything about the speaker, date, venue or audience. Most of these appear on the page automatically. Put any details about the venue or audience in the summary instead.
+6. Add the summary. There's no need to specify whether it's a written or oral statement and whether the statement was given to Parliament. These details appear on the page automatically.
+7. Put the speech itself in the body.
+8. Add the 'Speaker' or 'Writer'. They need to have a [people page](/publish-update-retire-content/organisations-people/people-roles) to have a profile on GOV.UK.
+9. Add the date the speech was 'Delivered on' or 'Written on', and choose whether to add the exact time.
+10. You can choose whether to add the location of where the speech was delivered (unless you're creating an 'authored article').
+11. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+12. Select the 'Save' button at the bottom of the page.
+
+{% include 'reusable-content/style-formatting-extra.md' %}
 
 After saving the page, you can add images.
 

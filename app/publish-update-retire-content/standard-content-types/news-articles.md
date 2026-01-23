@@ -29,7 +29,7 @@ There are different types of news articles. Make sure you choose the right type.
   <tbody class="govuk-table__body">
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Government response</th>
-      <td class="govuk-table__cell"><p class="govuk-body">Government statements produced in response to media coverage by your organisation’s press team. For example, rebuttals or ‘myth busters’. These are usually short and to the point, consisting of a quotation with no headings.</p></td>
+      <td class="govuk-table__cell"><p class="govuk-body">Government statements produced in response to media coverage by your organisation's press team. For example, rebuttals or 'myth busters'. These are usually short and to the point, consisting of a quotation with no headings.</p></td>
       <td class="govuk-table__cell"><p class="govuk-body">Statements issued to Parliament.</p><p class="govuk-body">Speeches or press articles.</p><p class="govuk-body">Letters to newspapers written by ministers.</p><p class="govuk-body">Use the <a href="/publish-update-retire-content/standard-content-types/speeches/" class="govuk-link">speech type</a> for all of these instead.</p></td>
     </tr>
     <tr class="govuk-table__row">
@@ -59,7 +59,7 @@ There are different types of news articles. Make sure you choose the right type.
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
 2. Select the 'New document' tab.
 3. Select 'News article' and then select the 'Next' button.
-4. Select the content type from the dropdown under 'News article type (required)'.
+4. Choose the type of news article from the following page and select ‘Next’.
 5. Add the title, summary and body. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
 7. If you're creating a world news story, tag the story to a world location and worldwide organisation under the 'Associations' heading.
@@ -95,19 +95,19 @@ Make sure you've correctly [formatted the images](/formatting-content/images-vid
 
 Select the 'Images' tab at the top of the page. You can upload images here. Each image will need a different file name.
 
-One of the images you upload will be the lead image, unless it's an SVG file. The lead image appears above the body content. You cannot use the lead image again in the body.
+### Lead image
 
-The first image you upload will automatically be the lead image. If you want to change the lead image, upload another image and select 'Select as lead image'.
+News articles must have a lead image. The lead image appears above the body content.
 
-For images other than the lead image, you'll be given a 'Markdown code'. You can copy and paste that into the body and the image will appear there.
+If you do not select a lead image, a default image will be used. You can add or change your organisation’s default image by updating your [organisation page](/publish-update-retire-content/organisations-people/organisations/).
+
+If you want to use a custom lead image, upload it. Under ‘Custom lead image’, select its file name and then select ‘Save’. You cannot use an SVG file as a lead image. You cannot use the lead image again in the body.
+
+### Other images
+
+You’ll be given a ‘Markdown code’ when you upload the image. You can copy and paste that into the body and the image will appear there.
 
 If you want to remove an image, you can remove its code from the body. You can then upload a new version of the image and use its code instead.
-
-### If you do not add any images or if you only add SVG images
-
-The default image for the lead organisation will be used as the lead image, if there is one.
-
-You can add or change the default image on the relevant [organisation page](/publish-update-retire-content/organisations-people/organisations/).
 
 ## Add or edit attachments
 
@@ -150,10 +150,6 @@ You can add or change the default image on the relevant [organisation page](/pub
 
 ## Add or edit translations
 
-If you're working on a world news story that will never be published in English, tick 'Create a foreign language only news article' and select the language.
-
-Otherwise, you need to have an English version and then a translation.
-
 ### Add a new translation
 
 {% include 'reusable-content/add-translations-current-draft-1.md' %}
@@ -161,6 +157,14 @@ Otherwise, you need to have an English version and then a translation.
 ### Edit an existing translation
 
 {% include 'reusable-content/add-translations-current-draft-2.md' %}
+
+### If your news article will not be published in English
+
+Under the ‘Language’ heading, choose the language from the drop down list. Select ‘Save’.
+
+You can then add translations in languages other than English following the steps under 'Add a new translation'.
+
+You cannot change the primary language if you’ve added translations to the page.
 
 ## Update the URL
 

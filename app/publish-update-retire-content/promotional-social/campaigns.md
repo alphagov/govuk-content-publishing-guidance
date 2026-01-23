@@ -106,7 +106,7 @@ The campaign owner will be responsible for:
 * ensuring the campaign site does not duplicate information already on GOV.UK
 * setting an end date for the campaign, if it's a rolling campaign, set a review date 
 * helping and training people to publish to the campaign platform
-* ensuring content follows the [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/)
+* ensuring content follows the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/)
 * making sure the site follows the [design principles](https://www.gov.uk/design-principles)
 * evaluating the campaign's performance using Google Analytics and other available data
 * submitting your analytics and statistics to GCS at regular intervals
@@ -116,7 +116,7 @@ GCS will:
 
 * manage campaign requests 
 * assess your site and decide if it's suitable to go public
-* review your sites six months after it's live
+* review your site 6 months after it's live
 
 GDS will:
 
@@ -124,7 +124,7 @@ GDS will:
 * set up new administrator accounts
 * work with GCS to review and prioritise requests for new accounts and additional functionality on the platform
 
-Six months after your site goes live, you'll be required to provide performance data for the site based on your digital Key Performance Indicators (KPIs). If the campaign does not meet its success criteria, you must create a plan to improve it. 
+Six months after your site goes live, you'll be required to provide performance data for the site based on your digital key performance indicators (KPIs). If the campaign does not meet its success criteria, you must create a plan to improve it. 
 
 ### Use the GOV.UK campaign platform
 

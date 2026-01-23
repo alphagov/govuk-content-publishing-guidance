@@ -160,7 +160,7 @@ If the statistics will not be published for any other reason, cancel the announc
 
 Only managing editors can unpublish a statistics announcement if it was published in error.
 
-If your managing editor is not available, [contact GDS using the GOV.UK Support form](https://support.publishing.service.gov.uk/unpublish_content_request/new).
+If your managing editor is not available, [contact the Government Digital Service (GDS) using the support form](https://support.publishing.service.gov.uk/unpublish_content_request/new).
 
 To unpublish a duplicate announcement or one published by mistake:
 
