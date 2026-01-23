@@ -74,11 +74,17 @@ export default function(eleventyConfig) {
           text: "Formatting content",
           href: "/formatting-content"
         },
+         {
+	        text: "Accounts and support",
+	        href: "/accounts-support"
+      },
         {
           text: "National events",
           href: "/publishing-national-events"  
         },
+     
       ]
+
     },
     footer: {
       meta: {
