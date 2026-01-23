@@ -64,7 +64,10 @@ You need to:
 
 If you're adding a new page, select 'Create new group'. Otherwise, search for the name of the group and select 'Edit' next to it.
 
-Select 'Save' to publish the group page. The draft will go live immediately.
+Select 'Save' to publish the group page.
+
+>[!NOTE]
+> When adding or editing a group page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
 
 If you're adding a group page for the first time, you'll need to publish it before you can add any attachments.
 
@@ -106,6 +109,7 @@ Make sure you've correctly [formatted the attachments](/formatting-content/attac
 Select the 'Attachments' tab. You can upload a new file attachment and edit or delete any existing ones.
 
 You cannot add HTML attachments to this content type.
+
 When you add an attachment, do not tick 'Attachment is accessible'. This is so users can see information about requesting the attachment in an accessible format like audio or Braille
 
 For each attachment, you get two codes that you can add to the 'Description'. You can either add the attachment as:
@@ -170,7 +174,7 @@ Good examples of closed groups include the:
 
 ## Update the name of a group page
 
-[Contact GDS](LINK) to request a new group page with the updated name.
+[Contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) to request a new group page with the updated name.
 
 When you have that approval, close the old group page and set up one with the new name.
 
