@@ -437,7 +437,7 @@ There may be exceptions to the list of content types that should not be retagged
 * an announcement of something that has not yet happened
 * content that is in the wrong content type, such as things that have [incorrectly gone into history mode](link tbc)
 
-#### Get help with retagging documents
+#### Getting help with retagging documents
 
 If there is too much content for you to retag manually, you can [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
 
@@ -457,7 +457,7 @@ You can also [ask GDS using the support form](https://support.publishing.service
 - you do not know what to retag to the new organisation
 - you need to retag mainstream content, manuals or specialist finders
 
-### Update people and role pages
+### Updating people and role pages
 
 If anyone is listed under ‘Our management’ on the organisation page, unassign them from their roles when you close the organisation. Read the [guidance about people and role pages](/publish-update-retire-content/organisations-people/people-roles) for help with that.
 
