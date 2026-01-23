@@ -72,7 +72,7 @@ When you get a blog, GDS will send you your account details.
 
 ## Write blog posts
 
-All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/).
+All content should follow the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/).
 
 There are some additional things you need to consider when writing a blog post.
 
@@ -80,7 +80,7 @@ There are some additional things you need to consider when writing a blog post.
 
 Blogging offers a personal way of engaging with people. Blog posts are mostly linked to named authors, who put a face to what might otherwise be perceived as a faceless organisation. It's this personal dimension that, for users, adds credibility and a sense of openness.
 
-This means you should write as you speak. Write as an individual, not as an impersonal organisation or team. You should still follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) but this does not mean you cannot be warm or personal. 
+This means you should write as you speak. Write as an individual, not as an impersonal organisation or team. You should still follow the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) but this does not mean you cannot be warm or personal. 
 
 Blogs can – and should – spark conversation. This means being accountable for the things you write and responding to comments that meet your comment and moderation policy. If you engage in dialogue, both on your blog and on other social networks, it'll improve your reader's experience and help you learn more about them.
 
@@ -90,7 +90,7 @@ After you have written a blog post, read it out loud to check it's written the w
 
 Titles should clearly tell readers what the post is about and entice them to read it. Although it's a blog, do not try to be clever or play on words – the title should make sense in search results or when read out of context. 
 
-A blog post title should be 65 characters or fewer. This is so Google and Twitter display the full title and the user knows what to expect.
+A blog post title should be 65 characters or fewer. This is so Google and X display the full title and the user knows what to expect.
 
 Good examples:
 
@@ -124,9 +124,9 @@ Only use heading 3 when you are creating a subsection within a section that alre
 
 ### Images and featured images
 
-Choosing the right image can make blog posts more effective and engaging. Every blog post should have at least one image. If you only have one, it should appear at the top of the post. 
+Choosing the right image can make blog posts more effective and engaging. Every blog post should have at least one image. If you only have one, it should appear at the top of the post.
 
-Images should all be at least 1,000 pixels wide to ensure they are displayed correctly in different places, including social media. They should not be wider than 3,999 pixels.
+Blog images should all be at least 1,000 pixels wide to ensure they are displayed correctly in different places, including social media. They should not be wider than 3,999 pixels.
 
 All images should also be in landscape, rather than portrait.
 
@@ -138,11 +138,14 @@ Every post should have a featured image. This is displayed on your blog's homepa
 
 Featured images should not be larger than 1MB.
 
+>[!NOTE]
+>Read more about how to [format images](/formatting-content/images-videos/formatting-images/) used in content, including how to make them accessible and how to attribute the source.
+
 ### Excerpt text
 
 Write a summary of up to about 50 words for your blog post and insert it in the 'Excerpt' field. The excerpt should tell readers what the post is about and it should be written in a way that encourages them to read it.
 
-The excerpt text will be displayed on your blog homepage and on social media. It will also be featured in email notifications sent to your blog subscribers. If you do not write an excerpt text, WordPress and Twitter will automatically display the first words of your post. This will likely give readers an incomplete experience so it is important to write this text.
+The excerpt text will be displayed on your blog homepage and on social media. It will also be featured in email notifications sent to your blog subscribers. If you do not write an excerpt text, WordPress and X will automatically display the first words of your post. This will likely give readers an incomplete experience so it is important to write this text.
 
 You should not use the 'read more' tag to generate excerpt text.
 
@@ -151,7 +154,7 @@ You should not use the 'read more' tag to generate excerpt text.
 At the end of every blog post, you should include a call to action. This could, for example, ask your audience to:
 
 - follow the blog by email
-- follow the blog post's author on Twitter
+- follow the blog post's author on X
 - leave a comment and join in a conversation
 - read related posts (which you can add using the 'related posts' box)
 
@@ -161,7 +164,7 @@ You can put the call to action in a grey box by selecting 'Highlight' in the for
 
 You can embed social media content into your blog by pasting the URL into a new line (make sure it's not formatted as a clickable link). This works for:
 
-- X (formerly known as Twitter)
+- X
 - YouTube
 - Vimeo
 
@@ -194,7 +197,7 @@ The blog owner must:
 
 - agree to post regularly (blogs that are not updated at least twice a month will be archived)
 - co-ordinate, schedule and check content quality of blog posts before they're published
-- ensure all blog content is accessible and follows the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/)
+- ensure all blog content is accessible and follows the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/)
 - manage all blog content in WordPress
 - support contributors to publish their work
 - establish moderation principles, and ensure contributors keep to them
