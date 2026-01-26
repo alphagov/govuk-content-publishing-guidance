@@ -72,12 +72,12 @@ The banner should be displayed for all of the period of national mourning.
 
 The banner specifications for desktop are:
 
-- Background colour: Black (#0b0c0c)
-- Width: full site width
-- Content area width: 960 pixels
-- Text colour: White (#ffffff)                                                                                    
-- Link style: White underline
-- Title size on homepage: 48 pixels
-- Title size on sitewide content (not homepage): 24 pixels
-- Summary text size: 19 pixels
-- Link text size: 19 pixels
+- background colour: black (#0b0c0c)
+- width: full site width
+- content area width: 960 pixels
+- text colour: white (#ffffff)                                                                                    
+- link style: white underline
+- title size on homepage: 48 pixels
+- title size on sitewide content (not homepage): 24 pixels
+- summary text size: 19 pixels
+- link text size: 19 pixels
