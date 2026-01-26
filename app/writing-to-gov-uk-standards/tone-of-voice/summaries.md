@@ -32,7 +32,7 @@ Summaries should end with a full stop. It can help people who use assistive tech
 
 ## Avoid redundant introductory words
 
-Do not mention the content type in the summary. For example, do not say "this consultation is about…" or "a form to…".  
+Do not mention the content type in the summary. For example, do not say 'this consultation is about…' or 'a form to…'.  
 
 Use as few words from the title as possible, and include keywords that you've not used in the title.
 

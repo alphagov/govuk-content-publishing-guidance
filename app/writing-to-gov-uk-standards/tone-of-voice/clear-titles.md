@@ -18,7 +18,7 @@ Titles must be unique and informative so that users know which page they are on.
 
 Duplicate titles can confuse users - for example, if they have more than one page open. This is particularly true for those with visual, cognitive or mobility impairments.
 
-In Whitehall Publisher, a message appears at the top of your content after you save it if the title is already being used: "This title is already used on GOV.UK. Please create a unique title". 
+In Whitehall Publisher, a message appears at the top of your content after you save it if the title is already being used: 'This title is already used on GOV.UK. Please create a unique title'. 
 
 In other publishing tools, you may not get a warning that the title is already being used. You'll need to search for the title you want to use to check it's not already in use.
 
@@ -45,9 +45,11 @@ Titles do not have to reflect the official publication title. Make them user foc
 
 Find out what the public calls your content by [looking at common search terms](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/). The official or internal name may not be what the public calls it.
 
-Once you know the most common search terms, you can prioritise them in the title.
+Once you know the most common search terms, you can prioritise them in the title. This will also help make your content easier to find.
 
-This will also help make your content easier to find.
+You can use abbreviations without explaining them if they’re well known. See the [style guide entry on abbreviations](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#abbreviations-and-acronyms) for more information.
+
+If the abbreviation is not well known, write it out in full if you use it in a title. For example, ‘Personal Independence Payment (PIP)’.
 
 ## Make your titles descriptive
 

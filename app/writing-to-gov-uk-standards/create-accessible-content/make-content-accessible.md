@@ -15,7 +15,7 @@ Anything published on GOV.UK needs to meet accessibility requirements set out in
 
 This page is a 'how to' for ensuring the accessibility of the different types of content formatting. It's not a breakdown of the accessibility regulations and guidelines. That's covered in the guidance on [understanding accessibility](/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/). 
 
-You should also check our [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
+You should also check the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
 
 ## Attachments
 
@@ -30,7 +30,7 @@ PDFs are difficult to create accessibly. They often do not work well with assist
 There are some cases when you might need to publish a PDF, for example:
 
 * it's a document which was designed to be printed and read on paper - for example, promotional material, a booklet or a leaflet
-* you want to publish something in an 'easy read' format - follow [the section on creating easy read documents in the guidance on accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton) 
+* you want to publish something in an Easy Read format - follow [the section on creating easy read documents in the guidance on accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton) 
 * you're publishing something in a language not supported in HTML by Whitehall Publisher
 * you need to [create a PDF/A](https://www.gov.uk/guidance/publishing-accessible-documents) for archiving purposes
 * you're using Specialist Publisher to publish a document that could be misused if edited, such as an employment tribunal or asylum support tribunal decision
@@ -39,11 +39,11 @@ If you do need to publish a PDF, you must publish an accessible version of the a
 
 ### Attaching datasets
 
-If you publish data that's only designed to be machine readable by external software, it's fine to use a .csv file (or other non-open format). 
+If you publish data that's only designed to be machine readable by external software, it's fine to use a CSV file (or other non-open format). 
 
-If it's intended to be read by people, it's difficult to make .csv files accessible. You need to offer an alternative format as well. 
+If it's intended to be read by people, it's difficult to make CSV files accessible. You need to offer an alternative format as well. 
 
-The Government Statistical Service has published [detailed guidance on releasing statistics in accessible spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/). They recommend publishing accessible versions of any non-accessible file formats you use (even if that's because they're optimised for machine readability). So, if you publish a .csv file of your data, it's good to publish an .ods version too. 
+The Government Statistical Service has published [detailed guidance on releasing statistics in accessible spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/). They recommend publishing accessible versions of any non-accessible file formats you use (even if that's because they're optimised for machine readability). So, if you publish a CSV file of your data, it's good to publish an ODS version too. 
 
 Avoid publishing statistical tables or datasets within a PDF or other formats designed mainly for text. It makes it difficult for users who rely on assistive technology such as screen readers which speak the text on a page. 
 
@@ -158,7 +158,7 @@ To make sure your table is accessible, you must have:
 
 * a descriptive header for every column
 * one header row only 
-* only one item per cell
+* only one item per cell - do not use line breaks
 * 'no data' or 'not applicable' instead of empty cells
 
 You should not have any split, merged or empty cells. The only time you should have an empty cell is the top left cell. This is used if you have a header row that does not need a column header. 

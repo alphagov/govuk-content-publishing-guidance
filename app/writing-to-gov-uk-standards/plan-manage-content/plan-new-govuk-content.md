@@ -8,6 +8,9 @@ title: Plan new GOV.UK content
 description: Know what to do when creating new information or guidance for GOV.UK.
 lastUpdated:
 ---
+
+[[toc]]
+
 ## Decide whether to publish on GOV.UK
 
 GOV.UK content should serve one of these user groups:
@@ -99,7 +102,7 @@ Depending on what's in your content, you should also read guidance on:
 
 All this guidance will tell you how to make your content accessible.
 
-Depending on the content type, you might also be able to create and add translations for different languages.
+Depending on the content type, you can create and add translations for different languages.
 
 ## Publish new content
 
@@ -135,7 +138,7 @@ Read our [guidance on organising and grouping content](/writing-to-gov-uk-standa
 
 Ask your communications team to raise awareness through channels outside of GOV.UK.
 
-This could include campaign sites, social media, paid advertising and third parties
+This could include campaign sites, social media, paid advertising and third parties.
 
 As a content designer, you should work with your communications team to make sure there's a clear and consistent user journey across GOV.UK and campaign channels. 
 

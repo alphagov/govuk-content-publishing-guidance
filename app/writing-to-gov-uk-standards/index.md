@@ -15,6 +15,4 @@ You'll find guidance to help you plan content in line with good content design p
 * advice for helping users prepare for changes to government policy or services
 * tools and resources for gathering insights into your content
 
-It also includes the Government Digital Service (GDS) style guide, tone of voice and guidance to make sure your content meets accessibility requirements. 
-
-*[GDS]: Government Digital Service
+It also includes the GOV.UK style guides, and guidance on tone of voice and meeting accessibility requirements.

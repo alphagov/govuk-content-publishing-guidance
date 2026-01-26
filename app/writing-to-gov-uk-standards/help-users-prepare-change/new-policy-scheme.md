@@ -29,6 +29,17 @@ The content you publish in advance should tell users:
 + when they need to take action to prepare
 + the date the change will come into effect
 
+Guidance on how to prepare for the change should not include more than 1 or 2 sentences about the policy itself.
+
+Guidance should not include:
+
+- why it exists (the problem being solved)
+- how much money has been allocated to it
+- who runs it
+- aspirational statements about the intended outcome
+
+Some users want to know the detail of policy, but they are not the same users as people looking for guidance. Information about the policy should be in a [policy paper](/publish-update-retire-content/standard-content-types/publications/).
+
 ### When changes announced in advance come into effect
 
 You'll need to:

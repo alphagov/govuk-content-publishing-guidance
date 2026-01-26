@@ -100,9 +100,9 @@ These are the currently available languages for translations:
 The Government Digital Service (GDS) is responsible for:
 
 - managing GOV.UK so organisations can publish Welsh versions of any official publication and comply with their Welsh language schemes
-- understanding the government’s statutory obligation to support the Welsh language, by working with the Wales Office, Cabinet Office and Welsh-language specialists in departments and agencies
-- understanding users’ need for Welsh-language content and ensuring that GOV.UK responds to that need
-- developing and maintaining a consistent approach to translating Welsh-language content on GOV.UK
+- understanding the government’s statutory obligation to support the Welsh language, by working with the Wales Office, Cabinet Office and Welsh language specialists in departments and agencies
+- understanding users’ need for Welsh language content and ensuring that GOV.UK responds to that need
+- developing and maintaining a consistent approach to translating Welsh language content on GOV.UK
 
 Government organisations are responsible for: 
 
