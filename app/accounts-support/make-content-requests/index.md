@@ -12,20 +12,20 @@ You sometimes need to contact the Government Digital Service (GDS) to add or upd
 
 This guidance covers how to request:
 
-- [changes to GOV.UK content](LINK)
-- a [short URL](LINK)
-- a [topic page](LINK)
-- a [featured slot on the GOV.UK homepage](LINK)
+- [changes to GOV.UK content](/accounts-support/make-content-requests/ask-updates-content/)
+- a [short URL](/accounts-support/make-content-requests/ask-short-url/)
+- a [topic page](/accounts-support/make-content-requests/ask-changes-topics/)
+- a [featured slot on the GOV.UK homepage](/accounts-support/make-content-requests/ask-featured-slot-homepage/)
 
-It also covers how to request an [exemption from putting your content on GOV.UK](LINK).
+It also covers how to request an [exemption from putting your content on GOV.UK](/accounts-support/make-content-requests/ask-exemption/).
 
 There’s separate guidance about how to request:
 
-- a [blog site](LINK)
-- a [campaign site](LINK)
-- a [group page](LINK)
-- a [manual](LINK)
-- a [ministerial role page](LINK)
-- an [organisation page](LINK)
-- a [specialist finder](LINK)
-- a [topical event page](LINK)
+- a [blog site](/publish-update-retire-content/promotional-social/blogs/)
+- a [campaign site](/publish-update-retire-content/promotional-social/campaigns/)
+- a [group page](https://guidance.publishing.service.gov.uk/publish-update-retire-content/organisations-people/groups/)
+- a [manual](/publish-update-retire-content/other-content-types/manuals/)
+- a [ministerial role page](/publish-update-retire-content/organisations-people/people-roles/)
+- an [organisation page](https://guidance.publishing.service.gov.uk/publish-update-retire-content/organisations-people/organisations/)
+- a [specialist finder](/publish-update-retire-content/other-content-types/specialist-finders/)
+- a [topical event page](/publish-update-retire-content/promotional-social/topical-events/)

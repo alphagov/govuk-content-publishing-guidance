@@ -1,18 +1,18 @@
 ---
 layout: landing-page
-sectionKey: Manage accounts and training
+sectionKey: Accounts and support
 eleventyNavigation:
-  parent: Manage accounts and training
+  parent: Accounts and support
   order: 1
-title: 
+title: Manage accounts and training
 description: Learn about getting and managing a publishing account, accessing the different publishing environments and requesting training.
 
 lastUpdated:
 ---
 This guidance covers:
 
-+ [publishing accounts and permissions](link)
++ [publishing accounts and permissions](/accounts-support/manage-accounts-training/publishing-accounts-permissions/)
 + [using the Production and Integration publishing environments](link)
-+ [requesting training and accounts for your organisation](link)
-+ [managing your own account](link)
-+ [managing accounts for your organisation](link)
++ [requesting training and accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/)
++ [managing your own account](/accounts-support/manage-accounts-training/manage-accounts/)
++ [managing accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/)

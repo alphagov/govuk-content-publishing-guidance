@@ -68,6 +68,7 @@ For example: `gov.uk/benefits-credits/tax-credits?utm_source=letter&utm_medium=s
 You can use a [campaign URL builder](https://ga-dev-tools.google/campaign-url-builder/) to help put the UTM parameters together. If you’re not sure how to add parameters, include this in your request and GDS can help.
 If you want to track multiple UTM parameters, like if you’re using it in both print and radio campaigns, you’ll need multiple short URLs.
 
+[!NOTE]
 > Read more about how to track the use of links with UTM parameters in [guidance about collecting data about user journeys](/writing-to-gov-uk-standards/find-tools-resources/find-out-users-find-content/).
 
 ## What happens next

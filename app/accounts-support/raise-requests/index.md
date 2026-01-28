@@ -58,7 +58,8 @@ GDS will try to give you a definitive response within this time. If they cannot,
 
 If you have not had a response within one of the target times, then you should ask for a progress update. You can do this by replying to the email you got after you first submitted your request. Do not submit a new request.
 
-> Emergency response times are an exception to this. GDS will aim to reply as soon as possible.
+[!NOTE]> 
+Emergency response times are an exception to this. GDS will aim to reply as soon as possible.
 
 ### Closing tickets
 

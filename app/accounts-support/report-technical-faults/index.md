@@ -14,7 +14,7 @@ Before reporting a fault, check the [GOV.UK status page](https://status.publishi
 
 If it’s not on there, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new).
 
-> You need a Signon account to access the form. Speak to the lead of your GOV.UK publishing team if you want access to the form.
+You need a Signon account to access the form. Speak to the lead of your GOV.UK publishing team if you want access to the form.
 
 When you report it:
 
