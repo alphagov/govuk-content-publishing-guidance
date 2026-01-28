@@ -1,0 +1,51 @@
+---
+layout: landing-page
+sectionKey: Accounts and support
+eleventyNavigation:
+  parent: Manage accounts and training
+  order: 4
+title: Request training and accounts for your organisation
+description: Request and manage Signon accounts and training for people in your organisation.
+lastUpdated:
+---
+If you’re a GOV.UK lead, organisation admin or super organisation admin, you can request new Signon accounts and training for people in your organisation.
+
+## Request a new account
+
+To submit a request for someone, use the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+
+You can say what publishing application you’re requesting access to and request training at the same time.
+
+For Whitehall Publisher, new publishers must complete ‘Writing and Publishing on GOV.UK’ training before they can have an account.
+
+New publishers who only have access to Manuals Publisher, Specialist Publisher or Travel Advice Publisher have the option of doing ‘Writing for GOV.UK’ training.
+
+To get a Google Analytics account, your organisation’s analytics ‘single point of contact’ (SPOC) will need to [raise an analytics ticket](https://support.publishing.service.gov.uk/analytics_request/new). If you do not know who your SPOC is, you can raise an analytics ticket yourself to find out.
+
+## Required training for Whitehall Publisher
+
+What training someone can get depends on if they’re a new or existing publisher.
+
+### New publishers
+
+To request ‘Writing and Publishing on GOV.UK’ training for new publishers, use the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+
+New publishers need to complete one of the following training courses:
+
++ Writing and Publishing on GOV.UK for press officers - if they only need to publish news articles and press releases
++ Writing and Publishing on GOV.UK - for all other content types
+
+Together you’ll need to follow these steps:
+
+The GOV.UK lead or an organisation admin requests training through the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+They’ll be automatically enrolled on to the training course - they can set up their account on the training platform using the link in the email inviting them to complete the course.
+They’ll be invited to set up their account on the [Integration environment](link tbc) (if they do not already have one).
+Once they’ve finished the course, the GOV.UK lead or the person who requested their account must check they’ve successfully completed the training.
+If they’ve successfully completed the training and are a new publisher, the GOV.UK lead can request their account for the Production environment using the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+They’ll be invited to set up their account on the Production environment within 2 days.
+
+If you’re a GOV.UK lead or an organisation admin, you’ll be given a checklist and example content to check if a new publisher has successfully completed the course. You’ll be given access the first time you request training for a new publisher.
+
+### Existing publishers
+
+You can request refresher training for a publisher who uses Whitehall Publisher using the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
