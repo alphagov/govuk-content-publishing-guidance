@@ -57,11 +57,11 @@ UTM parameters have 3 main parts:
 - medium
 - campaign
 
-The source is where users are coming from. This is the platform you’ll be using to share the short URL, for example “letter, radio, facebook, print” or you can use the name of your department, for example “forestry-commission”.
+The source is where users are coming from. This is the platform you’ll be using to share the short URL, for example ‘letter, radio, facebook, print‘ or you can use the name of your department, for example ‘forestry-commission‘.
 
-The medium is the type of channel you’re using for a redirect or campaign. If you’re not sure what you use, use the default “shorturl”.
+The medium is the type of channel you’re using for a redirect or campaign. If you’re not sure what you use, use the default ‘shorturl‘.
 
-The campaign is the name of the promotional activity the short URL is being used for, for example “tax-credits-2022”.
+The campaign is the name of the promotional activity the short URL is being used for, for example ‘tax-credits-2022‘.
 
 For example: `gov.uk/benefits-credits/tax-credits?utm_source=letter&utm_medium=shorturl&utm_campaign=tax-credits-2022`
 
