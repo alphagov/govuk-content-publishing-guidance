@@ -29,12 +29,12 @@ Content is mainstream if it:
 
 Most downtime messages will take this format:
 
-“This service will be unavailable from [date and time] to [date and time].”
+‘This service will be unavailable from [date and time] to [date and time].‘
 
 If the service is down and you do not know when it will be up again, GDS can use one of the following:
 
-- “This service is currently unavailable.”
-- “This service will be temporarily unavailable from [date and time].”
+- ‘This service is currently unavailable.‘
+- ‘This service will be temporarily unavailable from [date and time].‘
 
 GDS generally does not add downtime messages to mainstream content if:
 
