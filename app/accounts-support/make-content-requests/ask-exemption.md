@@ -12,9 +12,8 @@ You need to get approval from the Government Digital Service (GDS) before you cr
 
 This approval is known as getting an ‘exemption’ and applies to domains ending in gov.uk and non-government domains (like org.uk, co.uk or .com).
 
-> 
-[!NOTE]
-Getting an exemption from GDS is not the only approval you’ll need. You must also make sure you have the correct [spend approval](https://www.gov.uk/government/publications/digital-and-technology-spend-control-version-6) before you create your website.
+> [!NOTE]
+> Getting an exemption from GDS is not the only approval you’ll need. You must also make sure you have the correct [spend approval](https://www.gov.uk/government/publications/digital-and-technology-spend-control-version-6) before you create your website.
 
 There’s separate guidance on how to get:
 
