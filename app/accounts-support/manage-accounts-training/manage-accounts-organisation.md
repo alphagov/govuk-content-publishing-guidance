@@ -12,8 +12,8 @@ If you have organisation admin permissions, you can do the following for people 
 
 + [request training and accounts](link tbc)
 + view their accounts and the applications they have access to
-+ unsuspend accounts
-+ reset their 2-step verification
++ suspend and unsuspend accounts
++ + reset their 2-step verification
 + resend their account signup emails
 + manage access and permissions for some applications (for example, access to Manuals Publisher or the ‘editor’ permission in Whitehall Publisher)
 + change their personal or organisation details
@@ -39,6 +39,15 @@ You can then search for a specific name or email address, or filter your users b
 + access to publishing apps and permissions
 
 You can export a CSV of your users to see what permissions they have across all applications.
+
+## Suspend accounts
+You should suspend an account if the user has left their role or they do not need access to publishing applications anymore.
+
+You need to select an individual user account to suspend them.
+
+Select ‘Suspend user’ under the ‘Actions’ heading.
+
+Tick the box next to ‘Suspended’ and give a reason for the suspension. Then select ‘Save’.
 
 ## Unsuspend and unlock accounts
 You need to select an individual user account to unsuspend or unlock their account. 
@@ -88,14 +97,16 @@ To give access to an application which the account does not have access to alrea
 To remove access to an application, select ‘Remove’ and select ‘Confirm’ on the confirmation page.
 
 To add a permission for an application:
-Select ‘Update’ under the ‘Permissions’ heading.
-Select the permissions you want to add to the account.
-Select ‘Update permissions’ to save the changes.
+
+1. Select ‘Update’ under the ‘Permissions’ heading.
+2. Select the permissions you want to add to the account.
+3. Select ‘Update permissions’ to save the changes.
 
 To remove a permission for an application:
-Select ‘Update’ under the ‘Permissions’ heading.
-Find the permission and untick the box for the permission.
-Select ‘Update permissions’ to save the changes.
+
+1. Select ‘Update’ under the ‘Permissions’ heading.
+2. Find the permission and untick the box for the permission.
+3. Select ‘Update permissions’ to save the changes.
 
 ## Change personal or organisation details
 
