@@ -20,6 +20,8 @@ Official documents are types of papers that are laid before (presented to) Parli
 
 You should create and attach HTML and 'web' and 'print' PDF/A versions of these documents. For help with that, read the [guidance on planning 'web-optimised' and 'print-ready' papers from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/parliamentary-papers-planning-checklist/).
 
+## Create a new official document
+
 All versions of official documents must contain the: 
 
 - title
@@ -28,7 +30,7 @@ All versions of official documents must contain the:
 
 You'll need to add additional details to the document depending on what type of official document they are.
 
-## Command papers
+### Command papers
 
 Command papers must also have:
 
@@ -38,7 +40,7 @@ Command papers must also have:
 
 [See an example of a command paper](https://www.gov.uk/government/consultations/visiting-in-care-homes-hospitals-and-hospices).
 
-## House of Commons papers
+### House of Commons papers
 
 House of Commons papers must also have:
 
@@ -48,15 +50,26 @@ House of Commons papers must also have:
 
 [See an example of a House of Commons paper](https://www.gov.uk/government/publications/rural-payments-agency-annual-report-and-accounts-2023-to-2024).
 
-## Unnumbered act papers
+### Unnumbered act papers
 
 Unnumbered act papers must also have a statement to explain how the paper was presented to Parliament, such as: 'Presented to Parliament pursuant to section 7 of the Government Resources and Accounts Act 2000'.
 
 [See an example of an unnumbered act paper](https://www.gov.uk/government/publications/government-response-to-oeps-report-on-the-implementation-of-the-water-framework-directive-regulations-and-river-basin-management-planning).
+
+## Update already published official documents
+
+If you need to update the document after it’s been published, add a ‘correction slip’:
+
+- before the contents page, in PDF versions
+- at the top of the document, in HTML versions
+
+Read the [guidance on correction slips from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/correct-paper/) for templates and further instructions.
 
 ## Upload the official documents
 
 When each version of the official document is ready, add them as attachments to the same publication content type.
 
 Read the guidance on the [publication content type](link tbc) for instructions, including how to fill in special fields when uploading official documents.
+
+If you’re updating a document that’s already been published, write a public change note to explain the updates you’ve made.
 

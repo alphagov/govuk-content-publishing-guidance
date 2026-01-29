@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Accounts and support
 eleventyNavigation:
   parent: Manage accounts and training
-  order: 2
+  order: 3
 title: Manage your own account
 description: Learn how to manage your Signon account, including signing in, 2-step verification and password resets.
 lastUpdated:
