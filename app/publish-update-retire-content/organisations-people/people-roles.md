@@ -91,7 +91,7 @@ For all biographies, do not include information about their personal life, for e
 
 ## Add or edit a role page
 
-If you're adding or editing a ministerial role page, [contact GDS using the support form](link tbc) first to get approval.
+If you're adding or editing a ministerial role page, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
 
 >[!NOTE]
 >When adding or editing a role page, be aware that it will publish or update as soon as you select ‘Save’ or ‘Save and continue’ – there’s no draft state or peer review.
