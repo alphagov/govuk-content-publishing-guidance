@@ -155,3 +155,6 @@ $A
 ## Changes to this notice
 
 We may change this privacy notice. When we make changes to this notice, the ‘last updated’ date at the bottom of this page will also change. Any changes to this privacy notice will apply to you and your data immediately. If these changes affect how your personal data is processed, GDS will take reasonable steps to make sure you know.
+
+*[GDS]: Government Digital Service
+*[DSIT]: Department for Science, Innovation and Technology 
