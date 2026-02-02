@@ -3,7 +3,7 @@ layout: page
 eleventyExcludeFromCollections: true
 title: "Privacy notice: how we use your data"
 description: Privacy notice for the GOV.UK content and publishing guidance.
-lastUpdated: 2 Febraury 2026
+lastUpdated: 2 February 2026
 ---
 
 The GOV.UK content and publishing guidance includes guidance, information and standards about writing and publishing content on GOV.UK.
@@ -20,7 +20,7 @@ This includes:
 
 - support, including both the provision of support and responses to user enquiries
 - feedback, including gathering it to improve our services, and responding to it, if you have asked us to
-- telling you about updates to the [GOV.UK](http://gov.uk) content and publishing guidance
+- telling you about updates to the GOV.UK content and publishing guidance
 
 ## What data we collect from you
 
@@ -81,7 +81,7 @@ As part of GOV.UK content and publishing guidance we share your personal data wi
 
 - software collaboration platforms when you share research, feedback or make a suggestion
 - mailing list providers when you sign up to receive emails from us
-- support providers when you contact us – [see the User support privacy notice](https://www.gov.uk/government/publications/government-digital-service-user-support-privacy-notice/user-support-privacy-notice)
+- support providers when you contact us – [see the user support privacy notice](https://www.gov.uk/government/publications/government-digital-service-user-support-privacy-notice/user-support-privacy-notice)
 - web analytics services
 
 We will not:
@@ -123,7 +123,7 @@ Contact the GDS Data Protection Team if you:
 - have any questions about anything in this document
 - think that your personal data has been misused or mishandled
 
-gds.data.protection@dsit.gov.uk
+<gds.data.protection@dsit.gov.uk>
 
 The DSIT Data Protection Officer provides independent advice and monitoring of DSIT’s use of personal information.
 
@@ -135,14 +135,15 @@ Department for Science, Innovation and Technology
 22–26 Whitehall
 London
 SW1A 2EG
-[dataprotection@dsit.gov.uk](mailto:dataprotection@dsit.gov.uk)
+<dataprotection@dsit.gov.uk>
 $A
 
 If you have a complaint, you can also contact the [Information Commissioner’s Office](https://ico.org.uk/).
 
 $A
-[icocasework@ico.org.uk](mailto:icocasework@ico.org.uk)
+
 Information Commissioner’s Office  
+<icocasework@ico.org.uk>
 0303 123 1113  
 Wycliffe House  
 Water Lane  
