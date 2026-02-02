@@ -94,12 +94,16 @@ export default function(eleventyConfig) {
             text: "Accessibility statement"
           },
           {
+            href: "/sitemap",
+            text: "Sitemap"
+          },
+          {
             href: "/cookies",
             text: "Cookies"
           },
           {
-            href: "/sitemap",
-            text: "Sitemap"
+            href: "/privacy-notice",
+            text: "Privacy notice"
           },
           {
             href: "/about-the-guidance",
