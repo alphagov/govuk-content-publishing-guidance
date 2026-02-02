@@ -30,9 +30,9 @@ PDFs are difficult to create accessibly. They often do not work well with assist
 There are some cases when you might need to publish a PDF, for example:
 
 * it's a document which was designed to be printed and read on paper - for example, promotional material, a booklet or a leaflet
-* you want to publish something in an Easy Read format - follow [the section on creating easy read documents in the guidance on accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton) 
+* you want to publish something in an Easy Read format - follow [the section on creating Easy Read documents in the guidance on accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton) 
 * you're publishing something in a language not supported in HTML by Whitehall Publisher
-* you need to [create a PDF/A](https://www.gov.uk/guidance/publishing-accessible-documents) for archiving purposes
+* you need to [create a PDF/A](https://www.gov.uk/guidance/publishing-accessible-documents#creating-a-pdfa-for-archiving-purposes) for archiving purposes
 * you're using Specialist Publisher to publish a document that could be misused if edited, such as an employment tribunal or asylum support tribunal decision
  
 If you do need to publish a PDF, you must publish an accessible version of the attachment as well. 
@@ -61,7 +61,7 @@ Make sure there is a high enough colour contrast ratio between segments, lines, 
 
 ### Adding charts or graphs as images
 
-If you cannot create a chart using Markdown, you'll need to upload it as an image. Use the scalable vector graphic (SVG) format for images of charts - it allows users to magnify the image without losing any quality. 
+If you cannot create a chart using Markdown, you'll need to upload it as an image. Use the SVG format for images of charts - it allows users to magnify the image without losing any quality. 
 
 Leave the alt text field for the chart blank. Instead, add at least one of the following:
 
@@ -291,9 +291,9 @@ If using video, make sure:
 
 Add closed captions and transcripts so users accessing the video without audio can read all of the content.
 
-You can add or edit captions to YouTube videos in Youtube Studio. YouTube will provide automated captioning. Do not rely on automated captioning to get everything right.
+#### If you're hosting the video on YouTube
 
-YouTube and Vimeo have editing tools you can use to make corrections after uploading but before publishing. Use the [instructions for adding captions to YouTube videos](https://support.google.com/youtube/answer/2734796) or [instructions for adding captions to Vimeo videos](https://help.vimeo.com/hc/en-us/articles/21956884955537-How-do-I-add-captions-or-subtitles-to-my-video#h_01JJZA1ETEF5C0RCR1Z2WASC4D) for guidance. 
+You can add or edit captions to YouTube videos in YouTube Studio. YouTube will provide automated captioning. Do not rely on automated captioning to get everything right.
 
 Make sure you select the correct language, especially if your default language is English but the video is in another language.
 
@@ -305,7 +305,18 @@ Go through the automated captioning and check the following:
 
 As well as dialogue, captions should identify who is speaking and include non-speech information conveyed through sound, including meaningful sound effects.
 
-If your video is hosted outside of YouTube, make sure you provide the transcript in HTML.
+Once you have completed the closed captioning, a transcript will be added to your video. You can access the transcript by selecting the 3 dots under the video and choosing ‘Open transcript’.
+
+#### If you're hosting the video somewhere else
+
+You can upload the video to YouTube Studio and use its captioning tools if:
+
+* you do not have a tool that can create automated captioning
+* the platform you’re using can accept the captions as a SRT, VTT or SBV file
+
+You can download the captions from YouTube and reupload them to your platform.
+
+You should also provide the transcript in HTML alongside the video. Although a transcript is not necessary for meeting accessibility rules, it’s good practice to provide one.
 
 ### Audio description
 
@@ -313,15 +324,18 @@ Not all users will be able to see the visuals in your video. If your video has v
 
 #### Example 1
 
-If you are showing a diagram which is not explained verbally in the video, you will have to describe the diagram. Without this information, the video would make little sense to visually impaired users. You will also need to make sure this is captured in the transcript.
+> [!NOTE]
+> If you are showing a diagram which is not explained verbally in the video, you will have to describe the diagram. Without this information, the video would make little sense to visually impaired users. You will also need to make sure this is captured in the transcript.
 
 #### Example 2
 
-At the end of a press conference, if there's an important handshake between ministers which signals the closing of a deal and the reporter does not say this, you'll need to describe it.
+> [!NOTE]
+> At the end of a press conference, if there's an important handshake between ministers which signals the closing of a deal and the reporter does not say this, you'll need to describe it.
 
 #### Example 3
 
-If you show a user journey of a new service or product, you'll need to describe the journey so everyone has access to the context.
+> [!NOTE]
+> If you show a user journey of a new service or product, you'll need to describe the journey so everyone has access to the context.
 
 You must make sure that any important information that affects people's understanding of the video is explained verbally, not just through imagery.
 

@@ -22,7 +22,7 @@ Write conversationally. Picture your audience and write as if you were talking t
 
 Use the active voice rather than the passive voice.
 
-There's usually no need to say 'please' or 'please note'. This includes when giving an instruction or explaining what a user needs to do, like "Please contact us".
+There's usually no need to say 'please' or 'please note'. This includes when giving an instruction or explaining what a user needs to do, like 'Please contact us'.
 
 Do not use block capitals for large amounts of text. It's hard to read and it can be understood as shouting.
 

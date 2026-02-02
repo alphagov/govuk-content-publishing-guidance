@@ -41,7 +41,7 @@ This will give you details you cannot get through Govsearch, such as:
 + when the content was last updated
 + whether the content is overdue for a review, based on the review date that someone set when they last updated the content
 
-If you're an editor, you can export the results of the search to a CSV file. Once you’ve chosen the fields for your search, select the ‘Export as CSV’ link at the bottom of the list of documents on the right hand side. You’ll then be taken to a screen asking you to confirm the export.
+If you have [editor permissions](/accounts-support/manage-accounts-training/publishing-accounts-permissions/), you can export the results of the search to a CSV file. Once you’ve chosen the fields for your search, select the ‘Export as CSV’ link at the bottom of the list of documents on the right hand side. You’ll then be taken to a screen asking you to confirm the export.
 
 The CSV file will be emailed to you within a few minutes. Larger files may take longer to generate. The file is sent as an email so generating reports does not overload the publishing system.
 
@@ -145,7 +145,7 @@ You can edit content after you withdraw it. You can also 'unwithdraw' it later i
 
 Withdrawing content means it’s still available at the same URL. You will not be able to create any new versions of the content while it’s withdrawn but you can edit the public explanatory text that appears on the page.
 
-Links to the withdrawn document in the content of other pages will not be automatically removed from other pages.
+Links to the withdrawn content on other pages will not be automatically removed from other pages.
 
 It will not appear on:
 

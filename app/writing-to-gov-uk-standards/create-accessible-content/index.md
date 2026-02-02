@@ -7,12 +7,6 @@ eleventyNavigation:
 title: Create accessible content
 description: Understand the importance of accessibility to GOV.UK content.
 lastUpdated:
-related:
-  sections:
-    - title: Part of
-      items:
-        - text: How to publish accessible content
-          href: /how-to-publish-accessible-content
 ---
 
 Government content must be accessible to anybody who needs to use it. Accessibility is not just about how well disabled people can use your content. All users will have different needs at different times and in different circumstances. 
