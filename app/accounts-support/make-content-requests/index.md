@@ -18,6 +18,7 @@ This guidance covers how to request:
 - a [short URL](/accounts-support/make-content-requests/ask-short-url/)
 - a [featured slot on the GOV.UK homepage](/accounts-support/make-content-requests/ask-featured-slot-homepage/)
 - [changes to related links](/accounts-support/make-content-requests/ask-update-remove-related-links/)
+- a [new organisation page](/accounts-support/make-content-requests/ask-new-organisation)
 
 It also covers how to request an [exemption from putting your content on GOV.UK](/accounts-support/make-content-requests/ask-exemption/).
 
@@ -28,7 +29,6 @@ There’s separate guidance about how to request:
 - a [group page](https://guidance.publishing.service.gov.uk/publish-update-retire-content/organisations-people/groups/)
 - a [manual](/publish-update-retire-content/other-content-types/manuals/)
 - a [ministerial role page](/publish-update-retire-content/organisations-people/people-roles/)
-- an [organisation page](https://guidance.publishing.service.gov.uk/publish-update-retire-content/organisations-people/organisations/)
 - a [specialist finder](/publish-update-retire-content/other-content-types/specialist-finders/)
 - a [topical event page](/publish-update-retire-content/promotional-social/topical-events/)
 

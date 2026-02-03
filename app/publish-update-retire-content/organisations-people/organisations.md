@@ -17,15 +17,7 @@ Organisations include departments, agencies and public bodies. Every government 
 
 ## Request a new organisation page
 
-Your GOV.UK lead or a managing editor needs to [contact the Government Digital Service (GDS)](link tbc) to ask for a new organisation page. 
-
-GDS will only set up organisation pages for:
-
-* brand new organisations
-* organisations that have changed name (for example, when the Department for Levelling Up, Housing and Communities changed to the Ministry of Housing, Communities and Local Government)
-* organisations that are becoming part of government (what we call transitioning)
-
-GDS will work with you and explain the different steps required depending on whether it's a new organisation, name change or transitioning organisation.
+Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for a new organisation page](/accounts-support/make-content-requests/ask-new-organisation). GDS will work with them and explain the different steps required depending on whether it’s a new organisation, name change or transitioning organisation.
 
 ## Find and edit an organisation page
 
