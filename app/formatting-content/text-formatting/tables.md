@@ -82,16 +82,16 @@ For example, this table shows information about livestock over 2 periods, from 2
   <tbody class="govuk-table__body">
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Cows</th>
-      <td class="govuk-table__cell">3500</td>
+      <td class="govuk-table__cell">3,500</td>
       <td class="govuk-table__cell">20</td>
       <td class="govuk-table__cell">5%</td>
-      <td class="govuk-table__cell">3000</td>
+      <td class="govuk-table__cell">3,000</td>
       <td class="govuk-table__cell">15</td>
       <td class="govuk-table__cell">25%</td>
     </tr>
     <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Pigs</th>
-      <td class="govuk-table__cell">1500</td>
+      <td class="govuk-table__cell">1,500</td>
       <td class="govuk-table__cell">7</td>
       <td class="govuk-table__cell">3%</td>
       <td class="govuk-table__cell">750</td>
@@ -110,19 +110,52 @@ For example, this table shows information about livestock over 2 periods, from 2
  </tbody>
 </table>
 
-
 There are 2 heading rows in this table – one for the years and one for the feed cost, newborns and profit. A screen reader will not be able to understand which of the column headings refers to which year group.
 
 For example, a screen reader would read 'Cows, newborns 20, cows newborns 15' – the user would not be able to tell which year the number refers to.
 
 In this case, you could have 2 separate tables or use descriptive and unique headings as shown in the next example.
 
-| | Feed cost 2022 - 23 | Newborns 2022 - 23 | Profit 2022 - 23 | Feed cost 2021 - 22 | Newborns 2021 - 22 | Profit 2021 – 22 |
-|---|---|---|---|---|---|---|
-| Cows | 3500| 20 | 5%|3000| 15 | 25%| 
-| Pigs | 1500 | 7 | 3%| 750 | 5 | 6%| 
-| Sheep | 150 | 50 | 20%| 100 | 35 | 15%| 
-
+<table class="govuk-table">
+  <thead class="govuk-table__head">
+    <tr class="govuk-table__row">
+    <th scope="col" class="govuk-table__header"></th>
+<th scope="col" class="govuk-table__header">Feed cost 2022-23</th>
+      	<th scope="col" class="govuk-table__header">Newborns 2022-23</th>
+     	<th scope="col" class="govuk-table__header">Profit 2022-23</th>
+<th scope="col" class="govuk-table__header">Feed cost 2021-22</th>
+<th scope="col" class="govuk-table__header">Newborns 2021-22</th>
+<th scope="col" class="govuk-table__header">Profit 2021-22</th>
+    </tr>
+    <tr class="govuk-table__row">
+      	<th scope="row" class="govuk-table__header">Cows</th>
+      	<td class="govuk-table__cell">3,500</td>
+      	<td class="govuk-table__cell">20</td>
+      	<td class="govuk-table__cell">5%</td>
+      	<td class="govuk-table__cell">3,000</td>
+      	<td class="govuk-table__cell">15</td>
+      	<td class="govuk-table__cell">25%</td>
+    </tr>
+    <tr class="govuk-table__row">
+      	<th scope="row" class="govuk-table__header">Pigs</th>
+      	<td class="govuk-table__cell">1,500</td>
+      	<td class="govuk-table__cell">7</td>
+      	<td class="govuk-table__cell">3%</td>
+      	<td class="govuk-table__cell">750</td>
+      	<td class="govuk-table__cell">5</td>
+      	<td class="govuk-table__cell">8%</td>
+    </tr>
+    <tr class="govuk-table__row">
+      	<th scope="row" class="govuk-table__header">Sheep</th>
+      	<td class="govuk-table__cell">150</td>
+      	<td class="govuk-table__cell">50</td>
+      	<td class="govuk-table__cell">20%</td>
+      	<td class="govuk-table__cell">100</td>
+      	<td class="govuk-table__cell">35</td>
+      	<td class="govuk-table__cell">15%</td>
+    </tr>
+ </tbody>
+</table>
 
 ### Set information out clearly
 
@@ -136,7 +169,7 @@ Your table must have:
 
 - 'no data' or 'not applicable' instead of empty cells – only the top left cell can be empty
 - no split or merged cells
-- only one item per row cell
+- only one item per row cell – do not use line breaks
 
 If there are multiple items per cell, an assistive technology user will find it difficult to understand your table. 
 
@@ -163,9 +196,9 @@ For example:
 | Alice Smith | Animal Book Club | Member |
 
 
-### Follow the GOV.UK style
+### Follow GOV.UK style
 
-Keep text in cells concise and clear, and follow the [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). You can depart from this style to:
+Keep text in cells concise and clear, and follow the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/). You can depart from this style to:
 
 - truncate the names of months to save room, for example Jan and Feb
 - use a dash to show a span between numbers, for example 500 – 900

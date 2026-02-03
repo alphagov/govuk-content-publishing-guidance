@@ -11,27 +11,7 @@ lastUpdated:
 
 [[TOC]]
 
-You can only use images in the body copy of the following content types:
-
-* news articles
-* speeches
-* case studies
-* fatality notices
-* detailed guides
-* consultations
-* groups
-* publications
-* HTML publications
-
-You will need to choose a lead image for some content types. It will show at the top left-hand side of the page. These types are:
-
-* news articles
-* speeches
-* fatality notices
-
-You can also add images of a person to 'People' pages. 
-
-Before you can add images into the content, you'll need to properly format them for uploading into Whitehall Publisher. How you do this has some differences depending on if the image is:
+Before you can add images into the content, you'll need to properly format them. How you do this has some differences depending on if the image is:
 
 * informative or decorative
 * a chart, diagram, infographic or scientific equation
@@ -40,7 +20,9 @@ Some processes or rules apply to all types of image, such as:
 
 * how you name the file
 * copyright standards
-* how you upload images in Whitehall Publisher
+
+>[!NOTE]
+> When you’re ready to add images to your content, read the [publishing guidance for your content type](/publish-update-retire-content/standard-content-types/) for instructions.
 
 ## Informative or decorative images
 
@@ -61,11 +43,11 @@ If you're using informative images:
 * use the caption and credit field to name a person in an image
 * write a description of the image in the body of the content
 
-When you describe the image, describe it as though there is no image on the page if you can. For example, write "the minister gave a speech…", instead of "an image of the minister giving a speech". 
+When you describe the image, describe it as though there is no image on the page if you can. For example, write ‘the minister gave a speech…’, instead of ‘an image of the minister giving a speech’. 
 
 ## Images of charts or diagrams
 
-Use svg files for images that contain useful information, for example diagrams, charts or infographics. This is because it scales well, without pixellating, for people who zoom in using magnifying software. 
+Use SVG files for images that contain useful information, for example diagrams, charts or infographics. This is because it scales well, without pixellating, for people who zoom in using magnifying software. 
 
 There's no minimum image size for SVG files. 
 
@@ -81,7 +63,7 @@ Do not use the image to convey information without also explaining it in the tex
 
 When you explain it, imagine you're describing it to someone over the phone. Do not just repeat the headline title.
 
-Avoid describing the chart vaguely or too broadly. For example, it would be too broad to say: "The bar chart shows EU funds by percentage on the vertical axis and EU countries on the horizontal axis". Explain what is happening in the data and any important trends
+Avoid describing the chart vaguely or too broadly. Avoid describing the chart vaguely or too broadly. For example, it would be too broad to say: ‘The bar chart shows EU funds by percentage on the vertical axis and EU countries on the horizontal axis’. Explain what is happening in the data and any important trends.
 
 Leave the alt text field blank. Instead, add at least one of the following:
 
@@ -160,7 +142,7 @@ Avoid putting borders around images. The image should go right to the edge of th
 
 ## Copyright standards and attributing images
 
-How you attribute your images depends on the copyright standards covering the image. 
+How you attribute your images depends on the copyright standards covering the image.
 
 ### Image copyright standards
 
@@ -170,6 +152,11 @@ If possible choose images that are free to use. These will usually be either:
 * available for reuse under a [Creative Commons licence](https://creativecommons.org/licenses/) such as the CC-BY licence
 
 If you want to change the image, such as by cropping it or changing the colours, check that the licence you're using allows for adaptations or derivatives. For example, some Creative Commons licences have a 'no derivatives' (ND) rule.
+
+Some government organisations have public photo libraries (such as the [the Govenrment Digital Service (GDS) Flickr account](https://www.flickr.com/photos/gdsteam/)). If you do not have access to a photo library, try using:
+
+- [Flickr Creative Commons](https://www.flickr.com/creativecommons/) pages – go to the [advanced search section](https://www.flickr.com/search/advanced/), select the dropdown by ‘Any license’ and change it to ‘All creative commons’
+- [Google Images](https://images.google.co.uk/) - search for an image, and then select ‘Tools’ and change the ‘Usage Rights’ dropdown to ‘Creative Commons licences’
 
 ### Using images not covered by crown copyright
 
@@ -216,15 +203,3 @@ For example:
 
 > [!NOTE]
 > [Title of image] (link to the image) by [John Smith on Flickr] (link to the account). Used under [Creative Commons BY-NC-ND 3.0](http://www.creativecommons.org/licenses/by-nc-nd/3.0/). Cropped from original.
-
-## Adding the image to your content
-
-To upload the image:
-
-1. Select 'Edit draft' on the content you want to add an image to.
-2. Go to the 'Images' tab, select 'Choose file' and upload the image you want to use.
-3. Preview your image. You can resize your image by selecting and dragging the frame if it is too large. Select 'Save and continue'.
-4. Add image details like captions and credits if you need to. 
-5. Select 'Save' to make sure the image has uploaded correctly.
-
-Once you upload an image, you'll be given a 'Markdown code' that you can copy and paste into the body. Paste it wherever you want the image to appear, and check it's in the right place using the 'Preview' button. 
