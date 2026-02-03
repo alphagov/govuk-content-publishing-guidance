@@ -119,6 +119,7 @@ In this case, you could have 2 separate tables or use descriptive and unique hea
 <table class="govuk-table">
   <thead class="govuk-table__head">
     <tr class="govuk-table__row">
+    <th scope="col" class="govuk-table__header"></th>
 <th scope="col" class="govuk-table__header">Feed cost 2022-23</th>
       	<th scope="col" class="govuk-table__header">Newborns 2022-23</th>
      	<th scope="col" class="govuk-table__header">Profit 2022-23</th>
