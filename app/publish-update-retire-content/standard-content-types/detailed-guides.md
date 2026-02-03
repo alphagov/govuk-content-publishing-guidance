@@ -19,7 +19,7 @@ Use this type for content that is regularly updated, for example if the process 
 
 Content containing background information about why a user needs to complete a task or the history behind it should be in a policy paper [publication](/publish-update-retire-content/standard-content-types/publications/).
 
-> To work on a detailed guide, you'll need a [Signon account with access to Whitehall Publisher](LINK).
+To work on a detailed guide, you'll need a [Signon account with access to Whitehall Publisher](LINK).
 
 ## Create a draft
 

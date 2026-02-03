@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
   order: 11
-title: Research at [name of organisation]
+title: Research at [organisation name]
 description: Learn when and how to publish a research page. 
 lastUpdated:
 ---
@@ -45,4 +45,4 @@ If the organisation has a formal research commissioning policy or similar public
 
 You can also let people know how to become a supplier of research services to your organisation. Do not list individual opportunities, just let people know where contracts are listed ([Contracts Finder](https://www.gov.uk/contracts-finder) for a lot of government organisations).
 
-Do not duplicate substantial amounts of content from your 'Procurement at [organisation]' page.
+Do not duplicate substantial amounts of content from your 'Procurement at [organisation name]' page.

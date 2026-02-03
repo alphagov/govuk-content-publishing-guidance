@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
   order: 9
-title: Procurement at [name of organisation]
+title: Procurement at [organisation name]
 description: Learn when and how to publish a procurement page. 
 lastUpdated:
 ---

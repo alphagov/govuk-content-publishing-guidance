@@ -21,6 +21,7 @@ Do not publish a news story which duplicates the fatality notice.
 
 If there were multiple deaths in one incident, create a fatality notice for the whole incident rather than for each individual death.
 
+>[!NOTE]
 > To work on a fatality notice, you'll need a [Signon account with access to Whitehall Publisher](LINK).
 
 ## Create a draft

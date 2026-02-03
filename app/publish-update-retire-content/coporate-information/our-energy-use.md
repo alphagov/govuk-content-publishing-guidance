@@ -24,7 +24,7 @@ If you create an 'energy use' page, a link to it will appear automatically in th
 For the summary, adapt this text:
 
 > [!NOTE]
-> Details of [organisation name]'s energy use at our headquarters building (or say which building(s) you're providing information about).
+> Details of [organisation name]’s energy use at our headquarters building (or say which building(s) you're providing information about).
 
 Include your energy use data, linking to one or more of the following:
 

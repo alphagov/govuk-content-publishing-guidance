@@ -19,12 +19,12 @@ People and role pages are used to create profiles for those such as:
 
 Links to these pages appear:
 
-* on [the GOV.UK ministers page](https://www.gov.uk/government/ministers), for ministers and whips
+* on the [GOV.UK ministers page](https://www.gov.uk/government/ministers), for ministers and whips
 * on the relevant organisation pages, under the 'Our ministers' and 'Our management' sections
 
 People and their roles are covered by 2 separate sections of Whitehall Publisher. You need the person first, then you can assign a role to them by editing the role.
 
-To work on people or role pages, you'll need a [Signon account with access to Whitehall Publisher](link tbc). 
+To work on people or role pages, you'll need a [Signon account with access to Whitehall Publisher](https://support.publishing.service.gov.uk/content_advice_request/new). 
 
 ## When to add and update people and role pages
 
@@ -36,7 +36,7 @@ If there are multiple changes to ministerial appointments (for example, during a
 
 GDS will contact GOV.UK leads in ministerial departments to let them know what's happening and confirm responsibilities. GDS will then contact the affected departments to tell them when they can take over responsibility for the updated pages.
 
-If it's a change to only one or two ministerial appointments, [contact GDS](link tbc) to check if you can create and assign the new people and role pages yourself.
+If it's a change to only one or two ministerial appointments, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) to check if you can create and assign the new people and role pages yourself.
 
 If you can make the changes yourself, ask the minister's private office and the Number 10 digital communications team for the details you can use.
 
@@ -54,11 +54,14 @@ If it's a new junior ministerial role with a generic name like 'Minister of Stat
 * Minister of State (Minister for X)
 * Parliamentary Under-Secretary of State (Minister for X)
 
-If you want to make other changes, [contact GDS](link tbc) first to get approval.
+If you want to make other changes, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
 
-## Add or edit a person page
+## Add or edit a people page
 
-If you're adding a new minister, [contact GDS](link tbc) first to get approval.
+If you're adding a new minister, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
+
+>[!NOTE]
+>When adding or editing a people page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
 
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
 2. Select the 'More' tab.
@@ -88,7 +91,10 @@ For all biographies, do not include information about their personal life, for e
 
 ## Add or edit a role page
 
-If you're adding or editing a ministerial role page, [contact GDS](link tbc) first to get approval. 
+If you're adding or editing a ministerial role page, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
+
+>[!NOTE]
+>When adding or editing a role page, be aware that it will publish or update as soon as you select ‘Save’ or ‘Save and continue’ – there’s no draft state or peer review.
 
 ### Add a new role page
 
@@ -99,7 +105,7 @@ To add a new role page:
 3. Select 'Roles'.
 4. Select 'Create new role'.
 5. Add a 'Role title', 'Role type', 'Organisation' and any other fields if relevant. 
-6. Write a description of the role's responsibilities. This will appear alongside the person with this role so do not repeat content from the person page.
+6. Write a description of the role's responsibilities. This will appear alongside the person with this role so do not repeat content from the people page.
 7. Select 'Save'.
 
 ### Edit an existing role
@@ -138,9 +144,12 @@ This should have the same name as the original role but with 'interim' at the be
 
 Do not change anything about the original role or assign it to anyone until it's been permanently filled. When it has, you can also remove the person from the interim role.
 
-If it's an interim ministerial role, [contact GDS](link tbc) before making these changes.
+If it's an interim ministerial role, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) before making these changes.
 
 ## Assign a role to a person
+
+>[!NOTE]
+>When assigning a role to a person, be aware that it will update as soon as you select ‘Save’ – there’s no draft state or peer review.
 
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
 2. Select the 'More' tab.
@@ -148,10 +157,45 @@ If it's an interim ministerial role, [contact GDS](link tbc) before making these
 4. Search for the role title and select 'Edit'. 
 5. Select 'New appointment' to assign the role to a new person. 
 6. Enter a start date. If there is a previous role-holder, they will automatically be removed from the role on this date.
+7. Select 'Save'.
 
 You must only assign a role to a person on or after the day they take up the role. The person will appear on your organisation page once you've assigned them to a role.
 
-Once you've assigned someone to the role, check if the biography on their people page needs updating. 
+Once you've assigned someone to the role, check if the biography on their people page needs updating.
+
+## Unassign a person from a role
+
+>[!NOTE]
+> When unassigning a person to a role, be aware that it will update as soon as you select ‘Save’ – there’s no draft state or peer review.
+
+If the person is being replaced in the same role, they will be automatically unassigned once you assign a new person to the role.
+
+If there’s no replacement, you need to end their appointment:
+
+1. Select ‘Roles’ in the ‘More’ tab to see a list of every role featured on GOV.UK.
+2. Select ‘Edit’ next to the relevant role.
+3. Select ‘Edit’ next to their name.
+4. Add the end date and select ‘Save’.
+
+If it’s a ministerial role, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) for approval before making any of these changes.
+
+### Update the person’s biography
+
+However the person was unassigned, make sure the biography on their people page is updated. 
+
+1. Select ‘People’ in the ‘More’ tab to see a list of every person featured on GOV.UK.
+2. Select ‘View’ next to the relevant person.
+3. Select ‘Edit’ next to the ‘Details’ heading’.
+4. Update the ‘Biography’ section and select ‘Save’.
+5. Check the ‘Translations’ tab to see if any translations have been created. If so, either update them or delete them.
+
+If the person is not assigned to any current roles, make sure their biography is future-proof by:
+
+- removing any personal information
+- removing links to their social media
+- focussing only on what roles they held in the past
+
+Their photo will be automatically removed from the page once they no longer have an assigned role.
 
 ## Add a translation to a role or people page
 

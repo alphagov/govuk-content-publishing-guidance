@@ -29,7 +29,7 @@ You can find specific documents for this department using the [publication searc
 
 If the information you want is not routinely published, you can [make a request for it](https://www.gov.uk/make-a-freedom-of-information-request) under the Freedom of Information Act.
 
-You can also search through [previous responses to Freedom of Information requests](https://www.gov.uk/search/transparency-and-freedom-of-information-releases?content_store_document_type=foi_release&keywords=) (or amend this filtered search so it returns results for your organisation alone).
+You can also search through [previous responses to Freedom of Information (FOI) requests](https://www.gov.uk/search/transparency-and-freedom-of-information-releases?content_store_document_type=foi_release&keywords=) (or amend this filtered search so it returns results for your organisation alone).
 
 ### Who we are and what we do
 
@@ -125,3 +125,5 @@ Information about the services the department provides including leaflets, guida
 * fee-based services (create a document collection with acronym)
 * circulars (create a document collection with acronym, or a named series which would not need an acronym)
 * leaflets, booklets and newsletters
+
+*[FOI]: Freedom of Information

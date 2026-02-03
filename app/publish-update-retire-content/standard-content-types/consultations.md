@@ -176,7 +176,7 @@ Read the [guidance about deciding whether to add a translation](/writing-to-gov-
 
 If you want to add a translation, you'll need to create a completely separate draft and select 'Create a foreign language only consultation'.
 
-Add the link to the foreign language version at the top of the English version. Use this format: "[View this consultation in Arabic](url)".
+Add the link to the foreign language version at the top of the English version. Use this format: `[View this consultation in Arabic](url)`.
 
 Repeat the steps to link the English version to the foreign language version. If you have multiple translations, make sure all the translations are linked.
 

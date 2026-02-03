@@ -13,4 +13,4 @@ You can:
 3. Publish the new draft.
 4. [Unpublish the page](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) with the incorrect URL. When you unpublish it, you'll be able to set up a redirect to the new page.
 
-The change notes history will be lost if you do this. If you need to keep that history, [contact the Government Digital Service (GDS)](LINK) and ask them to change the URL instead.
+The change notes history will be lost if you do this. If you need to keep that history, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to change the URL instead.

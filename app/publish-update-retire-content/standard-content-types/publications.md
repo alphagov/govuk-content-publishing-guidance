@@ -154,10 +154,11 @@ There are different types of publications. Make sure you choose the right type, 
 2. Select the 'New document' tab.
 3. Select 'Publication' and then select the 'Next' button.
 4. Select the content type from the dropdown under 'Publication type (required)'.
-5. Add the title and summary. Add a description of the publication to the body.
-6. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
-7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
-8. Select the 'Save' button at the bottom of the page.
+5. Add the title and summary. 
+6. Add a description of the publication and its purpose to the body. Use plain, politically neutral language. The description should reassure users that the publication is (or is not) what they're looking for.
+7. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
+8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+9. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
 
