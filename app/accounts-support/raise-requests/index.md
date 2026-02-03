@@ -83,3 +83,5 @@ They’ll also close tickets when it’s not something they can commit to priori
 If you’re unhappy with a decision, then you should first discuss the issue with your organisation’s GOV.UK lead.
 
 If your lead agrees that the GOV.UK decision should be challenged, you should update your ticket with a formal request for it to be escalated. The first line of escalation is typically the GOV.UK Product Manager.
+
+*[GDS]: Government Digital Service
