@@ -128,3 +128,5 @@ Add the translated content to the document, keeping the same formatting code. Th
 Send the document back to GDS for them to publish.
 
 If it’s new Welsh content, GDS will add it to the [Welsh index](https://www.gov.uk/cymraeg).
+
+*[GDS]: Government Digital Service
