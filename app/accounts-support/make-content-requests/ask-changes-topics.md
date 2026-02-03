@@ -35,3 +35,5 @@ Use the [suggest topic changes request form](https://support.publishing.service.
 * reposition a topic in the topic taxonomy – for example, move it up a level
 * merge with another topic
 * split a topic into multiple topics
+
+*[GDS]: Government Digital Service
