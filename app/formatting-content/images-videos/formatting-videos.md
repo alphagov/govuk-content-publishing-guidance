@@ -116,10 +116,12 @@ A transcript needs to include all important audio and visual information in the 
 
 >[!NOTE]
 >Example 1
+>
 >If you are showing a diagram which is not explained verbally in the video, you will have to describe the diagram. Without this information, the video would make little sense to visually impaired users. You will also need to make sure this is captured in the audio description.
 
 >[!NOTE]
 >Example 2
+>
 >At the end of a press conference, if there’s an important handshake between ministers which signals the closing of a deal and the reporter does not say this, you’ll need to describe it in the transcript.
 
 If your video is on YouTube, the transcript appears below the description of the video, where a “Show transcript” link appears’.
@@ -138,6 +140,7 @@ Like with transcripts, if your video has visuals which are important in understa
 
 >[!NOTE]
 >Example
+>
 >If you show a user journey of a new service or product, you’ll need to describe the journey so everyone has access to the context.
 
 You must make sure that any important information that affects people’s understanding of the video is explained verbally, not just through imagery.
