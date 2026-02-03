@@ -43,3 +43,5 @@ You can only ask for emergency support if the public or government is facing imm
 If that’s the case, submit the form and then use the [emergency contact details](https://support.publishing.service.gov.uk/emergency-contact-details) to contact GDS.
 
 Do not ask for emergency support if you’re just reporting a general issue with publishing functionality.
+
+*[GDS]: Government Digital Service
