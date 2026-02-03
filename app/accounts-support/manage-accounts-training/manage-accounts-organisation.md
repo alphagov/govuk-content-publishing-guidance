@@ -13,7 +13,7 @@ If you have organisation admin permissions, you can do the following for people 
 + [request training and accounts](link tbc)
 + view their accounts and the applications they have access to
 + suspend and unsuspend accounts
-+ + reset their 2-step verification
++ reset their 2-step verification
 + resend their account signup emails
 + manage access and permissions for some applications (for example, access to Manuals Publisher or the ‘editor’ permission in Whitehall Publisher)
 + change their personal or organisation details
