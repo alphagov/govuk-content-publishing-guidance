@@ -22,19 +22,19 @@ To add a downtime message to 'mainstream' content, ask the Government Digital Se
 
 Content is mainstream if it:
 
-- does not have ‘government’, ‘guidance’ or ‘find-licences’ in its URL
+- does not have ‘government’, ‘guidance’ or ‘find-licences' in its URL
 - is not part of a specialist finder, like any of the content in [‘Air Accidents Investigation Branch reports’](https://www.gov.uk/aaib-reports)
 
 ## How GDS adds downtime messages
 
 Most downtime messages will take this format:
 
-‘This service will be unavailable from [date and time] to [date and time].‘
+‘This service will be unavailable from [date and time] to [date and time].'
 
 If the service is down and you do not know when it will be up again, GDS can use one of the following:
 
-- ‘This service is currently unavailable.‘
-- ‘This service will be temporarily unavailable from [date and time].‘
+- ‘This service is currently unavailable.'
+- ‘This service will be temporarily unavailable from [date and time].'
 
 GDS generally does not add downtime messages to mainstream content if:
 
@@ -58,3 +58,5 @@ In your request, include:
 - the date and time the service will be down
 - the date and time the service is going back up (if you know)
 - whether or not the downtime is confirmed
+
+*[GDS]: Government Digital Service
