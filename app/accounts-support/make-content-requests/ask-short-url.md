@@ -57,11 +57,11 @@ UTM parameters have 3 main parts:
 - medium
 - campaign
 
-The source is where users are coming from. This is the platform you’ll be using to share the short URL, for example ‘letter, radio, facebook, print‘ or you can use the name of your department, for example ‘forestry-commission‘.
+The source is where users are coming from. This is the platform you’ll be using to share the short URL, for example ‘letter, radio, facebook, print' or you can use the name of your department, for example ‘forestry-commission'.
 
-The medium is the type of channel you’re using for a redirect or campaign. If you’re not sure what you use, use the default ‘shorturl‘.
+The medium is the type of channel you’re using for a redirect or campaign. If you’re not sure what you use, use the default ‘shorturl'.
 
-The campaign is the name of the promotional activity the short URL is being used for, for example ‘tax-credits-2022‘.
+The campaign is the name of the promotional activity the short URL is being used for, for example ‘tax-credits-2022'.
 
 For example: `gov.uk/benefits-credits/tax-credits?utm_source=letter&utm_medium=shorturl&utm_campaign=tax-credits-2022`
 
@@ -79,6 +79,8 @@ Someone from GDS will get in touch with you within 2 days to discuss your reques
 
 GDS will create the short URL once the page it is linking to goes live. 
 
-Because short URLs can only link to live content, do not publicise the short URLs until both the content and the short URL are live. If you do it before they're live, you’ll send your users to a ‘This page cannot be found’ error page.
+Because short URLs can only link to live content, do not publicise the short URLs until both the content and the short URL are live. If you do it before they're live, you’ll send your users to a ‘This page cannot be found' error page.
 
 GDS can pre-approve a short URL if you can share a draft of the page before it goes live.
+
+*[GDS]: Government Digital Service
