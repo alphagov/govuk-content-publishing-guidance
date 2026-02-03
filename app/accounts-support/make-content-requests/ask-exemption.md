@@ -12,9 +12,8 @@ You need to get approval from the Government Digital Service (GDS) before you cr
 
 This approval is known as getting an ‘exemption’ and applies to domains ending in gov.uk and non-government domains (like org.uk, co.uk or .com).
 
-> 
-[!NOTE]
-Getting an exemption from GDS is not the only approval you’ll need. You must also make sure you have the correct [spend approval](https://www.gov.uk/government/publications/digital-and-technology-spend-control-version-6) before you create your website.
+> [!NOTE]
+> Getting an exemption from GDS is not the only approval you’ll need. You must also make sure you have the correct [spend approval](https://www.gov.uk/government/publications/digital-and-technology-spend-control-version-6) before you create your website.
 
 There’s separate guidance on how to get:
 
@@ -79,4 +78,6 @@ The steps to closing your website are:
 
 You must [make sure the National Archives holds a copy of the website](https://www.nationalarchives.gov.uk/webarchive/archive-a-website/how-to-archive-a-website/closing/) before it closes.  
 
-Read the [guidance on how to move content to GOV.UK]https://www.gov.uk/guidance/(govuk-transition-guidance-for-agencies) before you start.
+Read the [guidance on how to move content to GOV.UK](https://www.gov.uk/guidance/govuk-transition-guidance-for-agencies) before you start.
+
+*[GDS]: Government Digital Service

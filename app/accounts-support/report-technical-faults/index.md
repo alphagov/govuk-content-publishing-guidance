@@ -14,7 +14,8 @@ Before reporting a fault, check the [GOV.UK status page](https://status.publishi
 
 If it’s not on there, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new).
 
-You need a Signon account to access the form. Speak to the lead of your GOV.UK publishing team if you want access to the form.
+>[!NOTE]
+>You need a Signon account to access the form. Speak to the lead of your GOV.UK publishing team if you want access to the form.
 
 When you report it:
 
@@ -42,3 +43,5 @@ You can only ask for emergency support if the public or government is facing imm
 If that’s the case, submit the form and then use the [emergency contact details](https://support.publishing.service.gov.uk/emergency-contact-details) to contact GDS.
 
 Do not ask for emergency support if you’re just reporting a general issue with publishing functionality.
+
+*[GDS]: Government Digital Service

@@ -31,3 +31,5 @@ There’s separate guidance about how to request:
 - a [ministerial role page](/publish-update-retire-content/organisations-people/people-roles/)
 - a [specialist finder](/publish-update-retire-content/other-content-types/specialist-finders/)
 - a [topical event page](/publish-update-retire-content/promotional-social/topical-events/)
+
+*[GDS]: Government Digital Service

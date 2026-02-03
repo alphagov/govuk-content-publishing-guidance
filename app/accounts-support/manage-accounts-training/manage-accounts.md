@@ -61,10 +61,10 @@ If none of these solutions work, ask your GOV.UK lead or one of your organisatio
 
 ##  If you forget your password
 
-If you’re prompted to, enter the GOV.UK username and password.
-At ‘Sign in’ follow the ‘Forgot your passphrase?’ link.
-Enter the email address you registered with GOV.UK and click the button ‘Send me passphrase reset instructions’. You should receive the instructions by email. If you do not see them in your inbox, check your spam filter.
-If you have still not had a passphrase reset email, ask your GOV.UK lead or one of your organisation admins to contact GDS using the [accounts request form](https://support.publishing.service.gov.uk/change_existing_user_request/new).
+1. If you’re prompted to, enter the GOV.UK username and password.
+2. At ‘Sign in’ follow the ‘Forgot your passphrase?’ link.
+3. Enter the email address you registered with GOV.UK and click the button ‘Send me passphrase reset instructions’. You should receive the instructions by email. If you do not see them in your inbox, check your spam filter.
+4. If you have still not had a passphrase reset email, ask your GOV.UK lead or one of your organisation admins to contact GDS using the [accounts request form](https://support.publishing.service.gov.uk/change_existing_user_request/new).
 
 ## Suspended accounts
 
