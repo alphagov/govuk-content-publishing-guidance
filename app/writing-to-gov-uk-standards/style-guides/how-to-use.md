@@ -65,7 +65,7 @@ In your ticket, include:
 - evidence to support the change – for example, user research or data
 
 >[!NOTE]
->If you only want to update the [technical content A to Z](/writing-to-gov-uk-standards/style-guides/technical-a-to-z/), email <technical-writers@digital.cabinet-office.gov.uk> instead.
+>If you only want to update the [technical A to Z style guide](/writing-to-gov-uk-standards/style-guides/technical-a-to-z/), email <technical-writers@digital.cabinet-office.gov.uk> instead.
 
 ### What happens next
 

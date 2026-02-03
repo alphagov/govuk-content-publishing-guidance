@@ -15,19 +15,52 @@ lastUpdated:
 
 The top grade in A levels. Use the symbol * not the word 'star'. No apostrophe in the plural.
 
-### A-level
+### A level
 
 No hyphen. Lower case level.
 
-### Abbreviations and acronyms
+### abbreviations, acronyms and initialisms
 
-The first time you use an abbreviation or acronym, explain it in full on each page unless it's well known, like UK, DVLA, USA, EU, VAT and MP. This includes government departments or schemes. Then refer to it by initials.
+The first time you use an abbreviation on a page, explain it in full. You can then refer to it by initials only on the rest of the page. For example, Personal Independence Payment (PIP) becomes PIP for the rest of the page.
 
-Always use [acronym Markdown](/formatting-content/text-formatting/acronyms/) so the full explanation is available as hover text.
-
-If you think an acronym is well known, please provide evidence that 80% of the UK population will understand and commonly use it. Evidence can be from search analytics or testing of a representative sample.
+Always use [acronym code](/formatting-content/text-formatting/acronyms/) so the full explanation is available as hover text.
 
 Do not use full stops in abbreviations: BBC, not B.B.C.
+
+You do not need to explain the following abbreviations as they’re much better known than the full wording:
+
+- BBC
+- CCTV
+- DIY
+- DVLA
+- EU
+- GP
+- HM, when part of an organisation’s name (like HM Revenue and Customs)
+- HTML
+- ID
+- MI5
+- MI6
+- MOT
+- MP
+- NHS
+- PAYE
+- SORN
+- TV
+- UK
+- URL
+- USA
+- VAT
+- VPN
+
+You also do not need to explain:
+
+- file types, like JPG, PDF or PNG
+- qualification abbreviations, like BA, GCSE or PhD
+- letters when used after names, like KC or OBE
+
+There are other abbreviations you do not need to explain in technical contexts. Read the [technical A to Z style guide](/writing-to-gov-uk-standards/style-guides/technical-a-to-z/) for more information.
+
+If you have evidence (such as [search term data](/writing-to-gov-uk-standards/find-tools-resources/find-out-terms-users-searching/)) that suggests another abbreviation is much better known by your users, you can use the abbreviation without explaining it.
 
 ### the academies programme
 
@@ -55,7 +88,7 @@ Title case when referring directly to the actual programme, otherwise use lower 
 
 ### accountancy service provider
 
-Title case when referring to the business area covered by Money Laundering Regulations. Do not use the acronym.
+Title case when referring to the business area covered by Money Laundering Regulations. Do not use the abbreviation.
 
 ### Accounts Office
 
@@ -135,7 +168,7 @@ American proper nouns, like 4th Mechanized Brigade or Pearl Harbor, take America
 
 ### Ampersands
 
-Use 'and' rather than '&', unless it's a department's logo image or a company's name as it appears on the [Companies House](https://beta.companieshouse.gov.uk/) register.
+Use 'and' rather than '&', unless it's a department's logo image or a company's name as it appears on the [Companies House](https://find-and-update.company-information.service.gov.uk/) register.
 
 ### animal health
 
@@ -184,7 +217,7 @@ Title case.
 
 ### Bacs (Bankers Automated Clearing System)
 
-Acronym should come first as it's more widely known than the full name. Please note that the acronym has changed to Bacs.
+The abbreviation should come first as it's more widely known than the full name. Please note that the abbreviation has changed to Bacs.
 
 ### backend
 
@@ -337,7 +370,7 @@ The number and type of examples in a list may lead the user to believe the list 
 
 #### Steps
 
-Use numbered steps instead of bullet points to guide a user through a process. You do not need a lead-in line and you can use links and [attachments (with appropriate Markdown)](/formatting-content/attachments/) in steps. 
+Use numbered steps instead of bullet points to guide a user through a process. You do not need a lead-in line and you can use [formatting like links and attachments](https://guidance.publishing.service.gov.uk/formatting-content/) in steps.
 
 Steps end in a full stop because each should be a complete sentence.
 
@@ -459,7 +492,7 @@ Not "change log".
 
 ### CHAPS (Clearing House Automated Payment System)
 
-The acronym should come first as it's more widely known than the full name.
+The abbreviation should come first as it's more widely known than the full name.
 
 ### checkbox
 
@@ -467,7 +500,7 @@ One word, not "check box".
 
 ### chemical, biological, radiological and nuclear (CBRN) materials
 
-Lower case. Use upper case for the acronym.
+Lower case. Use upper case for the abbreviation.
 
 ### chief constable
 
@@ -592,7 +625,7 @@ Lower case.
 
 Avoid negative contractions like can't and don't. Many users find them harder to read, or misread them as the opposite of what they say. Use cannot, instead of can't.
 
-Avoid should've, could've, would've, they've too. These can also be hard to read.
+Avoid complex or conditional contractions such as should’ve, could’ve, would’ve too. These can also be hard to read.
 
 ### co-operation
 
@@ -616,7 +649,7 @@ Use title case 'Online' if referring to the actual service, not if you're descri
 
 ### COTS
 
-Meaning "commercial-off-the-shelf software". Not "cots" or "Cots". Explain the acronym at first use. 
+Meaning "commercial-off-the-shelf software". Not "cots" or "Cots". Explain the abbreviation at first use. 
 
 ### council
 
@@ -715,16 +748,14 @@ Not "datastore".
 
 When writing date ranges:
 
-* use title case for months: January, February
-* do not use a comma between the month and year: 4 June 2017
-* when space is an issue - in tables or publication titles, for example - you can use truncated months: Jan, Feb
-* use 'to' in date ranges - not hyphens, en rules or em dashes. For example, tax year 2011 to 2012, or 10 November to 21 December
-* do not use quarter for dates, use the months: 'department expenses, Jan to Mar 2013'
-* when referring to today (as in a news article) include the date: 'The minister announced today (14 June 2012) that…'
-
-Always explain what your date range represents, for example 'tax year 2019 to 2020' or 'September 2019 to July 2020'. Date ranges can be the academic year, calendar year or tax year. This is why date ranges must be very, very clear.
-
-If you're comparing statistics from 2 different tax or financial years, use 'Comparing the financial year ending 2018 with that ending 2019, there was a 9% decrease'.
+* use upper case for months - for example: January, February
+* do not use a comma between the month and year - for example: 4 June 2017
+* when space is an issue - in tables or publication titles, for example - you can use truncated months like Jan, Feb
+* use 'to' in date ranges and not hyphens, en rules or em dashes - for example, tax year 2011 to 2012, 10 November to 21 December
+* if the range is showing opening times on days, put different days on a new line - for example, 'Monday to Friday, 9am to 5pm', then 'Saturday, 10am to 1pm' on a new line
+* do not use quarter for dates, use the months - for example, 'department expenses, Jan to Mar 2013'
+* when referring to today (as in a news article) include the date - for example, 'The minister announced today (14 June 2012) that…'
+* when mentioning a deadline, use 'one or before' - for example, 'Submit the form on or before 6 September 2025'
 
 ### Daycare Trust
 
@@ -837,21 +868,25 @@ Title case for the Earth, Planet Earth and Earth sciences, with lower case for '
 
 Title case.
 
+### Easy Read
+
+Upper case for documents that use simple words and pictures to explain concepts.
+
 ### EBacc
 
 A performance measure linked to GCSEs. Title case E and B.
 
 ### EC Sales List (ESL)
 
-The acronym is ESL, not ECSL.
+The abbreviation is ESL, not ECSL.
 
 ### eco-schools
 
 Hyphenated.
 
-### education, health and care plan
+### education, health and care (EHC) plan
 
-Lower case.
+Lower case for the full name. Abbreviate as EHC plan, not EHCP.
 
 ### eg, etc and ie
 
@@ -863,9 +898,9 @@ Lower case.
 
 ### email
 
-One word.
+One word. Do not use it when talking about an email address. For example, say ‘use this email address’ rather than ‘use this email’.
 
-### Email addresses
+### email addresses
 
 Write email addresses in full, in lower case and as active links. Do not include any other words in the link text.
 
@@ -881,7 +916,7 @@ Use 'New Style Employment and Support Allowance (ESA)' the first time the benefi
 
 Use 'income-related Employment and Support Allowance (ESA)' the first time the benefit name is used. From then on, you can use the abbreviation as long as you put 'income-related' first, for example 'income-related ESA'.
 
-You can use 'Employment and Support Allowance (ESA)' and the acronym 'ESA' if you need to refer to both benefits at the same time.
+You can use 'Employment and Support Allowance (ESA)' and the abbreviation 'ESA' if you need to refer to both benefits at the same time.
 
 ### endpoint
 
@@ -1093,9 +1128,17 @@ Lower case.
 
 All title case.
 
+### the GOV.UK app
+
+Upper case for ‘GOV.UK’. Do not capitalise the first letter in ‘app’.
+
+Always use the definite article. Write ‘the GOV.UK app’, not ‘GOV.UK app’.
+
+See also the entry for [the GOV.UK One Login app](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#the-gov-uk-one-login-app).
+
 ### GOV.UK One Login
 
-Title case. Always use the full name, GOV.UK One Login. Not 'One Login', 'login' or acronyms.
+Title case. Always use the full name, GOV.UK One Login. Not 'One Login', 'login' or abbreviations.
 
 Do not refer to GOV.UK One Login as an account. This helps avoid confusion with other government accounts.
 
@@ -1106,6 +1149,14 @@ For signing in to your GOV.UK One Login, use 'Sign in to your GOV.UK One Login'.
 Use 'sign in details' not 'GOV.UK One Login details' to refer to the information you sign in with, for example your email address and password.
 
 See also the entry on [sign in or log in](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#sign-in-or-log-in).
+
+### the GOV.UK One Login app
+
+This is GOV.UK One Login’s main identity proving app. Direct users to this app if they need to prove their identity with GOV.UK One Login.
+
+Use title case for ‘GOV.UK One Login’. Do not capitalise the first letter in ‘app’.
+
+Always use the definite article. Write ‘the GOV.UK One Login app’, not ‘GOV.UK One Login app’.
 
 ### grammar school
 
@@ -1205,7 +1256,7 @@ Lower case.
 
 ### HTTPS
 
-Upper case. No need to explain the acronym if it's used in content for a technical audience.
+Upper case. No need to explain the abbreviation if it's used in content for a technical audience.
 
 ### human resources
 
@@ -1243,11 +1294,7 @@ Use 'to' for [time ranges](/writing-to-gov-uk-standards/style-guides/a-to-z-styl
 
 ### IaaS
 
-Stands for "Infrastructure as a Service". Explain the acronym at first use.
-
-### ID
-
-In technical writing, don't write 'identification' or 'identifier', unless it's part of a standard abbreviation. For example, 'unique identifier (UID)'.
+Stands for "Infrastructure as a Service". Explain the abbreviation at first use.
 
 ### ie
 
@@ -1315,7 +1362,7 @@ Title case.
 
 ### IP
 
-When used in the technical context (for example 'internet protocol'), there's no need to explain the acronym.
+When used in the technical context (for example 'internet protocol'), there's no need to explain the abbreviation.
 
 ### Italics
 
@@ -1342,7 +1389,11 @@ Use 'New Style Jobseeker's Allowance (JSA)' the first time the benefit name is u
 
 Use 'income-based Jobseeker's Allowance (JSA)' the first time the benefit name is used. From then on, you can use the abbreviation as long as you put 'income-based' first, for example 'income-based JSA'.
 
-You can use 'Jobseeker's Allowance (JSA)' and the acronym 'JSA' if you need to refer to both benefits at the same time.
+You can use 'Jobseeker's Allowance (JSA)' and the abbreviation 'JSA' if you need to refer to both benefits at the same time.
+
+### junk and spam emails
+
+When referring users to the folder in their email client, use ‘junk or spam folder’.
 
 
 {% include "layouts/shared/back-to-top.njk" %}
@@ -1492,7 +1543,7 @@ Write out decimal fractions as numerals. Use the same number format for a sequen
 
 ### MD5
 
-Used in a technical context there's no need to explain the acronym.
+Used in a technical context there's no need to explain the abbreviation.
 
 ### Measurements
 
@@ -1564,7 +1615,11 @@ Do not abbreviate million to m.
 
 ### minister
 
-Use title case for the full title, like Minister for Overseas Development, or when used with a name, as a title, like Health Minister Norman Lamb. 
+Use upper case for the full title, like Minister for Overseas Development. 
+
+Use the full title when referring to a named minister, for example: Minister for Overseas Development, Joe Bloggs. 
+
+Do not use the shortened title with a name, like Minister Bloggs. 
 
 When used without the name, shortened titles are lower case: The health minister welcomed the research team.
 
@@ -1779,13 +1834,13 @@ Write all other numbers in numerals (including 2 to 9) except where it's part of
 
 If a number starts a sentence, write it out in full (Thirty-four, for example) except where it starts a title or subheading.
 
-For numerals over 999, insert a comma for clarity: 9,000
+For numerals over 999, insert a comma for clarity: 9,000.
 
 See [how to use millions](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#millions) or [how to use billions](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#billions).
 
 Spell out common fractions like one-half.
 
-Use a % sign for percentages: 50%
+Use a % sign for percentages: 50%.
 
 Use a 0 where there's no digit before the decimal point (for example, 0.5 not .5). 
 
@@ -1842,9 +1897,12 @@ One word.
 
 ### online services
 
-Lower case if the service name starts with a verb - write the sentence so the user knows what action they can take. For example: You can [visit someone in prison](https://www.gov.uk/prison-visits) by booking online.
+If an online service has a name that starts with a verb, you do not need to capitalise its name when linking to it. Write the link as part of a sentence so users know what action they can take.
 
-Only use title case if the name of the service you're referring to contains the named thing. For example: [You can apply for Marriage Allowance](https://www.gov.uk/apply-marriage-allowance).
+For example:
+
+- 'you can [visit someone in prison](https://www.gov.uk/prison-visits) by booking online'
+- 'you can [apply for Marriage Allowance online](https://www.gov.uk/apply-marriage-allowance)'
 
 ### open source software
 
@@ -1856,7 +1914,7 @@ Lower case even for the opposition and opposition leader.
 
 ### or
 
-Do not use slashes instead of "or". For example, "Do this 3/4 times".
+Do not use slashes instead of 'or'. For example, 'Do this 3 or 4 times'.
 
 ### order
 
@@ -1864,11 +1922,11 @@ Lower case unless used as the full title: Standing Order 22.
 
 ### Organisations
 
-Use the singular verb form when referring to organisations by name. Use 'they' when replacing an organisation name with a pronoun.
+Use the singular verb form when referring to organisations by name. Use ‘they’ when replacing an organisation name with a pronoun.
 
-For example: 'HMPO is the sole issuer of UK passports. They will send your new passport within 3 weeks'.
+For example: ‘HM Passport Office is the sole issuer of British passports. They will send your new passport within 3 weeks.’
 
-The definite article can be used when referring to the organisation by its full name, but should not be used with the organisation's acronym: 'You should contact the Driver and Vehicle Standards Agency if...' but 'You should contact DVSA if...'.
+The definite article can be used when referring to the organisation by its full name, but should not be used with the organisation’s abbreviation: ‘You should contact the Driver and Vehicle Standards Agency if…’ but ‘You should contact DVSA if…’
 
 You should only use 'we' if it's clear which organisation you're referring to. 
 
@@ -1888,7 +1946,7 @@ Lower case. Hyphenated.
 
 ### PaaS
 
-Stands for "Platform as a Service". Explain the acronym at first use.
+Stands for "Platform as a Service". Explain the abbreviation at first use.
 
 ### Pages and screens
 
@@ -1937,6 +1995,12 @@ Lower case.
 
 Lower case.
 
+### pay by bank
+
+Use for the open banking payment method when a user pays directly, using their banking app or website without giving any bank details.
+
+Do not use the name of the payment provider, like ‘pay by [provider name]’.
+
 ### PAYE/CIS for Agents online service
 
 Title case.
@@ -1952,10 +2016,6 @@ This can be abbreviated to PAYE Online within the PAYE Online for employers area
 ### PAYE Settlement Agreements (PSAs)
 
 Title case.
-
-### PDF
-
-Upper case. No need to explain the acronym.
 
 ### penalty
 
@@ -2075,6 +2135,12 @@ Title case P, lower case m.
 
 Lower case.
 
+### public limited company (plc)
+
+Use lower case for both ‘public limited company’ and ‘plc’.
+
+Do not use ‘plc’ to mean private limited company.
+
 ### public sector
 
 Lower case.
@@ -2123,7 +2189,8 @@ Use double quotes in body text for direct quotations.
 
 #### Block quotes
 
-Use the [block quote Markdown](/formatting-content/text-formatting/blockquotes/) for quotes longer than a few sentences.
+Use [block quotes](/formatting-content/text-formatting/blockquotes/) for quotes longer than a few sentences.
+
 
 {% include "layouts/shared/back-to-top.njk" %}
 
@@ -2132,9 +2199,9 @@ Use the [block quote Markdown](/formatting-content/text-formatting/blockquotes/)
 
 ### Real Time Information and RTI
 
-This is an HMRC programme and should only appear either with initial capitals or as an acronym when referring to the programme itself. 
+This is an HMRC programme and should only appear either with initial capitals or as an abbreviation when referring to the programme itself. 
 
-When describing customer processes, use common language phrases like 'send your payroll information to HMRC' or 'operate your payroll in real time'. Do not say 'send your payroll under RTI' or use the acronym, for example 'in RTI' or 'under RTI'.
+When describing customer processes, use common language phrases like 'send your payroll information to HMRC' or 'operate your payroll in real time'. Do not say 'send your payroll under RTI' or use the abbreviation, for example 'in RTI' or 'under RTI'.
 
 When using real time information in any other sense, it should be lower case.
 
@@ -2164,7 +2231,7 @@ They should follow the style guide. When writing a reference:
 
 If the reference is available online, make the title a link and include the date you accessed the online version: 
 
-Corallo AN and others. ['A systematic review of medical practice variation in OECD countries'](http://www.healthpolicyjrnl.com/article/S0168-8510%2813%2900215-7/fulltext) Health Policy 2014: volume 114, pages 5 to 14 (viewed on 18 November 2014) 
+Corallo AN and others. ['A systematic review of medical practice variation in OECD countries'](http://www.healthpolicyjrnl.com/article/S0168-8510%2813%2900215-7/fulltext) Health Policy 2014: volume 114, pages 5 to 14 (viewed on 18 November 2014). 
 
 ### reform plan
 
@@ -2196,7 +2263,7 @@ Lower case.
 
 ### RESTful
 
-In the context of APIs, not "restful" or "Restful".
+In the context of APIs, not 'restful' or 'Restful'.
 
 ### risk assessment
 
@@ -2222,7 +2289,7 @@ No full stops.
 
 ### SaaS
 
-Stands for "Software as a Service". Explain the acronym at first use.
+Stands for "Software as a Service". Explain the abbreviation at first use.
 
 ### same-sex schools
 
@@ -2398,7 +2465,7 @@ Hyphenated. Lower case.
 
 ### SMEs
 
-This acronym means small and medium-sized enterprises. Use SME for the singular.
+This abbreviation means small and medium-sized enterprises. Use SME for the singular.
 
 ### south, the south of England
 
@@ -2412,9 +2479,13 @@ Lower case, hyphenated.
 
 One space after a full stop, not 2.
 
+### spam emails
+
+See the entry on [junk and spam emails](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#junk-and-spam-emails).
+
 ### special educational needs (SEN) and special educational needs and disabilities (SEND)
 
-Lower case, but use upper case for the acronym. 
+Lower case, but use upper case for the abbreviation. 
 
 ### Special Educational Needs Code of Practice
 
@@ -2426,7 +2497,7 @@ Lower case.
 
 ### Speech marks
 
-See the entry on [quotes and speech marks](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#quotes-speech-marks).
+See the entry on [quotes and speech marks](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#quotes-and-speech-marks).
 
 ### Spending Review
 
@@ -2466,17 +2537,25 @@ Read [Style.ONS](http://style.ons.gov.uk) to find out how to write about statist
 
 Title case National Statistics for the official statistics quality mark. Lower case for anything else, including statistics that are national in scope.
 
-### Statutory Adoption Pay
+### statutory pay and leave
 
-Title case. 
+Use upper case for the names of statutory pay, such as:
 
-### Statutory Maternity Pay
+- Statutory Adoption Pay
+- Statutory Maternity Pay
+- Statutory Neonatal Care Pay
+- Statutory Parental Bereavement Pay
+- Statutory Sick Pay
+- Statutory Shared Parental Pay
 
-Title case.
+Do the same for statutory leave, such as:
 
-### Statutory Sick Pay
-
-Title case.
+- Statutory Adoption Leave
+- Statutory Maternity Leave
+- Statutory Neonatal Care Leave
+- Statutory Parental Bereavement Leave
+- Statutory Paternity Leave
+- Statutory Shared Parental Leave
 
 ### steps
 
@@ -2504,7 +2583,7 @@ Lower case.
 
 ### subdomain
 
-Not "sub domain" or "sub-domain".
+Not 'sub domain' or 'sub-domain'.
 
 ### Summaries
 
@@ -2583,29 +2662,22 @@ A performance measure of level 3 vocational qualifications.
 
 Use technical terms where you need to. They're not jargon. You just need to explain what they mean the first time you use them.
 
-### Telephone numbers
+### telephone numbers
 
-Use Telephone: 011 111 111 or Mobile. Do not use Mob:.
+Before the number, add ‘Telephone:’ or ‘Mobile phone:’ – do not use ‘Mobile:’ or ‘Mob:’.
 
-Use spaces between city and local exchange. Here are the different formats to use:
+When writing out a number, separate out the area, freephone, mobile or international code from the rest of the number. For example:
 
-01273 800 900
+- 0131 496 0454
+- 020 7946 0457
+- 08081 570 422
+- 07700 900 265
+- +44 (0)29 2018 0542
+- +39 1 33 45 70 90
 
-020 7450 4000
+If the number is memorable, group the numbers into easily remembered units. For example, 0800 80 70 60.
 
-0800 890 567
-
-07771 900 900
-
-077718 300 300
-
-+44 (0)20 7450 4000
-
-+39 1 33 45 70 90
-
-When a number is memorable, group the numbers into easily remembered units: 0800 80 70 60.
-
-### Temperature
+### temperature
 
 Use Celsius: 37°C.
 
@@ -2644,7 +2716,7 @@ Page titles should:
 * not contain dashes or slashes
 * not have a full stop at the end
 * not be questions
-* not use acronyms unless they are well-known, like EU
+* explain abbreviations unless they are well known - see [the entry on abbreviations](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#abbreviations-abbreviations-and-initialisms)
 
 ### Trade marks
 
@@ -2678,7 +2750,7 @@ Lower case.
 
 ### Twitter account
 
-Title case. Twitter is a trademarked name.
+The social media platform is now known as X - [see the entry on X](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#x-account).
 
 ### two-factor authentication
 
@@ -2726,10 +2798,6 @@ Title case.
 
 Lower case.
 
-### URL
-
-Upper case. No need to explain the acronym.
-
 ### user ID
 
 Lower case 'user'.
@@ -2740,7 +2808,7 @@ Title case. Not 'US'. Use 'United States of America' for the full official count
 
 ### username
 
-Not "user name".
+Not 'user name'.
 
 
 {% include "layouts/shared/back-to-top.njk" %}
@@ -2806,7 +2874,7 @@ Hyphenated. Lower case.
 
 ### VPN
 
-Upper case. No need to explain the acronym. When describing a VPN that is always on, write it like this: 'always-on' VPN. Note the single quotes and hyphen.
+When describing a VPN that is always on, write it like this: ‘always-on’ VPN. Note the single quotes and hyphen.
 
 
 {% include "layouts/shared/back-to-top.njk" %}
@@ -2925,7 +2993,7 @@ Avoid using metaphors - they do not say what you actually mean and lead to slowe
 * drive out (unless it's cattle), use 'stop', 'avoid' or 'prevent'
 * going/moving forward, use 'from now on' or 'in the future' (it's unlikely we are giving travel directions)
 * in order to, usually not needed - do not use it
-* one-stop shop, use 'website' (we are government, not a retail outlet)
+* hub, portal or one-stop shop, use 'website' or 'service' (unless those words are in the name of the website or service)
 * ring fencing, use 'separate' or when talking about budgets use 'money that will be spent on x'
 
 With all of these words you can generally replace them by breaking the term into what you're actually doing. Be open and specific.
@@ -2948,6 +3016,15 @@ Lower case.
 {% include "layouts/shared/back-to-top.njk" %}
 
 
+## X
+
+### X account
+
+Upper case ‘X’. Formerly called Twitter but no need to mention this. Use ‘post on X’ rather than ‘tweet’.
+
+
+{% include "layouts/shared/back-to-top.njk" %}
+
 
 ## Y
 
@@ -2963,7 +3040,7 @@ Lower case.
 
 ### zero-hours contract
 
-Not "zero-hour contract" or "zero hours contract".
+Not 'zero-hour contract' or 'zero hours contract'.
 
 
 {% include "layouts/shared/back-to-top.njk" %}

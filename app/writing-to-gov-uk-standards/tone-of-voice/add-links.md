@@ -4,7 +4,7 @@ sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
   parent: Tone of voice
   order: 5
-title: Add links to content
+title: Write effective links
 description: Learn how to use links in GOV.UK content, including writing clear link text and using anchor links.
 lastUpdated:
 ---
@@ -44,7 +44,7 @@ Make sure all links are provided in context, at the point in the content at whic
 Do not:
 
 - put all the links together at the bottom of the page
-- use unsorted lists like "Further reading" or "More information" to link off to content the user might be interested in
+- use unsorted lists like 'Further reading' or 'More information' to link off to content the user might be interested in
 - swamp users with too many links 
 - link to the same place constantly throughout your page
 
@@ -57,13 +57,13 @@ When writing link text:
 - do not make it too short, as it can make links harder to click – if you have one-word link text, try to use a word with at least 3 syllables
 - do not reuse the same link text to link to different pages
 - if you have more than one link to the same page, use identical link text or similar link text that conveys the same meaning
-- tell users if the link will take users off GOV.UK – for example, "Find a counsellor on Counselling Directory"
-- mention if you're linking to a page in a different language – for example, "guidance on driving in France (in French)"
-- include the file format and size if you need to link directly to a document – for example "Application form (PDF, 19.5KB)"
+- tell users if the link will take users off GOV.UK – for example, 'Find a counsellor on Counselling Directory'
+- mention if you're linking to a page in a different language – for example, 'guidance on driving in France (in French)'
+- include the file format and size if you need to link directly to a document – for example 'Application form (PDF, 19.5KB)'
 
 If your link leads to information rather than starting a task, use the text about that information as the link. For example, 'accessibility testing'. Consider using the title of the page the link goes to as your link text.
 
-If your link takes the user to a page where they can start a task, start your link with a verb. For example, "Send a tax return".
+If your link takes the user to a page where they can start a task, start your link with a verb. For example, 'Send a tax return'.
 
 ## Be careful with 'anchor' links
 
@@ -80,13 +80,13 @@ If it's a link to another section on the same page, rearrange the structure of y
 
 If it's a section on a different page, there may be instances where an anchor link is needed. For example, if users only need to read an annex of long, complicated guidance.
 
-If you have to do this, make it as accessible as possible by making the link as descriptive as possible. This is so that users know what they will see on the destination page. For example, "read Annex A of the EU spouse visa guidance to check your eligibility".
+If you have to do this, make it as accessible as possible by making the link as descriptive as possible. This is so that users know what they will see on the destination page. For example, 'read Annex A of the EU spouse visa guidance to check your eligibility'.
 
 The link text must give clues to: 
 
-- where you are sending them - "the EU spouse visa guidance"
-- what they need to do when they get there - "read Annex A of the EU spouse visa guidance"
-- why they are going there - "to check your eligibility"
+- where you are sending them - 'the EU spouse visa guidance'
+- what they need to do when they get there - 'read Annex A of the EU spouse visa guidance'
+- why they are going there - 'to check your eligibility'
 
 ## If you're linking to a third party service that will collect personal data
 

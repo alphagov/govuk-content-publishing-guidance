@@ -33,7 +33,7 @@ Write headings that are:
 
 - descriptive – avoid generic headings like 'Introduction'
 - frontloaded – put the most important information first
-- active – for example, start them with a verb when possible, like "Apply for a driving licence" rather than "You can apply for a driving licence"
+- active – for example, start them with a verb when possible, like 'Apply for a driving licence' rather than 'You can apply for a driving licence'
 - removable – the content should still make sense with the headings removed
 
 Headings should not:
@@ -52,7 +52,7 @@ Bullet point lists and steps can:
 - reduce duplication 
 - make lists easier to read
 
-See the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for information about how you should format bullet points and steps.
+See the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for information about how you should format bullet points and steps.
 
 ## Avoid footnotes
 

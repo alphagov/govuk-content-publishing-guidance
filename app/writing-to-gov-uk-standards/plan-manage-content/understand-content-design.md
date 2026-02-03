@@ -29,7 +29,7 @@ A user need is something that a user will need to do or find out from government
 * checking their tax code or State Pension
 * applying for a passport or driving licence
 
-Before publishing on GOV.UK, you need to know your users' needs and design your content to meete them. Read more about this in the guidance on [identifying user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/). 
+Before publishing on GOV.UK, you need to know your users' needs and design your content to meet them. Read more about this in the guidance on [identifying user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/). 
 
 ## Consider the amount, format and best place to publish your content
 
@@ -48,7 +48,7 @@ Read more about this in the guidance on [planning new GOV.UK content](/writing-t
 
 Good GOV.UK content is clear, written in plain English and optimised for the web. It must be accessible to anybody who needs to use it. 
 
-Our [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) are designed to make our content meet these standards. Check that your content is written in line with them before you publish it.
+The [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) are designed to make our content meet these standards. Check that your content is written in line with them before you publish it.
 
 You should also check the guidance on [making your content accessible](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) - this will help with the accessibility of headings, links and other formatting elements.
 

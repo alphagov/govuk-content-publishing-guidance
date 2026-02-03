@@ -15,7 +15,7 @@ Anything published on GOV.UK needs to meet accessibility requirements set out in
 
 This page is a 'how to' for ensuring the accessibility of the different types of content formatting. It's not a breakdown of the accessibility regulations and guidelines. That's covered in the guidance on [understanding accessibility](/writing-to-gov-uk-standards/create-accessible-content/understand-accessibility/). 
 
-You should also check our [style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
+You should also check the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/) guidance. Part of making accessible content is making it simple and clear, which our tone and style are designed to do.  
 
 ## Attachments
 
@@ -30,20 +30,20 @@ PDFs are difficult to create accessibly. They often do not work well with assist
 There are some cases when you might need to publish a PDF, for example:
 
 * it's a document which was designed to be printed and read on paper - for example, promotional material, a booklet or a leaflet
-* you want to publish something in an 'easy read' format - follow [the section on creating easy read documents in the guidance on accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton) 
+* you want to publish something in an Easy Read format - follow [the section on creating Easy Read documents in the guidance on accessible communication formats](https://www.gov.uk/government/publications/inclusive-communication/accessible-communication-formats#easy-read-and-makaton) 
 * you're publishing something in a language not supported in HTML by Whitehall Publisher
-* you need to [create a PDF/A](https://www.gov.uk/guidance/publishing-accessible-documents) for archiving purposes
+* you need to [create a PDF/A](https://www.gov.uk/guidance/publishing-accessible-documents#creating-a-pdfa-for-archiving-purposes) for archiving purposes
 * you're using Specialist Publisher to publish a document that could be misused if edited, such as an employment tribunal or asylum support tribunal decision
  
 If you do need to publish a PDF, you must publish an accessible version of the attachment as well. 
 
 ### Attaching datasets
 
-If you publish data that's only designed to be machine readable by external software, it's fine to use a .csv file (or other non-open format). 
+If you publish data that's only designed to be machine readable by external software, it's fine to use a CSV file (or other non-open format). 
 
-If it's intended to be read by people, it's difficult to make .csv files accessible. You need to offer an alternative format as well. 
+If it's intended to be read by people, it's difficult to make CSV files accessible. You need to offer an alternative format as well. 
 
-The Government Statistical Service has published [detailed guidance on releasing statistics in accessible spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/). They recommend publishing accessible versions of any non-accessible file formats you use (even if that's because they're optimised for machine readability). So, if you publish a .csv file of your data, it's good to publish an .ods version too. 
+The Government Statistical Service has published [detailed guidance on releasing statistics in accessible spreadsheets](https://gss.civilservice.gov.uk/policy-store/releasing-statistics-in-spreadsheets/). They recommend publishing accessible versions of any non-accessible file formats you use (even if that's because they're optimised for machine readability). So, if you publish a CSV file of your data, it's good to publish an ODS version too. 
 
 Avoid publishing statistical tables or datasets within a PDF or other formats designed mainly for text. It makes it difficult for users who rely on assistive technology such as screen readers which speak the text on a page. 
 
@@ -61,7 +61,7 @@ Make sure there is a high enough colour contrast ratio between segments, lines, 
 
 ### Adding charts or graphs as images
 
-If you cannot create a chart using Markdown, you'll need to upload it as an image. Use the scalable vector graphic (SVG) format for images of charts - it allows users to magnify the image without losing any quality. 
+If you cannot create a chart using Markdown, you'll need to upload it as an image. Use the SVG format for images of charts - it allows users to magnify the image without losing any quality. 
 
 Leave the alt text field for the chart blank. Instead, add at least one of the following:
 
@@ -158,7 +158,7 @@ To make sure your table is accessible, you must have:
 
 * a descriptive header for every column
 * one header row only 
-* only one item per cell
+* only one item per cell - do not use line breaks
 * 'no data' or 'not applicable' instead of empty cells
 
 You should not have any split, merged or empty cells. The only time you should have an empty cell is the top left cell. This is used if you have a header row that does not need a column header. 
@@ -280,50 +280,102 @@ The default language attribute on the document page is always set to English. If
 
 ## Videos
 
-If using video, make sure:
+### Video titles
 
-* the video title describes the topic or purpose of the video
-* you do not use flashing images - any large and bright content that flashes more than 3 times in one second
-* there is no or low background noise, if your audio is mainly speech
-* you add a voice over or transcript to text-based videos
+Make sure the video title describes the topic or purpose. 
 
-### Closed captions and transcripts
+If you're adding an embedded video, the title is used for the embed and it will also show if the video cannot load.
 
-Add closed captions and transcripts so users accessing the video without audio can read all of the content.
+### Closed captions
 
-You can add or edit captions to YouTube videos in Youtube Studio. YouTube will provide automated captioning. Do not rely on automated captioning to get everything right.
+Use closed captions. They can be hidden or shown by the user. 
 
-YouTube and Vimeo have editing tools you can use to make corrections after uploading but before publishing. Use the [instructions for adding captions to YouTube videos](https://support.google.com/youtube/answer/2734796) or [instructions for adding captions to Vimeo videos](https://help.vimeo.com/hc/en-us/articles/21956884955537-How-do-I-add-captions-or-subtitles-to-my-video#h_01JJZA1ETEF5C0RCR1Z2WASC4D) for guidance. 
+#### If you're hosting the video on YouTube
+
+You can add or edit captions in YouTube Studio. YouTube will provide automated captioning.
 
 Make sure you select the correct language, especially if your default language is English but the video is in another language.
 
 Go through the automated captioning and check the following:
 
-* captioning is in sync with the person speaking
-* there are no spelling mistakes
-* it has captured the correct words, paying special attention to uncommon words or phrases
+- captioning is in sync with the person speaking
+- there are no spelling mistakes
+- captioning has captured the correct words, paying special attention to uncommon words or phrases
 
 As well as dialogue, captions should identify who is speaking and include non-speech information conveyed through sound, including meaningful sound effects.
 
-If your video is hosted outside of YouTube, make sure you provide the transcript in HTML.
+Once you have completed the closed captioning, a transcript will be added to your video. You can access the transcript by selecting the 3 dots under the video and choosing 'Open transcript'. 
+
+#### If you're hosting the video somewhere else
+
+You can upload the video to YouTube Studio and use its captioning tools if:
+
+- you do not have a tool that can create automated captioning
+- the platform you're using can accept the captions as a SRT, VTT or SBV file
+
+You can download the captions from YouTube and reupload them to your platform.
+
+You should also provide the transcript in HTML alongside the video. Although a transcript is not necessary for meeting accessibility rules, it's good practice to provide one.
+
+### Transcripts
+
+Transcripts are text versions of the video content. 
+
+Transcripts:
+
+- let users scan or annotate content without replaying the video
+- help search engines and AI assistants find the content in the transcript
+
+A transcript needs to include all important audio and visual information in the video so that all users can understand the content that’s in the video from the transcript.
+
+
+>[!NOTE]
+>Example 1
+>
+>If you are showing a diagram which is not explained verbally in the video, you will have to describe the diagram. Without this information, the video would make little sense to visually impaired users. You will also need to make sure this is captured in the audio description.
+
+>[!NOTE]
+>Example 2
+>
+>At the end of a press conference, if there’s an important handshake between ministers which signals the closing of a deal and the reporter does not say this, you’ll need to describe it in the transcript.
+
+If your video is on YouTube, the transcript appears below the description of the video, where a “Show transcript” link appears.
+
+If your video is hosted outside of YouTube, make sure you provide the transcript in HTML and link to the transcript on the page the video is on.
+
+Audio-only recordings, like podcasts, also need a transcript.
 
 ### Audio description
 
-Not all users will be able to see the visuals in your video. If your video has visuals which are important in understanding the context, you'll need to describe this verbally.
+Audio description provides a spoken explanation of the visual elements in the video. 
 
-#### Example 1
+Audio descriptions are essential for making video content accessible to people who are blind or visually impaired. They can also be helpful for people with cognitive disabilities.
 
-If you are showing a diagram which is not explained verbally in the video, you will have to describe the diagram. Without this information, the video would make little sense to visually impaired users. You will also need to make sure this is captured in the transcript.
+Like with transcripts, if your video has visuals which are important in understanding the context, you’ll need to describe this verbally in the audio description.
 
-#### Example 2
+>[!NOTE]
+>Example
+>
+>If you show a user journey of a new service or product, you’ll need to describe the journey so everyone has access to the context.
 
-At the end of a press conference, if there's an important handshake between ministers which signals the closing of a deal and the reporter does not say this, you'll need to describe it.
+You must make sure that any important information that affects people’s understanding of the video is explained verbally, not just through imagery.
 
-#### Example 3
+### Videos with text only
 
-If you show a user journey of a new service or product, you'll need to describe the journey so everyone has access to the context.
+If your video is text-based, you'll need to provide an alternative. You can add a voice-over or transcript. This will help users who may be unable to see the video or have issues with understanding content or language.
 
-You must make sure that any important information that affects people's understanding of the video is explained verbally, not just through imagery.
+### Flashing images
+
+You should not use flashing images in videos as they can trigger a seizure. 
+
+Flashing refers to any large and bright content that flashes more than 3 times in one second. Users will not be able to switch off the flashing before it can trigger a seizure.
+
+If it is not possible to edit out the flashing, you need to include a trigger warning on the page and in the video.
+
+### Background audio
+
+When your video is mainly speech, make sure you have either no or low background audio.
+
 
 *[BSL]: British Sign Language
 *[SVG]: Scalable vector graphic

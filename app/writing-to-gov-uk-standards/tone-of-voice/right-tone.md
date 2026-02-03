@@ -22,7 +22,7 @@ Write conversationally. Picture your audience and write as if you were talking t
 
 Use the active voice rather than the passive voice.
 
-There's usually no need to say 'please' or 'please note'. This includes when giving an instruction or explaining what a user needs to do, like "Please contact us".
+There's usually no need to say 'please' or 'please note'. This includes when giving an instruction or explaining what a user needs to do, like 'Please contact us'.
 
 Do not use block capitals for large amounts of text. It's hard to read and it can be understood as shouting.
 
@@ -54,15 +54,15 @@ For help avoiding offensive terms, read more about:
 
 Address the user as 'you' where possible. 
 
-Content on the site often makes a direct appeal to citizens and businesses to get involved or take action. For example: "You can contact HM Revenue and Customs by phone and email" or "Pay your car tax".
+Content on the site often makes a direct appeal to citizens and businesses to get involved or take action. For example: 'You can contact HM Revenue and Customs by phone and email' or 'Pay your car tax'.
 
-When writing in the third person, make sure text is gender neutral wherever possible. For example, say "They can… " rather than "He or she can…".
+When writing in the third person, make sure text is gender neutral wherever possible. For example, say 'They can…' rather than 'He or she can…'.
 
 ## Make it clear who has written the content
 
-When referring to your own organisation, you can always refer to your organisation as 'we' when:
+When referring to your own organisation, you can always refer to your organisation as 'we' in:
 
 - the 'About us' section of your organisation page, as it will be obvious who 'we' is
-- in policies, like when saying "We announced our intention…"
+- policies, like when saying 'We announced our intention…'
 
 In other content, make sure you've already used the full name of your organisation before you use 'we'. Do not assume the audience will know who the 'we' is.
