@@ -79,3 +79,5 @@ The steps to closing your website are:
 You must [make sure the National Archives holds a copy of the website](https://www.nationalarchives.gov.uk/webarchive/archive-a-website/how-to-archive-a-website/closing/) before it closes.  
 
 Read the [guidance on how to move content to GOV.UK](https://www.gov.uk/guidance/govuk-transition-guidance-for-agencies) before you start.
+
+*[GDS]: Government Digital Service
