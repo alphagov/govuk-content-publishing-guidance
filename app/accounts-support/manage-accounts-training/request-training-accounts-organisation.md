@@ -49,3 +49,5 @@ If you’re a GOV.UK lead or an organisation admin, you’ll be given a checklis
 ### Existing publishers
 
 You can request refresher training for a publisher who uses Whitehall Publisher using the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+
+*[SPOC]: single point of contact
