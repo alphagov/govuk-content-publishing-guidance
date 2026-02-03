@@ -20,7 +20,7 @@ Use publications for publishing attachments like:
 
 Do not create a publication for:
 
-- meeting minutes, agendas or other meeting papers – these should be attached directly to a [group page](/publish-update-retire-content/organisations-people/groups/) or [governance corporate information page](/publish-update-retire-content/coporate-information/our-governance-memberships/) 
+- meeting minutes, agendas or other meeting papers – these should be attached directly to a [group page](/publish-update-retire-content/organisations-people/groups/) or [governance corporate information page](/publish-update-retire-content/corporate-information/our-governance-memberships/) 
 - videos – these should be embedded directly in the content they relate to
 - guidance that is not in an attachment – use the [detailed guidance content type](/publish-update-retire-content/standard-content-types/detailed-guides/) instead
 

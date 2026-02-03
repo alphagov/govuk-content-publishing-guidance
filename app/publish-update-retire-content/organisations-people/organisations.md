@@ -98,7 +98,7 @@ Only managing editors can edit the featured links layout and add links. To edit 
 
 1. Go to the 'Details' tab and select 'Edit'.
 2. Scroll to 'Position of featured links on organisation homepage' and select the option you want.
-3. Add your featured links, with a title and URL for each link - the title will be the link text that displays. The text of the link must be as specific and active as possible, and not overlap with titles used for [corporate information pages](/publish-update-retire-content/coporate-information/).
+3. Add your featured links, with a title and URL for each link - the title will be the link text that displays. The text of the link must be as specific and active as possible, and not overlap with titles used for [corporate information pages](/publish-update-retire-content/corporate-information/).
 4. Scroll to the bottom of the page and select 'Save'. 
 
 ### Choosing links for service priority layout
@@ -184,7 +184,7 @@ Your corporate information pages will automatically display on:
 * your organisation page, under the 'Corporate information' heading
 * the corporate information section of your 'About us' page 
 
-See [how to add and edit corporate information pages](/publish-update-retire-content/coporate-information/).
+See [how to add and edit corporate information pages](/publish-update-retire-content/corporate-information/).
 
 ## Contact details
 

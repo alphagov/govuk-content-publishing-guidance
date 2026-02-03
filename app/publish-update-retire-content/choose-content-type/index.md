@@ -102,7 +102,7 @@ Use your [organisation page](/publish-update-retire-content/organisations-people
 
 For details about ministers and senior staff, use [people and roles pages](/publish-update-retire-content/organisations-people/people-roles).
 
-For any other corporate information, use the [corporate information content type](/publish-update-retire-content/coporate-information/).
+For any other corporate information, use the [corporate information content type](/publish-update-retire-content/corporate-information/).
 
 If you've got a group within your organisation, like a policy advisory group, use the [group content type](/publish-update-retire-content/organisations-people/groups/) to explain what your group does and add their contact details.
 
