@@ -190,6 +190,10 @@ The publication itself should be added as an attachment.
 
 Make sure you've correctly [formatted the attachment](/formatting-content/attachments/) before you upload it.
 
+There are [additional formatting rules if you’re adding or editing an ‘official document’](/formatting-content/attachments/prepare-official-documents/). These are publications that are 'laid before' (presented to) Parliament, for example certain annual reports and accounts.
+
+### Upload the attachments
+
 Select the 'Attachments' tab at the top of the page. You can add, edit or delete attachments from here, and change the order they appear on the page.
 
 Your attachments can either be:
@@ -205,9 +209,9 @@ When you add attachments:
 - use the official title of the publication
 - for file attachments, do not tick 'Attachment is accessible' – this will let users see a box with information about requesting the attachment in an accessible format, like audio or Braille
 
-### Fill in more fields if you're attaching official documents
+### If you're attaching official documents
 
-There are extra fields you need to fill in if your publication is an 'official document'. These are publications that are 'laid before' (presented to) Parliament, like certain annual reports and accounts.
+There are extra fields you need to fill in if your publication is an official document.
 
 If they're added correctly, they will show up on the [official documents search tool](https://www.gov.uk/official-documents).
 

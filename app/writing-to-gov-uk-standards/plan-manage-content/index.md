@@ -17,3 +17,4 @@ This guidance includes:
 * [how content can be grouped](/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/) into topics, collections and step-by-step pages
 * how you should [plan new GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/), including where it will go and how to help users find it
 * how to find and [manage your existing GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/), including whether to withdraw or unpublish it
+* the [standards for GOV.UK URLs](/writing-to-gov-uk-standards/plan-manage-content/follow-url-standards/)

@@ -16,11 +16,12 @@ You do not need to write a change note if you've only:
 - made style changes, like changing a heading or layout
 - updated or removed broken links (unless they are links to something that is crucial to the task or knowledge that users need)
 
-You should write a change note if you've:
+Write a change note if you’ve:
 
 - added new information that means a user has to do something differently or know something new
 - removed guidance that is out of date or misleading
 - updated changes to fees or deadlines
+- updated an [‘official document’](/formatting-content/attachments/prepare-official-documents/) – these are documents ‘laid before’ (presented to) Parliament, for example certain annual reports and accounts
 
 ## Know who can see change notes
 
