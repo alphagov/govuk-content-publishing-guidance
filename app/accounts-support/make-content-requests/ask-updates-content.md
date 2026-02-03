@@ -108,7 +108,7 @@ All other requests will be sent to the GDS team that works with your organisatio
 
 If you’re asking for a new Welsh version of existing mainstream content, your request is more likely to be prioritised if:
 
-- the content allows an end-to-end journey in Welsh – in particular, to a Welsh-language government service, offering offline support for Welsh-language users if needed
+- the content allows an end-to-end journey in Welsh – in particular, to a Welsh language government service, offering offline support for Welsh language users if needed
 - there’s evidence people in Wales are using a central government service
 
 ### If you asked for new or updated Welsh mainstream content
@@ -128,3 +128,5 @@ Add the translated content to the document, keeping the same formatting code. Th
 Send the document back to GDS for them to publish.
 
 If it’s new Welsh content, GDS will add it to the [Welsh index](https://www.gov.uk/cymraeg).
+
+*[GDS]: Government Digital Service

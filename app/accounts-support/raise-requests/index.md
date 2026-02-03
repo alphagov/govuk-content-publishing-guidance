@@ -58,8 +58,8 @@ GDS will try to give you a definitive response within this time. If they cannot,
 
 If you have not had a response within one of the target times, then you should ask for a progress update. You can do this by replying to the email you got after you first submitted your request. Do not submit a new request.
 
-[!NOTE]> 
-Emergency response times are an exception to this. GDS will aim to reply as soon as possible.
+>[!NOTE]
+>Emergency response times are an exception to this. GDS will aim to reply as soon as possible.
 
 ### Closing tickets
 
@@ -83,3 +83,5 @@ They’ll also close tickets when it’s not something they can commit to priori
 If you’re unhappy with a decision, then you should first discuss the issue with your organisation’s GOV.UK lead.
 
 If your lead agrees that the GOV.UK decision should be challenged, you should update your ticket with a formal request for it to be escalated. The first line of escalation is typically the GOV.UK Product Manager.
+
+*[GDS]: Government Digital Service

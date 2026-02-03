@@ -37,15 +37,17 @@ New publishers need to complete one of the following training courses:
 
 Together you’ll need to follow these steps:
 
-The GOV.UK lead or an organisation admin requests training through the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
-They’ll be automatically enrolled on to the training course - they can set up their account on the training platform using the link in the email inviting them to complete the course.
-They’ll be invited to set up their account on the [Integration environment](link tbc) (if they do not already have one).
-Once they’ve finished the course, the GOV.UK lead or the person who requested their account must check they’ve successfully completed the training.
-If they’ve successfully completed the training and are a new publisher, the GOV.UK lead can request their account for the Production environment using the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
-They’ll be invited to set up their account on the Production environment within 2 days.
+1. The GOV.UK lead or an organisation admin requests training through the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+2. They’ll be automatically enrolled on to the training course - they can set up their account on the training platform using the link in the email inviting them to complete the course.
+3. They’ll be invited to set up their account on the [Integration environment](link tbc) (if they do not already have one).
+4. Once they’ve finished the course, the GOV.UK lead or the person who requested their account must check they’ve successfully completed the training.
+5. If they’ve successfully completed the training and are a new publisher, the GOV.UK lead can request their account for the Production environment using the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+6. They’ll be invited to set up their account on the Production environment within 2 days.
 
 If you’re a GOV.UK lead or an organisation admin, you’ll be given a checklist and example content to check if a new publisher has successfully completed the course. You’ll be given access the first time you request training for a new publisher.
 
 ### Existing publishers
 
 You can request refresher training for a publisher who uses Whitehall Publisher using the [create new user or request training form](https://support.publishing.service.gov.uk/create_new_user_or_training_request/new).
+
+*[SPOC]: single point of contact

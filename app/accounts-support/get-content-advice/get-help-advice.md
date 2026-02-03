@@ -8,9 +8,9 @@ title: Get help and advice
 description: Learn how to get content advice from the Government Digital Service (GDS) content team.
 lastUpdated:
 ---
-## Support from GDS
+## Support from the Government Digital Service (GDS)
 
-You can ask for content advice from the Government Digital Service (GDS) content team. This could be about, for example:
+You can ask for content advice from the GDS content team. This could be about, for example:
 
 * which [content type](link tbc) to use
 * following the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/)
@@ -22,6 +22,7 @@ It may be a quick question about content you’re working on or a request for a 
 
 * clearly explain what you need
 * give a deadline
+  
 Request content advice using the [GOV.UK support form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Support from across government

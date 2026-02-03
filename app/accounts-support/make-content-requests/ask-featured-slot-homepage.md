@@ -30,8 +30,8 @@ The 'Popular on GOV.UK' section is based on user data and is regularly updated b
 Ask for a featured slot using the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new). 
 
 
-[!NOTE]
- You need a Signon account with ‘content requesters’ permissions to access the form. Speak to the lead of your GOV.UK publishing team if you want access to the form.
+>[!NOTE]
+>You need a Signon account with ‘content requesters’ permissions to access the form. Speak to the lead of your GOV.UK publishing team if you want access to the form.
 
 Send the request at least 4 working days before you want the featured slot to go live. 
 

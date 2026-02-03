@@ -13,9 +13,11 @@ You sometimes need to contact the Government Digital Service (GDS) to add or upd
 This guidance covers how to request:
 
 - [changes to GOV.UK content](/accounts-support/make-content-requests/ask-updates-content/)
+- a [new or updated topic page](/accounts-support/make-content-requests/ask-changes-topics/)
+- a [downtime message for a service](/accounts-support/make-content-requests/ask-downtime-messages/)
 - a [short URL](/accounts-support/make-content-requests/ask-short-url/)
-- a [topic page](/accounts-support/make-content-requests/ask-changes-topics/)
 - a [featured slot on the GOV.UK homepage](/accounts-support/make-content-requests/ask-featured-slot-homepage/)
+- [changes to related links](/accounts-support/make-content-requests/ask-update-remove-related-links/)
 
 It also covers how to request an [exemption from putting your content on GOV.UK](/accounts-support/make-content-requests/ask-exemption/).
 
@@ -29,3 +31,5 @@ There’s separate guidance about how to request:
 - an [organisation page](https://guidance.publishing.service.gov.uk/publish-update-retire-content/organisations-people/organisations/)
 - a [specialist finder](/publish-update-retire-content/other-content-types/specialist-finders/)
 - a [topical event page](/publish-update-retire-content/promotional-social/topical-events/)
+
+*[GDS]: Government Digital Service
