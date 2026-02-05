@@ -23,7 +23,7 @@ If you have an ‘editor’ account, you can create and publish Whitehall conten
 If you have a ‘managing editor’ account, you can:
 
 + create, publish and 2i Whitehall content
-+ [unpublish, withdraw and unwithdraw Whitehall content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
++ [unpublish, withdraw and unwithdraw Whitehall content](/writing-to-gov-uk-standards/plan-manage-content/retire-content)
 + [change your organisation page layout](/publish-update-retire-content/organisations-people/organisations/#featured-links)
 
 Most organisations are limited to 5 managing editors and 5 organisation admins, who can be the same people.

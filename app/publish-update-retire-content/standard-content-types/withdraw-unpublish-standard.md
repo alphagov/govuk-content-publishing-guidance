@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 16
+  order: 15
 title: Withdraw or unpublish standard content types
 description: Learn how to withdraw or unpublish standard content types.
 lastUpdated:
@@ -16,7 +16,7 @@ If you have 'managing editor' permissions on Whitehall, you can:
 - withdraw content if it's no longer current – the page will remain on GOV.UK, but it'll have a banner saying that the content has been withdrawn
 - unpublish content – the page will be taken off GOV.UK completely
 
-Before you take these next steps, read the [guidance on when to retire content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/#retire-outdated-content) to understand when you should withdraw or unpublish content.
+Before you take these next steps, read the [guidance on when to retire content](/writing-to-gov-uk-standards/plan-manage-content/retire-content) to understand when you should withdraw or unpublish content.
 
 If you need managing editor permissions, talk to one of your organisation admins.
 

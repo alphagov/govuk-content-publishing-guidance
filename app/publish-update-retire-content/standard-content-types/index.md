@@ -22,7 +22,6 @@ Some content types on GOV.UK have similar processes for how you'll create, updat
 * [speeches](/publish-update-retire-content/standard-content-types/speeches/)
 * [statistical data sets](/publish-update-retire-content/standard-content-types/statistical-data-sets/)
 * [statistics](/publish-update-retire-content/standard-content-types/statistics/)
-* [worldwide pages](/publish-update-retire-content/standard-content-types/worldwide/)
 
 This section of guidance covers these content types, as well as the common processes for:
 

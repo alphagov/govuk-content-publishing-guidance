@@ -2,8 +2,8 @@
 layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
-  parent: Standard content types
-  order: 12
+  parent: Organisations and people
+  order: 4
 title: Worldwide pages
 description: Learn when to use the worldwide pages content type.
 lastUpdated:

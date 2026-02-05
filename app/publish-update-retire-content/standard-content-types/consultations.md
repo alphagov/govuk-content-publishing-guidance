@@ -58,7 +58,8 @@ Do not add any more information or attachments to the page after the government 
 9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](/formatting-content/attachments/).
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 11. Tick the box to confirm you've considered the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance).
-12. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+12. {% include 'reusable-content/limit-access.md' %}
+
 13. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -82,9 +83,10 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary and body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
-6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
+6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/retire-content) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
 7. Change the options under 'Excluded nations (required)' if needed.
-8. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+8. {% include 'reusable-content/limit-access.md' %}
+
 9. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select the relevant option under 'Do users have to know the content has changed?' and add your change notes (you can edit them again before you publish the draft).
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the consultation documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
@@ -102,7 +104,8 @@ Do not change the original content or consultation documents. They will move to 
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+5. {% include 'reusable-content/limit-access.md' %}
+
 6. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?' and add your change notes (you can edit them again later).
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Public feedback' tab at the top of the page.
@@ -130,7 +133,8 @@ Do not change the original content or consultation documents. They will move to 
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+5. {% include 'reusable-content/limit-access.md' %}
+
 6. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again later).
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Final outcome' tab at the top of the page. Add a publication date and use the 'Summary' to describe briefly what form the response takes, but do not describe what the response says.
