@@ -174,7 +174,7 @@ Good examples of closed groups include the:
 
 ## Update the name of a group page
 
-[Contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) to request a new group page with the updated name.
+[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want a new group page with the updated name.
 
 When you have that approval, close the old group page and set up one with the new name.
 

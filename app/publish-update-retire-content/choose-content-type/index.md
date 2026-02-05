@@ -13,7 +13,7 @@ lastUpdated:
 
 Before you make any decisions, read the [guidance on planning new content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) to decide whether the content is mainstream or specialist.
 
-If it's mainstream content, [contact the Government Digital Service (GDS)](LINK). They can help you decide which mainstream content type to use.
+If it's mainstream content, [raise a request with the Government Digital Service (GDS)](/accounts-support/make-content-requests/ask-updates-content/). They can help you decide which mainstream content type to use.
 
 If you're publishing specialist content for the first time on GOV.UK, it's up to you to decide the right content type. Do not base your decision on how a content type looks.
 

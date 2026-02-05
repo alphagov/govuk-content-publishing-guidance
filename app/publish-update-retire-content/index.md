@@ -21,7 +21,7 @@ We'll explain in the guidance whether your Signon account needs:
 - access to publishing applications, like Whitehall Publisher
 - certain permissions within publishing applications
 
-If you need a Signon account or you need to update an existing one, [raise an account request](LINK).
+Find out [how to get or update a Signon account](/accounts-support/manage-accounts-training/publishing-accounts-permissions/).
 
 ## If you want to create, update or retire 'mainstream' content
 
@@ -37,7 +37,7 @@ Published mainstream content will:
 - not have 'government', 'guidance' or 'find-licences' in its URL
 - not be part of a specialist finder, like any of the content in ['Air Accidents Investigation Branch reports'](https://www.gov.uk/aaib-reports)
 
-If you want to add, update or retire mainstream content, [raise a ticket with the content team at GDS](LINK). 
+If you want to add, update or retire mainstream content, [raise a ticket with the content team at GDS](/accounts-support/make-content-requests/ask-updates-content/).
 
 The only exception is if you want to update the results of a postcode lookup tool. You can do this yourself. See the guidance on updating the results of a:
 
@@ -53,6 +53,6 @@ Ask your organisation's content team if you want to update:
 
 There's guidance on creating and updating [blog sites](/publish-update-retire-content/promotional-social/blogs/) and [campaign sites](/publish-update-retire-content/promotional-social/campaigns/).
 
-There's also [guidance on requesting an exemption from being on GOV.UK](LINK) if you want to create another type of site.
+There's also [guidance on requesting an exemption from being on GOV.UK](/accounts-support/make-content-requests/ask-exemption/) if you want to create another type of site.
 
 *[GDS]: Government Digital Service

@@ -12,10 +12,10 @@ lastUpdated:
 
 You can ask for content advice from the GDS content team. This could be about, for example:
 
-* which [content type](link tbc) to use
+* which [content type](/publish-update-retire-content/choose-content-type/) to use
 * following the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/)
 * structuring your content
-* checking if content fits the [GOV.UK proposition](/government/publications/govuk-proposition)
+* checking if content fits the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition)
 * designing [accessible content](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/)
 
 It may be a quick question about content you’re working on or a request for a formal response you can share with colleagues in your organisation. To help GDS prioritise the work, you need to:
@@ -23,7 +23,7 @@ It may be a quick question about content you’re working on or a request for a 
 * clearly explain what you need
 * give a deadline
   
-Request content advice using the [GOV.UK support form](https://support.publishing.service.gov.uk/content_advice_request/new).
+[Ask for advice from GDS](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Support from across government
 

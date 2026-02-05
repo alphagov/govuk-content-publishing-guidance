@@ -31,4 +31,4 @@ $A
 
 Do not use bold for the address title. This is not accessible because it looks like a heading and can be confusing for users of assistive technology.
 
-See the 'Addresses in the UK' section of the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for more information on writing addresses.
+See the 'Addresses in the UK' section of the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#addresses-in-the-uk) for more information on writing addresses.

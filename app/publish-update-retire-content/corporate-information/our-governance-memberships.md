@@ -35,10 +35,12 @@ Then, for each of the governance boards or committees you're covering:
 
 * create a separate subheading
 * explain what it does (use bullet points if possible)
-* attach any terms of reference documents (use a [publication box attachment](link tbc))
-* attach minutes from recent meetings (attach the most recent as a [publication box attachment](link tbc) and the others as [inline style attachments](link tbc))
+* attach any terms of reference documents (use a publication box attachment)
+* attach minutes from recent meetings (attach the most recent as a publication box attachment and the others as inline link attachments)
 * link to the National Archives for minutes more than a year old (use this text for the link: 'See the National Archives website for minutes from [month and year] and earlier')
 * list the board or committee members (just names and job titles - use bullet points)
+
+Find out more about [adding attachments to content](/formatting-content/attachments/), including the difference between publication boxes and inline links.
 
 ### Which boards or committees to include
 

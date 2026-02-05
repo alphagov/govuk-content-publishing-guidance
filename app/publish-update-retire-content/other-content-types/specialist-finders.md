@@ -31,7 +31,7 @@ See a [good example of a specialist finder](https://www.gov.uk/algorithmic-trans
 
 ## Ask for a new specialist finder
 
-If you're the GOV.UK lead or a managing editor in your organisation, use the [GOV.UK support form](https://support.publishing.service.gov.uk/content_advice_request/new) to ask for a new specialist finder.
+If you're the GOV.UK lead or a managing editor in your organisation, use the [GOV.UK advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to ask for a new specialist finder.
 
 After you've submitted the form, you'll be asked more questions to determine whether a specialist finder is suitable for your content.
 

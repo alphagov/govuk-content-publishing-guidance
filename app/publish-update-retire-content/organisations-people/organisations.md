@@ -21,7 +21,8 @@ Your GOV.UK lead or a managing editor needs to [ask the Government Digital Servi
 
 ## Find and edit an organisation page
 
-To work on an organisation page, you'll need a [Signon account with access to Whitehall Publisher](LINK).
+{% include 'reusable-content/signon-account-whitehall.md' %}
+
 
 To find an organisation page:
 
@@ -427,11 +428,11 @@ There may be exceptions to the list of content types that should not be retagged
 
 * things that are heavily used, like recent news articles
 * an announcement of something that has not yet happened
-* content that is in the wrong content type, such as things that have [incorrectly gone into history mode](link tbc)
+* content that is in the wrong content type, which may have caused it to incorrectly go into history mode
 
 #### Getting help with retagging documents
 
-If there is too much content for you to retag manually, you can [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
+If there is too much content for you to retag manually, you can [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
 
 You’ll need to create and send over a new spreadsheet of the content that need retagging. Only include these columns in the spreadsheet, using these specific headings:
 
@@ -444,7 +445,7 @@ In the spreadsheet, do not include:
 - HTML attachments – these will be retagged if the pages they’re attached to are included in the spreadsheet
 - translations – these will be retagged if the English versions are included in the spreadsheet
 
-You can also [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) if:
+You can also [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if:
 
 - you do not know what to retag to the new organisation
 - you need to retag mainstream content, manuals or specialist finders
@@ -453,6 +454,6 @@ You can also [ask GDS using the support form](https://support.publishing.service
 
 If anyone is listed under ‘Our management’ on the organisation page, unassign them from their roles when you close the organisation. Read the [guidance about people and role pages](/publish-update-retire-content/organisations-people/people-roles) for help with that.
 
-If anyone is listed under ‘Our ministers’, [ask GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
+If anyone is listed under ‘Our ministers’, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
 
 *[GDS]: Government Digital Service

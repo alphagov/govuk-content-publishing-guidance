@@ -10,7 +10,7 @@ lastUpdated:
 ---
 If you have organisation admin permissions, you can do the following for people in your organisation:
 
-+ [request training and accounts](link tbc)
++ [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/)
 + view their accounts and the applications they have access to
 + suspend and unsuspend accounts
 + reset their 2-step verification

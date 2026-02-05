@@ -20,6 +20,6 @@ You'll need to restructure or rewrite parts of the guidance to meet the needs of
 
 Prioritise the needs of the new users because the processes, tasks and services involved are likely to be completely new to them. 
 
-If there's a big increase in the number of users affected, [raise a ticket with the content team at the Government Digital Service (GDS)](link tbc) to see if content needs to be moved from Whitehall to mainstream.
+If there’s a big increase in the number of users affected, you might need to [ask for changes from the Government Digital Service (GDS)](/accounts-support/make-content-requests/ask-updates-content/) to move content from Whitehall to mainstream.
 
 *[GDS]: Government Digital Service

@@ -9,9 +9,9 @@ description: Learn how to add HTML attachments and file downloads to content on 
 lastUpdated:
 ---
 
-You can add attachments to most content on GOV.UK. Before you do, [choose the right file type and file name for your attachments](link tbc) and [prepare the attachments and make them accessible](link tbc).
+You can add attachments to most content on GOV.UK. Before you do, [choose the right file type and file name for your attachments](/formatting-content/attachments/choose-attachment-type-name/) and [prepare the attachments and make them accessible](/formatting-content/attachments/prepare-attachments/).
 
-Once you have prepared your attachments, read about how you can add them in the [publishing content guidance](link tbc) for the content type you're working on.
+Once you have prepared your attachments, read about how you can add them in the [publishing content guidance](/publish-update-retire-content/) for the content type you’re working on.
 
 Your attachments will show up automatically on the page if you add them to a:
 

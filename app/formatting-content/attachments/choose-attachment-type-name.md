@@ -11,7 +11,7 @@ lastUpdated:
 
 You need to choose the right file type and an appropriate file name for any attachments.
 
-You should [choose a content type](link tbc) before you start with this step, as this can affect which file types you can attach to the page.
+You should [choose a content type](/publish-update-retire-content/choose-content-type/) before you start with this step, as this can affect which file types you can attach to the page.
 
 ## Choose an open file type
 
@@ -23,13 +23,13 @@ These standards make sure attachments are uploaded in file types that can be ope
 - help people to share their work more easily
 - make it easier and cheaper to do business with government
 
-The open standards are different to the [guidance about creating accessible documents](link tbc), which you need to follow whatever file type you use.
+The open standards are different to the [guidance about creating accessible documents](/formatting-content/attachments/prepare-attachments/), which you need to follow whatever file type you use.
 
 You need to choose a file type based on the purpose of your attachment and the content type you're using.
 
 | Attachment type    | File types to use |
 | --- | --- |
-| Guidance, papers, reports and other documents that users only need to read | Use HTML if the content type is a publication, call for evidence or consultation and it's in English or another [foreign language option](link tbc).</br></br>If it's a different content type or language, use both ODT and another format like DOCX or PDF/A so users with different software can open it |
+| Guidance, papers, reports and other documents that users only need to read | Use HTML if the content type is a publication, call for evidence or consultation and it’s in English or another [available language on GOV.UK](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/#languages-you-can-use).</br></br>If it's a different content type or language, use both ODT and another format like DOCX or PDF/A so users with different software can open it |
 | Forms and other documents that users need to edit on their computer | Use ODT and another editable format like DOCX or PDF, so users with different editing software can open it |
 | Leaflets, booklets, forms that users need to print out and fill in by hand, as well as other documents with a fixed layout for printing | Use PDF/A |
 | Easy Reads | Use PDF/A, as you cannot create Easy Reads in HTML |

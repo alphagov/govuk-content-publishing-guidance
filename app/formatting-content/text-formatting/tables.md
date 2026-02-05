@@ -217,7 +217,7 @@ You need to:
 * make sure every row has the same number of dividers  
 * make a bold heading row by using hyphens between the dividers in the second row, for example: `----|----|----`
 * add a hash ('#') character to text in the first column if it's a heading – for example `|# Row 1 | item 1 | item 2 | item 3`
-* use the [link code](link tbc) to add links to the table
+* use the [link code](/formatting-content/text-formatting/links/) to add links to the table
 
 For example, here is the markdown for a table showing the number of different animals in 3 different farms.
 

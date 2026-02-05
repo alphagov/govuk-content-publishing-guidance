@@ -32,7 +32,7 @@ If the fault is urgent, report the fault as usual but:
 - write URGENT in the title of the report
 - explain the impact on users if the issue is not resolved immediately 
 
-If GDS becomes aware of a problem affecting large numbers of GOV.UK publishers, they will post regular updates on the [Basecamp community](link tbc).
+If GDS becomes aware of a problem affecting large numbers of GOV.UK publishers, they will post regular updates on the [Basecamp community](https://3.basecamp.com/4322319/projects/15005645). Read about [how to access the Basecamp community](/accounts-support/get-content-advice/get-help-advice/).
 
 ## If you need emergency support
 

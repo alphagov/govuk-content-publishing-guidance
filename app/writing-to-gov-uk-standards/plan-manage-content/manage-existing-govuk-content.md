@@ -30,7 +30,7 @@ Govsearch will not show content that's published using non-GOV.UK tools, includi
 + service domains
 + some 'mainstream' smart answers that are published using Github, like ['Check benefits and financial support you can get'](https://www.gov.uk/check-benefits-financial-support)
 
-[Ask the Government Digital Service (GDS)](link tbc) if you would like help with searching this other content.
+[Ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you would like to search this other content.
 
 ### If you're only interested in Whitehall Publisher
 
@@ -89,7 +89,7 @@ If the page is also tagged to other organisations, you should contact their cont
 
 If the page is tagged to other organisations and not yours, contact their contact teams and ask them to work on the changes.
 
-[Ask GDS](link tbc) if you need contact information for other content teams.
+[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you need contact information for other content teams.
 
 ### If your content is on a 'mainstream' page
 
@@ -99,7 +99,7 @@ You will not be able to see which organisations are tagged to a mainstream page,
 
 If your organisation is not tagged, they can direct you to the tagged organisations' content teams. You can ask them to raise a ticket.
 
-[Raise a ticket with the content team at GDS](link tbc) to request changes.
+[Ask GDS for if you want to change mainstream content](/accounts-support/make-content-requests/ask-updates-content/).
 
 ### If your content is on any other type of page
 
@@ -107,7 +107,7 @@ Your content team can update the content without GDS help. Read our [guidance on
 
 You will not be able to update content if it's in 'history mode'. If it's in history mode, you'll see a banner explaining that the content was published under a previous government.
 
-If you want to update content in history mode, [raise a ticket to get history mode removed](link tbc).
+If you want to update content in history mode, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Retire outdated content
 
@@ -122,7 +122,7 @@ Some content can be 'retired' automatically. This is called 'history mode', whic
 + makes the content appear less prominently in internal search results
 
 >[!NOTE]
->If you want to retire mainstream content, you can only unpublish it. [Raise a ticket with the content team at GDS](link tbc) to discuss this.
+>If you want to retire mainstream content, you can only unpublish it. [Ask GDS for if you want to unpublish mainstream content](/accounts-support/make-content-requests/ask-updates-content/).
 
 ### When to withdraw content
 
@@ -239,6 +239,6 @@ Before a general election, affected organisations will be asked by GDS to do a h
 + see what content will go into history mode if the government changes 
 + prevent content from going into history mode if you think there is a problem
 
-If you think content should be removed from history mode after it's been applied, [raise a ticket to get history mode removed](link tbc).
+If you think content should be removed from history mode after it’s been applied, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new.
 
 *[GDS]: Government Digital Service

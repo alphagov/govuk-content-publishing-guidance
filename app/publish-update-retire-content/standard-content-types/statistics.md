@@ -13,7 +13,7 @@ lastUpdated:
 
 Statistics are made up of an announcement and a publication.
 
-Use a statistics announcement in the [statistics release calendar](https://www.gov.uk/search/research-and-statistics?content_store_document_type=upcoming_statistics&order=updated-newest) to announce when official statistics or accredited official statistics will be released. You must do this to comply with the [Code of Practice for Official Statistics](https://code.statisticsauthority.gov.uk/the-code/).
+Use a statistics announcement in the [statistics release calendar](https://www.gov.uk/search/research-and-statistics?content_store_document_type=upcoming_statistics&order=updated-newest) to announce when official statistics or accredited official statistics will be released. You must do this to comply with the [Code of Practice for Statistics](https://code.statisticsauthority.gov.uk/the-code/).
 
 You should also use statistics announcements for:
 
@@ -73,7 +73,7 @@ Only choose 'Add an existing document' if you've already created a statistics pu
 1. Click 'Create new document'. This will automatically create a statistics publication page for your statistics document. The publication type, title, summary and scheduled publishing date and time will be filled in automatically for you.
 2. Add a description of the publication to the body. Describe the purpose of the statistics and do not summarise what the publication says. Say whether the method of classification has changed since the last publication.
 3. Select the relevant options under 'Excluded nations (required)'.
-4. Select 'Limit access' if your draft is sensitive. This means only users from tagged organisations can see it before it's published and it will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+4. Select 'Limit access' if your draft is sensitive. This means only users from tagged organisations can see it before it's published and it will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
 5. Select 'Save' so you can attach the file containing the statistics under the 'Attachments' tab.
 6. Go back to the 'Documents' tab and select 'Save and go to document summary'.
 7. Add topic tagging by selecting the 'Add tag' under the 'Topic taxonomy tags' heading.
@@ -160,7 +160,7 @@ If the statistics will not be published for any other reason, cancel the announc
 
 Only managing editors can unpublish a statistics announcement if it was published in error.
 
-If your managing editor is not available, [contact the Government Digital Service (GDS) using the support form](https://support.publishing.service.gov.uk/unpublish_content_request/new).
+If your managing editor is not available, [contact the Government Digital Service (GDS) using the unpublishing form](https://support.publishing.service.gov.uk/unpublish_content_request/new).
 
 To unpublish a duplicate announcement or one published by mistake:
 

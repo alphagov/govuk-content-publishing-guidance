@@ -46,10 +46,10 @@ A link to the destination page should be given to the news media.
 
 The co-ordinator from the lead agency needs to publish the page in Whitehall Publisher.
 
-Typically the page will use the [news article type](link tbc), but this is flexible. For example, a co-ordinator could use:
+Typically the page will use the [news article type](/publish-update-retire-content/standard-content-types/news-articles/), but this is flexible. For example, a co-ordinator could use:
 
-- a [topical event page](link tbc) (this requires GDS approval)
-- a [travel advice page](link tbc), in the case of an overseas crisis
+- a [topical event page](/publish-update-retire-content/promotional-social/topical-events/) (this requires GDS approval)
+- a [travel advice page](https://www.gov.uk/foreign-travel-advice), in the case of an overseas crisis
 - an existing guide, in the case of a farming crisis
 
 The page's title should include keywords specific to the incident, but be broad enough to allow for updates, for example:
@@ -76,7 +76,7 @@ Only do this if the emergency poses an immediate risk to life and demands immedi
 
 The co-ordinator in the lead agency needs to call the GDS emergency phone number.
 
-They can find the phone number under 'Update GOV.UK following a national emergency' on the [emergency contact details page](https://support.publishing.service.gov.uk/emergency-contact-details). They need a [Signon account](link tbc) to access that page.
+They can find the phone number under 'Update GOV.UK following a national emergency' on the [emergency contact details page](https://support.publishing.service.gov.uk/emergency-contact-details). They need a [Signon account](/accounts-support/manage-accounts-training/publishing-accounts-permissions/) to access that page.
 
 GDS will confirm their identity and verify that the emergency is of an appropriate scale to deploy the GOV.UK emergency homepage.
 
