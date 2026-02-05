@@ -45,7 +45,7 @@ Include:
 * how many government organisations will promote the short URL
 * if there’s a deadline for when the short URL must go live
 
-GDS will work with you to decide on a short URL. You can make suggestions. They should meet the [URL standards](link tbc) for GOV.UK.
+GDS will work with you to decide on a short URL. You can make suggestions. They should meet the [URL standards](/writing-to-gov-uk-standards/plan-manage-content/follow-url-standards) for GOV.UK.
 
 ### If you want to track usage of the short URL
 

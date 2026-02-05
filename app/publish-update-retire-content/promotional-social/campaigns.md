@@ -79,13 +79,13 @@ Learn more about how to use these channels by speaking to your comms team, or re
 
 If your proposed site does not meet the requirements for campaign sites or a campaign site would not meet your requirements, you will need to get approval from the Government Digital Service (GDS) before you create any new government website or public-facing domain.
 
-Find out how to [ask GDS for a GOV.UK exemption](LINK).
+Find out how to [ask GDS for a GOV.UK exemption](/accounts-support/make-content-requests/ask-exemption/).
 
 ## Create a short URL
 
 It helps to have a memorable short URL for campaigns. 
 
-[Ask GDS to set up a short URL](LINK) for your campaign site.
+[Ask GDS to set up a short URL](/accounts-support/make-content-requests/ask-short-url/) for your campaign site.
 
 ## Create accompanying GOV.UK content
 

@@ -17,8 +17,8 @@ This approval is known as getting an ‘exemption’ and applies to domains endi
 
 There’s separate guidance on how to get:
 
-- a [campaign site](link tbc)
-- a [blog site](link tbc)
+- a [campaign site](/publish-update-retire-content/promotional-social/campaigns/)
+- a [blog site](/publish-update-retire-content/promotional-social/blogs/)
 - a [service domain](https://www.gov.uk/service-manual/technology/get-a-domain-name)
 - a [gov.uk domain](https://www.gov.uk/apply-for-and-manage-a-gov-uk-domain-name) for your email addresses
 

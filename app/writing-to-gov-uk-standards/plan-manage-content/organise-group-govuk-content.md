@@ -24,7 +24,7 @@ Topics are organised in a hierarchical taxonomy. This means topics can have subt
 
 We explain how to tag your content in [the guidance on creating and updating pages](/publish-update-retire-content/). 
 
-If you want to request a new topic, or changes to an existing topic, [contact the Government Digital Service (GDS)](link tbc).
+If you want to request a new topic or changes to an existing topic, [ask the Government Digital Service (GDS) to make changes to topics](/accounts-support/make-content-requests/ask-changes-topics/).
 
 ## Document collections
 
@@ -57,12 +57,12 @@ Most content in mainstream browse is 'mainstream' content - content published by
 * it gives users information about how to complete a task or use a government service
 * it's a detailed guide or certain types of publication - guidance, statutory guidance or form
 
-To ask to add content to a mainstream browse page, [contact GDS](link tbc).
+If you want to add content to a mainstream browse page, [ask GDS to make updates to content](/accounts-support/make-content-requests/ask-updates-content/).
 
 ## Step by step pages
 
 If the task users need to do is part of a much broader process with multiple steps, like [learning to drive](https://www.gov.uk/learn-to-drive-a-car), content can be grouped into a step by step navigation.
 
-If you've published content that you think should be added to an existing step by step navigation, or a new one should be created, [contact GDS](link tbc).
+If you’ve published content that you think should be added to an existing step by step navigation, or a new one should be created, [ask GDS to make updates to content](/accounts-support/make-content-requests/ask-updates-content/).
 
 *[GDS]: Government Digital Service

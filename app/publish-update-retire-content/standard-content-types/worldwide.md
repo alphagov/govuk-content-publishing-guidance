@@ -28,7 +28,7 @@ World location news pages can either be for:
 
 The 2 types of pages are very similar and are updated in the same way.
 
-You can update an existing world location news page. If you want to add a new one, [contact the Government Digital Service (GDS) using the support form](https://support.publishing.service.gov.uk/content_advice_request/new).
+You can update an existing world location news page. If you want to add a new one, [ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ### Edit a world locations news page
 
@@ -308,7 +308,7 @@ You can tag content to these navigation pages if it tells users how to complete 
 
 There's a navigation page for each country and territory.
 
-[Contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) if you want:
+[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want:
 
 - a new navigation page
 - to edit the title, sections or description of an existing page
@@ -334,7 +334,7 @@ To tag the content:
 5. Select the topics you want to tag the content to.
 6. Select 'Save topic changes'.
 
-You can also [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) if you want them to tag:
+You can also [ask GDS for help](/accounts-support/get-content-advice/get-help-advice/) if you want them to tag:
 
 * mainstream content
 * manuals

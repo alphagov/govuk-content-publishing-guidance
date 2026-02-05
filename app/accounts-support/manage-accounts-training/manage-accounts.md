@@ -10,7 +10,7 @@ lastUpdated:
 ---
 You need a ‘Signon’ account to access GOV.UK publishing applications such as Whitehall Publisher and Specialist Publisher.
 
-Your GOV.UK lead or an organisation admin can [request training and accounts](link tbc) for you. 
+Your GOV.UK lead or an organisation admin can [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/) for you.
 
 They can also request changes to your permissions - for example, if you need to be an editor in Whitehall Publisher.
 
@@ -31,7 +31,7 @@ On the ‘Sign in’ page, enter your email address and password. Once 2-step ve
 
 If it’s your first time signing in, use the link in your invitation email to access your account, set a password and set up 2SV.
 
-If you cannot sign in, [contact the Government Digital Service (GDS)](link tbc).
+If you cannot sign in, [contact the Government Digital Service (GDS)](https://www.gov.uk/contact/govuk).
 
 ### Set up 2SV
 

@@ -21,7 +21,7 @@ Use speeches for a:
 
 Do not create a new speech unless:
 
-- you expect a high level of public interest in everything that was said, not just the main messages (otherwise, use the [news article content type](LINK))
+- you expect a high level of public interest in everything that was said, not just the main messages (otherwise, use the [news article content type](/publish-update-retire-content/standard-content-types/news-articles))
 - it's necessary context for understanding how a policy is progressing
 
 Do not use it for:
@@ -56,7 +56,7 @@ Before you start, decide whether the speech should be marked as:
 8. Add the 'Speaker' or 'Writer'. They need to have a [people page](/publish-update-retire-content/organisations-people/people-roles) to have a profile on GOV.UK.
 9. Add the date the speech was 'Delivered on' or 'Written on', and choose whether to add the exact time.
 10. You can choose whether to add the location of where the speech was delivered (unless you're creating an 'authored article').
-11. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+11. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
 12. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -77,7 +77,7 @@ If you're correcting an error:
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary, body and speech details as needed. Read the [tone of voice guidance](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Do not change anything under the 'Political' heading. This is related to [history mode](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
-7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
 8. Decide whether you need to [write public change notes](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 9. Select the 'Save' button at the bottom of the page.
 

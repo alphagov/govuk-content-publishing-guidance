@@ -44,7 +44,7 @@ Remember, most users just want practical guidance. Case studies can make it hard
 4. Add the title. It should summarise the point of the case study, like 'UK money helps to build homes in Darfur'.
 5. Add the summary. It should outline what happened, why it happened and the result.
 6. Add the body. Include information about how the case study supports a particular policy (with links to relevant pages). If you can, include statistics and facts about things like how many people will be helped and how much money is being spent. Finally, include the human element of who is benefiting and how. Avoid too much detail about the past or too many quotations (unless it's an interview).
-5. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+5. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
 6. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -60,7 +60,7 @@ After saving the page, you can add images and attachments.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
-7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](https://signon.integration.publishing.service.gov.uk/).
+7. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
 8. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 9. Select the 'Save' button at the bottom of the page.
 

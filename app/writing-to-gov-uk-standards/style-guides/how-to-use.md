@@ -29,7 +29,7 @@ Other government style guides include:
 
 - [Department for Education (DfE) style guide](https://design.education.gov.uk/content-design/style-guide)
 - [HM Revenue and Customs (HMRC) content style guide](https://design.tax.service.gov.uk/hmrc-content-style-guide/)
-- [Home Office content style guide](https://design.homeoffice.gov.uk/content-style-guide)
+- [Home Office content style guide](https://design.homeoffice.gov.uk/design-and-content/content/content-style-guide)
 - [NHS content guide](https://service-manual.nhs.uk/content)
 - [Office for National Statistics (ONS) content style guide](https://service-manual.ons.gov.uk/content)
 

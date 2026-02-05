@@ -9,7 +9,7 @@ description: Create form attachments for GOV.UK that are accessible and work on 
 lastUpdated:
 ---
 
-Read the guidance on [choosing the right file type](link tbc). This recommends you save any form attachments as both ODT and another editable format like DOCX or PDF.
+Read the guidance on [choosing the right file type](/formatting-content/attachments/choose-attachment-type-name/). This recommends you save any form attachments as both ODT and another editable format like DOCX or PDF.
 
 Creating a form using the ODT file type has limits. For example, you will not be able to add graphics or complicated steps to your form.
 

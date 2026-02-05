@@ -32,9 +32,12 @@ Use [Govsearch](https://gov-search.service.gov.uk/) if you want to search GOV.UK
 
 ## Help with finding content on Whitehall Publisher
 
-If you want to go straight from a page on GOV.UK to its corresponding admin page on Whitehall Publisher, you can use the ['Find in admin' bookmarklet](https://whitehall-admin.publishing.service.gov.uk/government/admin/find-in-admin-bookmarklet).
+You can use [Whitehall Publisher bookmarklets](https://whitehall-admin.publishing.service.gov.uk/government/admin/bookmarklets) if you want to go:
 
-You'll need a [Signon account with access to Whitehall Publisher](link tbc) to use this bookmarklet.
+- from a page on GOV.UK to its corresponding admin page on Whitehall Publisher
+- from a PDF attachment to the page it's attached to
+
+You’ll need a [Signon account with access to Whitehall Publisher](/accounts-support/manage-accounts-training/publishing-accounts-permissions/) to use this bookmarklet.
 
 ## Get insights into content design approaches
 
@@ -43,8 +46,8 @@ To understand the GOV.UK approach to content design, read the [GOV.UK content pr
 For wider reading about content strategy, see:
 
 - [Letting Go of the Words](https://redish.net/books/letting-go-of-the-words/) by Janice Redish
-- [Content Strategy for the Web](http://contentstrategy.com/) by Kristina Halvorson and Melissa Rach
-- [Clout: the Art and Science of Influential Web Content](http://content-science.com/clout-the-book) by Coleen Jones
+- [Content Strategy for the Web](https://www.oreilly.com/library/view/content-strategy-for/9780132883269/) by Kristina Halvorson and Melissa Rach
+- [Clout: the Art and Science of Influential Web Content](https://www.peachpit.com/store/clout-the-art-and-science-of-influential-web-content-9780321733016) by Coleen Jones
 - [The Web Content Style Guide](http://gerrymcgovern.com/books/the-web-content-style-guide/) by Gerry McGovern, Rob Norton and Catherine O'Dowd
 
 For wider reading about user experience, see:

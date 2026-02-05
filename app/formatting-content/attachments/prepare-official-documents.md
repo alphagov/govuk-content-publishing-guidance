@@ -69,7 +69,7 @@ Read the [guidance on correction slips from the National Archives](https://www.n
 
 When each version of the official document is ready, add them as attachments to the same publication content type.
 
-Read the guidance on the [publication content type](link tbc) for instructions, including how to fill in special fields when uploading official documents.
+Read the guidance on the [publication content type](/publish-update-retire-content/standard-content-types/publications/) for instructions, including how to fill in special fields when uploading official documents.
 
 If you’re updating a document that’s already been published, write a public change note to explain the updates you’ve made.
 

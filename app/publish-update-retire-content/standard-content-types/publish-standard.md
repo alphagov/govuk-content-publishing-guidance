@@ -11,7 +11,7 @@ lastUpdated:
 
 You need 'editor' permissions on Whitehall Publisher to publish content.
 
-If you need these permissions, ask an [organisation admin](LINK) on your team.
+Find out [how to get or update a Signon account with access to Whitehall Publisher](/accounts-support/manage-accounts-training/publishing-accounts-permissions/).
 
 ## Publish someone else's draft
 

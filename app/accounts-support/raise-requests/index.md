@@ -12,7 +12,7 @@ The Government Digital Service (GDS) works on support requests related to GOV.UK
 
 ## How to raise a request
 
-If you’re a government publisher, read the guidance in the rest of the [‘Accounts and support’ section](link tbc) to find out how to contact GDS for your specific need.
+If you’re a government publisher, read the guidance in the rest of the [‘Accounts and support’ section](/accounts-support/) to find out how to contact GDS for your specific need.
 
 If you’re not a government publisher, use the [support form](https://www.gov.uk/contact) to contact GDS.
 

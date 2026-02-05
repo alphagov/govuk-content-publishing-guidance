@@ -12,7 +12,7 @@ lastUpdated:
 
 There are different ways to ask for a change depending on whether you want to work on ‘Whitehall’ or ‘mainstream’ content.
 
-Whitehall content is managed by your organisation’s GOV.UK publishing team. You need to contact them to create or update Whitehall content. They can get [content advice from GDS](link tbc) if they need help with that.
+Whitehall content is managed by your organisation’s GOV.UK publishing team. You need to contact them to create or update Whitehall content. They can get [content advice from GDS](/accounts-support/get-content-advice/get-help-advice/) if they need help with that.
 
 Mainstream content is managed by GDS. You need to ask them to create or update mainstream content. We explain how to do that in the following guidance.
 
@@ -25,7 +25,7 @@ If you’re updating existing content, you can tell if something is mainstream c
 - does not have ‘government’, ‘guidance’ or ‘find-licences’ in its URL
 - is not part of a specialist finder, such as any of the content in [‘Air Accidents Investigation Branch reports’](https://www.gov.uk/aaib-reports)
 
-For example, the [‘Register to vote’ guide](www.gov.uk/register-to-vote) is mainstream content.
+For example, the [‘Register to vote’ guide](https://www.gov.uk/register-to-vote) is mainstream content.
 
 ## Prepare your request for GDS
 

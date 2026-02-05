@@ -964,7 +964,7 @@ Lower case, if referring to the currency.
 
 ### etc
 
-See [the entry on eg, etc and ie](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#eg-etc-ie).
+See [the entry on eg, etc and ie](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#eg-etc-and-ie).
 
 ### Excel spreadsheet
 
@@ -1456,7 +1456,7 @@ Front-load your link text with the relevant terms and make them active and speci
 
 ### Lists
 
-Lists should be bulleted to make them easier to read. See the entry on [bullets and steps](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-steps).
+Lists should be bulleted to make them easier to read. See the entry on [bullets and steps](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-and-steps).
 
 Very long lists can be written as a paragraph with a lead-in sentence if it looks better: 'The following countries are in the EU: Spain, France, Italy...'
 
@@ -1487,7 +1487,7 @@ Two words.
 
 ### log in
 
-See also the entries on [sign in or log in](#sign-in-or-log-in) and [GOV.UK One Login](#govuk-one-login).
+See also the entries on [sign in or log in](#sign-in-or-log-in) and [GOV.UK One Login](#gov-uk-one-login).
 
 ### looked-after children
 
@@ -2231,7 +2231,7 @@ They should follow the style guide. When writing a reference:
 
 If the reference is available online, make the title a link and include the date you accessed the online version: 
 
-Corallo AN and others. ['A systematic review of medical practice variation in OECD countries'](http://www.healthpolicyjrnl.com/article/S0168-8510%2813%2900215-7/fulltext) Health Policy 2014: volume 114, pages 5 to 14 (viewed on 18 November 2014). 
+Corallo AN and others. [‘A systematic review of medical practice variation in OECD countries’](https://www.sciencedirect.com/science/article/abs/pii/S0168851013002157) Health Policy 2014: volume 114, pages 5 to 14 (viewed on 18 November 2014).
 
 ### reform plan
 
@@ -2449,7 +2449,7 @@ Title case.
 
 Use sign in rather than log in (verb) for calls-to-action where users enter their details to access a service.
 
-Do not use login as a noun - say what the user actually needs to enter (like username, password, National Insurance number). You can use it as a noun if it's part of a name such as [GOV.UK One Login](#govuk-one-login) or NHS login.
+Do not use login as a noun - say what the user actually needs to enter (like username, password, National Insurance number). You can use it as a noun if it's part of a name such as [GOV.UK One Login](#gov-uk-one-login) or NHS login.
 
 ### 16 to 19 Bursary Fund
 
@@ -2533,7 +2533,7 @@ Lower case.
 
 ### Statistics
 
-Read [Style.ONS](http://style.ons.gov.uk) to find out how to write about statistics. This has been produced by the Office for National Statistics for all members of the Government Statistical Service.
+Read the [Office for National Statistics (ONS) style guide](http://style.ons.gov.uk/) to find out how to write about statistics. This has been produced by the Office for National Statistics for all members of the Government Statistical Service.
 
 Title case National Statistics for the official statistics quality mark. Lower case for anything else, including statistics that are national in scope.
 
@@ -2559,7 +2559,7 @@ Do the same for statutory leave, such as:
 
 ### steps
 
-See the entry on [bullet points and steps](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-steps).
+See the entry on [bullet points and steps](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-and-steps).
 
 ### strategic national framework on XXX
 

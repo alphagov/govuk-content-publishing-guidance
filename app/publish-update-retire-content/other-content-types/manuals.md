@@ -49,7 +49,7 @@ Their request for a new manual must show:
 - what the source content is
 - what else is covered on GOV.UK on the topic
 
-[Contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new).
+[Contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Get access to Manuals Publisher
 
@@ -127,13 +127,13 @@ You cannot add images to this content type.
 
 Your manual will be automatically tagged to the same organisation as your Signon account.
 
-If you want to change the organisation or tag more organisations, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you want to change the organisation or tag more organisations, [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
 ## Tag to topic pages
 
 You can only tag the manual to topic pages once the first draft is published.
 
-You'll need to [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
+You'll need to [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
 
 ## Unpublish a manual
 
@@ -148,6 +148,6 @@ To unpublish sections of a manual:
 3. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select 'Major change' and add your change notes.
 4. When you've done this for every relevant section, publish the draft.
 
-To unpublish the manual as a whole, [contact GDS using the support form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
+To unpublish the manual as a whole, [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
 
 *[GDS]: Government Digital Service

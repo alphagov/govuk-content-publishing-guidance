@@ -48,7 +48,7 @@ You may want to publish the content on a different government website or public-
 
 If your organisation does not already have an appropriate non-GOV.UK website, you may want to create one.
 
-[Ask for approval from the Government Digital Service (GDS)](link tbc) before you do that. You need approval even if you want to use a non-government domain (like .org.uk, .co.uk or .com).
+[Ask for approval from the Government Digital Service (GDS)](/accounts-support/make-content-requests/ask-exemption/) before you do that. You need approval even if you want to use a non-government domain (like .org.uk, .co.uk or .com).
 
 ## Decide where to publish content on GOV.UK
 
@@ -70,7 +70,7 @@ If it's for mainstream users, this should be published as mainstream guidance.
 
 This guidance is written and maintained by the content team at GDS. You'll need to raise a ticket with them to add your content to GOV.UK.
 
-[Find out how to raise a ticket with the content team at GDS](link tbc).
+[Find out how to raise a ticket with the content team at GDS](/accounts-support/make-content-requests/ask-updates-content/).
 
 If it's for specialists, this can be published by your own content team. You'll need to [choose an appropriate content type](/publish-update-retire-content/choose-content-type/).
 
@@ -116,7 +116,7 @@ Some users might be subscribed to email updates for any content published by you
 
 In some cases, you might want to work with your communications team to raise awareness or directly contact users. 
 
-You might want to [ask for a short URL](link tbc) if you need a link to the content in physical places, like adverts and letters. Short URLs:
+You might want to [ask for a short URL](/accounts-support/make-content-requests/ask-short-url/) if you need a link to the content in physical places, like adverts and letters. Short URLs:
 
 + are easier for users to type into their browser
 + can be tracked in Google Analytics so you can see how many people are using them

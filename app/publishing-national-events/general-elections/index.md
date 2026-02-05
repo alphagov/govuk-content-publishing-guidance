@@ -36,7 +36,7 @@ In these cases, check with a director in your department.
 
 ### Asking for updates to mainstream content
 
-You can [ask the Government Digital Service (GDS)](link tbc) to publish small, factual changes during the pre-election period. That could include updates to:
+You can [ask the Government Digital Service (GDS)](/accounts-support/make-content-requests/ask-updates-content/) to publish small, factual changes during the pre-election period. That could include updates to:
 
 + change an address or phone number
 + fix something that's stopping users completing a task

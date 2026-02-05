@@ -18,7 +18,7 @@ Users can switch between a bar chart and a table view on the webpage.
 > [!NOTE]
 > See [examples of different bar charts on GOV.UK](https://www.gov.uk/government/publications/examples-of-visual-content-to-use-on-govuk/examples-of-visual-content-to-use-on-govuk).
 
-To add a chart, make a numeric table using the [tables markdown](/formatting-content/text-formatting/tables/). You then need to add a line of code below the table, which is different depending on the type of bar chart you want.
+To add a chart, make a numeric table using the [tables code](/formatting-content/text-formatting/tables/). You then need to add a line of code below the table, which is different depending on the type of bar chart you want.
 
 ## Simple bar chart
 

@@ -127,7 +127,7 @@ You can only redirect to URLs on:
 
 Any attachments will automatically redirect to the same place.
 
-If you're unpublishing a consultation, detailed guide or publication, subscribed users will get an email notification about the unpublishing and the location of the redirect. Read more about [how email notifications work](LINK).
+If you're unpublishing a consultation, detailed guide or publication, subscribed users will get an email notification about the unpublishing and the location of the redirect. Read the [guidance on email notifications](/publish-update-retire-content/standard-content-types/publish-standard/#email-notifications) to find out who can be subscribed for notifications.
 
 ### After you've unpublished content
 
