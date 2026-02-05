@@ -112,7 +112,6 @@ If you want to remove the lead image completely, select 'Remove lead image'.
 {% include 'reusable-content/associations-introduction.md' %}
 
 - world organisations and locations – use this if you work for the Foreign, Commonwealth and Development Office (FCDO) and you want the case study to appear on [a worldwide organisation page or a world location news page](/publish-update-retire-content/organisations-people/worldwide/)
-
 {% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
