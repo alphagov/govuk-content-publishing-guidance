@@ -1,1 +1,1 @@
-Select 'Limit access' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).

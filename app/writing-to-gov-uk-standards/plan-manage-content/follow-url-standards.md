@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 eleventyNavigation:
   parent: Plan and manage content
-  order: 6
+  order: 5
 title: Follow URL standards
 description: Learn the rules when creating URLs for GOV.UK, including short URLs.
 lastUpdated:

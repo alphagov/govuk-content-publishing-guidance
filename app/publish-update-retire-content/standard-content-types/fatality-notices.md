@@ -37,7 +37,8 @@ If there were multiple deaths in one incident, create a fatality notice for the 
 8. Under 'Field of operation', select the country the people died in.
 9. Under the 'Introduction' part of 'Roll call info', include the deceased people's name and title, the incident in which they died, and the date on which they died. This will display above the link to the fatality notice on the ['Fields of operation' page](https://www.gov.uk/government/fields-of-operation).
 10. Under the 'Casualties' part of 'Roll call info', create separate entries for each person who died. Include their name and title, their regiment, battalion or air wing (if cleared), their age and where they're from.
-11. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+11. {% include 'reusable-content/limit-access.md' %}
+
 12. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can now add images of the people if you have them. You can update the fatality notice later if you do not have images immediately.
@@ -49,7 +50,8 @@ After saving the page, you can now add images of the people if you have them. Yo
 3. Search for the fatality notice you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary, body and fatality notice details as needed.
-6. Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+6. {% include 'reusable-content/limit-access.md' %}
+
 7. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
 8. Select the 'Save' button at the bottom of the page.
 

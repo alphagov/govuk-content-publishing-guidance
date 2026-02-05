@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 14
+  order: 13
 title: Review standard content types
 description: Learn how to review standard content types.
 lastUpdated:

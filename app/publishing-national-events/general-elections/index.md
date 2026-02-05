@@ -45,7 +45,7 @@ If you want to publish bigger changes during the pre-election period, get approv
 
 ## Preparing for history mode
 
-If the government changes after a general election, [history mode](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) could be activated.
+If the government changes after a general election, [history mode](/writing-to-gov-uk-standards/plan-manage-content/retire-content) could be activated.
 
 If you're in one of the organisations that could be affected by history mode, you'll be contacted by GDS.
 

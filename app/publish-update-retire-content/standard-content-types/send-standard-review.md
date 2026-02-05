@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 13
+  order: 12
 title: Send standard content types for review
 description: Learn how to send standard content types for review, also called 'submit for 2nd eyes'.
 lastUpdated:

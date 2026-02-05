@@ -20,7 +20,7 @@ If you're publishing specialist content for the first time on GOV.UK, it's up to
 This is because:
 
 - if your content is in the wrong content type, users may not be able to find it because the content type can affect how and where it appears in search and navigation
-- it could wrongly go into history mode – [read the guidance on when history mode could be applied](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/#when-history-mode-gets-applied) for more details
+- it could wrongly go into history mode – [read the guidance on when history mode could be applied](/writing-to-gov-uk-standards/plan-manage-content/retire-content) for more details
 
 The right content type will depend on the purpose of your content.
 
@@ -126,7 +126,7 @@ For other statistical data, use the [statistics announcements and statistics pub
 
 Worldwide organisations include embassies, high commissions and consulates.
 
-Use one of the [worldwide pages content types](/publish-update-retire-content/standard-content-types/worldwide/).
+Use one of the [worldwide pages content types](/publish-update-retire-content/organisations-people/worldwide/).
 
 ## If you're collecting content together
 
