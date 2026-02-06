@@ -10,7 +10,7 @@ lastUpdated:
 ---
 ## Help with writing and sharing content
 
-The [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) covers the style, spelling and grammar conventions for all content published on GOV.UK.
+The [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) covers the style, spelling and grammar conventions for all content published on GOV.UK.
 
 If you want details about the word count and estimated reading time of published content, you can use [Content Data](https://content-data.publishing.service.gov.uk/content).
 

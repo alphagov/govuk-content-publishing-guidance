@@ -19,7 +19,6 @@ For example:
 ### This is a heading level 3 (H3)
 
 #### This is a heading level 4 (H4)
-
 ```
 Do not use bold text instead of hashtags. This is inaccessible because a screen reader will not recognise it as a header.
 

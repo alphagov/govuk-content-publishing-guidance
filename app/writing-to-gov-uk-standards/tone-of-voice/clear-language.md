@@ -44,7 +44,7 @@ Even when writing for a specialist audience, you still need to make sure everyon
 
 ## Know about words to avoid
 
-Take a look at the words to avoid entry in the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/). The list is not exhaustive. It's an indicator to show you the sort of language that confuses users.
+Take a look at the ['Words to avoid' entry in the A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#words-to-avoid). The list is not exhaustive. It's an indicator to show you the sort of language that confuses users.
 
 Do not use formal or long words when easy or short ones will do. Use 'buy' instead of 'purchase', 'help' instead of 'assist', and 'about' instead of 'approximately'.
 

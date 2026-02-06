@@ -47,7 +47,7 @@ Find out what the public calls your content by [looking at common search terms](
 
 Once you know the most common search terms, you can prioritise them in the title. This will also help make your content easier to find.
 
-You can use abbreviations without explaining them if they’re well known. See the [style guide entry on abbreviations](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#abbreviations-and-acronyms) for more information.
+You can use abbreviations without explaining them if they’re well known. See the [A to Z style guide entry on abbreviations](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#abbreviations-acronyms-and-initialisms) for more information.
 
 If the abbreviation is not well known, write it out in full if you use it in a title. For example, ‘Personal Independence Payment (PIP)’.
 

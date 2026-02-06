@@ -77,9 +77,11 @@ If you provide the raw data as a table or in an accessible file, consider if it 
 
 All charts should have two titles - a headline title and a statistical title. The headline title of the chart should summarise the main message of the chart. This should be followed by a statistical title that describes the data shown. 
 
-Example
+
 
 > [!NOTE]
+> Example
+>
 > Headline title: Oliver stays on top of baby names list
 > 
 > Statistical title: Figure 1: Number of baby boys given the top 10 most popular names, England, 2020
@@ -153,7 +155,7 @@ If possible choose images that are free to use. These will usually be either:
 
 If you want to change the image, such as by cropping it or changing the colours, check that the licence you're using allows for adaptations or derivatives. For example, some Creative Commons licences have a 'no derivatives' (ND) rule.
 
-Some government organisations have public photo libraries (such as the [the Govenrment Digital Service (GDS) Flickr account](https://www.flickr.com/photos/gdsteam/)). If you do not have access to a photo library, try using:
+Some government organisations have public photo libraries (such as the [the Government Digital Service (GDS) Flickr account](https://www.flickr.com/photos/gdsteam/)). If you do not have access to a photo library, try using:
 
 - [Flickr Creative Commons](https://www.flickr.com/creativecommons/) pages – go to the [advanced search section](https://www.flickr.com/search/advanced/), select the dropdown by ‘Any license’ and change it to ‘All creative commons’
 - [Google Images](https://images.google.co.uk/) - search for an image, and then select ‘Tools’ and change the ‘Usage Rights’ dropdown to ‘Creative Commons licences’

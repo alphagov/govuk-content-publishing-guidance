@@ -69,7 +69,7 @@ To get an email notification, users would need to be subscribed to updates from 
 
 They may also be subscribed to all government content published in a certain format, like 'Guidance and regulations'.
 
-If you're publishing a major update, they could also be subscribed to the content itself if it's a:
+They could also be subscribed to the content itself if it's a:
 
 - consultation
 - detailed guide

@@ -24,4 +24,4 @@ Leave a line below this:
 - or use a hyphen
 ```
 
-See the ‘Bullet points and steps’ section of the [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for more information on style and punctuation for bullet points.
+See the [‘Bullet points and steps’ section of the A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#bullet-points-and-steps) for more information on style and punctuation for bullet points.
