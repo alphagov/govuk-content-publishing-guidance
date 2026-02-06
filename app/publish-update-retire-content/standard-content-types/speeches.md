@@ -62,6 +62,7 @@ Before you start, decide whether the speech should be marked as:
 
 {% include 'reusable-content/style-formatting-extra.md' %}
 
+
 After saving the page, you can add images.
 
 ### If you're updating an existing speech

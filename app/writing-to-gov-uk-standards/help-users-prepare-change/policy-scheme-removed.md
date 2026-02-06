@@ -25,6 +25,7 @@ Replace existing guidance with temporary 'placeholder' content explaining that t
 
 Link to any related content that meets a similar user need, including external third-party websites if relevant. For example:
 
+>[!NOTE]
 >The government has stopped funding the Green Deal Finance Company, which was set up to lend money to Green Deal providers. Contact the [Energy Saving Advice Service (ESAS)](http://www.energysavingtrust.org.uk/about-us/contact-us) for other advice on improvements you can make to your home.
 
 #### Example
