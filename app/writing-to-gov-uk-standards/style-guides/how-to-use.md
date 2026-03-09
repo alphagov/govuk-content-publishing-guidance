@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 1
 eleventyNavigation:
   parent: Style guides
-  order: 1
 title: How to use the style guide
 description: Understand the purpose of the style guide, what to do if you cannot find something in it and how to ask for updates to it.
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 1
 eleventyNavigation:
   parent: Plan and manage content
-  order: 1
 title: Understand content design
 description: Learn the basics of designing content for GOV.UK.
 lastUpdated:

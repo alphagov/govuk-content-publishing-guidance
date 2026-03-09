@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 1
 eleventyNavigation:
   parent: Tone of voice
-  order: 1
 title: Write content to meet user needs
 description: Learn how to write GOV.UK content that helps users complete tasks.
 lastUpdated:

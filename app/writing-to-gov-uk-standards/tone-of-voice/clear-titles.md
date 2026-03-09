@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 6
 eleventyNavigation:
   parent: Tone of voice
-  order: 6
 title: Write clear titles
 description: Learn how to create a title for your GOV.UK content, including what language to use and the recommended length.
 lastUpdated:

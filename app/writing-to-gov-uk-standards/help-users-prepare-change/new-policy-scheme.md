@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 3
 eleventyNavigation:
   parent: Help users prepare for change
-  order: 3
 title: If it's a new policy or scheme
 description: Plan updates to GOV.UK guidance if a new policy or scheme is about to come into place.
 lastUpdated:

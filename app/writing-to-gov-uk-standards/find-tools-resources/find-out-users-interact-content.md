@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 4
 eleventyNavigation:
   parent: Find tools and resources for analysing content
-  order: 4
 title: Find out how users interact with your content
 description: Use Google Analytics tools to see page views, where users go after viewing your content and how many times links in your content are clicked.
 lastUpdated:

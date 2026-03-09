@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 1
 eleventyNavigation:
   parent: Help users prepare for change
-  order: 1
 title: If it's a change to an existing policy or scheme
 description: Plan updates to GOV.UK guidance if an existing policy or scheme is about to change.
 lastUpdated:

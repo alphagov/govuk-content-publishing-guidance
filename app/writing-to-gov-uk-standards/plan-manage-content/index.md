@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 1
 eleventyNavigation:
   parent: Writing to GOV.UK standards
-  order: 1
 title: Plan and manage content
 description: Understand how to design user-centred content for GOV.UK.
 lastUpdated:

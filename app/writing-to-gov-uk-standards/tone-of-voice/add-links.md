@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 5
 eleventyNavigation:
   parent: Tone of voice
-  order: 5
 title: Write effective links
 description: Learn how to use links in GOV.UK content, including writing clear link text and using anchor links.
 lastUpdated:

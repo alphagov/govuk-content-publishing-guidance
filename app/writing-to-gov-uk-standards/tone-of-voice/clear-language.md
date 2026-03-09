@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 3
 eleventyNavigation:
   parent: Tone of voice
-  order: 3
 title: Use clear language
 description: Learn about the importance of plain English on GOV.UK, what words to avoid using in content and recommended lengths for paragraphs and sentences.
 lastUpdated:
