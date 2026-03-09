@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 1
 eleventyNavigation:
   parent: Find tools and resources for analysing content
-  order: 1
 title: Get help with content design
 description: Find resources for writing content, searching through GOV.UK content and understanding content design approaches.
 lastUpdated:

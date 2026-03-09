@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Publishing during national events
+order: 1
 eleventyNavigation:
   parent: Publishing during national events
-  order: 1
 title: General elections
 description: Understand the process for publishing on GOV.UK in the build up to a general election.
 lastUpdated:

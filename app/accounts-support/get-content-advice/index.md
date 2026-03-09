@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 3
 eleventyNavigation:
   parent: Accounts and support
-  order: 3
 title: Get content advice
 description: Find out how you can get conent advice not covered in the guidance.
 lastUpdated:

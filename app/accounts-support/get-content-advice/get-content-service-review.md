@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 2
 eleventyNavigation:
   parent: Get content advice
-  order: 2
 title: Get a content service review
 description: Learn how to get a content review for a service
 lastUpdated:

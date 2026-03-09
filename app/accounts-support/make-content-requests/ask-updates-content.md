@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 1
 eleventyNavigation:
   parent: Make content requests
-  order: 1
 title: Ask for updates to GOV.UK content
 description: Find out how to request new or updated mainstream content on GOV.UK.
 lastUpdated:

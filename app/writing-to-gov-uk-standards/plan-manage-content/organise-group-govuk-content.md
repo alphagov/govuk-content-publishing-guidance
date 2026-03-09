@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 7
 eleventyNavigation:
   parent: Plan and manage content
-  order: 7
 title: Organise and group GOV.UK content
 description: Put content together based on related topics or tasks.
 lastUpdated:

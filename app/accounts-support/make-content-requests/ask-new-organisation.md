@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 8
 eleventyNavigation:
   parent: Make content requests
-  order: 8
 title: Ask for a new organisation page
 description: Ask for a new organisation or sub-organisation page for a new organisation, organisation changing name or organisation becoming part of government.
 lastUpdated:

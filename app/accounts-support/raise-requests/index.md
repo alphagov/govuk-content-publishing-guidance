@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 6
 eleventyNavigation:
   parent: Accounts and support
-  order: 6
 title: How to raise requests with GDS
 description: How GDS support for GOV.UK works, how to write support requests and what to do if you're unhappy with a decision.
 lastUpdated:

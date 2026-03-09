@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 5
 eleventyNavigation:
   parent: Make content requests
-  order: 5
 title: Ask for a featured slot on the homepage
 description: How to get your content featured on the GOV.UK homepage.
 lastUpdated:

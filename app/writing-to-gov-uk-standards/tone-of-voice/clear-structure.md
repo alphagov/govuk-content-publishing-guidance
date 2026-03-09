@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 2
 eleventyNavigation:
   parent: Tone of voice
-  order: 2
 title: Create a clear structure for your content
 description: Learn how to structure GOV.UK content clearly, including frontloading and using headings, bullet points and lists.
 lastUpdated:

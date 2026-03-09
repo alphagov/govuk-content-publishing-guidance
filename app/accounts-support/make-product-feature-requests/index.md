@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 5
 eleventyNavigation:
   parent: Accounts and support
-  order: 5
 title: Make product feature requests
 description: Learn how to ask GDS for new features on apps like Whitehall Publisher or on the GOV.UK website.
 lastUpdated:

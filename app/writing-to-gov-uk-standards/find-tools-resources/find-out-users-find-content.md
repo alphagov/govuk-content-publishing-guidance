@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 3
 eleventyNavigation:
   parent: Find tools and resources for analysing content
-  order: 3
 title: Find out how users find your content
 description: Use Google Analytics tools that show you how many users come to your content from search engines, other GOV.UK pages and social media.
 lastUpdated:

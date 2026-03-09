@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 2
 eleventyNavigation:
   parent: Create accessible content
-  order: 2
 title: Make your content accessible
 description: Find out how to create GOV.UK content that follows the accessibility regulations.
 lastUpdated:

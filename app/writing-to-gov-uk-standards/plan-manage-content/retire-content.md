@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 8
 eleventyNavigation:
   parent: Plan and manage content
-  order: 8
 title: Retire outdated content
 description: Learn when to withdraw or unpublish content on GOV.UK, and when content goes into history mode.
 lastUpdated:

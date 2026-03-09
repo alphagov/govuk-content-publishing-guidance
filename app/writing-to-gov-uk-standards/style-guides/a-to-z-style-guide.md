@@ -1,9 +1,9 @@
 ---
 layout: style-guide
 sectionKey: Writing to GOV.UK standards
+order: 3
 eleventyNavigation:
   parent: Style guides
-  order: 3
 title: A to Z style guide
 description: See a list of the style points for all GOV.UK content, including how to spell and format words and phrases.
 lastUpdated:

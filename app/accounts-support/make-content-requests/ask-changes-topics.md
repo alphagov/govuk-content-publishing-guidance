@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 2
 eleventyNavigation:
   parent: Make content requests
-  order: 2
 title: Ask for changes to topics
 description: Suggest changes to GOV.UK topics or request new ones.
 lastUpdated:

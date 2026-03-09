@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 2
 eleventyNavigation: 
   parent: Manage accounts and training
-  order: 2
 title: Production and Integration
 description: The Production publishing environment is for publishing live content to GOV.UK, while Integration is not live, so you can use it for practising or testing content.
 lastUpdated:
