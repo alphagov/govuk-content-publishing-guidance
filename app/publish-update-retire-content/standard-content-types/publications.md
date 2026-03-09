@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 8
+order: 8
 title: Publications
 description: Learn when to use the publications content type.
 lastUpdated:

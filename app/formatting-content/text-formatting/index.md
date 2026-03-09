@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 1
 eleventyNavigation:
   parent: Formatting content
-  order: 1
 title: Text formatting
 description: Learn how to format text in GOV.UK content.
 lastUpdated:

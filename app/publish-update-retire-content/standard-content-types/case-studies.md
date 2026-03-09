@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 2
+order: 2
 title: Case studies
 description: Learn when to use the case studies content type.
 lastUpdated:

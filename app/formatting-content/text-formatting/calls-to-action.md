@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 5
 title: Calls to action
 description: Add calls to action to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

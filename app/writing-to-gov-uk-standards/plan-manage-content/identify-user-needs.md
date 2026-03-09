@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 2
 eleventyNavigation:
   parent: Plan and manage content
-  order: 2
 title: Identify user needs
 description: Figure out what your users need from your content.
 lastUpdated:

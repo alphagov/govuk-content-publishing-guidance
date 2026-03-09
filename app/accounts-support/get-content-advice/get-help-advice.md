@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 1
 eleventyNavigation:
   parent: Get content advice
-  order: 1
 title: Get help and advice
 description: Learn how to get content advice from the Government Digital Service (GDS) content team.
 lastUpdated:

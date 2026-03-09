@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 4
 eleventyNavigation:
   parent: Make content requests
-  order: 4
 title: Ask for a short URL
 description: How to request a short URL when creating guidance or running a campaign.
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 7
 eleventyNavigation:
   parent: Make content requests
-  order: 7
 title: Ask for related links to be updated or removed
 description: Learn how to request for related links to be updated or removed. 
 lastUpdated:

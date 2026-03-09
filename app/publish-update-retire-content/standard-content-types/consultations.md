@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 3
+order: 3
 title: Consultations
 description: Learn when to use the consultations content type.
 lastUpdated:

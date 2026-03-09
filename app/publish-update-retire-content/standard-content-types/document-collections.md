@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 5
+order: 5
 title: Document collections
 description: Learn when to use the document collections content type.
 lastUpdated:

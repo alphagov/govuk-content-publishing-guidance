@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Promotional or social content types
-  order: 1
 title: Blogs
 description: Learn when and how to publish blogs. 
 lastUpdated:

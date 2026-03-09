@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 2
 eleventyNavigation:
   parent: Help users prepare for change
-  order: 2
 title: If a new set of users must do an existing thing for the first time
 description: Plan updates to GOV.UK guidance if an existing policy or scheme is about to apply to new users.
 lastUpdated:

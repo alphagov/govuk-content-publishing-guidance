@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 1
 eleventyNavigation:
   parent: Manage accounts and training
-  order: 1
 title: Publishing accounts and permissions
 description: Learn what a Signon account is and about different permissions in Whitehall Publisher.
 lastUpdated:

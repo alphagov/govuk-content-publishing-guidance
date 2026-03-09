@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 3
 eleventyNavigation:
   parent: Writing to GOV.UK standards
-  order: 3
 title: Create accessible content
 description: Understand the importance of accessibility to GOV.UK content.
 lastUpdated:

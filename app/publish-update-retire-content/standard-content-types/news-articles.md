@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 7
+order: 7
 title: News articles
 description: Learn when to use the news articles content type.
 lastUpdated:

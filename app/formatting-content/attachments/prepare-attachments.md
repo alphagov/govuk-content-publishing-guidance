@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 2
 eleventyNavigation:
   parent: Attachments
-  order: 2
 title: Prepare attachments
 description: Prepare your attachment and make it accessible before adding it to GOV.UK.
 lastUpdated:

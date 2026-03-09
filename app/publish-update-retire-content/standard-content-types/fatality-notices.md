@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 6
+order: 6
 title: Fatality notices
 description: Learn when to use the fatality notices content type.
 lastUpdated:

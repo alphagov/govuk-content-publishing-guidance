@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 2
 eleventyNavigation:
   parent: Find tools and resources for analysing content
-  order: 2
 title: Find out what terms users are searching for
 description: Use tools to see what search terms are being used on search engines like Google and the internal GOV.UK search.
 lastUpdated:

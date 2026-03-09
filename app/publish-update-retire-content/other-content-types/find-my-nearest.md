@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
-  order: 1
 title: Find my nearest pages
 description: Learn when and how to use 'Find my nearest' pages.
 lastUpdated:

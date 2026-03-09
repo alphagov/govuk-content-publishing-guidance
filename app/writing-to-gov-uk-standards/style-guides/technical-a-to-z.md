@@ -1,9 +1,9 @@
 ---
 layout: style-guide
 sectionKey: Writing to GOV.UK standards
+order: 4
 eleventyNavigation:
   parent: Style guides
-  order: 4
 title: Technical A to Z style guide
 description: See a list of the style points for technical content on GOV.UK, including how to spell and format words and phrases.
 lastUpdated: 

@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 15
 title: Working for [organisation name]
 description: Learn when and how to publish a working for page. 
 lastUpdated:

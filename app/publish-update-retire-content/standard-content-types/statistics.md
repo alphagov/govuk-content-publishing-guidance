@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 11
+order: 11
 title: Statistics
 description: Learn when to use the statistics content type.
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 3
 eleventyNavigation:
   parent: Formatting content
-  order: 3
 title: Attachments
 description: Learn how to add HTML attachments and file downloads to content on GOV.UK.
 lastUpdated:

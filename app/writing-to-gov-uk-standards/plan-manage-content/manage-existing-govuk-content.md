@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 4
 eleventyNavigation:
   parent: Plan and manage content
-  order: 4
 title: Manage existing GOV.UK content
 description: Know what to do when updating outdated or inaccurate information or guidance on GOV.UK.
 lastUpdated:

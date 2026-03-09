@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Publish update or retire content
-  order: 6
+order: 6
 title: Promotional or social content types
 description: Learn how to publish, update or retire blogs, campaigns or topical events. 
 lastUpdated:

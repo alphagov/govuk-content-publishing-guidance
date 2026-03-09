@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 2
 title: Addresses
 description: Add addresses to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

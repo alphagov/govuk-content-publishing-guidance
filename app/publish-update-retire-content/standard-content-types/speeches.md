@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 9
+order: 9
 title: Speeches
 description: Learn when to use the speeches content type.
 lastUpdated:

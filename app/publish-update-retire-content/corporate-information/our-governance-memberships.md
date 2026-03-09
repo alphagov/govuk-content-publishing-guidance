@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 7
 title: Our governance and memberships
 description: Learn when and how to publish a governance or membership page. 
 lastUpdated:

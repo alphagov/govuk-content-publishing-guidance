@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 3
 title: Complaints procedure
 description: Learn when and how to publish a complaints procedure page. 
 lastUpdated:

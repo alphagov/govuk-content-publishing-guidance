@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 4
 eleventyNavigation:
   parent: Formatting content
-  order: 4
 title: Content blocks
 description: Create and update content blocks and use them in GOV.UK content.
 lastUpdated:

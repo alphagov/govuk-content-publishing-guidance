@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 5
 eleventyNavigation:
   parent: Writing to GOV.UK standards
-  order: 5
 title: Style guides
 description: Learn about the GOV.UK style guides.
 lastUpdated:

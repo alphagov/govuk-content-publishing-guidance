@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 8
 title: Headings
 description: Add headings to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

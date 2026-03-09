@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 13
 title: Tables
 description: Add tables to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

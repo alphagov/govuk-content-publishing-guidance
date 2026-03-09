@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 6
 title: Our energy use
 description: Learn when and how to publish an 'our energy use' page. 
 lastUpdated:

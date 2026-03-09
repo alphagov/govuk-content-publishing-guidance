@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
-  order: 2
 title: Licence pages
 description: Learn when and how to use licence pages.
 lastUpdated:

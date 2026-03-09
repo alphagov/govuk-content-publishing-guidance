@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 15
+order: 15
 title: Withdraw or unpublish standard content types
 description: Learn how to withdraw or unpublish standard content types.
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
+order: 6
 eleventyNavigation:
   parent: Plan and manage content
-  order: 6
 title: Consider translations
 description: Decide whether you need to add a translation of your content and see which languages are available on GOV.UK.
 lastUpdated:

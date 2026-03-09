@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 6
 eleventyNavigation:
   parent: Make content requests
-  order: 3
 title: Ask for downtime messages
 description: Learn how to request downtime messages on mainstream content directing users to your service.
 lastUpdated:

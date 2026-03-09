@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 13
 title: Terms of reference
 description: Learn when and how to publish a terms of reference page. 
 lastUpdated:
