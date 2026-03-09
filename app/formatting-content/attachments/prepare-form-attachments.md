@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 3
 eleventyNavigation:
   parent: Attachments
-  order: 3
 title: Prepare form attachments
 description: Create form attachments for GOV.UK that are accessible and work on different devices.
 lastUpdated:

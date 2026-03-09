@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 6
 title: Charts
 description: Add bar charts to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

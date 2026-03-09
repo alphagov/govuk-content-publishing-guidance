@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 10
 title: Links
 description: Add links to GOV.UK content with Govspeak Markdown code, including email links and anchor links.
 lastUpdated:

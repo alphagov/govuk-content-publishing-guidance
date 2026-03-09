@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 7
 title: Footnotes
 description: Add footnotes to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

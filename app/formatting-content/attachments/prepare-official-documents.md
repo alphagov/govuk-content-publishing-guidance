@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 4
 eleventyNavigation:
   parent: Attachments
-  order: 4
 title: Prepare official documents 
 description: Add the required details for command papers, House of Commons papers and unnumbered act papers.
 lastUpdated:

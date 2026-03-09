@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 1
 eleventyNavigation:
   parent: Attachments
-  order: 1
 title: Choose an attachment file type and file name
 description: Get help deciding which file type and file name to use for attachments on GOV.UK.
 lastUpdated:

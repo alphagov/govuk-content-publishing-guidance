@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 4
 title: Bullet points
 description: Add bullet points to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

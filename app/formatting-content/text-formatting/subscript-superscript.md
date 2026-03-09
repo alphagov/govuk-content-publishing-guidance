@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 12
 title: Subscript and superscript
 description: If you're writing out chemical names or measurements in GOV.UK content, add subscript and superscript with Govspeak Markdown code.
 lastUpdated:

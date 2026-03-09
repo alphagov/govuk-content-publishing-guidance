@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 1
 title: Acronyms
 description: Add abbreviations and initialisms to your GOV.UK content so they include accessible alt text.
 lastUpdated:

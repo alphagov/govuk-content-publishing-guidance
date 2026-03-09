@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 2
 eleventyNavigation:
   parent: Images and videos
-  order: 2
 title: Formatting videos
 description: Add videos to GOV.UK content with Govspeak Markdown code and make sure they're accessible.
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Formatting content
+order: 2
 eleventyNavigation:
   parent: Formatting content
-  order: 2
 title: Images and videos
 description: Learn how to format images and videos in GOV.UK content.
 lastUpdated:

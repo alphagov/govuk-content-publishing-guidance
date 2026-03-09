@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 11
 title: Numbered lists
 description: Add numbered lists to GOV.UK content with Govspeak Markdown code.
 lastUpdated:

@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
-  order: 3
 title: Blockquotes
 description: Add blockquotes to GOV.UK content with Govspeak Markdown code.
 lastUpdated:
