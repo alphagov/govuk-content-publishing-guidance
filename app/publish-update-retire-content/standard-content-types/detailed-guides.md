@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 4
+order: 4
 title: Detailed guides
 description: Learn when to use the detailed guides content type.
 lastUpdated:

@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
-  order: 4
 title: Manuals
 description: Learn when and how to use manuals.
 lastUpdated:

@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 1
 title: About our services
 description: Learn when and how to publish 'about our services' pages. 
 lastUpdated:

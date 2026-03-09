@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 5
 title: Media enquiries
 description: Learn when and how to publish a media enquiries page. 
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Publish update or retire content
+order: 1
 eleventyNavigation:
   parent: Publish update or retire content
-  order: 1
 title: Choose a content type
 description: Learn which content types to use for what you're publishing.
 lastUpdated:

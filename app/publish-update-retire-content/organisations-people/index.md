@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Publish update or retire content
-  order: 4
+order: 4
 title: Organisations and people
 description: Learn how to publish, update or retire content types about government organisations or people. 
 lastUpdated:

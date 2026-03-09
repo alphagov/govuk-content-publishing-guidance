@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
-  order: 5
 title: Specialist finders
 description: Learn when and how to use specialist finders.
 lastUpdated:

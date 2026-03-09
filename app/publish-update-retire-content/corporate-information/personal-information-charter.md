@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 8
 title: Personal information charter
 description: Learn when and how to publish a personal information charter. 
 lastUpdated:

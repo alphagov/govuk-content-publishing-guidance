@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 1
+order: 1
 title: Calls for evidence
 description: Learn when to use the calls for evidence content type.
 lastUpdated:

@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Standard content types
-  order: 10
+order: 10
 title: Statistical data sets
 description: Learn when to use the statistical data sets content type.
 lastUpdated:

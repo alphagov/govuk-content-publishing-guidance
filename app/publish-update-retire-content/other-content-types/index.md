@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Publish update or retire content
-  order: 3
+order: 3
 title: Other guidance content types
 description: Learn how to publish, update or retire content types that do not follow the same processes as 'standard' content types.
 lastUpdated:

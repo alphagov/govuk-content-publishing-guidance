@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Organisations and people
-  order: 2
 title: Organisation pages
 description: Learn when and how to use organisation pages. 
 lastUpdated:

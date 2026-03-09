@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Promotional or social content types
-  order: 3
 title: Topical event pages
 description: Learn when and how to publish topical event pages. 
 lastUpdated:

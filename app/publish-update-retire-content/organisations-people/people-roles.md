@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Organisations and people
-  order: 3
 title: People and role pages
 description: Learn when and how to use people and role pages. 
 lastUpdated:

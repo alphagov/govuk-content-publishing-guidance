@@ -3,7 +3,6 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Corporate information pages
-  order: 14
 title: Welsh language scheme
 description: Learn when and how to publish a Welsh language scheme page. 
 lastUpdated:
