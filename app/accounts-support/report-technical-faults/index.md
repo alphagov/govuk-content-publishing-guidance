@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 4
 eleventyNavigation:
   parent: Accounts and support
-  order: 4
 title: Report technical faults
 description: Learn how to tell GDS about a technical issue with apps like Whitehall Publisher.
 lastUpdated:

@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 5
 eleventyNavigation:
   parent: Manage accounts and training
-  order: 5
 title: Request training and accounts for your organisation
 description: Request and manage Signon accounts and training for people in your organisation.
 lastUpdated:

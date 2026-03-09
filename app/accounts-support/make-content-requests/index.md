@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 2
 eleventyNavigation:
   parent: Accounts and support
-  order: 2
 title: Make content requests
 description: Find out how to ask GDS to add or update content on GOV.UK.
 lastUpdated:

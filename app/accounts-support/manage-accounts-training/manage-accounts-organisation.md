@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Accounts and support
+order: 4
 eleventyNavigation:
   parent: Manage accounts and training
-  order: 4
 title: Manage accounts for your organisation
 description: Learn how to manage various aspects of accounts in your organisation as an organisation admin. 
 lastUpdated:
