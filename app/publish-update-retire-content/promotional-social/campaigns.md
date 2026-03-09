@@ -12,10 +12,7 @@ lastUpdated:
 
 Campaigns are not published on GOV.UK but on separate 'campaign.gov.uk' campaign sites.
 
-These campaign sites can be:
-
-- single-page sites, like the [Best Start in Life campaign](https://beststartinlife.campaign.gov.uk/)
-- multi-page sites, like the [Ready to Pass? campaign](https://readytopass.campaign.gov.uk/)
+See an example of a campaign site for the [Ready to Pass? campaign](https://readytopass.campaign.gov.uk/).
 
 Read about the requirements for campaign sites on the [Government Communication Service (GCS) website](https://gcs.civilservice.gov.uk/guidance/marketing/how-to-set-up-a-new-government-campaign-online/).
 
@@ -72,11 +69,11 @@ If not suitable for a GOV.UK campaign platform site, could the aim be achieved u
 
 Can campaign goals be achieved by using existing social media tools and communities, rather than creating a new destination?
 
-Learn more about how to use these channels by speaking to your comms team, or read the [Social Media Playbook](https://www.gov.uk/guidance/social-media-playbook).
+Learn more about how to use these channels by speaking to your comms team.
 
 ### 5. Exemptions
 
-If your proposed site does not meet the requirements for campaign sites or a campaign site would not meet your requirements, you will need to get approval from the Government Digital Service (GDS) before you create any new government website or public-facing domain.
+Your proposed site needs to meet the requirements for campaign sites set out on the [GCS website](https://gcs.civilservice.gov.uk/guidance/marketing/how-to-set-up-a-new-government-campaign-online/). If it does not, you’ll need approval from the Government Digital Service (GDS) before you create any new government website or public-facing domain.
 
 Find out how to [ask GDS for a GOV.UK exemption](/accounts-support/make-content-requests/ask-exemption/).
 

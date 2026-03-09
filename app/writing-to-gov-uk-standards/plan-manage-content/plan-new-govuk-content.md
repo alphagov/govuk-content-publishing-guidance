@@ -13,42 +13,7 @@ lastUpdated:
 
 ## Decide whether to publish on GOV.UK
 
-GOV.UK content should serve one of these user groups:
-
-+ UK citizens and residents who need information or a service to complete a task
-+ UK businesses that need to comply with their responsibilities
-+ anyone who wants to visit, live in, or do business with, the UK
-
-It must have a [user need](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) backed up with evidence, and help users do one of the following:
-
-+ use a government service
-+ understand policy for a specific sector
-+ find out about a government policy
-+ understand the government's response to a major event
-+ follow the law
-+ apply for a government support scheme
-+ find out what business opportunities are available
-+ understand the government's priorities through a campaign
-
-However, content cannot go on GOV.UK if it:
-
-+ is from an organisation that is not part of central government
-+ advertises or gives commercial advantage to an organisation
-+ gives advice that a non-governmental organisation is better placed to do
-+ is party political content
-+ is for internal work management or better placed on departmental intranets
-+ is only relevant to devolved governments – these are the Scottish Government, the Welsh Government and the Northern Ireland Executive, who have their own websites
-+ duplicates other content or services on GOV.UK (you can [review existing content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/) if you're not sure)
-
-There's more details about these rules in the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition).
-
-### If you cannot publish content on GOV.UK
-
-You may want to publish the content on a different government website or public-facing domain.
-
-If your organisation does not already have an appropriate non-GOV.UK website, you may want to create one.
-
-[Ask for approval from the Government Digital Service (GDS)](/accounts-support/make-content-requests/ask-exemption/) before you do that. You need approval even if you want to use a non-government domain (like .org.uk, .co.uk or .com).
+Read the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition) to find out whether your content should go on GOV.UK.
 
 ## Decide where to publish content on GOV.UK
 
@@ -68,7 +33,7 @@ Decide whether your users are:
 
 If it's for mainstream users, this should be published as mainstream guidance.
 
-This guidance is written and maintained by the content team at GDS. You'll need to raise a ticket with them to add your content to GOV.UK.
+This guidance is written and maintained by the content team at the Government Digital Service (GDS). You'll need to raise a ticket with them to add your content to GOV.UK.
 
 [Find out how to raise a ticket with the content team at GDS](/accounts-support/make-content-requests/ask-updates-content/).
 

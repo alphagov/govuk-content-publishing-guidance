@@ -18,7 +18,12 @@ Official documents are types of papers that are laid before (presented to) Parli
 > [!NOTE]
 > Find out more about these different document types in [guidance on official documents from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/types-parliamentary-paper/). They call them 'parliamentary papers' rather than official documents, but they're the same thing.
 
-You should create and attach HTML and 'web' and 'print' PDF/A versions of these documents. For help with that, read the [guidance on planning 'web-optimised' and 'print-ready' papers from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/parliamentary-papers-planning-checklist/).
+You should create and attach different accessible versions of the document. That includes:
+
+- HTML versions
+- 'web' and 'print' PDF/A versions
+
+For help with that, read the [guidance on creating accessible documents](https://www.gov.uk/guidance/publishing-accessible-documents) and the [guidance on planning 'web-optimised' and 'print-ready' papers from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/parliamentary-papers-planning-checklist/).
 
 ## Create a new official document
 
@@ -48,7 +53,7 @@ House of Commons papers must also have:
 - the date is was ordered to be printed, such as: 'Ordered by the House of Commons to be printed on 12 October 2018'
 - the House of Commons number (HC XXXX)
 
-[See an example of a House of Commons paper](https://www.gov.uk/government/publications/rural-payments-agency-annual-report-and-accounts-2023-to-2024).
+[See an example of a House of Commons paper](https://www.gov.uk/government/publications/gangmasters-and-labour-abuse-authority-annual-report-and-accounts-2024-to-2025).
 
 ### Unnumbered act papers
 
@@ -62,6 +67,8 @@ If you need to update the document after it’s been published, add a ‘correct
 
 - before the contents page, in PDF versions
 - at the top of the document, in HTML versions
+
+Do not update the original text. It needs to be kept as it was when originally published.
 
 Read the [guidance on correction slips from the National Archives](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/correct-paper/) for templates and further instructions.
 
