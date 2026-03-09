@@ -1,0 +1,18 @@
+[{% for item in collections.sitemap %}
+{% if item.data.layout == "style-guide" %}
+  {
+    "title": {{ item.data.title | default("") | dump | safe }},
+    {% if item.data.description %}"description": {{ item.data.description | dump | safe }},{% endif %}
+    {% if item.data.eleventyNavigation.parent and item.data.eleventyNavigation.parent != item.data.options.homeKey %}"section": {{ item.data.eleventyNavigation.parent | dump | safe }},{% endif %}
+    "tokens": {{ item.templateContent | tokenize | default([]) | dump | safe }},
+    "url": {{ item.url | canonicalUrl | pretty | default("") | dump | safe }}
+  }{% if not loop.last %},{% endif %}
+{% else %}
+  {
+    "title": {{ item.data.title | default("") | dump | safe }},
+    {% if item.data.description %}"description": {{ item.data.description | dump | safe }},{% endif %}
+    {% if item.data.eleventyNavigation.parent and item.data.eleventyNavigation.parent != item.data.options.homeKey %}"section": {{ item.data.eleventyNavigation.parent | dump | safe }},{% endif %}
+    "url": {{ item.url | canonicalUrl | pretty | default("") | dump | safe }}
+  }{% if not loop.last %},{% endif %}
+{% endif %}
+{% endfor %}]

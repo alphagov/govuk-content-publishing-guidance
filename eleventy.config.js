@@ -55,7 +55,7 @@ export default function(eleventyConfig) {
     header: {
       productName: 'Content and publishing guidance',
       search: {
-        indexPath: '/search-index.json',
+        indexPath: '/search.json',
         sitemapPath: '/sitemap',
         label: "Search guidance"
       }
@@ -114,7 +114,7 @@ export default function(eleventyConfig) {
       }
     },
     templates: {
-      searchIndex: true,
+      searchIndex: false,
     }
   });
   eleventyConfig.addPreprocessor("macro-inject", ".njk,.md", (data, content) => {
