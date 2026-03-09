@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Publishing during national events
+order: 2
 eleventyNavigation:
   parent: Publishing during national events
-  order: 2
 title: Royal deaths ('bridges')
 description: Understand the process for publishing on GOV.UK when a member of the royal family has died.
 lastUpdated:

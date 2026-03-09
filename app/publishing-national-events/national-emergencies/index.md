@@ -1,9 +1,9 @@
 ---
 layout: landing-page
 sectionKey: Publishing during national events
+order: 3
 eleventyNavigation:
   parent: Publishing during national events
-  order: 3
 title: National emergencies
 description: Understand the process for publishing on GOV.UK during a national emergency.
 lastUpdated:
