@@ -1,7 +1,7 @@
 {% extends "layouts/main.njk" %}
 
 {# Create breadcrumbs manually as sitemap should be excluded from collections #}
-{% block beforeContent %}
+{% block containerStart %}
   {{ govukBreadcrumbs({
     classes: "govuk-!-display-none-print",
     items: [{
