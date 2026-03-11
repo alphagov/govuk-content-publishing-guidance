@@ -78,7 +78,7 @@ Do not repeat the title or summary.
 
 ### Logo
 
-Add a logo if you have one. You do not need to provide alt text.
+Add a logo if you have one. You do not need to provide alt text. If you add a logo it will show at the top of the page, next to the title and summary text. 
 
 ### Duration
 
@@ -141,17 +141,17 @@ You can feature up to 6 pieces of content. Any items you feature must include an
 
 If the content is published through Whitehall Publisher:
 
-1. Select the 'Features' tab.
-2. Select the 'Documents' tab.
-3. Search for the document you want to feature using the filters on the left hand side. 
+1. Select the 'Featured' tab.
+2. Select the 'GOV.UK content' tab.
+3. Search for the document you want to feature using the filters on the left hand side. Only content tagged to the topical event will show in the list.
 4. Select the 'Feature' link next to the document you would like to feature.
 5. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text.
 
 If the content is not published through Whitehall Publisher:
 
-1. Select the 'Features' tab.
-2. Select the 'Non-GOV.UK government links' tab.
-3. Select 'Create new link'.
+1. Select the 'Featured' tab.
+2. Select the 'External websites' tab.
+3. Select 'Add an external link'.
 4. Complete the title, summary, type and URL fields and select 'Save'.
 5. Select the 'Feature' link next to the external page you would like to feature.
 6. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text.
@@ -160,13 +160,13 @@ If the content is not published through Whitehall Publisher:
 
 You can change the order of featured content.
 
-1. Select the 'Features' tab.
-2. Select 'Reorder documents' and then drag items up or down in the list.
+1. Select the 'Featured' tab.
+2. Select 'Reorder pages' and then drag items up or down in the list.
 3. When you're done setting the order, select 'Update order'.
 
 ### Unfeature content
 
-1. Select the 'Features' tab.
+1. Select the 'Featured' tab.
 2. Select 'Unfeature' to remove featured content from your topical events page.
 
 *[GDS]: Government Digital Service
