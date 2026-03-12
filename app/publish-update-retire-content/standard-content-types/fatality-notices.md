@@ -21,6 +21,9 @@ Do not publish a news story which duplicates the fatality notice.
 
 If there were multiple deaths in one incident, create a fatality notice for the whole incident rather than for each individual death.
 
+> [!NOTE]
+> See a [good example of a fatality notice](https://www.gov.uk/government/fatalities/sergeant-duane-baz-barwood-raf-killed-in-iraq).
+
 ## Create a draft
 
 {% include 'reusable-content/signon-account-whitehall.md' %}

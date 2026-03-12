@@ -49,12 +49,14 @@ Set up 2SV for both your Production and Integration accounts. For each account, 
 
 ## Issues with 2-step verification
 
-If you’ve changed your phone or desktop or your 2SV has stopped working, try these common fixes:
+If you’ve changed your phone or desktop, ask your GOV.UK lead or one of your organisation admins to reset your 2SV so you can add it to a new authenticator app.
 
-+ ask your GOV.UK lead or one of your organisation admins to reset your 2SV for you
-+ check that you are inputting the right code from the authenticator app - if you have both an Integration and a Production account, make sure you are inputting the code for the right environment and ensure that the 6 digit code is entered without a space
+If your 2SV has stopped working, try these common fixes:
+
++ ask your GOV.UK lead or one of your organisation admins to reset your 2SV for you, and remove existing Production and Integration entries from your authenticator app so you can re-add them after the reset
++ check that you are inputting the right code from the authenticator app - if you have both a Production and an Integration account, make sure you are inputting the code for the right environment and ensure that the 6 digit code is entered without a space
 + if your authenticator app is not working, try switching to another app - for example, from Google Authenticator to Authy
-+ check that the clock on your device is set to the correct timezone - an incorrect clock can cause codes to be out of sync
++ check that the clock on your device is set to the correct timezone and that the time has been set automatically rather than manually – an incorrect clock can cause codes to be out of sync
 + check that the time on the authenticator app itself is synced correctly - this can generally be fixed by going to the setting of the app and syncing the time correction for the codes
 
 If none of these solutions work, ask your GOV.UK lead or one of your organisation admins to send a support ticket to GDS.

@@ -107,6 +107,8 @@ Make sure you've correctly [formatted the attachments](/formatting-content/attac
 
 Select the 'Attachments' tab. You can upload a new file attachment and edit or delete any existing ones.
 
+You can upload up to 500MB of files at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+
 You cannot add HTML attachments to this content type.
 
 When you add an attachment, do not tick 'Attachment is accessible'. This is so users can see information about requesting the attachment in an accessible format like audio or Braille
