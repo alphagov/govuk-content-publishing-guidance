@@ -112,6 +112,8 @@ When the attachment is ready:
 5. Select 'Save attachment'.
 6. Under the 'Attachments' heading, you should see the attachment's title and a code after 'Attachment:'. Copy and paste the code into the relevant part of the body.
 
+You can upload a file up to 500MB large. If you want to upload a larger file, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+
 ## Images
 
 You cannot add images to this content type.

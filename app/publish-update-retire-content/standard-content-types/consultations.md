@@ -69,6 +69,8 @@ Once that's done, you can add the consultation documents as attachments.
 
 Go to the 'Attachments' tab. Your attachments can either be file attachments or HTML attachments.
 
+You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+
 If you're uploading a file attachment:
 
 - make sure you've correctly [formatted the attachment](/formatting-content/attachments/) before you upload it
