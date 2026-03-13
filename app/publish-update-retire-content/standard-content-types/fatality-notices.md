@@ -61,6 +61,10 @@ You can now edit the images.
 
 {% include 'reusable-content/add-images-without-html-attachments.md' %}
 
+When you upload images, include copyright information under ‘Caption and credit’. If the image is not by the MOD, add ‘All rights reserved’. If the image is by the MOD, add ‘MOD Crown Copyright’.
+
+For example, ‘Lance Corporal James ‘Jay’ Bateman (All rights reserved)’.
+
 There's a default image that appears on every fatality notice before the body content. You cannot change or remove this image.
 
 ## Attachments

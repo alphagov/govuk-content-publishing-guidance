@@ -219,7 +219,7 @@ If they're added correctly, they will show up on the [official documents search 
 
 The National Archives explains the [different types of official documents](https://www.nationalarchives.gov.uk/information-management/producing-official-publications/parliamentary-papers-guidance/types-parliamentary-paper/), which they call 'parliamentary papers'.
 
-For any official document uploaded as a PDF, add '(print-ready PDF)' at the end of the title.
+For any PDF versions designed to be printed, add '(print-ready PDF)' at the end of the title.
 
 If it's a command paper, fill in these fields:
 
@@ -239,6 +239,8 @@ If it's an unnumbered act paper, fill in these fields:
 - 'ISBN'
 - 'Unique reference' – the departmental unique reference number (URN), if the document has been given one
 - 'House of Commons paper number' – leave the field blank and tick the box labelled 'Unnumbered act paper'
+
+Order the attachments so that any PDF versions designed for web and HTML versions come first.
 
 ## Add or remove images
 

@@ -55,8 +55,6 @@ You must also make sure your website meets:
 
 If you’re creating a website with a gov.uk domain, read the guidance on applying for a [gov.uk domain](https://www.gov.uk/apply-for-and-manage-a-gov-uk-domain-name).
 
-GDS will carry out a full review of your website 6 months after you get your exemption to make sure it still meets the conditions agreed. If you do not meet the conditions, GDS has the right to close the website.
-
 ## If you do not get an exemption  
 
 You cannot create your website if you do not get an exemption. 
@@ -71,8 +69,8 @@ If your request for an exemption is refused or your exemption is revoked, you’
 
 The steps to closing your website are:
 
-1. Do a proposition audit – work with the GOV.UK Policy and Strategy team to identify whether any of the content from your website should be on GOV.UK.   
-2. Do a content audit – work with the GOV.UK content design team at GDS to understand where content should go on GOV.UK, and whether it duplicates existing content on the website.   
+1. Do a proposition audit – work with the GDS content design team to identify whether any of the content from your website should be on GOV.UK.
+2. Do a content audit – work with the GDS content design team to understand where content should go on GOV.UK, and whether it duplicates existing content on the website.   
 3. Agree a date for website closure with GDS, based on the outputs from the 2 audits.   
 4. Migrate content to GOV.UK – work with the GDS content design team to migrate relevant content to GOV.UK, and ensure that website redirects to GOV.UK are set up for the day of website closure.
 
