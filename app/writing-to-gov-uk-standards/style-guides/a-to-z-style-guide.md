@@ -289,7 +289,7 @@ Only use bold to indicate interface elements in text that are explicitly telling
 1. Select **Start**.
 2. Enter your information then select **Done**.
 
-Use inverted commas when referring to interface elements in non-instructional contexts, for example: "The 'Done' button will always be at the bottom of the page."
+Use single quote marks when referring to interface elements in non-instructional contexts, for example: "The 'Done' button will always be at the bottom of the page."
 
 Use bold sparingly - using too much will make it difficult for users to know which parts of your content they need to pay the most attention to.
 
@@ -1878,7 +1878,7 @@ Lower case. This term covers both company and public sector pension schemes. Onl
 
 ### Ofsted judgements
 
-Lower case and not in inverted commas: Westminster School was judged outstanding in its latest Ofsted inspection.
+Lower case and not in single quote marks: Westminster School was judged outstanding in its latest Ofsted inspection.
 
 There are 4 Ofsted grades:
 
@@ -2173,19 +2173,18 @@ In long passages of speech, open quotes for every new paragraph, but close quote
 
 #### Single quotes
 
-Use single quotes:
+Use single quotes for unusual terms that users might not recognise but still need to know. Only use the quotes for the term’s first mention.
 
-- in headlines
-- for unusual terms - only for the first mention
-- when referring to words 
-- when referring to publications
-- when referring to notifications such as emails or alerts
+Also use single quotes when:
 
-For example: Download the publication 'Understanding Capital Gains Tax' (PDF, 360KB).
+- using quotations in titles
+- quoting individual words (like a ‘Submit’ button or a ‘Sign in’ link)
+- referring to publication titles (like ‘Understanding Capital Gains Tax’)
+- referring to names of notifications such as emails or alerts (like ‘Deadline alert’)
 
 #### Double quotes
 
-Use double quotes in body text for direct quotations.
+Only use double quotes in body text for direct quotations of something that a person has said or written.
 
 #### Block quotes
 

@@ -101,9 +101,9 @@ Select the 'Images' tab at the top of the page. You can upload images here. Each
 
 News articles must have a lead image. The lead image appears above the body content.
 
-If you do not select a lead image, a default image will be used. You can add or change your organisation’s default image by updating your [organisation page](/publish-update-retire-content/organisations-people/organisations/).
+If you do not upload a lead image, a default image will be used. You can add or change your organisation’s default image by updating your [organisation page](/publish-update-retire-content/organisations-people/organisations/).
 
-If you want to use a custom lead image, upload it. Under ‘Custom lead image’, select its file name and then select ‘Save’. You cannot use an SVG file as a lead image. You cannot use the lead image again in the body.
+To upload a lead image, select ‘Add’ next to the ‘Lead’ heading. You should not use the lead image again in the body.
 
 ### Other images
 

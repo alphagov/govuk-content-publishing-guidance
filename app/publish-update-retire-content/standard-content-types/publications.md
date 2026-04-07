@@ -204,6 +204,8 @@ Your attachments can either be:
 - HTML attachments
 - external attachments, if the publication is not on GOV.UK
 
+You can upload up to 500MB of file attachments at one time. If you want to upload a single file larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+
 You can quickly overwrite previous versions of file attachments if you upload new files with the same file names as your old ones.
 
 When you add attachments:
