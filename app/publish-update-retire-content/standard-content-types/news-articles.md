@@ -99,11 +99,14 @@ Select the 'Images' tab at the top of the page. You can upload images here. Each
 
 ### Lead image
 
-News articles must have a lead image. The lead image appears above the body content.
+Lead images are optional in news articles. They appear above the body content.
 
-If you do not upload a lead image, a default image will be used. You can add or change your organisation’s default image by updating your [organisation page](/publish-update-retire-content/organisations-people/organisations/).
+The lead image will be a default image at first. You can add or change your organisation’s default image by updating your [organisation page](/publish-update-retire-content/organisations-people/organisations/).
 
-To upload a lead image, select ‘Add’ next to the ‘Lead’ heading. You should not use the lead image again in the body.
+If you want to upload a custom lead image, select ‘Replace’ next to the ‘Lead’ heading. You should not use this image again in the body.
+
+If you do not want a lead image, select ‘Delete’ next to the ‘Lead’ heading.
+
 
 ### Other images
 
