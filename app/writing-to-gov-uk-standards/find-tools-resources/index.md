@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
-order: 4
+order: 3
 eleventyNavigation:
   parent: Writing to GOV.UK standards
 title: Find tools and resources for analysing content

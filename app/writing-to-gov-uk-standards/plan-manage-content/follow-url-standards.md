@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
-order: 5
+order: 6
 eleventyNavigation:
   parent: Plan and manage content
 title: Follow URL standards

@@ -16,7 +16,7 @@ You can ask for content advice from the GDS content team. This could be about, f
 * following the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice](/writing-to-gov-uk-standards/tone-of-voice/)
 * structuring your content
 * checking if content fits the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition)
-* designing [accessible content](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/)
+* designing accessible content
 
 It may be a quick question about content you’re working on or a request for a formal response you can share with colleagues in your organisation. To help GDS prioritise the work, you need to:
 

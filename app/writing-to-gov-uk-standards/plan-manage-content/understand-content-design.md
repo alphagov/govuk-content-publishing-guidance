@@ -48,9 +48,9 @@ Read more about this in the guidance on [planning new GOV.UK content](/writing-t
 
 Good GOV.UK content is clear, written in plain English and optimised for the web. It must be accessible to anybody who needs to use it. 
 
-The [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) are designed to make our content meet these standards. Check that your content is written in line with them before you publish it.
+The [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) are designed to make content meet these standards. Check that your content is written in line with them before you publish it.
 
-You should also check the guidance on [making your content accessible](/writing-to-gov-uk-standards/create-accessible-content/make-content-accessible/) - this will help with the accessibility of headings, links and other formatting elements.
+You should also check the [formatting guidance](/formatting-content/) – this will help with the accessibility of headings, links and other formatting elements.
 
 ## Content maintenance
 
