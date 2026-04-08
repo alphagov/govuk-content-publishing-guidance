@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
-order: 8
+order: 9
 eleventyNavigation:
   parent: Plan and manage content
 title: Retire outdated content

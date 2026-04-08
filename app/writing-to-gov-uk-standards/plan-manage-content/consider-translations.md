@@ -1,7 +1,7 @@
 ---
 layout: landing-page
 sectionKey: Writing to GOV.UK standards
-order: 6
+order: 7
 eleventyNavigation:
   parent: Plan and manage content
 title: Consider translations
