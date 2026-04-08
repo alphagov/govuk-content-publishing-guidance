@@ -417,6 +417,7 @@ You should only retag the following content types to the new organisation if the
 These content types should not be retagged to the new organisation:
 
 - closed consultations
+- corporate information
 - corporate reports
 - documents in history mode
 - news articles
@@ -436,13 +437,14 @@ If there is too much content for you to retag manually, you can [ask GDS for hel
 You’ll need to create and send over a new spreadsheet of the content that need retagging. Only include these columns in the spreadsheet, using these specific headings:
 
 - ‘URL’ – this is the full URL of the content and not just the slug
-- ‘Lead organisations’ – list the slugs of the organisation pages that should be tagged as lead organisations on the content (including any closed organisations), in quotes and separated by commas such as “department-for-science-innovation-and-technology, government-digital-service”
+- ‘Lead organisations’ – list the slugs of the organisation pages that should be tagged as lead organisations on the content (including any closed organisations), separated by commas with no spaces such as `department-for-science-innovation-and-technology,government-digital-service`
 - ‘Supporting organisations’ – the same as ‘Lead organisations’, but this column can be left blank if there are no supporting organisations
 
 In the spreadsheet, do not include:
 
 - HTML attachments – these will be retagged if the pages they’re attached to are included in the spreadsheet
 - translations – these will be retagged if the English versions are included in the spreadsheet
+- corporate information – these pages can only be tagged to one organisation
 
 You can also [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if:
 

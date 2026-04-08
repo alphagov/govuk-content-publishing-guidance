@@ -29,8 +29,9 @@ You should also read the guidance on what to do before you apply on the [GCS web
 
 When you're ready to create a campaign site:
 
-1. Get approval for your campaign from your organisation's head of communications. They can help with your application.
-2. Ask your head of communications to submit a [campaign request form](https://support.publishing.service.gov.uk/campaign_request/new) for you.
+1. Get approval for your campaign from your organisation's head of communications or head of digital communications. They can help with your application.
+2. Get a managing editor to submit a [campaign request form](https://support.publishing.service.gov.uk/campaign_request/new).
+
 
 GCS will review your request. You should get a decision within 10 working days.
 
@@ -79,7 +80,8 @@ Find out how to [ask GDS for a GOV.UK exemption](/accounts-support/make-content-
 
 ## Create a short URL
 
-It helps to have a memorable short URL for campaigns. 
+It helps to have a memorable short URL for campaigns, like gov.uk/firekills. 
+
 
 [Ask GDS to set up a short URL](/accounts-support/make-content-requests/ask-short-url/) for your campaign site.
 
@@ -132,9 +134,10 @@ When you sign into the platform there are links to the [government campaign user
 
 ## Close a campaign site
 
-1. Contact your head of communications before closing your campaign site.
+1. Contact your head of communications or head of digital communications before closing your campaign site.
 2. Agree on where your campaign URL should redirect to. The campaign will need to be archived and URL redirects set up.
-3. Ask the campaign owner to [make a support request](https://support.publishing.service.gov.uk/unpublish_content_request/new) to close the campaign and set up a redirect.
+3. Ask the campaign owner to [contact GCS](https://userguide.campaign.gov.uk/contact-us/) to close the campaign and set up a redirect.
+
 
 *[GDS]: Government Digital Service  
 *[GCS]: Government Communications Service  
