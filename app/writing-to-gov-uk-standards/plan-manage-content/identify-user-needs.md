@@ -5,7 +5,7 @@ order: 2
 eleventyNavigation:
   parent: Plan and manage content
 title: Identify user needs
-description: Figure out what your users need from your content.
+description: Figure out what your users need from your content, and learn how to write user stories and acceptance criteria.
 lastUpdated:
 ---
 User needs are the needs that our users have when they come to GOV.UK. People visit GOV.UK to help them fulfil a certain task, like apply for a driving licence or find out how to vote.

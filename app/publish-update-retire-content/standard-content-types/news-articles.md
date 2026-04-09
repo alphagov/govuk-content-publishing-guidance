@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 7
 title: News articles
-description: Learn when to use the news articles content type.
+description: Learn when to use the news article content type, including for government responses, news stories and press releases.
 lastUpdated:
 ---
 

@@ -5,7 +5,7 @@ order: 4
 eleventyNavigation:
   parent: Formatting content
 title: Content blocks
-description: Create and update content blocks and use them in GOV.UK content.
+description: Create and update content blocks with Content Block Manager and add them to GOV.UK content.
 lastUpdated:
 ---
 

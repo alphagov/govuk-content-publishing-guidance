@@ -5,7 +5,7 @@ order: 3
 eleventyNavigation:
   parent: Plan and manage content
 title: Plan new GOV.UK content
-description: Know what to do when creating new information or guidance for GOV.UK.
+description: Learn how to approach creating new information or guidance for GOV.UK, including learning what content is in proposition and how to help users find new content.
 lastUpdated:
 ---
 

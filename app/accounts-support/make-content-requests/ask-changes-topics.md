@@ -5,7 +5,7 @@ order: 2
 eleventyNavigation:
   parent: Make content requests
 title: Ask for changes to topics
-description: Suggest changes to GOV.UK topics or request new ones.
+description: Suggest changes to GOV.UK topics for Whitehall content or request new ones.
 lastUpdated:
 ---
 Most Whitehall content needs to be tagged to a topic before it can be published.

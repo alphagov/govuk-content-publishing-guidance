@@ -5,7 +5,7 @@ order: 6
 eleventyNavigation:
   parent: Make content requests
 title: Ask for an exemption from GOV.UK
-description: Find out how to get permission to publish government content on a separate website.
+description: Find out how to get permission to publish government content on a separate website or domain, and how to migrate content if your site is closing.
 lastUpdated:
 ---
 You need to get approval from the Government Digital Service (GDS) before you create any new government website or public-facing domain. 

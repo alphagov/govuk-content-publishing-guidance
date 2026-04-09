@@ -5,7 +5,7 @@ order: 6
 eleventyNavigation:
   parent: Accounts and support
 title: How to raise requests with GDS
-description: How GDS support for GOV.UK works, how to write support requests and what to do if you're unhappy with a decision.
+description: How GDS support for GOV.UK works, including response times, how to write requests, when tickets are closed, and what to do if you're unhappy with a decision.
 lastUpdated:
 ---
 The Government Digital Service (GDS) works on support requests related to GOV.UK.

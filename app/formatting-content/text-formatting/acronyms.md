@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Acronyms
-description: Add abbreviations and initialisms to your GOV.UK content so they include accessible alt text.
+description: Add abbreviations and initialisms with Govspeak Markdown code so they include accessible alt text.
 lastUpdated:
 ---
 

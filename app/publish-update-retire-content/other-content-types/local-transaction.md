@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
 title: Local transaction pages
-description: Learn when and how to use local transaction pages.
+description: Learn when and how to use local transaction pages for postcode lookups, including using Local Links Manager.
 lastUpdated:
 ---
 

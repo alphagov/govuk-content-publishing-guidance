@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Promotional or social content types
 title: Topical event pages
-description: Learn when and how to publish topical event pages. 
+description: Learn when and how to publish topical event pages, including adding featured content.
 lastUpdated:
 ---
 

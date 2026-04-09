@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 9
 title: Speeches
-description: Learn when to use the speeches content type.
+description: Learn when to use the speech content type, including for transcripts, speaking notes and statements to Parliament.
 lastUpdated:
 ---
 

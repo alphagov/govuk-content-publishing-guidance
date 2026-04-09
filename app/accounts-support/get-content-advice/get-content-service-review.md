@@ -5,7 +5,7 @@ order: 2
 eleventyNavigation:
   parent: Get content advice
 title: Get a content service review
-description: Learn how to get a content review for a service
+description: Learn how to get a content review from GDS for a new service.
 lastUpdated:
 ---
 If your department has built a new service, it may need a service assessment. [Read the Service Manual to find out if it needs an assessment](https://www.gov.uk/service-manual/service-assessments/check-if-need-to-meet-service-standard).

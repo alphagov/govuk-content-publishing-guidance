@@ -5,7 +5,7 @@ order: 1
 eleventyNavigation:
   parent: Get content advice
 title: Get help and advice
-description: Learn how to get content advice from the Government Digital Service (GDS) content team.
+description: Learn how to get content advice from the GDS content team and from the cross-government content community on Slack and Basecamp.
 lastUpdated:
 ---
 ## Support from the Government Digital Service (GDS)

@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 6
 title: Fatality notices
-description: Learn when to use the fatality notices content type.
+description: Learn when to use the fatality notice content type.
 lastUpdated:
 ---
 

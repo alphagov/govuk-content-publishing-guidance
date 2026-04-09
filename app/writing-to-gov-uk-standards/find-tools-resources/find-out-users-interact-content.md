@@ -5,7 +5,7 @@ order: 4
 eleventyNavigation:
   parent: Find tools and resources for analysing content
 title: Find out how users interact with your content
-description: Use Google Analytics tools to see page views, where users go after viewing your content and how many times links in your content are clicked.
+description: Use Google Analytics tools to see page views and sessions, next pages, bounce rates, click rates for links and downloads, and feedback comments.
 lastUpdated:
 ---
 For some of the tools on this page, you'll need a GOV.UK Google Analytics account. If you do not have an account, your organisation's analytics 'single point of contact' (SPOC) will need to raise a ticket. If you do not know who your SPOC is, [raise an analytics ticket](https://support.publishing.service.gov.uk/analytics_request/new).

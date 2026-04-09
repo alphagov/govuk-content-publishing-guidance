@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 5
 title: Document collections
-description: Learn when to use the document collections content type.
+description: Learn when to use the document collection content type.
 lastUpdated:
 ---
 

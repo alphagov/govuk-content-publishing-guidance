@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 11
 title: Statistics
-description: Learn when to use the statistics content type.
+description: Learn when to use the statistics content type, including for statistics announcements.
 lastUpdated:
 ---
 

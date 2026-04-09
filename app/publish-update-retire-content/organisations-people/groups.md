@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Organisations and people
 title: Group pages
-description: Learn when and how to use group pages. 
+description: Learn when and how to use group pages, including adding terms of reference, meeting minutes and codes of conduct.
 lastUpdated:
 ---
 
