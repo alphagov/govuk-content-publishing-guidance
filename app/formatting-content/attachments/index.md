@@ -5,7 +5,7 @@ order: 3
 eleventyNavigation:
   parent: Formatting content
 title: Attachments
-description: Learn how to add HTML attachments and file downloads to content on GOV.UK.
+description: Learn how to add file downloads to content on GOV.UK using Govspeak Markdown code, including inline links and publication boxes.
 lastUpdated:
 ---
 

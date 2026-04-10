@@ -5,7 +5,7 @@ order: 8
 eleventyNavigation:
   parent: Plan and manage content
 title: Organise and group GOV.UK content
-description: Put content together based on related topics or tasks.
+description: Put content together based on related topics or tasks, including on browse pages and step by step pages.
 lastUpdated:
 ---
 Content on GOV.UK is grouped with other similar content to help users explore particular topics or tasks.

@@ -5,7 +5,7 @@ order: 5
 eleventyNavigation:
   parent: Manage accounts and training
 title: Request training and accounts for your organisation
-description: Request and manage Signon accounts and training for people in your organisation.
+description: Request and manage Signon accounts and training for people in your organisation, so they can access Whitehall Publisher.
 lastUpdated:
 ---
 If you’re a GOV.UK lead, organisation admin or super organisation admin, you can request new Signon accounts and training for people in your organisation.

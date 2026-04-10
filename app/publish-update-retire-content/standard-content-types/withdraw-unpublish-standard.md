@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 15
 title: Withdraw or unpublish standard content types
-description: Learn how to withdraw or unpublish standard content types.
+description: Learn how to withdraw or unpublish standard content types, as well as how to unwithdraw and republish content.
 lastUpdated:
 ---
 
@@ -40,7 +40,7 @@ Either way, users will not get an email notification when the page is withdrawn.
 10. Select 'Withdraw: no longer current government policy/activity'.
 11. Write a reason in the 'Public explanation' field explaining why you're withdrawing. You can include formatting and provide users with a link to a new page.
 
-### If your content does not have attachments:
+### If your content does not have attachments
 
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/) and select the 'Documents' tab.
 2. Search for the content you want to withdraw, and select the 'View' link next to it.

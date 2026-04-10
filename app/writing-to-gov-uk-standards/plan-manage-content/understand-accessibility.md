@@ -5,7 +5,7 @@ order: 5
 eleventyNavigation:
   parent: Plan and manage content
 title: Understand accessibility
-description: Find out about the accessibility regulations all GOV.UK content needs to follow.
+description: Find out how to make your content accessible and learn about the accessibility regulations all GOV.UK content needs to follow.
 lastUpdated:
 ---
 

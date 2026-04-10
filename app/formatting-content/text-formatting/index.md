@@ -5,7 +5,7 @@ order: 1
 eleventyNavigation:
   parent: Formatting content
 title: Text formatting
-description: Learn how to format text in GOV.UK content.
+description: Learn how to format text in GOV.UK content with Govspeak Markdown code.
 lastUpdated:
 ---
 

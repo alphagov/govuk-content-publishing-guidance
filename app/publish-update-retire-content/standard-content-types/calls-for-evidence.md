@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 1
 title: Calls for evidence
-description: Learn when to use the calls for evidence content type.
+description: Learn when to use the call for evidence content type.
 lastUpdated:
 ---
 

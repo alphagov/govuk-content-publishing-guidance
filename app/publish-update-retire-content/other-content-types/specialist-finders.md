@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
 title: Specialist finders
-description: Learn when and how to use specialist finders.
+description: Learn when and how to use specialist finders, including using Specialist Publisher.
 lastUpdated:
 ---
 

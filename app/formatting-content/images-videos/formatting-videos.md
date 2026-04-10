@@ -5,7 +5,7 @@ order: 2
 eleventyNavigation:
   parent: Images and videos
 title: Formatting videos
-description: Add videos to GOV.UK content with Govspeak Markdown code and make sure they're accessible.
+description: Add videos to GOV.UK content with Govspeak Markdown code and make sure they're accessible, such as by adding captions, transcripts and audio description.
 lastUpdated:
 ---
 

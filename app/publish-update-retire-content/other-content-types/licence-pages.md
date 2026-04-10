@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
 title: Licence pages
-description: Learn when and how to use licence pages.
+description: Learn when and how to use licence pages, including using Specialist Publisher and Licensify.
 lastUpdated:
 ---
 

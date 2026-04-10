@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Organisations and people
 title: Worldwide pages
-description: Learn when to use the worldwide pages content type.
+description: Learn when to use worldwide pages, including world location news pages, worldwide organisations, and help and services pages.
 lastUpdated:
 ---
 

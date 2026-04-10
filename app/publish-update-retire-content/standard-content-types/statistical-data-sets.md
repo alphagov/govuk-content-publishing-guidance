@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 10
 title: Statistical data sets
-description: Learn when to use the statistical data sets content type.
+description: Learn when to use the statistical data set content type.
 lastUpdated:
 ---
 

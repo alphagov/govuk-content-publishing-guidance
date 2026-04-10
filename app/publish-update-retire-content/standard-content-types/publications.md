@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 8
 title: Publications
-description: Learn when to use the publications content type.
+description: Learn when to use the publication content type, including for corporate reports, FOI releases, forms, guidance, policy papers, research, and transparency data.
 lastUpdated:
 ---
 

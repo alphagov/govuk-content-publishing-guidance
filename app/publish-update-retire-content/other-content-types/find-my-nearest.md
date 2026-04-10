@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Other guidance content types
 title: Find my nearest pages
-description: Learn when and how to use 'Find my nearest' pages.
+description: Learn when and how to use 'Find my nearest' pages for postcode lookups, including using Places Manager.
 lastUpdated:
 ---
 

@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Organisations and people
 title: People and role pages
-description: Learn when and how to use people and role pages. 
+description: Learn when and how to use people and role pages, including during reshuffles for ministers.
 lastUpdated:
 ---
 

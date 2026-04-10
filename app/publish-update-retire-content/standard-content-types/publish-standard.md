@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 14
 title: Publish standard content types
-description: Learn how to publish standard content types.
+description: Learn how to publish and schedule standard content types, including force publishing and email notifications.
 lastUpdated:
 ---
 

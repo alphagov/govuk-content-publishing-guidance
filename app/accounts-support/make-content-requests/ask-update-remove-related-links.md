@@ -5,7 +5,7 @@ order: 7
 eleventyNavigation:
   parent: Make content requests
 title: Ask for related links to be updated or removed
-description: Learn how to request for related links to be updated or removed. 
+description: Learn how to request for related links on Whitehall content to be updated or removed. 
 lastUpdated:
 ---
 Some Whitehall Publisher content has related links which are shown on the right hand side of the page. 
