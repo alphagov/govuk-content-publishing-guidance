@@ -45,7 +45,7 @@ Follow civil service guidance on the national mourning period. If you need more 
 
 ## Publishing banners on non-GOV.UK sites
 
-A sitewide banner will be deployed on GOV.UK during a bridge event. Whether you can deploy a similar banner on a non-GOV.UK site depends on the type of site.
+A sitewide banner will be deployed on GOV.UK and in the GOV.UK app during a bridge event. Whether you can deploy a similar banner on a non-GOV.UK site depends on the type of site.
 
 ### Services
 

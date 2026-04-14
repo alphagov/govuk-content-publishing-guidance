@@ -77,7 +77,9 @@ Read our guidance on [how to publish content on GOV.UK](/publish-update-retire-c
 
 Think about how users will find your content.
 
-Some users might be subscribed to email updates for any content published by your organisation or tagged to a specific topic. Many users will not know about this functionality though.
+Some users might be subscribed to email updates for any content published by your organisation or tagged to a specific topic. Many users will not know about this functionality though. 
+
+Other users may find the content in the GOV.UK app or from asking GOV.UK chat. 
 
 In some cases, you might want to work with your communications team to raise awareness or directly contact users. 
 
