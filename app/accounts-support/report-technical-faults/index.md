@@ -5,7 +5,7 @@ order: 4
 eleventyNavigation:
   parent: Accounts and support
 title: Report technical faults
-description: Learn how to tell GDS about a technical issue with apps like Whitehall Publisher.
+description: Learn how to tell GDS about a technical issue or error with apps like Whitehall Publisher.
 lastUpdated:
 ---
 If a GOV.UK application stops working or you get an error, you can report it to the Government Digital Service (GDS).

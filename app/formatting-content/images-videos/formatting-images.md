@@ -5,7 +5,7 @@ order: 1
 eleventyNavigation:
   parent: Images and videos
 title: Formatting images
-description: Learn how to format images to use in GOV.UK content. 
+description: Learn how to format images to use in GOV.UK content, including using alt text, copyright permissions and Govspeak Markdown.
 lastUpdated:
 ---
 

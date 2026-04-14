@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 3
 title: Consultations
-description: Learn when to use the consultations content type.
+description: Learn when to use the consultation content type.
 lastUpdated:
 ---
 

@@ -5,7 +5,7 @@ order: 3
 eleventyNavigation:
   parent: Find tools and resources for analysing content
 title: Find out how users find your content
-description: Use Google Analytics tools that show you how many users come to your content from search engines, other GOV.UK pages and social media.
+description: Use Google Analytics tools and UTM parameters to show you how many users come to your content from search engines, other GOV.UK pages and social media.
 lastUpdated:
 ---
 You'll need a GOV.UK Google Analytics account to use the tools on this page. If you do not have an account, your organisation's analytics 'single point of contact' (SPOC) will need to raise a ticket. If you do not know who your SPOC is, [raise an analytics ticket](https://support.publishing.service.gov.uk/analytics_request/new).

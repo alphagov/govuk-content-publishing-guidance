@@ -4,7 +4,7 @@ sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Organisations and people
 title: Organisation pages
-description: Learn when and how to use organisation pages. 
+description: Learn when and how to use organisation pages, including adding featured content and links and bulk retagging when organisations close.
 lastUpdated:
 ---
 
@@ -130,7 +130,7 @@ Do not include campaign sites unless there's evidence of significant user demand
 
 See [a good example of a news priority organisation page](https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero). 
 
-## The 'what we do' section and 'About us' page
+## The 'What we do' section and 'About us' page
 
 'What we do' is a short summary of your organisation's responsibilities that will appear on your organisation page.
 

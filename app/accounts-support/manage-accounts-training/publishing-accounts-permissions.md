@@ -5,7 +5,7 @@ order: 1
 eleventyNavigation:
   parent: Manage accounts and training
 title: Publishing accounts and permissions
-description: Learn what a Signon account is and about different permissions in Whitehall Publisher.
+description: Learn what a Signon account is and about different permissions in Whitehall Publisher, including writer, editor and managing editor permissions.
 lastUpdated:
 ---
 You need a Signon account to access GOV.UK publishing applications such as Whitehall Publisher and Specialist Publisher. You also need it to get help through GOV.UK Support.

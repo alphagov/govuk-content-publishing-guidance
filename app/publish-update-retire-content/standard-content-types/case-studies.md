@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 2
 title: Case studies
-description: Learn when to use the case studies content type.
+description: Learn when to use the case study content type.
 lastUpdated:
 ---
 

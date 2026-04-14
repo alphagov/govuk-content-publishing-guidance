@@ -5,7 +5,7 @@ eleventyNavigation:
   parent: Standard content types
 order: 4
 title: Detailed guides
-description: Learn when to use the detailed guides content type.
+description: Learn when to use the detailed guide content type.
 lastUpdated:
 ---
 

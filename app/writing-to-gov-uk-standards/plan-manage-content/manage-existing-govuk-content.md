@@ -5,7 +5,7 @@ order: 4
 eleventyNavigation:
   parent: Plan and manage content
 title: Manage existing GOV.UK content
-description: Know what to do when updating outdated or inaccurate information or guidance on GOV.UK.
+description: Know what to do when updating outdated or inaccurate information or guidance on GOV.UK, such as doing content audits on Govsearch.
 lastUpdated:
 ---
 

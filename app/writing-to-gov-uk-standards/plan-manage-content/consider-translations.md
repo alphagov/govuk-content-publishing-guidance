@@ -5,7 +5,7 @@ order: 7
 eleventyNavigation:
   parent: Plan and manage content
 title: Consider translations
-description: Decide whether you need to add a translation of your content and see which languages are available on GOV.UK.
+description: Decide whether you need to add a translation of your content, including Welsh language translations, and see which languages are available on GOV.UK.
 lastUpdated:
 ---
 
