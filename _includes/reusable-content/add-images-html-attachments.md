@@ -4,4 +4,6 @@ Select the 'Images' tab at the top of the page. You can upload images here. Each
 
 Once you upload an image, you'll be given a 'Markdown code'. You can copy and paste that into the body or HTML attachments and the image will appear there.
 
+You need to put the image code as a separate sentence. 
+
 If you want to remove an image, you can remove its code from the body or HTML attachments. You can then upload a new version of the image and use its code instead.
