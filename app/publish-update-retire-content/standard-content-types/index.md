@@ -1,10 +1,11 @@
 ---
 layout: landing-page
+title: Standard content types
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Publish update or retire content
+  parentTitle: "Publish, update or retire content"
 order: 2
-title: Standard content types
 description: Learn how to follow the common processes for standard content types such as detailed guides and consultations.
 lastUpdated:
 ---
