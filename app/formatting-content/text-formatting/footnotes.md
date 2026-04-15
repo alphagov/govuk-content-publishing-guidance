@@ -8,7 +8,9 @@ description: Add footnotes to GOV.UK content with Govspeak Markdown code.
 lastUpdated:
 ---
 
-Put [^n] into the sentence where you want to create the footnote, where 'n' is the number for the footnote.
+Avoid using footnotes in your content as much as possible. Footnotes are designed for reference in print, not webpages. 
+
+If you need to use a footnote, put [^n] into the sentence where you want to create the footnote, where ‘n’ is the number for the footnote.
 
 On a new line break, or at the bottom of the page, put [^n]: followed by the content for your footnote.
 

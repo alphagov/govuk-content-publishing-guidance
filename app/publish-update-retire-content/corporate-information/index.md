@@ -38,6 +38,15 @@ To edit a page:
 3. Edit the summary or body text as required.
 4. When you're happy with the content, select 'Submit for 2nd eyes' so another editor can review the page and publish.
 
+## Add or edit attachments to a corporate information page
+
+Make sure you correctly [format attachments](https://guidance.publishing.service.gov.uk/formatting-content/attachments/) before you upload them.
+
+Select the ‘Attachments’ tab at the top of the page. You can add, edit or delete attachments from here.
+
+You can upload up to 500MB of attachments at one time. If you want to upload a single attachment larger than 500MB, [report a technical fault](https://signon.publishing.service.gov.uk/users/sign_in) to get support.
+
+
 ## Types of corporate information you can publish
 
 Find out what to include in the different types of corporate information pages:
