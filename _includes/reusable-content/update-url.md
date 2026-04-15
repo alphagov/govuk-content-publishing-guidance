@@ -14,3 +14,5 @@ You can:
 4. [Unpublish the page](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) with the incorrect URL. When you unpublish it, you'll be able to set up a redirect to the new page.
 
 The change notes history will be lost if you do this. If you need to keep that history, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to change the URL instead.
+
+You’ll need a Signon account with ‘content requesters’ permissions to contact GDS using the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
