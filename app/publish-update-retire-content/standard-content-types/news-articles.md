@@ -112,6 +112,8 @@ If you do not want a lead image, select ‘Delete’ next to the ‘Lead’ head
 
 You’ll be given a ‘Markdown code’ when you upload the image. You can copy and paste that into the body and the image will appear there.
 
+You need to leave an empty space above and below the code. 
+
 If you want to remove an image, you can remove its code from the body. You can then upload a new version of the image and use its code instead.
 
 ## Add or edit attachments
