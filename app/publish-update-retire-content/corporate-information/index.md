@@ -3,6 +3,7 @@ layout: landing-page
 sectionKey: Publish update or retire content
 eleventyNavigation:
   parent: Publish update or retire content
+  parentTitle: "Publish, update or retire content"
 order: 5
 title: Corporate information pages
 description: Learn how to publish, update or retire corporate information pages. 
