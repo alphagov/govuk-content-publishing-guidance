@@ -38,7 +38,7 @@ To edit a page:
 3. Edit the summary or body text as required.
 4. When you're happy with the content, select 'Submit for 2nd eyes' so another editor can review the page and publish.
 
-## Add an attachment to a corporate information page
+## Add or edit attachments to a corporate information page
 
 Make sure you correctly [format attachments](https://guidance.publishing.service.gov.uk/formatting-content/attachments/) before you upload them.
 
