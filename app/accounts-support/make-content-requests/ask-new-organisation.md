@@ -77,6 +77,8 @@ GDS will expect a sub-organisation to have:
 
 Use the [content advice support form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice support form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ## What happens after you make a request
 
 GDS will review your request. If your request is approved, GDS will create a new organisation page with the ‘coming soon’ status to allow you to [create, edit and add content to your organisation page](/publish-update-retire-content/organisations-people/organisations/) before it goes live.
