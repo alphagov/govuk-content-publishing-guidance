@@ -32,6 +32,8 @@ Govsearch will not show content that's published using non-GOV.UK tools, includi
 
 [Ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you would like to search this other content.
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ### If you're only interested in Whitehall Publisher
 
 You can [use the Whitehall Publisher search tool](https://whitehall-admin.publishing.service.gov.uk/government/admin/editions) to look through content on Whitehall Publisher.
@@ -91,6 +93,8 @@ If the page is tagged to other organisations and not yours, contact their contac
 
 [Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you need contact information for other content teams.
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ### If your content is on a 'mainstream' page
 
 Mainstream pages will not have 'government' or 'guidance' in the URL. They are maintained by the content team at GDS, with changes usually based on tickets raised by the organisations tagged to the page.
@@ -99,7 +103,9 @@ You will not be able to see which organisations are tagged to a mainstream page,
 
 If your organisation is not tagged, they can direct you to the tagged organisations' content teams. You can ask them to raise a ticket.
 
-[Ask GDS for if you want to change mainstream content](/accounts-support/make-content-requests/ask-updates-content/).
+[Ask GDS for help if you want to change mainstream content](/accounts-support/make-content-requests/ask-updates-content/).
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
 
 ### If your content is on any other type of page
 
@@ -109,6 +115,7 @@ You will not be able to update content if it's in 'history mode'. If it's in his
 
 If you want to update content in history mode, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new).
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
 
 
 *[GDS]: Government Digital Service
