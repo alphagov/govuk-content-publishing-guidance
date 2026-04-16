@@ -29,6 +29,8 @@ The 2 types of pages are very similar and are updated in the same way.
 
 You can update an existing world location news page. If you want to add a new one, [ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new).
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ### Edit a world locations news page
 
 1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
@@ -313,6 +315,8 @@ There's a navigation page for each country and territory.
 
 - a new navigation page
 - to edit the title, sections or description of an existing page
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
  
 ### Tag content
 
@@ -341,5 +345,8 @@ You can also [ask GDS for help](/accounts-support/get-content-advice/get-help-ad
 * manuals
 * specialist finders
 * travel advice pages
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
  
 *[GDS]: Government Digital Service
