@@ -50,6 +50,8 @@ Their request for a new manual must show:
 
 [Contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
+Your GOV.UK lead or managing editor will need a Signon account with ‘content requesters’ permissions to access the advice form.
+
 ## Get access to Manuals Publisher
 
 You'll need access to [Manuals Publisher](https://manuals-publisher.publishing.service.gov.uk/manuals) to create or update manuals. 
@@ -130,11 +132,15 @@ Your manual will be automatically tagged to the same organisation as your Signon
 
 If you want to change the organisation or tag more organisations, [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ## Tag to topic pages
 
 You can only tag the manual to topic pages once the first draft is published.
 
 You'll need to [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
 
 ## Unpublish a manual
 
@@ -150,5 +156,8 @@ To unpublish sections of a manual:
 4. When you've done this for every relevant section, publish the draft.
 
 To unpublish the manual as a whole, [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 
 *[GDS]: Government Digital Service

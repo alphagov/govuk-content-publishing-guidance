@@ -36,7 +36,9 @@ Submit your request at least 2 weeks before you need it. The Government Digital 
 
 Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
-Include:
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
+Include in your request:
 
 * the reason you need a short URL
 * the content or page the short URL will link to

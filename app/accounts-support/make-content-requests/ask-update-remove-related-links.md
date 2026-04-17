@@ -25,6 +25,8 @@ You must include:
 
 Use the [content advice support form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. 
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice support form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 Requests to update related links are reviewed on a case by case basis.
 
 *[GDS]: Government Digital Service 

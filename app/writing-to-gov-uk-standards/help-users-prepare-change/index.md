@@ -42,6 +42,8 @@ In exceptional cases, users might need reassurance in advance that something wil
 
 If you’re unsure, [ask for help from the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new).
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ## Review content that already exists
 
 Do a basic review of existing guidance content as soon as you know roughly what's changing. Do not wait until you have all the details.

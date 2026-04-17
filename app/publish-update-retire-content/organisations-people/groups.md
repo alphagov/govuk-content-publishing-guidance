@@ -177,6 +177,8 @@ Good examples of closed groups include the:
 
 [Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want a new group page with the updated name.
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 When you have that approval, close the old group page and set up one with the new name.
 
 A good example of a group that has changed its name is the [Group Litigation Order (GLO) Compensation Scheme Advisory Board](https://www.gov.uk/government/groups/group-litigation-order-glo-compensation-scheme-advisory-board).

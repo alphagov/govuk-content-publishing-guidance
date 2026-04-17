@@ -434,7 +434,9 @@ There may be exceptions to the list of content types that should not be retagged
 
 If there is too much content for you to retag manually, you can [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
 
-You’ll need to create and send over a new spreadsheet of the content that need retagging. Only include these columns in the spreadsheet, using these specific headings:
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
+For your request, you’ll need to create and send over a new spreadsheet of the content that need retagging. Only include these columns in the spreadsheet, using these specific headings:
 
 - ‘URL’ – this is the full URL of the content and not just the slug
 - ‘Lead organisations’ – list the slugs of the organisation pages that should be tagged as lead organisations on the content (including any closed organisations), separated by commas with no spaces such as `department-for-science-innovation-and-technology,government-digital-service`
@@ -456,5 +458,8 @@ You can also [ask GDS for help](https://support.publishing.service.gov.uk/conten
 If anyone is listed under ‘Our management’ on the organisation page, unassign them from their roles when you close the organisation. Read the [guidance about people and role pages](/publish-update-retire-content/organisations-people/people-roles) for help with that.
 
 If anyone is listed under ‘Our ministers’, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 
 *[GDS]: Government Digital Service

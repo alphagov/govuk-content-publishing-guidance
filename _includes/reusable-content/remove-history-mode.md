@@ -1,2 +1,3 @@
-> [!NOTE]
-> If you select 'Create new edition' and you get a message telling you that the 'document is in history mode', you cannot update it without help from the Government Digital Service (GDS). [Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want to remove history mode.
+If you select 'Create new edition' and you get a message telling you that the 'document is in history mode', you cannot update it without help from the Government Digital Service (GDS). [Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want to remove history mode.
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.

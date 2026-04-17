@@ -25,6 +25,8 @@ It may be a quick question about content you’re working on or a request for a 
   
 [Ask for advice from GDS](https://support.publishing.service.gov.uk/content_advice_request/new).
 
+You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
 ## Support from across government
 
 As well as contacting GDS, you can get help from content colleagues across government. 
