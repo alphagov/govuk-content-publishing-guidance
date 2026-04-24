@@ -48,7 +48,8 @@ Do not add any more information or attachments to the page after the government 
 
 ### If you're creating a new consultation
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Consultation' and then select the 'Next' button.
 4. If the consultation is not in English, tick 'Create a foreign language only consultation' and select the language.
@@ -81,16 +82,19 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 
 ### If you're updating an open consultation
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
-5. Make any changes to the title, summary and body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
-6. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/retire-content) and it will only need to be changed if your organisation is asked to take part in an audit of content before a general election.
+5. Make any changes to the title, summary and body as needed. {% include 'reusable-content/style-formatting.md' %}
+
+6. {% include 'reusable-content/political-heading.md' %}
+
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
 
-9. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select the relevant option under 'Do users have to know the content has changed?' and add your change notes (you can edit them again before you publish the draft).
+9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the consultation documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
 
@@ -103,13 +107,14 @@ You can update the consultation to:
 
 Do not change the original content or consultation documents. They will move to the bottom of the page under the heading 'Original consultation'.
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/limit-access.md' %}
 
-6. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?' and add your change notes (you can edit them again later).
+6. {% include 'reusable-content/change-notes.md' %}
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Public feedback' tab at the top of the page.
 
@@ -132,13 +137,14 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 
 Do not change the original content or consultation documents. They will move to the bottom of the page under the heading 'Original consultation'.
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/limit-access.md' %}
 
-6. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again later).
+6. {% include 'reusable-content/change-notes.md' %}
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Final outcome' tab at the top of the page. Add a publication date and use the 'Summary' to describe briefly what form the response takes, but do not describe what the response says.
 9. Select 'Save'.
