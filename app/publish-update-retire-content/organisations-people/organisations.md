@@ -25,7 +25,8 @@ Your GOV.UK lead or a managing editor needs to [ask the Government Digital Servi
 
 To find an organisation page:
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'Organisations'.
 4. Search for the organisation and select 'View' next to its name. 

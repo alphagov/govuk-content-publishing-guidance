@@ -30,7 +30,8 @@ If there were multiple deaths in one incident, create a fatality notice for the 
 
 ### If you're creating a new fatality notice
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Fatality notice' and then select the 'Next' button.
 4. In the 'Title', add the names and titles of the people who died.
@@ -48,14 +49,15 @@ After saving the page, you can now add images of the people if you have them. Yo
 
 ### If you're updating an existing fatality notice
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the fatality notice you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary, body and fatality notice details as needed.
 6. {% include 'reusable-content/limit-access.md' %}
 
-7. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
+7. {% include 'reusable-content/change-notes.md' %}
 8. Select the 'Save' button at the bottom of the page.
 
 You can now edit the images.
@@ -88,7 +90,7 @@ There's a default image that appears on every fatality notice before the body co
 
 ## Update settings of the draft
 
-{% include 'reusable-content/update-settings-attachments.md' %}
+{% include 'reusable-content/update-settings-no-attachments.md' %}
 
 ## Add or remove topic tags
 

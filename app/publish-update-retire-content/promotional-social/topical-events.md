@@ -40,7 +40,8 @@ Once you have that approval, then you can add a new page.
 
 ## Add or edit a topical event page
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'Topical events'.
 

@@ -33,7 +33,8 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 ### Edit a world locations news page
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'World location news'.
 4. Select 'View' next to the relevant location.
@@ -44,7 +45,8 @@ Any changes you make to the page will appear instantly on the live site.
 
 1. Select the 'Details' tab.
 2. Select 'Edit'.
-3. Edit the text in the 'Mission statement' field. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
+3. Edit the text in the 'Mission statement' field. {% include 'reusable-content/style-formatting.md' %}
+
 4. Select 'Preview' at the top of the 'Mission statement' field to check the text is correctly formatted.
 5. When you've finished, select 'Save'.
 
@@ -119,7 +121,8 @@ If you want to add a new translation:
 
 If you want to update an existing translation:
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'World location news'.
 4. Select the relevant translation next to the location.
@@ -134,7 +137,8 @@ You usually only need to make changes to existing worldwide organisations. Do no
 
 Only create a new worldwide organisation page if you have permission from a managing editor or your GOV.UK lead.
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select 'New document'.
 3. Select 'Worldwide organisation' and then select 'Next'.
 4. Complete the title, summary and body text.
@@ -151,13 +155,14 @@ If you need to publish it urgently without a review, find out when you can [publ
 
 ### Edit an existing world organisation page
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'Worldwide organisations'.
 4. Select 'View' next to the relevant location.
 5. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft', or select 'Delete draft' if you want to start a fresh draft.
 6. Make any changes to the title, summary or body as needed.
-7. Decide whether you need to [write public change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again later).
+7. {% include 'reusable-content/change-notes.md' %}
 8. Select the 'Save' button at the bottom of the page.
 
 You can now add or edit translations, attachments, offices, information pages and social media accounts.
@@ -332,7 +337,8 @@ You can tag this content yourself if it's been published by the Foreign, Commonw
 To tag the content:
 
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Find the document you want to tag and select 'View'.
 4. Under 'Worldwide', select 'Add tags'.
