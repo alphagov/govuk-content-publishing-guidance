@@ -10,6 +10,9 @@ lastUpdated:
 
 [[toc]]
 
+>[!NOTE]
+>If you need to edit a topical event page published before 24 April 2026, see our separate [guidance on older topical event pages](/publish-update-retire-content/promotional-social/topical-events-old/). This page is only for topical event pages added on or after 24 April 2026. 
+
 Topical event pages are used to communicate government activity about high-profile events or in response to a major crisis.
 
 Use for an event or crisis that is all of the following:
@@ -28,8 +31,6 @@ Do not use for:
 * events which can be reasonably covered by a lead news story on a departmental homepage (although news stories may develop into topical event pages following additional content generation or increased public interest)
 * influencing behaviour change – this is the role of [campaign sites](/publish-update-retire-content/promotional-social/campaigns/)
 
-{% include 'reusable-content/signon-account-whitehall.md' %}
-
 ## Get approval to create a new topical event page
 
 Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for approval](https://support.publishing.service.gov.uk/content_advice_request/new) before creating the page.
@@ -38,88 +39,89 @@ The request will need to show that your event meets all of the above criteria.
 
 Once you have that approval, then you can add a new page.
 
-## Add or edit a topical event page
+## Create a draft
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin).
-2. Select the 'More' tab.
-3. Select 'Topical events'.
+{% include 'reusable-content/signon-account-whitehall.md' %}
 
-If you're adding a new page, select 'Create topical event'. Otherwise, search for the name of the group and select 'Edit' next to it.
 
-Once you've done this, you can add or edit the details of the page.
+Once you’ve created a draft, you need to add the title, summary and description fields before you can save it.  
 
->[!NOTE]
->When adding or editing a topical event page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
+### If you’re creating a new topical event page
 
-## Add or edit details
+1. {% include 'reusable-content/whitehall-publisher.md' %}
 
-Each topical page has a number of fields to fill in.
+2. Select the 'New document' tab.
+3. Select ‘Topical event’ and then select the ‘Next’ button.
 
-### Name
+### If you’re updating an existing topical event page
 
-Use the name of the event and the year (for example 'D5 London 2014') and state if it's a government response to a crisis or event (for example 'Ebola virus: UK government response').
+1. {% include 'reusable-content/whitehall-publisher.md' %}
 
-Names must be unique and cannot be changed once published. They do not need a full stop. When you save your page this will become its 'slug', which users will see as the last section of the page URL.
+2. Select the ‘Documents’ tab.
+3. Search for the topical event you want to edit, and select the ‘View’ link next to it. This will take you to the edition summary page.
+4. Select the ‘Create new edition’ button. If a new edition has already been created, select the ‘Go to draft’ link. You can then select ‘Edit draft’ or, if you do not want to use this draft, select ‘Delete draft’ and then select ‘Create new edition’.
+
+## Add or edit the title, summary and body
+
+### Title
+
+Use the name of the event and the year (for example ‘D5 London 2014’) and state if it’s a government response to a crisis or event (for example ‘Ebola virus: UK government response’).
+
+Names must be unique and cannot be changed once published. They do not need a full stop. When you save your page this will become its ‘slug’, which users will see as the last section of the page URL.
 
 ### Summary
 
 Give a summary of the topical event. Write it as a complete sentence with a full stop.
 
-### Description
+### Body
 
 Keep the description short and use it to briefly explain:
 
-* what the event is 
+* what the event is
 * how the government is involved
 * what users will find on the page
 
-You can also use it to link to related policies, statements of action or presentations.
+You can also use it to link to related policies, statements of action or presentations. 
+
 Do not repeat the title or summary.
 
-### Logo
+## Tag organisations
 
-Add a logo if you have one. You do not need to provide alt text. If you add a logo it will show at the top of the page, next to the title and summary text. 
+Your own organisation will be set as a lead organisation as default, but you can change that or add any other organisations if they’re responsible for the content.
 
-### Duration
+Lead organisations will be listed on the topical event page in the order you add them in the draft. Supporting organisations will be shown in alphabetical order.
 
-Topical event pages are only relevant for a specific period of time, so you can set a start date and an end date.
+## Update settings of the draft
 
-### Social media accounts
+{% include 'reusable-content/update-settings-no-attachments.md' %}
 
-Select any services being used for the event and add the URL. You can add a maximum of 7.
+{% include 'reusable-content/limit-access.md' %}
 
-### Publish the draft
+## Add or edit social media accounts
 
-Select 'Save' to publish the topical event. The draft will go live immediately.
+You can add and remove social media accounts in the ‘Social media accounts’ tab. 
 
-If you're creating a new topical event, you can now tag organisations, add an 'About' page and feature content.
+To add an account, select the ‘Add a social media account’ button and then choose the channel type and add the URL.
 
-## Tag an organisation
+## Add or edit images
 
-1. Select the 'More' tab.
-2. Select 'Organisations'.
-3. Find the organisation you want to tag and select 'View' next to it.
-4. Select the 'Edit' link next to the 'Details' heading.
-5. Go to 'Topical events' and select the topical event from the drop down menu.
-6. Select 'Save'.
+You can add:
 
-You can make some of the tagged organisations 'leads'. This means their name and logo will show up on the topical event page under a 'Who's involved' heading.
+* a header image - this will show at the top of the page, next to the title and summary text
+* an event logo - this will show next to the description text
 
-1. Go back to the topical event page.
-2. Select the 'Organisations' tab.
-3. Select 'Make lead' next to the relevant organisations.
+Make sure you’ve correctly [formatted the images](/formatting-content/images-videos/formatting-images/) before you add them.
 
-## Add or edit an 'About' page
+To add an image:
 
-Use this page to give more detailed information on what the government is doing about the event.
+1. Select the ‘Images’ tab.
+2. Select ‘Add’ in the header image or event logo box.
+3. Choose your file and select ‘Upload’. If you’re going to use more than one image, make sure they all have a different file name.
+4. If it’s a header image, you can add a caption or image credit on the next screen. Leave it blank if you do not need to. Select ‘Save’ when you’re done.
+ 
+If the image requires cropping, it will say this when you go back to the ‘Images’ tab. 
 
-1. Select the 'About page' tab.
-2. Select 'Create new about page'.
-3. Add a name for the 'About' page. The name of the topical event page will automatically appear as the 'About' page title, so do not repeat this. 
-4. Add some 'Read more link text', following the guidance for [writing link text](/writing-to-gov-uk-standards/tone-of-voice/add-links/). The link text will appear below the summary on the main topical event page and direct users to the 'About' page.
-5. Complete the 'Summary' field using a maximum of 140 characters. Write it as a complete sentence with a full stop.
-6. Complete the 'Body' section.
-7. Select 'Save'. The draft will be published immediately.
+Select ‘Edit’ to crop the image or to edit the caption on header images.
 
 ## Tag a piece of content to the topical event page
 
