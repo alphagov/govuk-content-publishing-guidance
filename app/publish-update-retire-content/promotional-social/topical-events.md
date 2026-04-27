@@ -43,6 +43,7 @@ Once you have that approval, then you can add a new page.
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
+
 Once you’ve created a draft, you need to add the title, summary and description fields before you can save it.  
 
 ### If you’re creating a new topical event page
