@@ -56,6 +56,7 @@ Keep the description short and use it to briefly explain:
 * what users will find on the page
 
 You can also use it to link to related policies, statements of action or presentations.
+
 Do not repeat the title or summary.
 
 ### Logo
