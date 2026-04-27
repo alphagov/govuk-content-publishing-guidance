@@ -171,4 +171,8 @@ You can change the order of featured content.
 1. Select the 'Featured' tab.
 2. Select 'Unfeature' to remove featured content from your topical events page.
 
+## Publish the draft
+
+{% include 'reusable-content/publish-draft.md' %}
+
 *[GDS]: Government Digital Service
