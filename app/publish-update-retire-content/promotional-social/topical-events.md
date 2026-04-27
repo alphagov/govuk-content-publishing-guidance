@@ -43,12 +43,6 @@ Once you have that approval, then you can add a new page.
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
-1. {% include 'reusable-content/whitehall-publisher.md' %}
-
-2. Select the 'More' tab.
-3. Select 'Topical events'.
-
-
 Once you’ve created a draft, you need to add the title, summary and description fields before you can save it.  
 
 ### If you’re creating a new topical event page
@@ -115,7 +109,7 @@ You can add:
 * a header image - this will show at the top of the page, next to the title and summary text
 * an event logo - this will show next to the description text
 
-Make sure you’ve correctly [formatted the images](/formatting-content/images-videos/formatting-images/) before you add them.
+Make sure you’ve correctly [formatted the images](/formatting-content/images/) before you add them.
 
 To add an image:
 
