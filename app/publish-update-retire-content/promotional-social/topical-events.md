@@ -43,6 +43,11 @@ Once you have that approval, then you can add a new page.
 
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
+2. Select the 'More' tab.
+3. Select 'Topical events'.
+
 
 Once you’ve created a draft, you need to add the title, summary and description fields before you can save it.  
 

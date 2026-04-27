@@ -68,7 +68,8 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 >[!NOTE]
 >When adding or editing a people page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'People'.
 4. Check that there's not already a page for the person using the search bar.
@@ -107,7 +108,8 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 To add a new role page:
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'Roles'.
 4. Select 'Create new role'.
@@ -160,7 +162,8 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 >[!NOTE]
 >When assigning a role to a person, be aware that it will update as soon as you select ‘Save’ – there’s no draft state or peer review.
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'Roles'.
 4. Search for the role title and select 'Edit'. 

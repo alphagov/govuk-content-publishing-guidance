@@ -57,7 +57,8 @@ Once you have permission, you can add the page.
 
 You need to:
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'More' tab.
 3. Select 'Groups'.
 

@@ -48,7 +48,8 @@ The title and summary are displayed in the release calendar and search engine re
 
 To create a statistics announcement: 
 
-1. Go to [Whitehall Publisher](https://whitehall-admin.publishing.service.gov.uk/government/admin/).
+1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Statistics announcements' tab.
 3. Select the 'Create announcement' link.
 4. Choose a statistics type. Only select the 'Accredited Official Statistics' option if your statistics have been awarded the [accredited official statistics badge](https://osr.statisticsauthority.gov.uk/accredited-official-statistics/) by the Office for Statistics Regulation (OSR).
@@ -113,8 +114,9 @@ When the statistics publication is published, the announcement will disappear fr
 2. Select 'View' next to the publication.
 3. Select the 'Edit' button.
 4. Make your changes.
-5. Do not change anything under the 'Political' heading. This is related to [history mode](/writing-to-gov-uk-standards/plan-manage-content/retire-content) and it will only be important if your organisation is asked to take part in a history mode audit.
-6. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). Go to the bottom of the page and select the relevant option under 'Do users have to know the content has changed?', and add your change notes if needed (you can edit them again before you publish the draft).
+5. {% include 'reusable-content/political-heading.md' %}
+
+6. {% include 'reusable-content/change-notes.md' %}
 7. Select the 'Save' button at the bottom of the page.
 8. Select 'Submit for 2nd eyes'. This will allow another editor to [review your document](/publish-update-retire-content/standard-content-types/review-standard/) and then they can publish or schedule it.
 
