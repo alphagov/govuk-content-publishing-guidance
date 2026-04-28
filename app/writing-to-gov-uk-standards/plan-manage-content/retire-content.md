@@ -9,6 +9,8 @@ description: Learn when to withdraw or unpublish content on GOV.UK, and when con
 lastUpdated:
 ---
 
+[[toc]]
+
 You can either:
 
 + withdraw the content - this keeps the content on the site, but it does not appear in internal search results and there'll be a banner to it to explain that the content is no longer current

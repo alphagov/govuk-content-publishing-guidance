@@ -9,6 +9,8 @@ description: Create and update content blocks with Content Block Manager and add
 lastUpdated:
 ---
 
+[[toc]]
+
 Content blocks are short bits of information that can be reused across multiple pieces of content and can be easily updated in one place.
 
 For example, a specific pension rate is one block of information that might appear in 50 pages on GOV.UK. If that pension rate changes, it can be changed once rather than updating it manually 50 times. It will then automatically update on each page the block is used.

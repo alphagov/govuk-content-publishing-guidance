@@ -8,6 +8,9 @@ title: Manage your own account
 description: Learn how to manage your Signon account so you can access Whitehall Publisher, including signing in, 2-step verification and password resets.
 lastUpdated:
 ---
+
+[[toc]]
+
 You need a ‘Signon’ account to access GOV.UK publishing applications such as Whitehall Publisher and Specialist Publisher.
 
 Your GOV.UK lead or an organisation admin can [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/) for you.

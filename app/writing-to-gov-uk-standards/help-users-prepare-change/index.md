@@ -8,6 +8,9 @@ title: Help users prepare for change
 description: Plan updates to GOV.UK content to reflect an upcoming change to a policy or scheme.
 lastUpdated:
 ---
+
+[[toc]]
+
 ## Understand what needs to change
 
 Before you decide what content to update, you need to find out from your policy teams what's changing. 
