@@ -8,6 +8,9 @@ title: Manage accounts for your organisation
 description: Learn how to view, update, reset, unsuspend and manage permissions for Signon accounts as an organisation admin, so users can access Whitehall Publisher.
 lastUpdated:
 ---
+
+[[toc]]
+
 If you have organisation admin permissions, you can do the following for people in your organisation:
 
 + [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/)
