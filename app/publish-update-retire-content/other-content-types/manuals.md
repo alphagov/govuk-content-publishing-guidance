@@ -8,6 +8,8 @@ description: Learn when and how to use manuals.
 lastUpdated:
 ---
 
+[[toc]]
+
 Manuals are a browsable format that are generally created for specialist users who are familiar with a topic. 
 
 They also have features that make them suited to long or complex legal documents with named or numbered chapters or clauses. They can be used instead of a lengthy PDF.
