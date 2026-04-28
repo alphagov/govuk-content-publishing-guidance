@@ -8,6 +8,9 @@ title: Ask for updates to GOV.UK content
 description: Find out how to request new or updated mainstream content on GOV.UK.
 lastUpdated:
 ---
+
+[[toc]]
+
 ## When to ask the Government Digital Service (GDS) for help
 
 There are different ways to ask for a change depending on whether you want to work on ‘Whitehall’ or ‘mainstream’ content.
