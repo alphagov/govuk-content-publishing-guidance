@@ -8,6 +8,9 @@ title: Find out what terms users are searching for
 description: Use tools to see what search terms are being used on search engines like Google and the internal GOV.UK search.
 lastUpdated:
 ---
+
+[[toc]]
+
 Looking at popular search terms can help you:
 
 - identify user needs
