@@ -8,6 +8,7 @@ title: Publish standard content types
 description: Learn how to publish and schedule standard content types, including force publishing and email notifications.
 lastUpdated:
 ---
+[[toc]]
 
 You need 'editor' permissions on Whitehall Publisher to publish content.
 
