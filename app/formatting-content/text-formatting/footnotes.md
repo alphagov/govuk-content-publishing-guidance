@@ -8,6 +8,8 @@ description: Add footnotes to GOV.UK content with Govspeak Markdown code.
 lastUpdated:
 ---
 
+You can only add footnotes to HTML attachments and manuals.
+
 Avoid using footnotes in your content as much as possible. Footnotes are designed for reference in print, not webpages. 
 
 If you need to use a footnote, put [^n] into the sentence where you want to create the footnote, where ‘n’ is the number for the footnote.
