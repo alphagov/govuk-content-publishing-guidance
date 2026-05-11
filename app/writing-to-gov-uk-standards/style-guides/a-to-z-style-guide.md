@@ -698,9 +698,9 @@ Lower case.
 
 Not curricula.
 
-### customs duty
+### Customs Duty
 
-Lower case.
+Upper case.
 
 ### customs union
 
