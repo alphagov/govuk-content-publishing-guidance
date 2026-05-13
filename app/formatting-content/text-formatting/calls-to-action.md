@@ -4,7 +4,7 @@ sectionKey: Formatting content
 eleventyNavigation:
   parent: Text formatting
 title: Calls to action
-description: Add calls to action to GOV.UK content with Govspeak Markdown code.
+description: Add a call to action to GOV.UK content with Govspeak Markdown code.
 lastUpdated:
 ---
 
