@@ -28,7 +28,7 @@ Short URLs can link to:
 - GOV.UK sub-domains, like `https://www.registertovote.service.gov.uk/` and `https://helptogrow.campaign.gov.uk/`
 - external government sub-domains, like `.judiciary.uk`, `.nhs.uk` and `.ukri.org`
 
-## Ask for a short URL
+## Asking for a short URL
 
 You can ask for a short URL if you’re the GOV.UK lead or a managing editor in your organisation.
 
