@@ -6,13 +6,6 @@ You can update the draft title and the URL will change.
 
 ### If the content has been published already
 
-You can:
+Create a new draft and change the title. You’ll then see a prompt asking you whether you want to keep the current URL or update it to match the new title. Select the second option.
 
-1. Create a new piece of content with the desired title and URL.
-2. Copy over the current content to this new draft.
-3. Publish the new draft.
-4. [Unpublish the page](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) with the incorrect URL. When you unpublish it, you'll be able to set up a redirect to the new page.
-
-The change notes history will be lost if you do this. If you need to keep that history, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to change the URL instead.
-
-You’ll need a Signon account with ‘content requesters’ permissions to contact GDS using the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+Publish the draft with the updated URL. Whitehall Publisher will automatically set up redirects from the old URL to the new URL.
