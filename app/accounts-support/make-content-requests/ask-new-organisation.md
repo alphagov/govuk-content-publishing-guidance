@@ -27,13 +27,14 @@ If you’re requesting a new organisation page, include in your request:
 
 * the new organisation’s name
 * the organisation’s abbreviation (if it has has one)
-* if the organisation uses a single identity system (‘crown crest’) logo or a [custom logo approved by the Government Communications Service (GCS)](https://www.communications.gov.uk/guidance/marketing/branding-guidelines/#Brand-exemption-process)
+* if the organisation uses a single identity system (‘crown crest’) logo, plain text or a [custom logo approved by the Government Communications Service (GCS)](https://www.communications.gov.uk/guidance/marketing/branding-guidelines/#Brand-exemption-process)
 * how the logo should be formatted, for example stacked or written out in full (if using a government single identity system logo)
 * if there’s a parent organisation
 * any other sponsoring organisations
 * an email address for users to request accessible formats of published attachments
 * if the organisation is [exempt from GOV.UK](/accounts-support/make-content-requests/ask-exemption/), the URL of the organisation’s website
 * the type of organisation
+* the name and email address of the GOV.UK lead who’ll be responsible for the organisation and its content on GOV.UK
 
 ### Types of organisation
 
