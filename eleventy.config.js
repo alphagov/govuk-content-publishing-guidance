@@ -106,8 +106,8 @@ export default function(eleventyConfig) {
             text: "Privacy notice"
           },
           {
-            href: "/about-the-guidance",
-            text: "About the guidance"
+            href: "/about-the-guidance/whats-new",
+            text: "What's new"
           },
         ],
         html: 'Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service" class="govuk-footer__link">Government Digital Service</a>.',
