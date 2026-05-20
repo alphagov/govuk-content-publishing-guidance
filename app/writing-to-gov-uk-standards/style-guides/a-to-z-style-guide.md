@@ -9,6 +9,10 @@ description: See a list of the style points for all GOV.UK content, including ho
 lastUpdated:
 ---
 
+[Sign up to receive email updates about changes to the GOV.UK content and publishing guidance including the style guide](https://submit.forms.service.gov.uk/form/265492/gov-uk-content-and-publishing-guidance-updates).
+
+You do not need to sign up if you have access to Whitehall Publisher or other GOV.UK publishing applications, as you'll get these emails automatically.
+
 ## A
 
 ### A*, A*s
