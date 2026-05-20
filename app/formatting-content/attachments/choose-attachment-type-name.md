@@ -5,7 +5,7 @@ order: 1
 eleventyNavigation:
   parent: Attachments
 title: Choose an attachment file type and file name
-description: Get help deciding which file type and file name to use for attachments on GOV.UK, and follow open standards for documents.
+description: Get help deciding which file types - including HTML, ODT, CVS, PDF or PDF/A - and file names to use for attachments, and follow open standards for documents.
 lastUpdated:
 ---
 
