@@ -14,8 +14,8 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 20 May | Ask for a new organisation page | Updated the list of things to include in requests for new organisation pages. You should include the name and email address of a GOV.UK lead. |
-| 19  May | Publishing content | Updated the guidance on how to update URLs for already published pages. There's a new feature in Whitehall Publisher that makes this easier. |
+| 20 May | [Ask for a new organisation page](/accounts-support/make-content-requests/ask-new-organisation/) | Updated the list of things to include in requests for new organisation pages. You should include the name and email address of a GOV.UK lead. |
+| 19  May | [Standard content types](/publish-update-retire-content/standard-content-types/) | Updated the guidance on how to update URLs for already published pages. There's a new feature in Whitehall Publisher that makes this easier. |
 | 13 May | Entire guidance | The guidance site entered into public beta. The site combined 4 pre-existing manuals into a single place. There were also edits to reduce duplication and make the guidance easier to navigate. |
 
 ## Get email updates about changes to the guidance

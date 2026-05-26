@@ -7,9 +7,9 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 
-whatsNewHeadline: 
-whatsNew: 
+whatsNewDate: 20 May 2026
+whatsNewHeadline: Updated the guidance on requesting new organisation pages
+whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: Style guides
     description: Style, spelling and grammar conventions for GOV.UK.
