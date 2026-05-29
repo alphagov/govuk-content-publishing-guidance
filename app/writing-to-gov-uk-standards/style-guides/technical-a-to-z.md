@@ -9,11 +9,17 @@ description: See a list of the style points for technical content on GOV.UK, inc
 lastUpdated: 
 ---
 
+{% include "layouts/shared/last-updated.njk" %}
+
+
 This section only covers style conventions for technical content on GOV.UK.
 
 If you cannot find something, look at the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) which covers style conventions for all content on GOV.UK.
 
 If you want to suggest a change, read the [guidance on how to use the style guide](/writing-to-gov-uk-standards/style-guides/how-to-use/).
+
+
+{% include "layouts/shared/style-guide-navigation.njk" %}
 
 
 ## A
