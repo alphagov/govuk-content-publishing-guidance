@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 20 May 2026
-whatsNewHeadline: Updated the guidance on requesting new organisation pages
+whatsNewDate: 1 June 2026
+whatsNewHeadline: Added new guidance about asking to remove history mode
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: Style guides
