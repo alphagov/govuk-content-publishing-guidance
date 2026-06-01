@@ -139,9 +139,6 @@ Before a general election, affected organisations will be asked by GDS to do a h
 + see what content will go into history mode if the government changes 
 + prevent content from going into history mode if you think there is a problem
 
-If you think content should be removed from history mode after it’s been applied, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new).
-
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
-
+If you think content should no longer be in history mode, [ask GDS to remove history mode](/accounts-support/make-content-requests/ask-history-mode/).
 
 *[GDS]: Government Digital Service

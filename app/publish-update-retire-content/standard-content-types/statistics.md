@@ -112,13 +112,15 @@ When the statistics publication is published, the announcement will disappear fr
 
 1. Select the 'Documents' tab in Whitehall Publisher. This will bring up a list of publications. Use the filters to find yours.
 2. Select 'View' next to the publication.
-3. Select the 'Edit' button.
+3. Select the 'Create new edition' button.
 4. Make your changes.
 5. {% include 'reusable-content/political-heading.md' %}
 
 6. {% include 'reusable-content/change-notes.md' %}
 7. Select the 'Save' button at the bottom of the page.
 8. Select 'Submit for 2nd eyes'. This will allow another editor to [review your document](/publish-update-retire-content/standard-content-types/review-standard/) and then they can publish or schedule it.
+
+{% include 'reusable-content/remove-history-mode.md' %}
 
 ## Edit a statistics announcement title, summary, organisation or topic
 
