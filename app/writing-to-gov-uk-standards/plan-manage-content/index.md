@@ -12,12 +12,12 @@ Use this guidance to understand the principles of designing user-centred content
 
 This guidance includes:
 
-* the [principles of content design](/writing-to-gov-uk-standards/plan-manage-content/understand-content-design/)
-* how to [identify user needs](/writing-to-gov-uk-standards/plan-manage-content/identify-user-needs/) and write a user need
-* how you should [plan new GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/), including where it will go and how to help users find it
-* how to find and [manage your existing GOV.UK content](/writing-to-gov-uk-standards/plan-manage-content/manage-existing-govuk-content/)
-* how to [approach accessibility](/writing-to-gov-uk-standards/plan-manage-content/understand-accessibility/)
-* the [standards for GOV.UK URLs](/writing-to-gov-uk-standards/plan-manage-content/follow-url-standards/)
-* when you should consider [adding translated versions of our content](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/)
-* how to [group content](/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/) into topics, collections and step-by-step pages
-* when to [withdraw or unpublish content, and when content goes into 'history mode'](/writing-to-gov-uk-standards/plan-manage-content/retire-content)
+* the principles of content design
+* how to identify user needs and write a user need
+* how you should plan new GOV.UK content, including where it will go and how to help users find it
+* how to find and manage your existing GOV.UK content
+* how to approach accessibility
+* the standards for GOV.UK URLs
+* when you should consider adding translated versions of our content
+* how to group content into topics, collections and step-by-step pages
+* when to withdraw or unpublish content, and when content goes into 'history mode'
