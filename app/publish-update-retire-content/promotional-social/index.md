@@ -12,6 +12,6 @@ lastUpdated:
 
 Some content types are tailored to timely or promotional content. These are:
 
-* [blogs](/publish-update-retire-content/promotional-social/blogs/)
-* [campaigns](/publish-update-retire-content/promotional-social/campaigns/)
-* [topical event pages](/publish-update-retire-content/promotional-social/topical-events/)
+* blogs
+* campaigns
+* topical event pages
