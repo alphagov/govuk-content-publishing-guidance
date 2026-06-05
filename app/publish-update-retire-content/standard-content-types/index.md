@@ -22,7 +22,7 @@ Some content types on GOV.UK have similar processes for how you'll create, updat
 * publications
 * speeches
 * statistical data sets
-* statistic
+* statistics
 
 This section of guidance covers these content types, as well as the common processes for:
 
