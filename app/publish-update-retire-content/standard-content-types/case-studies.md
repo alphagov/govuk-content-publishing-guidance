@@ -70,10 +70,11 @@ After saving the page, you can add images and attachments.
 8. {% include 'reusable-content/change-notes.md' %}
 9. Select the 'Save' button at the bottom of the page.
 
+You can now edit the images and attachments.
+
+
 {% include 'reusable-content/remove-history-mode.md' %}
 
-
-You can now edit the images and attachments.
 
 ## Add or remove images
 

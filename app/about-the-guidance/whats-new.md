@@ -10,6 +10,13 @@ lastUpdated:
 
 This page sets out all recent major updates to the GOV.UK content and publishing guidance.
 
+## June 2026
+
+| Date | Section | Update |
+| --------- | ----------- | ----------- |
+| 1 June | [Ask for history mode to be removed](/accounts-support/make-content-requests/ask-history-mode/) | Added this as a new page. |
+
+
 ## May 2026
 
 | Date | Section | Update |
