@@ -19,6 +19,7 @@ This guidance covers how to request:
 - a featured slot on the GOV.UK homepage
 - changes to related links
 - a new organisation page
+- removing 'history mode'
 
 It also covers how to request an exemption from putting your content on GOV.UK.
 
