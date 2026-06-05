@@ -58,7 +58,7 @@ export function loadAnalytics() {
       j.async = true
       j.src = `https://www.googletagmanager.com/gtm.js?id=${i}${dl}`
       document.head.appendChild(j)
-    })(window, document, 'script', 'dataLayer', 'GTM-NDQ4DC87')
+    })(window, document, 'script', 'dataLayer', 'GTM-W69GK5WH')
   }
 }
 
