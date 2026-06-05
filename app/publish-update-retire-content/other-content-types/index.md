@@ -12,9 +12,9 @@ lastUpdated:
 
 Some content types do not follow the same common processes as the 'standard' content types. Some have different features, such as a postcode search function or collapsible headings, or use different publishing applications. These types are:
 
-* ['Find my nearest' pages](/publish-update-retire-content/other-content-types/find-my-nearest/)
-* [licence pages](/publish-update-retire-content/other-content-types/licence-pages/)
-* [local transaction pages](/publish-update-retire-content/other-content-types/local-transaction/)
-* [manuals](/publish-update-retire-content/other-content-types/manuals/)
-* [specialist finders](/publish-update-retire-content/other-content-types/specialist-finders/)
+* 'Find my nearest' pages
+* licence pages
+* local transaction pages
+* manuals
+* specialist finders
 
