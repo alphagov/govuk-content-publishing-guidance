@@ -47,7 +47,7 @@ export default function(eleventyConfig) {
   // Register the plugin
   eleventyConfig.addPlugin(govukEleventyPlugin, {
     homeKey: 'Home',
-    titleSuffix: 'Content and publishing guidance - GOV.UK',
+    titleSuffix: 'GOV.UK content and publishing guidance',
     showBreadcrumbs: true,
     stylesheets: [
       '/assets/styles.css'
