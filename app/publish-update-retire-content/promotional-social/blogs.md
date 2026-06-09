@@ -24,6 +24,8 @@ Compared to newsletters, they can help make information accessible, they are eas
 - routinely get more traffic than newsletters
 - allow users to sign up for email updates
 
+See an [example of a blog site](https://insidegovuk.blog.gov.uk/).
+
 ## When to use a blog
 
 Blogs are not published on the main GOV.UK site, but on the blog.gov.uk subdomain through a WordPress platform.

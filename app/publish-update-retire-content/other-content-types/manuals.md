@@ -38,7 +38,8 @@ Do not use them for:
 * PDFs or documents that are published elsewhere on GOV.UK
 * internal guidance, unless there's a legal requirement to do so (for example HMRC manuals)
 
-View a [good example of a manual](https://www.gov.uk/guidance/convert-to-an-academy-information-for-schools).
+> [!NOTE]
+> See an [example of a manual](https://www.gov.uk/guidance/convert-to-an-academy-information-for-schools).
 
 ## Get approval to create a new manual
 

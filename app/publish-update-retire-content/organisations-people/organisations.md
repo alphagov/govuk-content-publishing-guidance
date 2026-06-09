@@ -106,7 +106,7 @@ When choosing links, consider:
 * balancing mainstream and specialist user needs - the [guidance on planning new content](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/) includes more information about the difference between mainstream and specialist content
 * seasonal trends (for example applications for study visas or fishing rod licences)
 
-See [a good example of a service priority organisation page](https://www.gov.uk/government/organisations/companies-house). 
+See [an example of a service priority organisation page](https://www.gov.uk/government/organisations/companies-house). 
 
 ### Choosing links for a news priority layout
 
@@ -129,7 +129,7 @@ Do not include links to content that's already featured elsewhere on your organi
 
 Do not include campaign sites unless there's evidence of significant user demand.
 
-See [a good example of a news priority organisation page](https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero). 
+See [an example of a news priority organisation page](https://www.gov.uk/government/organisations/department-for-energy-security-and-net-zero). 
 
 ## The 'What we do' section and 'About us' page
 

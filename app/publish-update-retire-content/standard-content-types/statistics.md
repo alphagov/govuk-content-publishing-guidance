@@ -29,6 +29,9 @@ You must create a statistics publication joined to your statistics announcement.
 
 The publication should contain the statistics described in the announcement or link to them if they're published on an external website. 
 
+> [!NOTE]
+> See an [example of a statistics publication on GOV.UK](https://www.gov.uk/government/statistics/cold-weather-payment-estimates-2020-to-2021).
+
 ## How far in advance to publish statistics announcements
 
 Publish a statistics announcement 12 months before the release date. If you do not know about the statistics 12 months in advance, announce them as soon as possible.

@@ -26,7 +26,8 @@ Do not use them for:
 + grouping pages that contain different types of content – these are more suited to [topic pages](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/plan-manage-content/organise-group-govuk-content/)
 + collections that will have fewer than 100 documents and will not be used or updated regularly – these are more suited to [document collections](/publish-update-retire-content/standard-content-types/document-collections/)
 
-See a [good example of a specialist finder](https://www.gov.uk/algorithmic-transparency-records).
+> [!NOTE]
+> See an [example of a specialist finder](https://www.gov.uk/algorithmic-transparency-records).
 
 ## Ask for a new specialist finder
 

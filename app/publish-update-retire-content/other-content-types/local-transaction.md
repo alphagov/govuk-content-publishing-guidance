@@ -12,7 +12,7 @@ Local transaction pages link users to services and information provided by their
 
 When a user enters a postcode, they're told the related council and given a link to a relevant page on their website.
 
-View an [example of a local transaction page](https://www.gov.uk/pay-council-tax).
+See an [example of a local transaction page](https://www.gov.uk/pay-council-tax).
 
 ## Add or remove a local transaction page
 

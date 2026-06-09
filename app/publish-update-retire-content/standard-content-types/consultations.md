@@ -23,6 +23,9 @@ Do not use the content type for:
 - documents that should be added to an existing consultation (such as supporting or outcome documents)
 - informal 'consultations' like surveys
 
+> [!NOTE]
+> See an [example of a consultation on GOV.UK](https://www.gov.uk/government/consultations/review-of-the-default-fund-charge-cap-and-standardised-cost-disclosure).
+
 ## How consultations work
 
 Consultations stay on the same page of GOV.UK, including when they're closed.

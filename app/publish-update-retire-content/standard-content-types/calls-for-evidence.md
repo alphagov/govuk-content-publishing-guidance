@@ -24,6 +24,9 @@ There could be legal consequences if you use a call for evidence content type wh
 
 Check the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance) or speak to your legal advisors if you're not sure whether you're doing a consultation or a call for evidence.
 
+> [!NOTE]
+> See an [example of a call for evidence on GOV.UK](https://www.gov.uk/government/calls-for-evidence/solar-on-car-parks-and-electric-vehicle-charging).
+
 ## How calls for evidence work
 
 Calls for evidence stay on the same page of GOV.UK, including when they are closed.
