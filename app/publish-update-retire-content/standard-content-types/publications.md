@@ -56,7 +56,7 @@ There are different types of publications. Make sure you choose the right type, 
       <th scope="row" class="govuk-table__header">Corporate report</th>
       <td class="govuk-table__cell">Publications about your organisation as a corporate entity. This includes accounts, annual reports, business plans, performance and efficiency reviews and structural reform plans.</td>
       <td class="govuk-table__cell">Publications about what your organisation does, like strategy documents. Use the policy paper type instead.</td>
-       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/iiac-annual-report-2019-to-2020--2" class="govuk-link">Example of a corporate response on GOV.UK</a>.</p></td>
+       <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/iiac-annual-report-2019-to-2020--2" class="govuk-link">Example of a corporate report on GOV.UK</a>.</p></td>
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Correspondence</th>
