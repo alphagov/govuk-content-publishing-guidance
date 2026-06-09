@@ -21,7 +21,7 @@ Use case studies for real examples that help users understand someone's personal
 They can be either a first person account or a third person account with quotes from the person it's about. They can be in video form.
 
 > [!NOTE]
-> See a [good example of a case study on GOV.UK](https://www.gov.uk/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40).
+> See an [example of a case study on GOV.UK](https://www.gov.uk/government/case-studies/how-the-home-offices-immigration-technology-department-reduced-its-cloud-costs-by-40).
 
 Do not create a case study if:
 

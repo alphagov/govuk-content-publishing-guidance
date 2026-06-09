@@ -42,6 +42,15 @@ Before you start, decide whether the speech should be marked as:
 - oral statement to Parliament
 - authored article
 
+See an:
+
+- [example of a transcript on GOV.UK](https://www.gov.uk/government/speeches/foreign-secretarys-keynote-speech-at-the-global-partnerships-conference-19-may-2026)
+- [example of draft text on GOV.UK](https://www.gov.uk/government/speeches/registered-charity-status-a-social-contract)
+- [example of speaking notes on GOV.UK](https://www.gov.uk/government/speeches/presentation-by-the-uk-chairperson-of-the-osce-security-committee-ambassador-neil-bush)
+- [example of a written statement on GOV.UK](https://www.gov.uk/government/speeches/light-dues-for-the-year-2021-to-2022)
+- [example of an oral statement on GOV.UK](https://www.gov.uk/government/speeches/strengthening-our-health-protection-at-the-border)
+- [example of an authored article on GOV.UK](https://www.gov.uk/government/speeches/minister-falconer-article-on-syria-anniversary-december-2025)
+
 ## Create a draft
 
 ### If you're creating a new speech

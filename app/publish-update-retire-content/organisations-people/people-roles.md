@@ -23,7 +23,10 @@ Links to these pages appear:
 
 People and their roles are covered by 2 separate sections of Whitehall Publisher. You need the person first, then you can assign a role to them by editing the role.
 
-To work on people or role pages, you'll need a [Signon account with access to Whitehall Publisher](/accounts-support/manage-accounts-training/publishing-accounts-permissions/). 
+To work on people or role pages, you'll need a [Signon account with access to Whitehall Publisher](/accounts-support/manage-accounts-training/publishing-accounts-permissions/).
+
+> [!NOTE]
+> See an [example of a people page on GOV.UK](https://www.gov.uk/government/people/aarti-thakor) and an [example of a role page on GOV.UK](https://www.gov.uk/government/ministers/secretary-of-state-for-transport).
 
 ## When to add and update people and role pages
 

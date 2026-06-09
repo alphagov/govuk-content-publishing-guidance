@@ -22,8 +22,8 @@ Worldwide pages collect information about the UK's government work abroad. They 
 
 World location news pages can either be for:
 
-* worldwide locations, such as '[Country] and the UK' 
-* international delegations, such as 'UK and [delegation name]'
+* worldwide locations, such as the ['France and the UK' news page on GOV.UK](https://www.gov.uk/world/france/news)
+* international delegations, such as the ['UK Mission to the United Nations (New York)' news page on GOV.UK](https://www.gov.uk/world/uk-mission-to-the-united-nations-new-york)
 
 The 2 types of pages are very similar and are updated in the same way.
 
@@ -132,6 +132,9 @@ If you want to update an existing translation:
 Worldwide organisation pages are for information about help and services users can access abroad through UK government organisations. They also present the public face of the organisation and its work.
 
 You usually only need to make changes to existing worldwide organisations. Do not create a new worldwide organisation page unless you have permission from your managing editor or GOV.UK lead. 
+
+> [!NOTE]
+> See an [example of a worldwide organisation page on GOV.UK](https://www.gov.uk/world/organisations/british-embassy-paris).
 
 ### Add a new world organisation page
 
@@ -322,6 +325,9 @@ There's a navigation page for each country and territory.
 - to edit the title, sections or description of an existing page
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+
+> [!NOTE]
+> See an [example of a help and services navigation page on GOV.UK](https://www.gov.uk/world/france).
  
 ### Tag content
 

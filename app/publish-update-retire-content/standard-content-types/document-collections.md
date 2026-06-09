@@ -33,6 +33,9 @@ Do not create a collection:
 - for a single piece of content
 - for editions of the same publication (these should be multiple attachments on a single publication page)
 
+> [!NOTE]
+> See an [example of a document collection on GOV.UK](https://www.gov.uk/government/collections/national-driving-and-riding-standards).
+
 ## Create a draft
 
 {% include 'reusable-content/signon-account-whitehall.md' %}

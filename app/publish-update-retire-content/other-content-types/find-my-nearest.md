@@ -10,7 +10,7 @@ lastUpdated:
 
 'Find my nearest' pages are mainstream pages which allow users to search for a service near them.
 
-View an [example of a 'find my nearest' page](https://www.gov.uk/find-theory-test-centre).
+See an [example of a 'find my nearest' page](https://www.gov.uk/find-theory-test-centre).
 
 When a user enters a postcode, they get search results which show them their nearest local service.
 

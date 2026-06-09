@@ -16,6 +16,9 @@ Policy advisory groups are panels of people who advise on policy development, ty
 
 Other groups include units, teams and committees within, set up or sponsored by your organisation, and who carry out specific areas of work.
 
+> [!NOTE]
+> See an [example of a group page on GOV.UK](https://www.gov.uk/government/groups/council-for-sustainable-business).
+
 ## When you need a group page
 
 Group pages should only be set up when there's:
