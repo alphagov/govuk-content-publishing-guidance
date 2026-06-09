@@ -128,6 +128,10 @@ You cannot add images to this content type.
 2. You can share the draft with someone else with access to Manuals Publisher, if you want them to review it.
 3. When you're ready, select 'Publish'. It's not possible to schedule the publication of a manual so it will be published immediately.
 
+## Email notifications
+
+Users will get email notifications about new manuals or major changes if they're subscribed to updates from tagged organisations or topics. 
+
 ## Tag organisations
 
 Your manual will be automatically tagged to the same organisation as your Signon account.
