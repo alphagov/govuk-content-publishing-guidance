@@ -14,6 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
+| 9 June | [Manuals](/publish-update-retire-content/other-content-types/manuals/) | Added guidance about getting updates. |
 | 1 June | [Ask for history mode to be removed](/accounts-support/make-content-requests/ask-history-mode/) | Added this as a new page. |
 
 
