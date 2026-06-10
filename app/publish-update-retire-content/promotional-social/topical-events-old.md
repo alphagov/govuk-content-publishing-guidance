@@ -69,7 +69,7 @@ Topical event pages are only relevant for a specific period of time, so you can 
 
 ### Social media accounts
 
-Select any services being used for the event and add the URL. You can add a maximum of 7.
+Select any services being used for the event and add the URL. You can add a maximum of 7. Select 'Delete' below a social media account to delete it. 
 
 ### Publish the draft
 

@@ -71,10 +71,9 @@ What you need to do depends on whether you want to:
 2. Search for the content you want to 'unwithdraw', and select the 'View' link next to it. This will take you to the edition summary page.
 3. Select the 'Unwithdraw' button.
 4. Make the changes and publish them.
-5. Withdraw the content again. You can either reuse a previous withdrawal date and public explanation, or use a new public explanation.
+5. Withdraw the content again. You can either reuse a previous withdrawal date and public explanation, or use a new public explanation. It will not email subscribers or give any notification to users.
 
 You should only reuse a previous withdrawal date and public explanation if you have:
-
 
 - updated file attachments to mark them 'withdrawn'
 - made a minor edit, like fixing a broken link

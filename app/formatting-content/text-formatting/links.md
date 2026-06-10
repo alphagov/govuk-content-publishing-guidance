@@ -21,12 +21,12 @@ Read the [GOV.UK homepage](https://www.gov.uk/).
 
 ## Include links to Whitehall Publisher content
 
-If you're publishing on Whitehall Publisher and you want to link to other content on Whitehall Publisher, you can either:
+If you're publishing on Whitehall Publisher and you want to link to other content on Whitehall Publisher:
 
-- use the full public URL of the content from GOV.UK
 - use the Whitehall Publisher link, if you're linking to anything in the 'Documents' section
+- use the full public URL for other content, like organisation or topic pages
 
-If you're using the Whitehall Publisher link, you should delete the first part of the URL, that reads `https://whitehall-admin.publishing.service.gov.uk/`. Only use the 'relative path', for example: `/government/admin/publications/123456`.
+When you're using the Whitehall Publisher link, you should delete the first part of the URL, that reads `https://whitehall-admin.publishing.service.gov.uk/`. Only use the 'relative path', for example: `/government/admin/publications/123456`.
 
 ## Include email links
  

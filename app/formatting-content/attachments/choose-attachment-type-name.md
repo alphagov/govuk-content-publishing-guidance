@@ -13,6 +13,8 @@ You need to choose the right file type and an appropriate file name for any atta
 
 You should [choose a content type](/publish-update-retire-content/choose-content-type/) before you start with this step, as this can affect which file types you can attach to the page.
 
+You can upload up to 500MB of attachments at one time. If you want to upload a single attachment larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+
 ## Choose an open file type
 
 Choose the right file types so that your attachments meet the [open standards principles](https://www.gov.uk/government/publications/open-standards-principles/open-standards-principles).

@@ -29,6 +29,7 @@ Instead, find out how to add translations to the content type you’re using in 
 These are the currently available languages for translations:
 
 
+- Albanian
 - Arabic
 - Armenian
 - Azeri

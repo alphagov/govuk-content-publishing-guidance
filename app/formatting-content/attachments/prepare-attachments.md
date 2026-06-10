@@ -22,7 +22,7 @@ There's additional guidance if you're attaching:
 
 ## If you want a CSV file that can be previewed
 
-CSV files can be previewed on GOV.UK if you format them correctly. The preview will show the first 1,000 rows and 50 columns. Users can view it by clicking 'view online'.
+CSV files can be previewed on GOV.UK if you format them correctly. The preview will show the first 1,000 rows and 50 columns. Users can view it by selecting 'view online'.
 
 If you want it to be previewable, the CSV file should:
 

@@ -47,7 +47,6 @@ You can feature some content not published using Whitehall Publisher, including:
 * campaigns
 * manuals
 * services
-* news stories and press releases published using Content Publisher
 * job adverts published on Civil Service Jobs
 * NHS content
 * emergency alerts
@@ -197,7 +196,7 @@ Contact details are shown in the order you add them. You can reorder them using 
 1. On your organisation page, select the 'Social media accounts' tab.
 2. To add an account, select the green 'Create a new account' button. To edit or delete a contact, find it in the list of contacts and select ‘Edit’ or ‘Delete’.
 
-These will show under the 'Follow us' heading under the 'What we do' section of the organisation page.
+These will show under the 'Follow us' heading under the 'What we do' section of the organisation page. They appear in the order you add them. 
 
 Avoid putting something very short in the ‘Title’ field, which appears as link text. For example, put ‘DWP on X’ rather than just ‘X’. Very short links can create problems for users with limited dexterity.
 
@@ -307,6 +306,22 @@ The link will appear as 'Jobs' under the 'Corporate information' section of your
 1. On your organisation page, go to the 'Details' tab and select 'Edit'.
 2. Under the heading 'Recruitment URL', add the link you want to use.
 3. Select 'Save' at the bottom of the page.
+
+You can also [create a ‘Working for us’ corporate information page](/publish-update-retire-content/corporate-information/working-for) and keep your information there.
+
+## Changing the status on GOV.UK
+
+There are several options for setting your organisation’s status:
+
++ ‘Currently live’
++ ‘Coming soon’
++ ‘Exempt from joining’
++ ‘Currently transitioning’
++ ‘Closed’
+
+You should only change this status when the organisation first goes live and if it closes. 
+
+When your organisation goes live on GOV.UK, change the status to ‘Currently live’. Once your organisation is live do not change the status or your organisation will disappear from GOV.UK.
 
 ## Closing an organisation page
 

@@ -74,7 +74,7 @@ Only choose 'Add an existing document' if you've already created a statistics pu
 
 ### Create a new document
 
-1. Click 'Create new document'. This will automatically create a statistics publication page for your statistics document. The publication type, title, summary and scheduled publishing date and time will be filled in automatically for you.
+1. Select 'Create new document'. This will automatically create a statistics publication page for your statistics document. The publication type, title, summary and scheduled publishing date and time will be filled in automatically for you.
 2. Add a description of the publication to the body. Describe the purpose of the statistics and do not summarise what the publication says. Say whether the method of classification has changed since the last publication.
 3. Select the relevant options under 'Excluded nations (required)'.
 4. {% include 'reusable-content/limit-access.md' %}
@@ -175,7 +175,7 @@ To unpublish a duplicate announcement or one published by mistake:
 1. Select the 'Statistics announcements' tab in Whitehall Publisher. This will bring up a list of existing announcements.
 2. Select 'View' next to the announcement you want to unpublish.
 3. Select the 'Unpublish announcement' button. 
-4. Add the URL you want the announcement to redirect to and click the 'Unpublish' button.
+4. Add the URL you want the announcement to redirect to and select the 'Unpublish' button.
 
 Find out how to [withdraw or unpublish](/publish-update-retire-content/standard-content-types/withdraw-unpublish-standard/) a statistics publication.
 

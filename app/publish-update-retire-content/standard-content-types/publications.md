@@ -313,13 +313,14 @@ If you do want to add a translation:
 
 1. Select 'Save and go to document summary' on your current draft. 
 2. Under the 'Translations' heading, select 'Add translation'.
-3. Add the translated title, summary and body.
-4. Select 'Save'.
-5. Under the 'Attachments' headings, select 'Modify attachments'.
-6. Edit any existing attachments and change the 'Display language' to English.
-7. Add translated attachments and select the relevant translation under 'Display language'.
-8. Select 'Save and go to document summary' on the 'Document' tab.
-9. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
+3. Select the language you want from the drop-down list and select ‘Next’.
+4. Add the translated title, summary and body.
+5. Select 'Save'.
+6. Under the 'Attachments' headings, select 'Modify attachments'.
+7. Edit any existing attachments and change the 'Display language' to English.
+8. Add translated attachments and select the relevant translation under 'Display language'.
+9. Select 'Save and go to document summary' on the 'Document' tab.
+10. Check the translations are working by selecting 'Preview translated pages' under the 'Preview' heading.
 
 ^If you're adding a translation for a language that is written from right to left, there's a different way to [format links](/formatting-content/text-formatting/links/).
 

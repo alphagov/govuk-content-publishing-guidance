@@ -15,7 +15,7 @@ If you have organisation admin permissions, you can do the following for people 
 
 + [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/)
 + view their accounts and the applications they have access to
-+ suspend and unsuspend accounts
++ suspend, unsuspend and unlock accounts
 + reset their 2-step verification
 + resend their account signup emails
 + manage access and permissions for some applications (for example, access to Manuals Publisher or the ‘editor’ permission in Whitehall Publisher)
@@ -64,7 +64,7 @@ The account access log will show you the account history, for example if they’
 
 The unsuspend link will take you to another screen. You need to untick the suspended box and save to unsuspend the user’s account.
 
-The unlock account link will only appear when a user’s account is locked. Click it to unlock an account.
+The unlock account link will only appear when a user’s account is locked. Select it to unlock an account.
 
 You can only unsuspend and unlock accounts in your department’s sub-organisations if you’ve got the super organisation admin permission.
 
