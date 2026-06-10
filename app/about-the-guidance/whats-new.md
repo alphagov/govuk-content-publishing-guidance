@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 9 June | [Manuals](/publish-update-retire-content/other-content-types/manuals/) | Added guidance about which users will get email notifications when a manual is updated. |
+| 10 June | [Manuals](/publish-update-retire-content/other-content-types/manuals/) | Added guidance about which users will get email notifications when a manual is updated. |
 | 1 June | [Ask for history mode to be removed](/accounts-support/make-content-requests/ask-history-mode/) | Added this as a new page. |
 
 
