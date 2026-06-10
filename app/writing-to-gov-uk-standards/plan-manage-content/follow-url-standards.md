@@ -31,9 +31,9 @@ That means they should:
 
 - be in lower case
 - use words and not acronyms, unless the acronym is very well known or it’s an acronym of an organisation with a long name
-- avoid using superfluous words like articles (a, an, the) – for example, /benefit-guide instead of /a-guide-to-benefits
-- use the verb stem when possible – for example, /apply insteading of /applying
-- use dashes to separate words within the URL – for example, /set-up-business
+- avoid using superfluous words like articles (a, an, the) – for example, `/benefit-guide` instead of `/a-guide-to-benefits`
+- use the verb stem when possible – for example, `/apply` insteading of `/applying`
+- use dashes to separate words within the URL – for example, `/set-up-business`
 
 You can choose to create URLs without dashes if you’re making a:
 
@@ -46,13 +46,13 @@ URLs should:
 
 - align with the title of the page
 - be based on user need rather than the current name of a policy, scheme or service, which might change – for example, [www.gov.uk/advertise-job](https://www.gov.uk/advertise-job) is for employers who want to use the ‘Find a job’ service
-- include the year when using a short URL for one-off promotion of an annual event – for example, /budget-2020 instead of /budget
+- include the year when using a short URL for one-off promotion of an annual event – for example, `/budget-2020` instead of `/budget`
 
 ## Avoid trailing slashes in URLs
 
 Trailing slashes should not be used when sharing or printing URLs as it's bad for search engine optimisation (SEO).
 
-For example, use www.gov.uk/your-url-here rather than www.gov.uk/your-url-here/
+For example, use `www.gov.uk/your-url-here` rather than `www.gov.uk/your-url-here/`.
 
 ## URLs must direct to government sites
 
@@ -62,16 +62,16 @@ You must not use a GOV.UK short URL to redirect a user to a non-government site.
 
 You may need to include the organisation’s name or acronym in short URLs.
 
-You should usually use the organisation’s full name, like www.gov.uk/home-office for the Home Office.
+You should usually use the organisation’s full name, like `www.gov.uk/home-office` for the Home Office.
 
 You should only use an organisation’s acronym if either:
 
-- it is very well known, like www.gov.uk/dwp for the Department for Work and Pensions (DWP)
-- the organisation has a long name, like www.gov.uk/ofdia for the Office for Digital Identities and Attributes (OfDIA)
+- it is very well known, like `www.gov.uk/dwp` for the Department for Work and Pensions (DWP)
+- the organisation has a long name, like `www.gov.uk/ofdia` for the Office for Digital Identities and Attributes (OfDIA)
 
 ### Short URLs for guidance and policy content
 
-Short URLs which redirect to Whitehall content should include the organisation name or acronym within the URL. For example, www.gov.uk/home-office/url or www.gov.uk/dwp/url.
+Short URLs which redirect to Whitehall content should include the organisation name or acronym within the URL. For example, `www.gov.uk/home-office/url` or `www.gov.uk/dwp/url`.
 
 You can ask for a short URL without an organisation name or acronym if the content:
 
@@ -80,6 +80,6 @@ You can ask for a short URL without an organisation name or acronym if the conte
 
 ### Short URLs for organisation and group pages
 
-Each government organisation on GOV.UK can have a single short URL for use when promoting its organisation page. For example, www.gov.uk/home-office or www.gov.uk/dwp.
+Each government organisation on GOV.UK can have a single short URL for use when promoting its organisation page. For example, `www.gov.uk/home-office` or `www.gov.uk/dwp`.
 
-You can also get short URLs for group pages. These should include the name of the parent organisation. For example, a group that is part of the Environment Agency (EA) takes the short URL: www.gov.uk/ea/clear-info.
+You can also get short URLs for group pages. These should include the name of the parent organisation. For example, a group that is part of the Environment Agency (EA) takes the short URL: `www.gov.uk/ea/clear-info`.

@@ -220,11 +220,13 @@ You need to:
 
 For example, here is the markdown for a table showing the number of different animals in 3 different farms.
 
-`| | Woodchurch | Moat | Jenkey |`
-`|--- |--- |--- |`
-`|# Sheep | 50 | 60 | 80|`
-`|# Cows | 200 | 38 | 75|`
-`|# Pigs| 150 | 70 | 35|`
+```
+| | Woodchurch | Moat | Jenkey |
+|--- |--- |--- |
+|# Sheep | 50 | 60 | 80|
+|# Cows | 200 | 38 | 75|
+|# Pigs| 150 | 70 | 35|
+```
 
 
 > [!NOTE]
