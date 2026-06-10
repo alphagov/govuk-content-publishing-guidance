@@ -46,7 +46,9 @@ You can either:
 
 Replace the text in the brackets in this template:
 
-`[Title of video](URL of video - not the embed code or the 'Share this video' URL)`
+```
+[Title of video](URL of video - not the embed code or the 'Share this video' URL)
+```
 
 Leave a line space above and below this code. If you do not leave line spaces, the content on either side of the code will be hidden behind the embedded video.
 
@@ -58,11 +60,15 @@ If a user has not accepted the 'communications and marketing' cookie, they will 
 
 If it's a YouTube video, use the following template and only replace the text in the square and round brackets:
 
-`[Link text](URL of video){:data-youtube-player="off"}`
+```
+[Link text](URL of video){:data-youtube-player="off"}
+```
 
 If it's not a YouTube video, replace the text in this template instead:
 
-`[Link text](URL of video)`
+```
+[Link text](URL of video)
+```
 
 ## Make videos accessible
 
