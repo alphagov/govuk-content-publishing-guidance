@@ -11,10 +11,10 @@ whatsNewDate: 10 June 2026
 whatsNewHeadline: Added guidance about which users will get email notifications when a manual is updated
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
-  - title: Style guides
+  - title: A to Z style guide
     description: Style, spelling and grammar conventions for GOV.UK.
-    linktext: View the style guides
-    url: /writing-to-gov-uk-standards/style-guides
+    linktext: View the A to Z style guide
+    url: /writing-to-gov-uk-standards/style-guides/a-to-z-style-guide
   - title: Tone of voice
     description: Meet the standards for writing GOV.UK content.
     linktext: Read the tone of voice guidance
