@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 8
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Write change notes
 description: Learn when to create change notes for GOV.UK content updates and how to write effective change notes.
 lastUpdated:
