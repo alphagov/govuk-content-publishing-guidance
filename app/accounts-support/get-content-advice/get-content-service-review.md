@@ -25,7 +25,7 @@ If GDS cannot do the review, get someone in your department to do it instead.
 
 Send in the request at least 4 weeks before the date of the service assessment.
 
-Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new) and select ‘service review’ as the reason for the request. 
+Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new) and select ‘service review’ as the reason for the request. You need a Signon account with ‘content requesters’ permissions to access the form. Speak to your GOV.UK lead if you want access to the form.
 
 Include the following information:
 

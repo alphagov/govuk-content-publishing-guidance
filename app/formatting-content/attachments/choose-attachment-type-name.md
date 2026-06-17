@@ -9,11 +9,20 @@ description: Get help deciding which file types - including HTML, ODT, CVS, PDF 
 lastUpdated:
 ---
 
+[[toc]]
+
 You need to choose the right file type and an appropriate file name for any attachments.
 
 You should [choose a content type](/publish-update-retire-content/choose-content-type/) before you start with this step, as this can affect which file types you can attach to the page.
 
 You can upload up to 500MB of attachments at one time. If you want to upload a single attachment larger than 500MB, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
+
+## Understand how to make attachments accessible
+
+Read the [guidance on publishing accessible documents](https://www.gov.uk/guidance/publishing-accessible-documents), particularly if your attachment is a non-HTML document, such as a PDF. 
+
+If you publish an attachment as a PDF, you are legally required to publish an accessible version with it. 
+
 
 ## Choose an open file type
 
@@ -24,8 +33,6 @@ These standards make sure attachments are uploaded in file types that can be ope
 - can be read and used by more people
 - help people to share their work more easily
 - make it easier and cheaper to do business with government
-
-The open standards are different to the [guidance about creating accessible documents](/formatting-content/attachments/prepare-attachments/), which you need to follow whatever file type you use.
 
 You need to choose a file type based on the purpose of your attachment and the content type you're using.
 

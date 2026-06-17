@@ -150,7 +150,7 @@ There are different types of publications. Make sure you choose the right type, 
     </tr>
   <tr class="govuk-table__row">
       <th scope="row" class="govuk-table__header">Statutory guidance</th>
-      <td class="govuk-table__cell">Guidance that relevant users must follow.</td>
+      <td class="govuk-table__cell">Guidance that relevant users are legally required to follow.</td>
       <td class="govuk-table__cell">Non-statutory guidance. Use the guidance type instead.</td>
        <td class="govuk-table__cell"><p class="govuk-body"><a href="https://www.gov.uk/government/publications/wild-birds-licence-to-kill-or-take-for-conservation-purposes-gl40" class="govuk-link">Example of statutory guidance on GOV.UK</a>.</p></td>
     </tr>

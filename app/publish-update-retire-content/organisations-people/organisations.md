@@ -16,7 +16,15 @@ Organisations include departments, agencies and public bodies. Every government 
 
 ## Request a new organisation page
 
-Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for a new organisation page](/accounts-support/make-content-requests/ask-new-organisation). GDS will work with them and explain the different steps required depending on whether it’s a new organisation, name change or transitioning organisation.
+Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for a new organisation page](/accounts-support/make-content-requests/ask-new-organisation). 
+
+They need to do this if it’s for:
+
+* a new organisation
+* your organisation changes its name
+* an organisation becoming part of government (also called transitioning)
+
+GDS will work with them and explain the different steps required depending on whether it’s a new organisation, name change or transitioning organisation.
 
 ## Find and edit an organisation page
 

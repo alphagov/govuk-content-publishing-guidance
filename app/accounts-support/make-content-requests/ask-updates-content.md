@@ -116,7 +116,7 @@ If you’re asking for a new Welsh version of existing mainstream content, your 
 
 ### If you asked for new or updated Welsh mainstream content
 
-GDS will copy your Welsh language team into the Zendesk ticket. They will be asked to create and upload the Welsh language translation if you’re from one of these organisations:
+GDS will copy your Welsh language team into the Zendesk ticket to create and upload the translation if you’re from one of these organisations:
 
 - Department for Work and Pensions (DWP)
 - Driver and Vehicle Licensing Agency (DVLA)
