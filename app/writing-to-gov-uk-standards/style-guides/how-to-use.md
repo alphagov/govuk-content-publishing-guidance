@@ -15,7 +15,7 @@ It covers:
 - general points of style, such as abbreviations and numbers
 - how to spell and format specific words and phrases, including hyphenation and capitalisation
 
-There's separate [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) that explains how to write effective and clear content.
+There are separate [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) that explain how to write effective and clear content.
 
 ## If you cannot find a word or phrase
 

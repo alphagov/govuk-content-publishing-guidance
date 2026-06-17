@@ -15,10 +15,10 @@ gridItems:
     description: Style, spelling and grammar conventions for GOV.UK.
     linktext: View the A to Z style guide
     url: /writing-to-gov-uk-standards/style-guides/a-to-z-style-guide
-  - title: Tone of voice
+  - title: Writing guidelines
     description: Meet the standards for writing GOV.UK content.
-    linktext: Read the tone of voice guidance
-    url: /writing-to-gov-uk-standards/tone-of-voice
+    linktext: Read the writing guidelines
+    url: /writing-to-gov-uk-standards/writing-guidelines
   - title: Content types
     description: Get help deciding which type to use for your content.
     linktext: Choose a content type

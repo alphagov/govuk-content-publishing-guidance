@@ -51,7 +51,7 @@ Your own content team can publish this. You'll need to [choose an appropriate co
 
 ## Create new content
 
-Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/). This will explain the main principles of writing GOV.UK content.
+Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/). This will explain the main principles of writing GOV.UK content.
 
 You can also check the [style guide A to Z](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) for the rules about spelling and formatting certain words.
 

@@ -3,9 +3,10 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 4
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Use the right tone
 description: Learn about the tone of voice for GOV.UK content, including what words to avoid and how to address users.
+redirect_from: /writing-to-gov-uk-standards/tone-of-voice/right-tone
 lastUpdated:
 ---
 The 'tone of voice' for GOV.UK content is:

@@ -27,7 +27,7 @@ Some of these things are built into how GOV.UK is designed to make sure it's acc
 Follow the guidance on this site to make your content accessible. In particular, read the:
 
 - [style guides](/writing-to-gov-uk-standards/style-guides/)
-- [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/)
+- [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/)
 - [formatting guidance](/formatting-content/)
 
 You can also use these [user profiles of different disabilities and impairments](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles). They're designed to help you understand how different content design elements affect users with different types of accessibility needs. 

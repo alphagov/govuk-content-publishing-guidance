@@ -3,9 +3,10 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 3
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Use clear language
 description: Learn about the importance of plain English on GOV.UK, what offensive language to avoid using in content, and recommended paragraph and sentence length.
+redirect_from: /writing-to-gov-uk-standards/tone-of-voice/clear-language
 lastUpdated:
 ---
 Plain English is mandatory for all of GOV.UK. That's because we want content to be accessible and understandable to everyone who needs it.

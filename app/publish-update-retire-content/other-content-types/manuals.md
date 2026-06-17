@@ -70,7 +70,7 @@ You'll also need to ask for the 'editor' permission to publish your draft, or fi
 
 ## Create a draft
 
-Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help with writing the content.
+Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) and [formatting guidance](/formatting-content/) for help with writing the content.
 
 ### If you're creating a new manual
 

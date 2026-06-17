@@ -45,7 +45,7 @@ Do not create or modify statistics announcements unless you have permission from
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
 
-All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/). Read the [tone of voice guidelines](/writing-to-gov-uk-standards/tone-of-voice/) to find out how to write your title and summary.
+All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/). Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) to find out how to write your title and summary.
 
 The title and summary are displayed in the release calendar and search engine results. They help users understand if your statistics content is what they need.
 
