@@ -20,6 +20,7 @@ If it’s not on there, [report a technical fault](https://support.publishing.se
 When you report it:
 
 - give as much context as possible
+- explain what you were trying to do and what happened
 - include links to the content you’re trying to publish or change
 - take screenshots of the problem (if possible) and send them as attachments in reply to the acknowledgement email you get after submitting the form
 

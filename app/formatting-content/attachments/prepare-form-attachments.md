@@ -11,6 +11,8 @@ lastUpdated:
 
 Read the guidance on [choosing the right file type](/formatting-content/attachments/choose-attachment-type-name/). This recommends you save any form attachments as both ODT and another editable format like DOCX or PDF.
 
+If you have access to proprietary software, such as Microsoft Office, use it to create your source document then convert to an ODT file. 
+
 Creating a form using the ODT file type has limits. For example, you will not be able to add graphics or complicated steps to your form.
 
 ## Write instructions for the form

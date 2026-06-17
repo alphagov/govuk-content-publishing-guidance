@@ -31,15 +31,31 @@ Decide whether your users are:
 + members of the general public or small businesses without a detailed understanding of the topic ('mainstream' users)
 + experienced users who already have an understanding of the topic ('specialists')
 
-If it's for mainstream users, this should be published as mainstream guidance.
+#### If it’s for mainstream users
 
-This guidance is written and maintained by the content team at the Government Digital Service (GDS). You'll need to raise a ticket with them to add your content to GOV.UK.
+This should be published as mainstream guidance. Mainstream guidance:
+
+* guides users from when their need arises to when they complete a task or have the information they need to complete a task (this can include directing users to third-party organisations)
+* is organised and written by task, rather than audience or the government department or agency
+* explains the current situation - it only describes future changes if they are certain or very likely to happen and affect choices a user can make right now, for example if users should apply for something now because a scheme is closing or a service will be down for maintenance
+* must not duplicate content better served by other organisations (for example charities, the NHS, Citizens Advice)
+* must not give advice or offer opinions
+
+This guidance is written and maintained by the content team at the Government Digital Service (GDS). You’ll need to raise a ticket with them to add your content to GOV.UK.
 
 [Find out how to raise a ticket with the content team at GDS](/accounts-support/make-content-requests/ask-updates-content/).
 
-If it's for specialists, this can be published by your own content team. You'll need to [choose an appropriate content type](/publish-update-retire-content/choose-content-type/).
+#### If it’s for specialists 
 
-Guidance might be split between mainstream users and specialists where there's a common scenario that affects most users and a separate process for 'edge cases'. 
+This can be published by your own content team. You’ll need to [choose an appropriate content type](/publish-update-retire-content/choose-content-type/).
+
+Specialist guidance should not:
+
+* promote government initiatives or policies - use the [campaigns platform] or other channels to support marketing or promotional activity, or use a [news story] or [press release] for announcements
+* explain the policy behind the guidance
+* duplicate mainstream content
+
+Guidance might be split between mainstream users and specialists where there’s a common scenario that affects most users and a separate process for ‘edge cases’.
 
 For example, [how much National Insurance to pay](https://www.gov.uk/national-insurance/how-much-you-pay) is mainstream guidance as it's for the general public and small businesses.
 

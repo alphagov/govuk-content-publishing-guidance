@@ -17,7 +17,7 @@ If content does have related links, you can ask the Government Digital Service (
 * update them, if there’s a user need
 * remove them
 
-You must include:
+If you're asking for them to be updated, you must include:
 
 * why the content needs to be in the related links section
 * why the user need cannot be met by adding the link to the main body of the content

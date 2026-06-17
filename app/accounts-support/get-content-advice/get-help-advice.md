@@ -27,6 +27,22 @@ It may be a quick question about content you’re working on or a request for a 
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
 
+### Emergency support for publishing requests 
+
+If you have an emergency relating to publishing to GOV.UK use the [GOV.UK emergency contact details](https://support.publishing.service.gov.uk/emergency-contact-details). You’ll need a Signon account to access those details.
+
+You should only use these emergency contact details when:
+
+* you need to publish information at a certain time (for example, in line with an announcement), and the automated systems have failed
+* sensitive pages have been published in error and need to be unpublished
+* there’s a sudden major change to government organisation or structure, with immediate impact across GOV.UK
+
+Do not use them to make regular requests like:
+
+* short URLs
+* non-urgent changes to content
+* general issues with publishing functionality
+
 ## Support from across government
 
 As well as contacting GDS, you can get help from content colleagues across government. 

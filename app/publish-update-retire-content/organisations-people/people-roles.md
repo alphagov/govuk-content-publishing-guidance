@@ -78,7 +78,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 4. Check that there's not already a page for the person using the search bar.
 5. If there's no existing page, select 'Create new person'. If there is, select 'View' next to their name and then 'Edit' in the 'Details' tab.
 6. Add or edit the title, forename, surname, any 'post-nominal' letters such as 'MBE', and a biography.
-7. Upload an image (for new pages). It must be 960 x 640 px and minimum 75 dpi. Photos on a white background need a light tint overlay. The image will only display on their page when an active role is assigned to them.
+7. Upload an image (for new pages). It must be 960 x 640 px and minimum 75 DPI. Photos on a white background need a light tint overlay. The image will only display on their page when an active role is assigned to them.
 8. Select 'Save'.
 
 ### Writing biography content

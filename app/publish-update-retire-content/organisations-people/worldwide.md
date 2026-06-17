@@ -321,8 +321,9 @@ There's a navigation page for each country and territory.
 
 [Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want:
 
-- a new navigation page
+- a new navigation page or topic
 - to edit the title, sections or description of an existing page
+- tag a page to all worldwide locations
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
 

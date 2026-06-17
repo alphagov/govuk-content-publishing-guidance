@@ -12,12 +12,9 @@ lastUpdated:
 
 Group pages are for policy advisory groups and other types of groups in your organisation.
 
-Policy advisory groups are panels of people who advise on policy development, typically made up of a mix of external experts and civil servants.
+Policy advisory groups are panels of people who advise on policy development, typically made up of a mix of external experts and civil servants. For example, the [Advisory Group on Hepatitis](https://www.gov.uk/government/groups/advisory-group-on-hepatitis).
 
-Other groups include units, teams and committees within, set up or sponsored by your organisation, and who carry out specific areas of work.
-
-> [!NOTE]
-> See an [example of a group page on GOV.UK](https://www.gov.uk/government/groups/council-for-sustainable-business).
+Other groups include units, teams and committees within, set up or sponsored by your organisation, and who carry out specific areas of work. For example, the [Farming Advice Service](https://www.gov.uk/government/groups/farming-advice-service). 
 
 ## When you need a group page
 
@@ -27,6 +24,11 @@ Group pages should only be set up when there's:
 - a clear reason for users to contact the group
 
 For example, the user need for a group page on a policy advisory group is for transparency. The public should be able to see who is advising on and influencing government policy.
+
+Group pages should not be used as a way of setting out:
+
+* the internal structure of an organisation (ie representing every team)
+* activities performed by a group (for example, documents published) without a call to action
 
 Most groups will not need a group page, because people should not need to understand the structure of government in order to interact with it. Usually a reference to the group elsewhere on GOV.UK will be enough, such as in a [document collection](/publish-update-retire-content/standard-content-types/document-collections/).
 
@@ -50,6 +52,11 @@ Group pages should not be used to:
 ## Get permission before adding a new group page
 
 Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new) for permission to add a new group page.
+
+They need to include in their request:
+
+* evidence of a user need for information about the group itself, not just its outputs
+* a clear reason for users to contact the group
 
 Once you have permission, you can add the page.
 

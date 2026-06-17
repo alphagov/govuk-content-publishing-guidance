@@ -8,6 +8,9 @@ title: Ask for a short URL
 description: How to request a short URL when creating guidance or running a campaign.
 lastUpdated:
 ---
+
+[[toc]]
+
 You can use short GOV.UK URLs to make long URLs easier for users to remember and type in. For example, `gov.uk/hmrc` redirects to `https://www.gov.uk/government/organisations/hm-revenue-customs`.
 
 You might want to create a short URL when you’ll be publicising links to:
@@ -27,6 +30,39 @@ Short URLs can link to:
 - GOV.UK pages, like `https://www.gov.uk/guidance/download-the-hmrc-app`
 - GOV.UK sub-domains, like `https://www.registertovote.service.gov.uk/` and `https://helptogrow.campaign.gov.uk/`
 - external government sub-domains, like `.judiciary.uk`, `.nhs.uk` and `.ukri.org`
+
+## Reasons you might need a short URL
+
+Why you need a short URL depends on the type of content it’s for. 
+
+### Guidance or policy content
+
+You might need a short or ‘friendly’ URL to share or promote government guidance offline, for example in letters or on posters.
+
+Short URLs which redirect to Whitehall content should include the organisation name within the URL structure, for example `www.gov.uk/dwp/benefits-accessibility`.
+
+Multiple departments might all want to use a generic short URL such as `www.gov.uk/information-charter`. Adding the organisation acronym helps to differentiate the short URLs, for example `www.gov.uk/hmrc/information-charter`.
+
+If the guidance or policy is being promoted by more than one organisation and has a significant audience, talk to GDS about getting a top-level redirect without an organisation acronym.
+
+### Campaign sites
+
+Campaign sites are used to promote particular topics or schemes. They are usually heavily publicised over TV, radio, social media and in print. If you do not have a campaign site, you might promote a guidance page or news story on GOV.UK in the same way.
+
+It helps to have a memorable short URL for campaigns.
+
+If the short URL is being read aloud, you should avoid using dashes as this can be harder to understand. If the short URL is only being used in written form, you should include dashes to help with readability. GDS can create versions of the short URL with and without dashes.
+
+For example, this campaign site: `https://readytopass.campaign.gov.uk/`.
+
+Has two short URLs:
+
+* `gov.uk/readytopass`
+* `gov.uk/ready-to-pass`
+
+### Organisation and group pages
+
+Each government department, agency or arm’s length body on GOV.UK can have a single short URL to use when promoting itself. Read the [URL standards](/writing-to-gov-uk-standards/plan-manage-content/follow-url-standards) on how organisation short URLs should be formatted.
 
 ## Asking for a short URL
 

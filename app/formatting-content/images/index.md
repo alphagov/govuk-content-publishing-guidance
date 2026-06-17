@@ -110,16 +110,16 @@ Read more about creating accessible infographics in the [infographics guidance o
 
 ### How to create an SVG file
 
-The tool you use to create graphs and charts must have a 'save as svg' or 'export as svg' option. Changing a bitmap file type into an svg does not make it scalable - it must be done from the source file.
+The tool you use to create graphs and charts must have a 'save as SVG' or 'export as SVG' option. Changing a bitmap file type into an SVG does not make it scalable - it must be done from the source file.
 
-There are several free tools you can use to create svgs. Some examples include:
+There are several free tools you can use to create SVGs. Some examples include:
 
 * [diagrams.net](https://app.diagrams.net/) 
 * [draw.io](https://drawio-app.com/)  
 * [Figma](https://www.figma.com/login) 
 * [Inkscape](https://inkscape.org/) 
 
-Your organisation may already be using a paid tool which can create svgs. Some examples include:
+Your organisation may already be using a paid tool which can create SVGs. Some examples include:
 
 * Adobe Illustrator
 * Affinity Designer

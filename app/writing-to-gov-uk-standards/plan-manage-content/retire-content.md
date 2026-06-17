@@ -41,6 +41,16 @@ A broad test to keep in mind when deciding to withdraw a content item is, 'will 
 
 You can edit content after you withdraw it. You can also 'unwithdraw' it later if you change your mind.
 
+### If your organisation closes
+
+Only withdraw pages that are no longer relevant. Examples of items that should not be withdrawn are:
+
++ guidance that’s still useful about things people can still do (consider retagging this to the new organisation if there is one)
++ transparency data
++ freedom of information responses
+
+The [guidance on organisation pages](/publish-update-retire-content/organisations-people/organisations/) explains more about what to do when an organisation closes, including which content to retag to a new organisation. 
+
 ### What happens to withdrawn content
 
 Withdrawing content means it’s still available at the same URL. You will not be able to create any new versions of the content while it’s withdrawn but you can edit the public explanatory text that appears on the page.
@@ -84,6 +94,10 @@ Unpublished content will go into an ‘unpublished’ state in Whitehall publish
 The [guidance on how to update content on GOV.UK](/publish-update-retire-content/) explains how to unpublish content.
 
 ## When history mode gets applied
+
+There’s content on GOV.UK to do with the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
+
+For this content, users will see a message telling them the content is from a previous government. We call this ‘history mode’.
 
 History mode is applied to content when:
 
