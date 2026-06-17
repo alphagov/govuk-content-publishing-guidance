@@ -3,7 +3,7 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 7
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Write clear summaries
 description: Learn how to create a summary for your GOV.UK content, including what language to use and the recommended length.
 lastUpdated:
