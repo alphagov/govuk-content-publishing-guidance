@@ -4,7 +4,7 @@ sectionKey: Writing to GOV.UK standards
 order: 6
 eleventyNavigation:
   parent: Writing to GOV.UK standards
-title: Tone of voice
+title: Writing guidelines
 description: Learn how to write effective and clear content for GOV.UK.
 lastUpdated:
 ---
