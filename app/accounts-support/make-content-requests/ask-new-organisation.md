@@ -17,9 +17,7 @@ The Government Digital Service (GDS) will only set up organisation pages for:
 * organisations that have changed name (for example, when the Department for Levelling Up, Housing and Communities changed to the Ministry of Housing, Communities and Local Government)
 * organisations that are becoming part of government (also called transitioning)
 
-Sub-organisations are a type of organisation. GDS will ask for some extra information for sub-organisation page requests.
-
-Only a GOV.UK lead or managing editor in your organisation can request a new organisation or sub-organisation page.
+Only a GOV.UK lead or managing editor in your organisation can request a new organisation page.
 
 ## Asking for a new organisation page
 
@@ -33,8 +31,9 @@ If you’re requesting a new organisation page, include in your request:
 * any other sponsoring organisations
 * an email address for users to request accessible formats of published attachments
 * if the organisation is [exempt from GOV.UK](/accounts-support/make-content-requests/ask-exemption/), the URL of the organisation’s website
-* the type of organisation
+* the organisation status - GDS normally sets new pages as ‘Coming soon’ so you can add content to the page before you change the status to ‘Live’
 * the name and email address of the GOV.UK lead who’ll be responsible for the organisation and its content on GOV.UK
+* the type of organisation
 
 ### Types of organisation
 
@@ -53,7 +52,7 @@ Types of organisation include:
 * other - for example companies owned by government, regulators and independent organisations
 * sub-organisation (typically large units within organisations)
 
-## Asking for a new sub-organisation page
+### Deciding whether your sub-organisation needs its own page
 
 Sub-organisations are units that formally exist under the governance of their parent organisation but:
 
@@ -69,7 +68,7 @@ To qualify as a sub-organisation, a unit should:
 * have a clear mission statement and corporate structure separate from its parent organisation (for example a board, reporting directly to a permanent secretary or minister)
 * be contactable directly by the public
 
-GDS will expect a sub-organisation to have:
+To have its own organisation page, the sub-organisation should have:
 
 * a publishing team able to manage their own organisation page and content
 * evidence from the parent organisation that a separate page is needed for implementing their digital strategy
