@@ -51,7 +51,7 @@ This can be published by your own content team. You’ll need to [choose an appr
 
 Specialist guidance should not:
 
-* promote government initiatives or policies - use the [campaigns platform] or other channels to support marketing or promotional activity, or use a [news story] or [press release] for announcements
+* promote government initiatives or policies - use the [campaigns platform](/publish-update-retire-content/promotional-social/campaigns/) or other channels to support marketing or promotional activity, or use a [news article](/publish-update-retire-content/standard-content-types/news-articles/) for announcements
 * explain the policy behind the guidance
 * duplicate mainstream content
 
