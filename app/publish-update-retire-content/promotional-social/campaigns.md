@@ -56,7 +56,7 @@ Does the campaign include steps for objectives, audience insight, strategy, impl
 
 Would it be better to link to existing GOV.UK content?
 
-Does it duplicate information already on GOV.UK? The campaign must not duplicate other content or services on GOV.UK. Read more about [what does not go on GOV.UK](/writing-to-gov-uk-standards/plan-manage-content/plan-new-govuk-content/).
+Does it duplicate information already on GOV.UK? The campaign must not duplicate other content or services on GOV.UK.
 
 Is it within the [GOV.UK proposition](https://www.gov.uk/government/publications/govuk-proposition/govuk-proposition)? You must follow the guidance in the proposition when you publish content. 
 
