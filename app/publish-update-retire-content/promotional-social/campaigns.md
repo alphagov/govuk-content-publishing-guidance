@@ -104,7 +104,7 @@ The campaign owner will be responsible for:
 * ensuring the campaign site does not duplicate information already on GOV.UK
 * setting an end date for the campaign, if it's a rolling campaign, set a review date 
 * helping and training people to publish to the campaign platform
-* ensuring content follows the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/)
+* ensuring content follows the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/)
 * making sure the site follows the [design principles](https://www.gov.uk/design-principles)
 * evaluating the campaign's performance using Google Analytics and other available data
 * submitting your analytics and statistics to GCS at regular intervals

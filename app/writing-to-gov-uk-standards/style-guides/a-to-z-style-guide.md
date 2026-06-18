@@ -490,7 +490,7 @@ Lower case in text. Title case in titles: Spencer Tracy, Chairman, GDS.
 
 ### Change notes
 
-See the [guidance on writing change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/).
+See the [guidance on writing change notes](/writing-to-gov-uk-standards/writing-guidelines/change-notes/).
 
 ### changelog
 

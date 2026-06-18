@@ -3,9 +3,10 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 7
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Write clear summaries
 description: Learn how to create a summary for your GOV.UK content, including what language to use and the recommended length.
+redirect_from: /writing-to-gov-uk-standards/tone-of-voice/summaries
 lastUpdated:
 ---
 Along with the title, the summary is usually what users see in search results. It should give them a clear indication of what the content is about. 

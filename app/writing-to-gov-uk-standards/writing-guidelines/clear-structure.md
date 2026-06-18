@@ -3,9 +3,10 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 2
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Create a clear structure for your content
 description: Learn how to structure GOV.UK content clearly, including frontloading and using headings, bullet points and lists.
+redirect_from: /writing-to-gov-uk-standards/tone-of-voice/clear-structure
 lastUpdated:
 ---
 People read content on the web differently. They will often skim it and not read every sentence.
@@ -62,6 +63,6 @@ If the information in the footnotes is important, include it in the body text. I
 
 ## Do not repeat yourself
 
-You'll have to [write a summary](/writing-to-gov-uk-standards/tone-of-voice/summaries/) to go at the top of the page.
+You'll have to [write a summary](/writing-to-gov-uk-standards/writing-guidelines/summaries/) to go at the top of the page.
 
 Do not repeat the summary in the first paragraph.

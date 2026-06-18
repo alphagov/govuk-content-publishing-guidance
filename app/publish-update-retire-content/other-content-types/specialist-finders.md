@@ -71,7 +71,7 @@ If you need access to Specialist Publisher, ask one of your organisation admins.
 
 ## Writing and formatting requirements for specialist finders
 
-All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/) and [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/). Read these to find out how to write your title, summary and body copy.
+All content should follow the [GOV.UK style guide](/writing-to-gov-uk-standards/style-guides/) and [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/). Read these to find out how to write your title, summary and body copy.
 
 Name the specialist finder with a verb, like 'Find funding for land or farms'. Specialist finders are used to do a specific task, which is usually to 'find' a document related to a specialist interest. 
 

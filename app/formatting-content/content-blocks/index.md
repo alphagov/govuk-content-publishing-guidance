@@ -144,7 +144,7 @@ If users need to know about the changes made to a block in Content Block Manager
 * a page that uses the block
 * any taxonomy topics a page using the block is tagged to 
 
-Read the [guidance on writing change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/) to find out:
+Read the [guidance on writing change notes](/writing-to-gov-uk-standards/writing-guidelines/change-notes/) to find out:
 
 * when to send out email alerts to users 
 * how to write a public change note

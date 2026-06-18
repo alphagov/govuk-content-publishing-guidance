@@ -3,9 +3,10 @@ layout: landing-page
 sectionKey: Writing to GOV.UK standards
 order: 5
 eleventyNavigation:
-  parent: Tone of voice
+  parent: Writing guidelines
 title: Write effective links
 description: Learn how to use links in GOV.UK content, including writing clear link text and using anchor links.
+redirect_from: /writing-to-gov-uk-standards/tone-of-voice/add-links
 lastUpdated:
 ---
 You can add links to body text, but not in titles, summaries or subheadings. Read about [how to format links](/formatting-content/text-formatting/links/).

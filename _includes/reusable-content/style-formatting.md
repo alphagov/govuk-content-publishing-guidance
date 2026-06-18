@@ -1,1 +1,1 @@
-Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
+Read the [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/) and [formatting guidance](/formatting-content/) for help.
