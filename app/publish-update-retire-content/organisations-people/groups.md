@@ -27,7 +27,7 @@ For example, the user need for a group page on a policy advisory group is for tr
 
 Group pages should not be used as a way of setting out:
 
-* the internal structure of an organisation (ie representing every team)
+* the internal structure of an organisation (such as by having a group page for every team)
 * activities performed by a group (for example, documents published) without a call to action
 
 Most groups will not need a group page, because people should not need to understand the structure of government in order to interact with it. Usually a reference to the group elsewhere on GOV.UK will be enough, such as in a [document collection](/publish-update-retire-content/standard-content-types/document-collections/).

@@ -31,7 +31,7 @@ If you’re requesting a new organisation page, include in your request:
 * any other sponsoring organisations
 * an email address for users to request accessible formats of published attachments
 * if the organisation is [exempt from GOV.UK](/accounts-support/make-content-requests/ask-exemption/), the URL of the organisation’s website
-* the organisation status - GDS normally sets new pages as ‘Coming soon’ so you can add content to the page before you change the status to ‘Live’
+* the organisation status - GDS normally sets new pages as ‘Coming soon’ so you can add content to the page before you change the status to ‘Currently live’
 * the name and email address of the GOV.UK lead who’ll be responsible for the organisation and its content on GOV.UK
 * the type of organisation
 
