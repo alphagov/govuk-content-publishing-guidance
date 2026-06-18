@@ -6,6 +6,7 @@ eleventyNavigation:
   parent: Writing to GOV.UK standards
 title: Writing guidelines
 description: Learn how to write effective and clear content for GOV.UK.
+redirect_from: /writing-to-gov-uk-standards/tone-of-voice
 lastUpdated:
 ---
 Your GOV.UK content needs to be written to certain guidelines. This will make it easy for users to find what they need and understand it. 
