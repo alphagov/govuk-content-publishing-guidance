@@ -1107,7 +1107,7 @@ The governing body is meeting today. It will decide who to appoint.
 
 Lower case unless it's a full title. For example: 'UK government', but 'His Majesty's Government of the United Kingdom of Great Britain and Northern Ireland'. 
 
-Also 'Welsh Government', as it's the full title.
+Use title case for 'Welsh Government' and 'Scottish Government' because it's the full title.
 
 ### government offices
 
