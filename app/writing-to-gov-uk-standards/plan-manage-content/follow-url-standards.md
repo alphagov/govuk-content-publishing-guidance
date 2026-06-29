@@ -32,7 +32,7 @@ That means they should:
 - be in lower case
 - use words and not acronyms, unless the acronym is very well known or it’s an acronym of an organisation with a long name
 - avoid using superfluous words like articles (a, an, the) – for example, `/benefit-guide` instead of `/a-guide-to-benefits`
-- use the verb stem when possible – for example, `/apply` insteading of `/applying`
+- use the verb stem when possible – for example, `/apply` instead of `/applying`
 - use dashes to separate words within the URL – for example, `/set-up-business`
 
 You can choose to create URLs without dashes if you’re making a:
