@@ -5,7 +5,7 @@ order: 3
 eleventyNavigation:
   parent: Manage accounts and training
 title: Manage your own account
-description: Learn how to manage your Signon account so you can access Whitehall Publisher, including signing in, 2-step verification and password resets.
+description: Learn how to manage your Signon account so you can access Whitehall Publisher, including signing in, 2-step verification (2SV) and password resets.
 lastUpdated:
 ---
 
