@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 10 June 2026
-whatsNewHeadline: Added guidance about which users will get email notifications when a manual is updated
+whatsNewDate: 2 July 2026
+whatsNewHeadline: Added guidance about how to ask for a feedback page for a service
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
