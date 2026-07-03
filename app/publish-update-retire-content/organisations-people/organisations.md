@@ -206,7 +206,14 @@ Contact details are shown in the order you add them. You can reorder them using 
 
 These will show under the 'Follow us' heading under the 'What we do' section of the organisation page. They appear in the order you add them. 
 
-Avoid putting something very short in the ‘Title’ field, which appears as link text. For example, put ‘DWP on X’ rather than just ‘X’. Very short links can create problems for users with limited dexterity.
+For the ‘Title’ field, avoid:
+
+- leaving it blank (the name of the service will be used as a default)
+- using generic or very short titles (like ‘X’)
+
+The ‘Title’ field is used as link text, and generic or short link text can create accessibility issues.
+
+A good example of a title is ‘DWP on X’.
 
 ## 'Our ministers' and 'Our management'
 
