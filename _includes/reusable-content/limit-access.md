@@ -1,1 +1,1 @@
-Select 'Limit access' under 'Settings' if your draft is sensitive. This means only users from organisations tagged to the content can see it before it's published. It will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).
+Choose the correct option under 'Limit access'  if your draft is sensitive. Read the [Setting access limits guidance](/publish-update-retire-content/setting-access-limits/) to find out how to limit access to your draft.
