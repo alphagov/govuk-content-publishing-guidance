@@ -51,7 +51,6 @@ After saving the page, you can add attachments and images.
 5. Make any changes to the title, summary or body as needed. {% include 'reusable-content/style-formatting.md' %}
 
 6. {% include 'reusable-content/political-heading.md' %}
-
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
 
