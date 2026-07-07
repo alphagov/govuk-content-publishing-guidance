@@ -148,7 +148,7 @@ It cannot be applied to:
 
 Content in history mode does not need to be ‘withdrawn’ as well, unless you find evidence that users need a link to a newer document that replaced it.
 
-Before a potential change in government, like before a general election, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll be able to:
+If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll be able to:
 
 + see what content will go into history mode if the government changes 
 + prevent content from going into history mode if you think there is a problem
