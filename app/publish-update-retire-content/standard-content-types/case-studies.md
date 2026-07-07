@@ -64,7 +64,6 @@ After saving the page, you can add images and attachments.
 5. Make any changes to the title, summary or body as needed. {% include 'reusable-content/style-formatting.md' %}
 
 6. {% include 'reusable-content/political-heading.md' %}
-
 7. {% include 'reusable-content/limit-access.md' %}
 
 8. {% include 'reusable-content/change-notes.md' %}

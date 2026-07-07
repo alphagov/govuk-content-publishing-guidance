@@ -85,7 +85,6 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 5. Make any changes to the title, summary and body as needed. {% include 'reusable-content/style-formatting.md' %}
 
 6. {% include 'reusable-content/political-heading.md' %}
-
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
 
