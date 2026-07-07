@@ -101,7 +101,7 @@ For this content, users will see a message telling them the content is from a pr
 
 History mode is applied to content when:
 
-+ the government changes following a general election
++ there's a new government, such as after a general election or if there's a new Prime Minister
 + the 'first published' date of the content or the 'delivered on' date for a speech is during a previous government
 + it was published through Whitehall Publisher
 + it was tagged to an organisation that is associated with government policy when it was first published (for example, ministerial departments)
@@ -148,7 +148,7 @@ It cannot be applied to:
 
 Content in history mode does not need to be ‘withdrawn’ as well, unless you find evidence that users need a link to a newer document that replaced it.
 
-Before a general election, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll be able to:
+If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll be able to:
 
 + see what content will go into history mode if the government changes 
 + prevent content from going into history mode if you think there is a problem
