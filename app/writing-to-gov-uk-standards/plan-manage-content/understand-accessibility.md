@@ -24,11 +24,18 @@ Some of these things are built into how GOV.UK is designed to make sure it's acc
 
 ## How to make your content accessible
 
-Follow the guidance on this site to make your content accessible. In particular, read the:
+Follow the guidance on this site to make your content accessible. In particular, read the guidance on:
 
-- [style guides](/writing-to-gov-uk-standards/style-guides/)
-- [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/)
-- [formatting guidance](/formatting-content/)
+- [writing accessible links](/writing-to-gov-uk-standards/writing-guidelines/add-links/)
+- [structuring headings and start buttons](/writing-to-gov-uk-standards/writing-guidelines/clear-structure/)
+- [avoiding duplicate page titles](/writing-to-gov-uk-standards/writing-guidelines/clear-titles/)
+- [making attachments accessible](/formatting-content/attachments/prepare-attachments/)
+- [describing images, graphs and charts](/formatting-content/images/)
+- [creating accessible tables](/formatting-content/text-formatting/tables/)
+- [using open formats and avoiding PDFs](/formatting-content/attachments/choose-attachment-type-name/)
+- [creating accessible forms](/formatting-content/attachments/prepare-form-attachments/)
+- [making videos accessible](/formatting-content/videos/)
+- [making translations accessible](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/)
 
 You can also use these [user profiles of different disabilities and impairments](https://www.gov.uk/government/publications/understanding-disabilities-and-impairments-user-profiles). They're designed to help you understand how different content design elements affect users with different types of accessibility needs. 
 
@@ -41,3 +48,12 @@ These 4 principles are covered in the Web Content Accessibility Guidelines (know
 You do not need to read the WCAG guidelines in full to make sure your GOV.UK content is accessible. Some elements are more relevant to designing services, and others are technical considerations of how GOV.UK is built and designed. 
 
 The [GOV.UK service manual includes an overview of WCAG 2.2](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag) if you want to read more about it. Some of the information is more relevant to service design, but lots of it is still useful to apply to GOV.UK content. 
+
+## Further reading
+
+You may find the [guidance and tools for digital accessibility](https://www.gov.uk/guidance/guidance-and-tools-for-digital-accessibility) helpful. It includes guidance on other areas of accessibility such as:
+
+* publishing an accessibility statement
+* accessibility monitoring and types of testing
+* accessibility training
+* finding user research participants
