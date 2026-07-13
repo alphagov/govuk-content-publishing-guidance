@@ -103,10 +103,9 @@ Do not change the original content or documents. They will move to the bottom of
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/change-notes.md' %}
 6. {% include 'reusable-content/limit-access.md' %}
-7. Select the 'Save' button at the bottom of the page.
-8. Select the 'Final outcome' tab at the top of the page. Add a publication date and content to describe the outcome.
-9. Select 'Save'.
-10. Upload any more detailed documents about the outcome as a file or HTML attachment.
+7. Select the 'Final outcome' tab at the top of the page. Add a publication date and content to describe the outcome.
+8. Select 'Save'.
+9. Upload any more detailed documents about the outcome as a file or HTML attachment.
 
 If you're uploading a file attachment:
 
