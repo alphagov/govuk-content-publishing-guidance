@@ -14,8 +14,8 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
+| 14 July | [Use clear language](/writing-to-gov-uk-standards/writing-guidelines/clear-language/) | Added guidance about using the active voice. |
 | 2 July | [Ask for a feedback page](/accounts-support/make-content-requests/ask-feedback-page/) | Added a new page about how to request a feedback page for a service. |
-
 
 ## June 2026
 

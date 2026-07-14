@@ -114,7 +114,9 @@ Lower case. Only use title case when using the full title: Planning and Compulso
 
 ### Active voice
 
-Use the active rather than passive voice. This will help us write concise, clear content.
+Use the active voice rather than the passive voice. This will help us write concise, clear content.
+
+[Read the guidance about using clear language for more details on using the active voice](/writing-to-gov-uk-standards/writing-guidelines/clear-language/).
 
 ### Addresses in the UK
 
