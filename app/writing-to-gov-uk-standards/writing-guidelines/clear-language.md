@@ -98,8 +98,8 @@ For example, it’s easier to read ‘You need an electronic travel authorisatio
 
 There are some circumstances when the passive voice can work. These include: 
 
-* when the outcome is more important than the agent of the action - for example, ‘Biometric residence permits have been replaced by eVisas’ 
-* when the writing is more user-centred - for example, ‘You’ll be told what you need to do when you apply’ rather than ‘the Home Office will tell you what you need to do when you apply’ 
+* when the outcome is more important than the agent of the action – for example, ‘Biometric residence permits have been replaced by eVisas’ 
+* when the writing is more user-centred – for example, ‘You’ll be told what you need to do when you apply’ rather than ‘The Home Office will tell you what you need to do when you apply’ 
   
 You can use tools such as the [Hemingway app](https://hemingwayapp.com/) to check if your writing needs to be more active.  
 
