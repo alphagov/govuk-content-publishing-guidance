@@ -88,6 +88,21 @@ If a requirement is legal, but it's administrative or part of a process that wil
 
 If something is optional, you can use 'can'. Avoid more complicated terms like 'You may be able to'.
 
+## Use the active voice
+
+Use the active voice rather than the passive voice.
+
+The active voice is more direct and puts the focus on the user and the action they need to take. It also keeps sentences short. In contrast, the passive voice results in long sentences and can make the content harder to read.
+
+For example, it’s easier to read ‘You need an electronic travel authorisation’ than ‘An electronic travel authorisation is needed’.
+
+There are some circumstances when the passive voice can work. These include: 
+
+* when the outcome is more important than the agent of the action - for example, ‘Biometric residence permits have been replaced by eVisas’ 
+* when the writing is more user-centred - for example, ‘You’ll be told what you need to do when you apply’ rather than ‘the Home Office will tell you what you need to do when you apply’ 
+  
+You can use tools such as the [Hemingway app](https://hemingwayapp.com/) to check if your writing needs to be more active.  
+
 ## Keep paragraphs and sentences short
 
 Keep chunks of text short.
