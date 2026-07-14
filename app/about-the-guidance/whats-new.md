@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 13 July | [Ask for access limits to be reset](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added a new page about how to ask for access limits to be reset. |
+| 14 July | [Ask for access limits to be reset](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added a new page about how to ask for access limits to be reset. |
 | 2 July | [Ask for a feedback page](/accounts-support/make-content-requests/ask-feedback-page/) | Added a new page about how to request a feedback page for a service. |
 
 
