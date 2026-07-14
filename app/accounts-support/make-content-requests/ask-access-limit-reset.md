@@ -22,7 +22,7 @@ Content with limited access will not be copied across to [Integration](/accounts
 
 ## If you need to change access
 
-If you already have access to the draft and you want to change who has access, you can do this in Whitehall publisher. Update the ‘Limit access’ options under ‘Settings’.  
+If you already have access to the draft and you want to change who has access, you can do this in Whitehall Publisher. Update the ‘Limit access’ options under ‘Settings’.  
  
 If you do not have access to the draft and need to access it, you’ll need to ask GDS to reset the access limits. For example, you need to access the draft but you cannot find anyone who already has access.  
 
