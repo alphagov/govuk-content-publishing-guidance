@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 2 July 2026
-whatsNewHeadline: Added guidance about how to ask for a feedback page for a service
+whatsNewDate: 14 July 2026
+whatsNewHeadline: Added guidance about using the active voice
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
