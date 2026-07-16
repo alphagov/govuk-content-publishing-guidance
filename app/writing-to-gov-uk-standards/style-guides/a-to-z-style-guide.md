@@ -3024,6 +3024,10 @@ Lower case.
 
 ## Z
 
+### zero emission vehicle
+
+No hyphen.
+
 ### zero-hours contract
 
 Not 'zero-hour contract' or 'zero hours contract'.
