@@ -1520,17 +1520,13 @@ Lower case.
 
 ### Maths content
 
-Use a minus sign for negative numbers:  –6
-
 Ratios have no space either side of the colon:  5:12
 
 One space each side of symbols +, –, ×, ÷ and = (so: 2 + 2 = 4)
 
 Use the minus sign for subtraction. Use the correct symbol for the multiplication sign (×), not the letter x. 
 
-Write out and hyphenate fractions: two-thirds, three-quarters.
-
-Write out decimal fractions as numerals. Use the same number format for a sequence: 0.75 and 0.45.
+See also the [entry on numbers](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#numbers).
 
 ### Measurements
 
@@ -1825,11 +1821,15 @@ For numerals over 999, insert a comma for clarity: 9,000.
 
 See [how to use millions](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#millions) or [how to use billions](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#billions).
 
-Spell out common fractions like one-half.
+Write out and hyphenate fractions: two-thirds, three-quarters.
+
+Write out decimal fractions as numerals. Use the same number format for a sequence: 0.75 and 0.45.
 
 Use a % sign for percentages: 50%.
 
 Use a 0 where there's no digit before the decimal point (for example, 0.5 not .5). 
+
+Use a minus sign for negative numbers: –6
 
 Use 'zero degrees' not '0 degrees' or 0°.
 
