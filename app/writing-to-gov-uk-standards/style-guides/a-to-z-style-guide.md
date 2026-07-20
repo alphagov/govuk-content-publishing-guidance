@@ -2088,7 +2088,7 @@ Title case because it's the name of an organisation.
 
 ### Prime Minister
 
-Use Prime Minister Keir Starmer and the Prime Minister.
+Use Prime Minister Andy Burnham and the Prime Minister.
 
 ### priority school building programme
 
