@@ -420,7 +420,7 @@ You might need to retag some content so it's tagged to both the closing and new 
 
 #### What you should retag
 
-Only retag content to the new organisation if it's still current - for example, guidance or policy should still be followed. Keep the content tagged to the closing organisation too.
+Only retag content to the new organisation if it's still current - for example, guidance or policy that should still be followed. Keep the content tagged to the closing organisation too.
 
 To get a list of your content to decide what needs retagging, go to the 'Documents' section of Whitehall Publisher. Filter by your organisation name and select 'Export as CSV'.
 
