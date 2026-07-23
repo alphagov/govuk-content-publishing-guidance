@@ -35,8 +35,8 @@ Rejected content goes back to draft status. After further editing, you can submi
 If you want them to just look at the draft:
 
 1. Select 'Save and go to document summary' on your current draft.
-2. Under the 'Preview' heading, select the 'Share document preview' dropdown. You'll get a link you can send which will work for 30 days. The link will only work for the page you're previewing.
-3. If the link expires or you send it to the wrong person, select 'Generate a new link'. This will disable the previous preview link.
+2. Under the 'Preview' heading, select the 'Share the preview link with someone else' dropdown. You then need to select 'Generate link'. You'll get a link you can send which will work for 30 days or until the document is published. The link will only work for the page you're previewing.
+3. If the link expires or you send it to the wrong person, select 'Generate new link'. This will disable the previous preview link.
 
 If you want them to fact check the content and potentially add comments:
 
