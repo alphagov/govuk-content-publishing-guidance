@@ -5,9 +5,12 @@ order: 1
 eleventyNavigation:
   parent: Get content advice
 title: Get help and advice
-description: Learn how to get content advice from the GDS content team and from the cross-government content community on Slack and Basecamp.
+description: Ask for support with content design and publishing from GDS and from the cross-government content community on Slack and Basecamp.
 lastUpdated:
 ---
+
+[[toc]]
+
 ## Support from the Government Digital Service (GDS)
 
 You can ask for content advice from the GDS content team. This could be about, for example:
@@ -29,7 +32,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 ### Emergency support for publishing requests 
 
-If you have an emergency relating to publishing to GOV.UK use the [GOV.UK emergency contact details](https://support.publishing.service.gov.uk/emergency-contact-details). You’ll need a Signon account to access those details.
+If you have an emergency relating to publishing to GOV.UK, use the [GOV.UK emergency contact details](https://support.publishing.service.gov.uk/emergency-contact-details). You’ll need a Signon account to access those details.
 
 You should only use these emergency contact details when:
 
