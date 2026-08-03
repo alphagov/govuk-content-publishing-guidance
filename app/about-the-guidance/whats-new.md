@@ -10,6 +10,12 @@ lastUpdated:
 
 This page sets out all recent major updates to the GOV.UK content and publishing guidance.
 
+## August 2026
+
+| Date | Section | Update |
+| --------- | ----------- | ----------- |
+| 3 August | [Ask for limit access to be reset](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on how to reset limit access. |
+
 ## July 2026
 
 | Date | Section | Update |
