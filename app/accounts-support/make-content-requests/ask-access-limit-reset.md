@@ -11,11 +11,10 @@ lastUpdated:
 
 You can control who can see drafts of content in Whitehall Publisher.   
 
-There are 3 options for setting access limits on your content:  
+There are 2 options for setting access limits on your content:  
 
 * no access limiting  
 * limiting access by organisation
-* limiting access by individuals
 
 Content with limited access will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).   
 
