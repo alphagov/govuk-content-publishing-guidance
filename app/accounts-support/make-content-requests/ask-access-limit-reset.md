@@ -25,15 +25,16 @@ If you already have access to the draft and you want to change who has access, y
  
 If you do not have access to the draft and need to access it, you’ll need to ask GDS to reset the access limits. For example, you need to access the draft but you cannot find anyone who already has access.  
 
-Use the [content advice form]( https://signon.publishing.service.gov.uk/users/sign_in) to make your request.   
-
-You’ll need a Signon account with ‘content requesters’ permissions to access the form. Speak to your GOV.UK lead or managing editor if you want access.   
-
 Explain in your request why you want to access the content.   
 
 You’ll also need to provide if you know them:
 
 * the title of the draft 
-* the name of the person who created the draft 
+* the name of the person who created the draft
+
+Use the [content advice form]( https://signon.publishing.service.gov.uk/users/sign_in) to make your request.   
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. Speak to your GOV.UK lead or managing editor if you want access.   
+
 
 *[GDS]: Government Digital Service
