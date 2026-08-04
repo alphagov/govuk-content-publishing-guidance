@@ -24,7 +24,7 @@ If you do not have access to the draft and need to access it, you’ll need to a
 
 Explain in your request why you want to access the content.   
 
-You’ll also need to provide if you know them:
+If you know them, include in your request:
 
 * the title of the draft 
 * the name of the person who created the draft
