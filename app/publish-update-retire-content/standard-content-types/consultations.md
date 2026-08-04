@@ -66,7 +66,6 @@ Do not add any more information or attachments to the page after the government 
 12. {% include 'reusable-content/limit-access.md' %}
 
 13. Select the 'Save' button at the bottom of the page.
-
 {% include 'reusable-content/style-formatting-extra.md' %}
 
 
@@ -117,6 +116,7 @@ Do not change the original content or consultation documents. They will move to 
 5. {% include 'reusable-content/limit-access.md' %}
 
 6. {% include 'reusable-content/change-notes.md' %}
+
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Public feedback' tab at the top of the page.
 
