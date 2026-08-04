@@ -31,6 +31,7 @@ If there were multiple deaths in one incident, create a fatality notice for the 
 ### If you're creating a new fatality notice
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Fatality notice' and then select the 'Next' button.
 4. In the 'Title', add the names and titles of the people who died.
@@ -48,6 +49,7 @@ After saving the page, you can now add images of the people if you have them. Yo
 ### If you're updating an existing fatality notice
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the fatality notice you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
