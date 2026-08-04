@@ -71,6 +71,7 @@ There are different types of news articles. Make sure you choose the right type.
 ### If you're creating a new article
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'News article' and then select the 'Next' button.
 4. Choose the type of news article from the following page and select ‘Next’.
