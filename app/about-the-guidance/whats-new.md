@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 4 August | [Ask for limit access to be changed](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on get limit access changed. |
+| 4 August | [Ask for limit access to be changed](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on getting limited access to drafts changed. |
 
 ## July 2026
 
