@@ -52,7 +52,6 @@ Do not add any more information or attachments to the page after the government 
 ### If you're creating a new consultation
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'New document' tab.
 3. Select 'Consultation' and then select the 'Next' button.
 4. If the consultation is not in English, tick 'Create a foreign language only consultation' and select the language.
