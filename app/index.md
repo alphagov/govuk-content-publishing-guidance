@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 4 August 2026
-whatsNewHeadline: Added guidance on how to get limit access reset
+whatsNewHeadline: Added guidance on getting limited access to drafts changed
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
