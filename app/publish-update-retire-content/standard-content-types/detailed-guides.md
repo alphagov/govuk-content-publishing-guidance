@@ -29,13 +29,12 @@ Content containing background information about why a user needs to complete a t
 ### If you're creating a new detailed guide
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Detailed guide' and then select the 'Next' button.
 4. Add the title, summary and body. {% include 'reusable-content/style-formatting.md' %}
-
 5. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 6. {% include 'reusable-content/limit-access.md' %}
-
 7. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can add attachments and images.
@@ -43,15 +42,14 @@ After saving the page, you can add attachments and images.
 ### If you're updating an existing detailed guide
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the detailed guide you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary or body as needed. {% include 'reusable-content/style-formatting.md' %}
-
 6. {% include 'reusable-content/political-heading.md' %}
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 
