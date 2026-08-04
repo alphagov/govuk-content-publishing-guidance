@@ -39,14 +39,12 @@ Remember, most users just want practical guidance. Case studies can make it hard
 ### If you're creating a new case study
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'New document' tab.
 3. Select 'Case study' and then select the 'Next' button.
 4. Add the title. It should summarise the point of the case study, like 'UK money helps to build homes in Darfur'.
 5. Add the summary. It should outline what happened, why it happened and the result.
 6. Add the body. Include information about how the case study supports a particular policy (with links to relevant pages). If you can, include statistics and facts about things like how many people will be helped and how much money is being spent. Finally, include the human element of who is benefiting and how. Avoid too much detail about the past or too many quotations (unless it's an interview).
 5. {% include 'reusable-content/limit-access.md' %}
-
 6. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -57,15 +55,12 @@ After saving the page, you can add images and attachments.
 ### If you're updating an existing case study
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'Documents' tab.
 3. Search for the case study you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary or body as needed. {% include 'reusable-content/style-formatting.md' %}
-
 6. {% include 'reusable-content/political-heading.md' %}
 7. {% include 'reusable-content/limit-access.md' %}
-
 8. {% include 'reusable-content/change-notes.md' %}
 9. Select the 'Save' button at the bottom of the page.
 
