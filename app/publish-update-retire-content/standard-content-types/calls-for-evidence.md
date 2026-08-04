@@ -57,6 +57,7 @@ You can then add a final outcome to explain the government's response to the cal
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 11. {% include 'reusable-content/limit-access.md' %}
 12. Select the 'Save' button at the bottom of the page.
+    
 {% include 'reusable-content/style-formatting-extra.md' %}
 
 Once that's done, you can add attachments.
