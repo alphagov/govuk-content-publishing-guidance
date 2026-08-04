@@ -52,6 +52,7 @@ Do not add any more information or attachments to the page after the government 
 ### If you're creating a new consultation
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Consultation' and then select the 'Next' button.
 4. If the consultation is not in English, tick 'Create a foreign language only consultation' and select the language.
@@ -84,10 +85,12 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 ### If you're updating an open consultation
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary and body as needed. {% include 'reusable-content/style-formatting.md' %}
+
 6. {% include 'reusable-content/political-heading.md' %}
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
@@ -105,6 +108,7 @@ You can update the consultation to:
 Do not change the original content or consultation documents. They will move to the bottom of the page under the heading 'Original consultation'.
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
@@ -133,6 +137,7 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 Do not change the original content or consultation documents. They will move to the bottom of the page under the heading 'Original consultation'.
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
