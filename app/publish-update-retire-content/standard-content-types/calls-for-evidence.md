@@ -45,7 +45,6 @@ You can then add a final outcome to explain the government's response to the cal
 ### If you're creating a new call for evidence
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'New document' tab.
 3. Select 'Call for evidence' and then select the 'Next' button.
 4. If the call for evidence is not in English, tick 'Create a foreign language only call for evidence' and select the language.
@@ -56,11 +55,8 @@ You can then add a final outcome to explain the government's response to the cal
 9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](/formatting-content/attachments/).
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 11. {% include 'reusable-content/limit-access.md' %}
-
 12. Select the 'Save' button at the bottom of the page.
-
 {% include 'reusable-content/style-formatting-extra.md' %}
-
 
 Once that's done, you can add attachments.
 
@@ -78,16 +74,13 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 ### If you're updating a call for evidence
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'Documents' tab.
 3. Search for the call for evidence you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary and body as needed. {% include 'reusable-content/style-formatting.md' %}
-
 6. {% include 'reusable-content/political-heading.md' %}
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
@@ -97,7 +90,6 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 Do not change the original content or documents. They will move to the bottom of the page under the heading 'Original call for evidence'.
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'Documents' tab.
 3. Search for the call for evidence you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
