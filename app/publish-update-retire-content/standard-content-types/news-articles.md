@@ -71,6 +71,7 @@ There are different types of news articles. Make sure you choose the right type.
 ### If you're creating a new article
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'News article' and then select the 'Next' button.
 4. Choose the type of news article from the following page and select ‘Next’.
@@ -92,6 +93,7 @@ If a news article is outdated, consider [withdrawing or unpublishing the existin
 If you're correcting an error:
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the news article you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
