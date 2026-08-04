@@ -29,7 +29,6 @@ Content containing background information about why a user needs to complete a t
 ### If you're creating a new detailed guide
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'New document' tab.
 3. Select 'Detailed guide' and then select the 'Next' button.
 4. Add the title, summary and body. {% include 'reusable-content/style-formatting.md' %}
@@ -44,7 +43,6 @@ After saving the page, you can add attachments and images.
 ### If you're updating an existing detailed guide
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
-
 2. Select the 'Documents' tab.
 3. Search for the detailed guide you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
