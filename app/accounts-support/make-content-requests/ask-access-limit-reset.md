@@ -4,8 +4,8 @@ sectionKey: Accounts and support
 order: 12
 eleventyNavigation:
   parent: Make content requests
-title: Ask for limit access to be reset
-description: Find out how to get access limits in Whitehall publisher reset.
+title: Ask for limited access to drafts to be changed
+description: Find out how to get limit access in Whitehall publisher changed.
 lastUpdated:
 ---
 
