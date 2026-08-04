@@ -45,6 +45,7 @@ You can then add a final outcome to explain the government's response to the cal
 ### If you're creating a new call for evidence
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Call for evidence' and then select the 'Next' button.
 4. If the call for evidence is not in English, tick 'Create a foreign language only call for evidence' and select the language.
