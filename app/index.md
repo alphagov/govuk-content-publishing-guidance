@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 16 July 2026
-whatsNewHeadline: Added style guide entry for 'zero emission vehicle'
+whatsNewDate: 4 August 2026
+whatsNewHeadline: Updated history mode guidance to make it clearer
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide

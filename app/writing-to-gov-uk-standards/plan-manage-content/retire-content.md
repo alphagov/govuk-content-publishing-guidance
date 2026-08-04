@@ -95,64 +95,42 @@ The [guidance on how to update content on GOV.UK](/publish-update-retire-content
 
 ## When history mode gets applied
 
-There’s content on GOV.UK to do with the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
+There’s content on GOV.UK related to the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
 
 For this content, users will see a message telling them the content is from a previous government. We call this ‘history mode’.
 
 History mode is applied to content when:
+ 
++ there's a new government, such as after a general election or if there's a new Prime Minister 
++ the 'first published' date of the content (or the 'delivered on' date for a speech) is during a previous government 
++ it’s a [standard content type on Whitehall Publisher](/publish-update-retire-content/standard-content-types/) which is eligible for history mode
 
-+ there's a new government, such as after a general election or if there's a new Prime Minister
-+ the 'first published' date of the content or the 'delivered on' date for a speech is during a previous government
-+ it was published through Whitehall Publisher
-+ it was tagged to an organisation that is associated with government policy when it was first published (for example, ministerial departments)
-+ the 'political' box has been ticked (see more details about this box in our [guidance on how to update content on GOV.UK](/publish-update-retire-content/))
+The following standard content types are automatically eligible for history mode if they were tagged to a ‘political’ organisation (such as a ministerial department) when they were first published: 
 
-History mode applies to these content types automatically:
++ [calls for evidence](/publish-update-retire-content/standard-content-types/calls-for-evidence/) 
++ [case studies](/publish-update-retire-content/standard-content-types/case-studies/) 
++ [consultations](/publish-update-retire-content/standard-content-types/consultations/) 
++ [news articles](/publish-update-retire-content/standard-content-types/news-articles/) – this includes government responses, news stories, press releases and world news stories 
++ certain types of [publications](/publish-update-retire-content/standard-content-types/publications/) – these are corporate reports, impact assessments and policy papers 
++ [speeches](/publish-update-retire-content/standard-content-types/speeches/) – this includes transcripts, draft texts, speaking notes, authored articles and written and oral statements to Parliament 
 
-+ consultations
-+ calls for evidence
-+ corporate or annual reports
-+ government responses
-+ impact assessments
-+ news stories
-+ policy papers
-+ press releases
-+ speeches
+All standard content types can also be automatically eligible if they’re tagged to a minister when they're first published. 
 
-It can also apply to detailed guides and document collections if the 'political' box has been ticked.
+You can add or remove eligibility from all standard content types if you tick or untick the ‘political’ box. This is the box under the ‘Political’ heading you can see when updating content that’s already been published. 
 
-It applies to these content types if they were associated with a minister when they were first published:
+The exceptions to these rules are [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/) and [statistics](/publish-update-retire-content/standard-content-types/statistics/), which are never eligible for history mode.
 
-+ case studies
-+ correspondence
-+ decision
-+ forms
-+ FOI releases
-+ guidance
-+ independent reports
-+ international treaties
-+ maps
-+ notices
-+ promotional material
-+ regulations
-+ statutory guidance
-+ transparency data
+If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll need to:
 
-It cannot be applied to:
++ review what content will go into history mode if the government changes
++ prevent content from going into history mode if there is a problem
 
-+ accredited official statistics
-+ fatality notices
-+ manuals
-+ 'mainstream' content
-+ official statistics
+### Managing content in history mode
+
+Content in history mode cannot be updated or unpublished.
+
+If you want to update or unpublish the content, [ask GDS to remove history mode](/accounts-support/make-content-requests/ask-history-mode/).
 
 Content in history mode does not need to be ‘withdrawn’ as well, unless you find evidence that users need a link to a newer document that replaced it.
-
-If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll be able to:
-
-+ see what content will go into history mode if the government changes 
-+ prevent content from going into history mode if you think there is a problem
-
-If you think content should no longer be in history mode, [ask GDS to remove history mode](/accounts-support/make-content-requests/ask-history-mode/).
 
 *[GDS]: Government Digital Service
