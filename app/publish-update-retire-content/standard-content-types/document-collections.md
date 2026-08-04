@@ -43,10 +43,12 @@ Do not create a collection:
 ### If you're creating a new document collection
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'New document' tab.
 3. Select 'Document collection' and then select the 'Next' button.
 4. If the document collection is not in English, tick 'Create a foreign language only document collection' and select the language.
 5. Add the title and summary. You can add a further description of the collection to the body. {% include 'reusable-content/style-formatting.md' %}
+
 6. {% include 'reusable-content/limit-access.md' %}
 7. Select the 'Save' button at the bottom of the page.
 
@@ -55,10 +57,12 @@ After saving the page, you can start adding the collection itself.
 ### If you're updating an existing document collection
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the document collection you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary and body as needed. {% include 'reusable-content/style-formatting.md' %}
+
 6. {% include 'reusable-content/political-heading.md' %}
 7. {% include 'reusable-content/limit-access.md' %}
 8. {% include 'reusable-content/change-notes.md' %}
