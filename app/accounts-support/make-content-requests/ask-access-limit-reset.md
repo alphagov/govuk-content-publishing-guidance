@@ -31,9 +31,9 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 Explain in your request why you want to access the content.   
 
-You’ll also need to provide:
+You’ll also need to provide if you know them:
 
-* the title of the draft
-* the name of the person who created the draft - if you know it
+* the title of the draft 
+* the name of the person who created the draft 
 
 *[GDS]: Government Digital Service
