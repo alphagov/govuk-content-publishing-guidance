@@ -60,6 +60,7 @@ You can then add a final outcome to explain the government's response to the cal
     
 {% include 'reusable-content/style-formatting-extra.md' %}
 
+
 Once that's done, you can add attachments.
 
 Go to the 'Attachments' tab. Your attachments can either be file attachments or HTML attachments.
@@ -76,6 +77,7 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 ### If you're updating a call for evidence
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the call for evidence you want to edit, and select the 'View' link next to it. This will take you to the edition summary page. If you only want to update the topic tags and nothing else, select 'Change tags' under 'Topic taxonomy tags'. Otherwise, keep following these steps.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
@@ -92,6 +94,7 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 Do not change the original content or documents. They will move to the bottom of the page under the heading 'Original call for evidence'.
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
+
 2. Select the 'Documents' tab.
 3. Search for the call for evidence you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
