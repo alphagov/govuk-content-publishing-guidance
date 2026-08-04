@@ -11,7 +11,7 @@ lastUpdated:
 
 You can control who can see drafts of content in Whitehall Publisher.   
 
-You can limit access by organisation or opt to have no access limits meaning anyone can access the draft. 
+You can limit access by organisation or opt to have no access limits, meaning anyone can access the draft. 
 
 Content with limited access will not be copied across to [Integration](/accounts-support/manage-accounts-training/production-integration/).   
 
