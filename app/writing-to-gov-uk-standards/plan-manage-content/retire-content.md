@@ -95,7 +95,7 @@ The [guidance on how to update content on GOV.UK](/publish-update-retire-content
 
 ## When history mode gets applied
 
-There’s content on GOV.UK to do with the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
+There’s content on GOV.UK related to the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
 
 For this content, users will see a message telling them the content is from a previous government. We call this ‘history mode’.
 
@@ -120,10 +120,10 @@ You can add or remove eligibility from all standard content types if you tick or
 
 The exceptions to these rules are [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/) and [statistics](/publish-update-retire-content/standard-content-types/statistics/), which are never eligible for history mode.
 
-If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll be able to:
+If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll need to:
 
-+ see what content will go into history mode if the government changes 
-+ prevent content from going into history mode if you think there is a problem
++ review what content will go into history mode if the government changes
++ prevent content from going into history mode if there is a problem
 
 ### Managing content in history mode
 
