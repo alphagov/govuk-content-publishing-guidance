@@ -104,7 +104,7 @@ Do not change the original content or documents. They will move to the bottom of
 5. {% include 'reusable-content/change-notes.md' %}
 6. {% include 'reusable-content/limit-access.md' %}
 7. Select the 'Final outcome' tab at the top of the page. Add a publication date and content to describe the outcome.
-8. Select 'Save'.
+8. Select the 'Save' button at the bottom of the page.
 9. Upload any more detailed documents about the outcome as a file or HTML attachment.
 
 If you're uploading a file attachment:
