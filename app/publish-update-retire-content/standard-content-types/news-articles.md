@@ -80,7 +80,7 @@ There are different types of news articles. Make sure you choose the right type.
 6. {% include 'reusable-content/limit-access.md' %}
 
 7. If you're creating a world news story, tag the story to a world location and worldwide organisation under the 'Associations' heading.
-7. Select the 'Save' button at the bottom of the page.
+8. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can add images and attachments.
 
