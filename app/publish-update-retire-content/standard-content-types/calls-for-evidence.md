@@ -104,8 +104,8 @@ Do not change the original content or documents. They will move to the bottom of
 
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Final outcome' tab at the top of the page. Add a publication date and content to describe the outcome.
-9. Upload any more detailed documents about the outcome as a file or HTML attachment.
-10. Select 'Save'.
+9. Select 'Save'.
+10. Upload any more detailed documents about the outcome as a file or HTML attachment.
 
 If you're uploading a file attachment:
 
