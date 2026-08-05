@@ -7,7 +7,7 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 4 August 2026
+whatsNewDate: 5 August 2026
 whatsNewHeadline: Added guidance on getting limited access to drafts changed
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
