@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 5 August | [Ask for limited access to drafts to be changed](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on getting limited access to drafts changed. |
+| 4 August | [Retire outdated content](/writing-to-gov-uk-standards/plan-manage-content/retire-content/) | Updated the section on history mode to make it clearer which content types can go into history mode. |
 
 ## July 2026
 
