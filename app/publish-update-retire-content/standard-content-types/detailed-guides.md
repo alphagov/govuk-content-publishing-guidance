@@ -36,7 +36,6 @@ Content containing background information about why a user needs to complete a t
 
 5. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 6. {% include 'reusable-content/limit-access.md' %}
-
 7. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can add attachments and images.
@@ -53,7 +52,6 @@ After saving the page, you can add attachments and images.
 6. {% include 'reusable-content/political-heading.md' %}
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 

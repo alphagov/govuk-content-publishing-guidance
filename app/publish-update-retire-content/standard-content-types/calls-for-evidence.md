@@ -56,9 +56,8 @@ You can then add a final outcome to explain the government's response to the cal
 9. Add details about the 'Ways to respond'. This could be a link to an online form, an email address, a postal address or a downloadable form. If you're attaching a downloadable form, make sure you've correctly [formatted the attachment](/formatting-content/attachments/).
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 11. {% include 'reusable-content/limit-access.md' %}
-
 12. Select the 'Save' button at the bottom of the page.
-
+    
 {% include 'reusable-content/style-formatting-extra.md' %}
 
 
@@ -87,7 +86,6 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 6. {% include 'reusable-content/political-heading.md' %}
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
@@ -103,6 +101,7 @@ Do not change the original content or documents. They will move to the bottom of
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/change-notes.md' %}
 6. {% include 'reusable-content/limit-access.md' %}
+
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Final outcome' tab at the top of the page. Add a publication date and content to describe the outcome.
 9. Select 'Save'.

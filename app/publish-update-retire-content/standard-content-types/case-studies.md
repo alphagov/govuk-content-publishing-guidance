@@ -46,7 +46,6 @@ Remember, most users just want practical guidance. Case studies can make it hard
 5. Add the summary. It should outline what happened, why it happened and the result.
 6. Add the body. Include information about how the case study supports a particular policy (with links to relevant pages). If you can, include statistics and facts about things like how many people will be helped and how much money is being spent. Finally, include the human element of who is benefiting and how. Avoid too much detail about the past or too many quotations (unless it's an interview).
 5. {% include 'reusable-content/limit-access.md' %}
-
 6. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -65,7 +64,6 @@ After saving the page, you can add images and attachments.
 
 6. {% include 'reusable-content/political-heading.md' %}
 7. {% include 'reusable-content/limit-access.md' %}
-
 8. {% include 'reusable-content/change-notes.md' %}
 9. Select the 'Save' button at the bottom of the page.
 

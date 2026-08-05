@@ -66,7 +66,6 @@ Do not add any more information or attachments to the page after the government 
 12. {% include 'reusable-content/limit-access.md' %}
 
 13. Select the 'Save' button at the bottom of the page.
-
 {% include 'reusable-content/style-formatting-extra.md' %}
 
 
@@ -95,7 +94,6 @@ If you're uploading a HTML attachment, read the [formatting guidance](/formattin
 6. {% include 'reusable-content/political-heading.md' %}
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 11. Go to the 'Attachments' tab if you want to edit any of the consultation documents. You can quickly overwrite previous versions of attachments if you upload new files with the same file names as your old ones.
@@ -115,7 +113,6 @@ Do not change the original content or consultation documents. They will move to 
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/limit-access.md' %}
-
 6. {% include 'reusable-content/change-notes.md' %}
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Public feedback' tab at the top of the page.
@@ -145,7 +142,6 @@ Do not change the original content or consultation documents. They will move to 
 3. Search for the consultation you want to edit, and select the 'View' link next to it. This will take you to the edition summary page.
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link instead. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. {% include 'reusable-content/limit-access.md' %}
-
 6. {% include 'reusable-content/change-notes.md' %}
 7. Select the 'Save' button at the bottom of the page.
 8. Select the 'Final outcome' tab at the top of the page. Add a publication date and use the 'Summary' to describe briefly what form the response takes, but do not describe what the response says.
