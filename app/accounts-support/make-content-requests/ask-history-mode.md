@@ -9,12 +9,18 @@ description: Ask GDS to turn off history mode on Whitehall content.
 lastUpdated:
 ---
 
-If Whitehall content is in ‘history mode’, you cannot update or unpublish it.
+If Whitehall content is in ‘history mode’, you cannot update or unpublish it unless both:
 
-You can ask the Government Digital Service (GDS) to:
+- the content was first published under the 2024 to 2026 Starmer government
+- you're a managing editor on Whitehall Publisher
+
+If it was published under an earlier government or you cannot find a managing editor to help you, you can ask the Government Digital Service (GDS) to:
 
 - turn off history mode
 - change the ‘associated government’ of content in history mode, if the content was actually first published under a different government
+
+> [!NOTE]
+> After 11 September 2026, no one will be able to update or unpublish content in history mode from the Starmer government without raising a request with GDS.
 
 Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
 

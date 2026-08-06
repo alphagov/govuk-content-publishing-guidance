@@ -10,6 +10,21 @@ lastUpdated:
 
 This page sets out all recent major updates to the GOV.UK content and publishing guidance.
 
+## August 2026
+
+| Date | Section | Update |
+| --------- | ----------- | ----------- |
+| 5 August | [Ask for limited access to drafts to be changed](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on how to ask for limited access to drafts to be changed. |
+| 4 August | [Retire outdated content](/writing-to-gov-uk-standards/plan-manage-content/retire-content/) | Updated the section on history mode to make it clearer which content types can go into history mode. |
+
+## July 2026
+
+| Date | Section | Update |
+| --------- | ----------- | ----------- |
+| 16 July | [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) | Added entry for 'zero emission vehicle'. |
+| 14 July | [Use clear language](/writing-to-gov-uk-standards/writing-guidelines/clear-language/) | Added guidance about using the active voice. |
+| 2 July | [Ask for a feedback page](/accounts-support/make-content-requests/ask-feedback-page/) | Added a new page about how to request a feedback page for a service. |
+
 ## June 2026
 
 | Date | Section | Update |

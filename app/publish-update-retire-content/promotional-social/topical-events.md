@@ -103,6 +103,8 @@ You can add and remove social media accounts in the ‘Social media accounts’ 
 
 To add an account, select the ‘Add a social media account’ button and then choose the channel type and add the URL.
 
+Avoid putting something generic or very short in the ‘Title’ field, which appears as link text. For example, put ‘DWP on X’ rather than just ‘X’. Generic or short link text can create accessibility issues.
+
 ## Add or edit images
 
 You can add:

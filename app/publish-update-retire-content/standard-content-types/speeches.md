@@ -91,7 +91,6 @@ If you're correcting an error:
 5. Make any changes to the title, summary, body and speech details as needed. {% include 'reusable-content/style-formatting.md' %}
 
 6. {% include 'reusable-content/political-heading.md' %}
-
 7. {% include 'reusable-content/limit-access.md' %}
 
 8. {% include 'reusable-content/change-notes.md' %}

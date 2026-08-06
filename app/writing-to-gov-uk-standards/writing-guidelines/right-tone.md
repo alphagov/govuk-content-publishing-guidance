@@ -21,7 +21,7 @@ The 'tone of voice' for GOV.UK content is:
 
 Write conversationally. Picture your audience and write as if you were talking to them one-to-one, but with the authority of someone who can actively help.
 
-Use the active voice rather than the passive voice.
+Use the active voice rather than the passive voice. [Read the guidance about using clear language for more details on using the active voice](/writing-to-gov-uk-standards/writing-guidelines/clear-language/).  
 
 There's usually no need to say 'please' or 'please note'. This includes when giving an instruction or explaining what a user needs to do, like 'Please contact us'.
 

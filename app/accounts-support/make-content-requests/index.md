@@ -20,6 +20,8 @@ This guidance covers how to request:
 - changes to related links
 - a new organisation page
 - removing 'history mode'
+- a feedback page for a service
+- a change to limited access on drafts
 
 It also covers how to request an exemption from putting your content on GOV.UK.
 

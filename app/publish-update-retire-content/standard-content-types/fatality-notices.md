@@ -42,7 +42,6 @@ If there were multiple deaths in one incident, create a fatality notice for the 
 9. Under the 'Introduction' part of 'Roll call info', include the deceased people's name and title, the incident in which they died, and the date on which they died. This will display above the link to the fatality notice on the ['Fields of operation' page](https://www.gov.uk/government/fields-of-operation).
 10. Under the 'Casualties' part of 'Roll call info', create separate entries for each person who died. Include their name and title, their regiment, battalion or air wing (if cleared), their age and where they're from.
 11. {% include 'reusable-content/limit-access.md' %}
-
 12. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can now add images of the people if you have them. You can update the fatality notice later if you do not have images immediately.
@@ -56,7 +55,6 @@ After saving the page, you can now add images of the people if you have them. Yo
 4. Select the 'Create new edition' button. If a new edition has already been created, select the 'Go to draft' link. You can then select 'Edit draft' or, if you do not want to use this draft, select 'Delete draft' and then select 'Create new edition'.
 5. Make any changes to the title, summary, body and fatality notice details as needed.
 6. {% include 'reusable-content/limit-access.md' %}
-
 7. {% include 'reusable-content/change-notes.md' %}
 8. Select the 'Save' button at the bottom of the page.
 
