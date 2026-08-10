@@ -125,40 +125,53 @@ If the image requires cropping, it will say this when you go back to the ‘Imag
 
 Select ‘Edit’ to crop the image or to edit the caption on header images.
 
-## Tag a piece of content to the topical event page
+## Feature content 
 
-You can tag content by adding an association to the topical event. You can do it for these content types:
+You can feature up to 6 pieces of content. Any items you feature must include an image. Read the guidance on [formatting images](/formatting-content/images/) for help with picking an image. 
 
-- [call for evidence](/publish-update-retire-content/standard-content-types/calls-for-evidence/)
-- [consultation](/publish-update-retire-content/standard-content-types/consultations/)
-- [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/)
-- [document collection](/publish-update-retire-content/standard-content-types/document-collections/)
-- [news article](/publish-update-retire-content/standard-content-types/news-articles)
-- [publication](/publish-update-retire-content/standard-content-types/publications/)
-- [speech](/publish-update-retire-content/standard-content-types/speeches/)
+### Feature content published through Whitehall Publisher 
 
-Content tagged to the topical event will automatically appear in the 'Latest' feed.
+You can feature these content types: 
 
-## Feature tagged content
+- [calls for evidence](/publish-update-retire-content/standard-content-types/calls-for-evidence/) 
+- [consultations](/publish-update-retire-content/standard-content-types/consultations/) 
+- [detailed guides](/publish-update-retire-content/standard-content-types/detailed-guides/) 
+- [document collections](/publish-update-retire-content/standard-content-types/document-collections/) 
+- [news articles](/publish-update-retire-content/standard-content-types/news-articles) 
+- [publications](/publish-update-retire-content/standard-content-types/publications/) 
+- [speeches](/publish-update-retire-content/standard-content-types/speeches/) 
+ 
+You need to tag the content to the topical event before it can be featured. Do this by publishing a draft with the topical event selected under the ‘Topical events (experimental)’ heading. 
 
-You can feature up to 6 pieces of content. Any items you feature must include an image. Read the guidance on [formatting images](/formatting-content/images/) for help with picking an image.
+> [!NOTE] 
+> All content tagged to the topical event will automatically appear in the 'Latest' feed, even if it's not featured.
 
-If the content is published through Whitehall Publisher:
+Once the content has been tagged to the topical event and published: 
 
-1. Select the 'Featured' tab.
-2. Select the 'GOV.UK content' tab.
-3. Search for the document you want to feature using the filters on the left hand side. Only content tagged to the topical event will show in the list.
-4. Select the 'Feature' link next to the document you would like to feature.
-5. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text.
+1. Select the 'Featured' tab. 
+2. Select the 'GOV.UK content' tab. 
+3. Search for the content you want to feature using the filters.  
+4. Select the 'Feature' link next to the content you would like to feature. 
+5. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text. 
 
-If the content is not published through Whitehall Publisher:
+### Feature content not published through Whitehall Publisher 
 
-1. Select the 'Featured' tab.
-2. Select the 'External websites' tab.
-3. Select 'Add an external link'.
-4. Complete the title, summary, type and URL fields and select 'Save'.
-5. Select the 'Feature' link next to the external page you would like to feature.
-6. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text.
+You can feature content with a URL ending in: 
+
+- gov.uk
+- nhs.uk 
+- royal.uk 
+- victimandwitnessinformation.org.uk 
+- energygovuk.citizenspace.com 
+
+Once you have a link: 
+
+1. Select the 'Featured' tab.  
+2. Select the 'External websites' tab.  
+3. Select 'Add an external link'.  
+4. Complete the title, summary, type and URL fields and select 'Save'.  
+5. Select the 'Feature' link next to the external page you would like to feature.  
+6. Select an image to be shown on your topical event page with this feature. You do not need to provide alt text. 
 
 ### Change the order of featured content
 
