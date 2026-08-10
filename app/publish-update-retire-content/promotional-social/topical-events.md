@@ -156,7 +156,7 @@ Once the content has been tagged to the topical event and published:
 
 ### Feature content not published through Whitehall Publisher 
 
-You can feature content with a URL ending in: 
+You can only feature content with a URL ending in: 
 
 - gov.uk
 - nhs.uk 
