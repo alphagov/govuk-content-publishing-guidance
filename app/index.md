@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 5 August 2026
-whatsNewHeadline: Added guidance on asking for limit access to drafts to be changed
+whatsNewDate: 11 August 2026
+whatsNewHeadline: Updated style guide entry for 'Ofsted judgements' to reflect new grading system
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
