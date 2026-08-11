@@ -14,6 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
+| 11 August | [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) | Updated entry for 'Ofsted judgements' to reflect new grading system. |
 | 5 August | [Ask for limited access to drafts to be changed](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on how to ask for limited access to drafts to be changed. |
 | 4 August | [Retire outdated content](/writing-to-gov-uk-standards/plan-manage-content/retire-content/) | Updated the section on history mode to make it clearer which content types can go into history mode. |
 

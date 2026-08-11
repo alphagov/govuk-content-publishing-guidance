@@ -1865,14 +1865,15 @@ Lower case. This term covers both company and public sector pension schemes. Onl
 
 ### Ofsted judgements
 
-Lower case and not in single quote marks: Westminster School was judged outstanding in its latest Ofsted inspection.
-
-There are 4 Ofsted grades:
-
-* outstanding (or grade 1)
-* good (or grade 2)
-* requires improvement (or grade 3)
-* inadequate (or grade 4)
+Lower case and only in single quote marks if part of a sentence. For example: 'Example School met the ‘expected standard’ for leadership and governance.'
+ 
+There are 5 Ofsted grades:
+ 
+* exceptional
+* strong standard
+* expected standard
+* needs attention
+* urgent improvement
 
 ### one-year-on
 
