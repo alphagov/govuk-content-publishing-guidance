@@ -23,9 +23,18 @@ If you're asking for them to be updated, you must include:
 * why the user need cannot be met by adding the link to the main body of the content
 * any supporting evidence or insights 
 
-Use the [content advice support form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. 
+Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new). You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice support form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 Requests to update related links are reviewed on a case by case basis.
 
