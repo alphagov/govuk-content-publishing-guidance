@@ -43,7 +43,7 @@ Do not use them for:
 
 ## Get approval to create a new manual
 
-Your GOV.UK lead or a managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
+Your GOV.UK lead or managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
 
 Their request for a new manual must show:
 
@@ -135,17 +135,41 @@ Users will get email notifications about new manuals or major changes if they're
 
 Your manual will be automatically tagged to the same organisation as your Signon account.
 
-If you want to change the organisation or tag more organisations, [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you want to change the organisation or tag more organisations, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
+
 
 ## Tag to topic pages
 
 You can only tag the manual to topic pages once the first draft is published.
 
-You'll need to [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
+You'll need to [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
+
 
 ## Unpublish a manual
 
@@ -160,9 +184,21 @@ To unpublish sections of a manual:
 3. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select 'Major change' and add your change notes.
 4. When you've done this for every relevant section, publish the draft.
 
-To unpublish the manual as a whole, [contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
+To unpublish the manual as a whole, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the advice form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
+
 
 
 *[GDS]: Government Digital Service

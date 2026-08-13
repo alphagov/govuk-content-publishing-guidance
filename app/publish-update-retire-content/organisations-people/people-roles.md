@@ -40,7 +40,18 @@ GDS will contact GOV.UK leads in ministerial departments to let them know what's
 
 If it's a change to only one or two ministerial appointments, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to check if you can create and assign the new people and role pages yourself.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 If you can make the changes yourself, ask the minister's private office and the Number 10 digital communications team for the details you can use.
 
@@ -66,7 +77,18 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 If you’re adding a new minister, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 >[!NOTE]
 >When adding or editing a people page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
