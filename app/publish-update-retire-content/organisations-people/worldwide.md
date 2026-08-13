@@ -336,7 +336,18 @@ There's a navigation page for each country and territory.
 - to edit the title, sections or description of an existing page
 - tag a page to all worldwide locations
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 > [!NOTE]
 > See an [example of a help and services navigation page on GOV.UK](https://www.gov.uk/world/france).
@@ -370,7 +381,19 @@ You can also [ask GDS for help](/accounts-support/get-content-advice/get-help-ad
 * specialist finders
 * travel advice pages
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
+
 
  
 *[GDS]: Government Digital Service
