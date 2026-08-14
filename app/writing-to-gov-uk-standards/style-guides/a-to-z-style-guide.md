@@ -1522,7 +1522,7 @@ Lower case.
 
 Ratios have no space either side of the colon:  5:12
 
-One space each side of symbols +, –, ×, ÷ and = (so: 2 + 2 = 4)
+One space each side of symbols +, −, ×, ÷ and = (so: 2 + 2 = 4)
 
 Use the minus sign for subtraction. Use the correct symbol for the multiplication sign (×), not the letter x. 
 
@@ -1829,7 +1829,7 @@ Use a % sign for percentages: 50%.
 
 Use a 0 where there's no digit before the decimal point (for example, 0.5 not .5). 
 
-Use a minus sign for negative numbers: –6
+Use a minus sign for negative numbers: −6
 
 Use 'zero degrees' not '0 degrees' or 0°.
 
