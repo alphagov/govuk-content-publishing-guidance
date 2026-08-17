@@ -32,7 +32,7 @@ The feedback page will be hidden from search engines, so it can be published bef
 
 Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new) to submit your request.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content requests form. 
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -41,7 +41,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

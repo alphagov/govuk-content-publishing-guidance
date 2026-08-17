@@ -16,6 +16,9 @@ You can also suggest changes to an existing topic.
 
 You need a Signon account to make these requests. Speak to your GOV.UK lead if you want access.
 
+Your GOV.UK lead will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+
+
 ## Add a new topic
 
 Use the [new topic request form](https://support.publishing.service.gov.uk/taxonomy_new_topic_request/new) to make your request.

@@ -27,6 +27,8 @@ You cannot give anyone the ‘managing editor’ permission for Whitehall Publis
 ## How to get organisation admin permissions
 Ask your GOV.UK lead to make a request using the [accounts request form](https://support.publishing.service.gov.uk/change_existing_user_request/new).
 
+Your GOV.UK lead will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+
 Super organisation admins can do all the same things as other organisation admins, but for all sub-organisations that your organisation looks after.
 
 You can get super organisation admin permissions if you manage the accounts of people in your department’s agencies who have access to GOV.UK tools. 

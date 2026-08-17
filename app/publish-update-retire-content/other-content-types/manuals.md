@@ -43,7 +43,7 @@ Do not use them for:
 
 ## Get approval to create a new manual
 
-Your GOV.UK lead or managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
+Your GOV.UK lead or a managing editor needs to ask the Government Digital Service (GDS) for approval to create a manual.
 
 Their request for a new manual must show:
 
@@ -137,7 +137,7 @@ Your manual will be automatically tagged to the same organisation as your Signon
 
 If you want to change the organisation or tag more organisations, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -146,7 +146,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -157,7 +157,7 @@ You can only tag the manual to topic pages once the first draft is published.
 
 You'll need to [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -166,7 +166,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -186,7 +186,7 @@ To unpublish sections of a manual:
 
 To unpublish the manual as a whole, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -195,7 +195,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

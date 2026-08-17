@@ -465,7 +465,7 @@ There may be exceptions to the list of content types that should not be retagged
 
 If there is too much content for you to retag manually, you can [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -474,7 +474,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
   </div>
 </details>
 
@@ -501,7 +501,7 @@ If anyone is listed under ‘Our management’ on the organisation page, unassig
 
 If anyone is listed under ‘Our ministers’, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You'll be taken to a content advice form.You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
@@ -510,7 +510,7 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
     </span>
   </summary>
   <div class="govuk-details__text">
-    Speak to your GOV.UK lead or one of the organisation admins if you want access to the form. Your GOV.UK lead or organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
   </div>
 </details>
 

@@ -55,7 +55,18 @@ It's fine to suggest wording if it helps to explain what's changed. However, the
 
 Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new). 
 
-You need a Signon account with ‘content requesters’ permissions to access the form. Speak to your GOV.UK lead if you want access to the form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content requests form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 ### If you need emergency support
 
