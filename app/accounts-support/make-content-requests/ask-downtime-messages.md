@@ -46,8 +46,6 @@ GDS generally does not add downtime messages to mainstream content if:
 
 ## Asking GDS for downtime messages
 
-You need to be the GOV.UK lead for your organisation to make the request.
-
 Ask for the downtime messages 5 working days in advance of the downtime. Give GDS as much time as possible if more than one service is affected. They’ll always try to give users at least a day’s notice of downtime.
 
 Use the [content requests form](https://support.publishing.service.gov.uk/content_change_request/new) to make the request.
