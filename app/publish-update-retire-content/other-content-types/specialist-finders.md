@@ -31,7 +31,7 @@ Do not use them for:
 
 ## Ask for a new specialist finder
 
-Use the [GOV.UK advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
+Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
@@ -80,7 +80,7 @@ It will usually take developers up to 1 month to make the changes. You can ask f
 
 If you expect multiple changes over a period of time, it'll be easier if you group these together in your request.
 
-If you need access to Specialist Publisher, ask one of your organisation admins. If they cannot give you access themselves, they can [submit an account change request](https://support.publishing.service.gov.uk/change_existing_user_request/new).
+If you need access to Specialist Publisher, ask one of your organisation admins. Your organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  If they cannot give you access themselves, they can [submit an account change request](https://support.publishing.service.gov.uk/change_existing_user_request/new).
 
 ## Writing and formatting requirements for specialist finders
 
