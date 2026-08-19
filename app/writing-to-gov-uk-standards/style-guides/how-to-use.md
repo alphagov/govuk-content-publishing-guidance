@@ -55,9 +55,9 @@ Consider whether there's a cross-government need for a consistent style. If the 
 
 ### How to suggest a change
 
-[Raise a support ticket](https://support.publishing.service.gov.uk/content_advice_request/new). 
+Raise a ticket using the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new). 
 
- You’ll need a Signon account with ‘content requesters’ permissions to raise a support ticket using the content advice form. 
+ You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
