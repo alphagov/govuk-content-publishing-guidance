@@ -128,7 +128,7 @@ If your organisation is not tagged, they can direct you to the tagged organisati
 
 [Ask GDS for help if you want to change mainstream content](/accounts-support/make-content-requests/ask-updates-content/).
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
