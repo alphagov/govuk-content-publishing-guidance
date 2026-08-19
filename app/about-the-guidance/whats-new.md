@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 19 August | [Ask for a short URL](/accounts-support/make-content-requests/ask-short-url/), [Downtime messages](/accounts-support/make-content-requests/ask-downtime-messages/) and [Specialist finders](/publish-update-retire-content/other-content-types/specialist-finders/) | Updated permissions on making requests to GDS |
+| 19 August | [Ask for a short URL](/accounts-support/make-content-requests/ask-short-url/), [Ask for downtime messages](/accounts-support/make-content-requests/ask-downtime-messages/) and [Specialist finders](/publish-update-retire-content/other-content-types/specialist-finders/) | Updated to remove the rule that only GOV.UK leads and managing editors can make requests related to these matters. Anyone with access to the relevant form can make a request. |
 | 17 August | [Blogs](/publish-update-retire-content/promotional-social/blogs/) | Added a link to the new blog request form. |
 | 11 August | [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) | Updated entry for 'Ofsted judgements' to reflect new grading system. |
 | 5 August | [Ask for limited access to drafts to be changed](/accounts-support/make-content-requests/ask-access-limit-reset/) | Added guidance on how to ask for limited access to drafts to be changed. |
