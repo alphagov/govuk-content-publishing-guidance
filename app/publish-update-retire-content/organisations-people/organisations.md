@@ -501,7 +501,7 @@ If anyone is listed under ‘Our management’ on the organisation page, unassig
 
 If anyone is listed under ‘Our ministers’, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
 
-You'll be taken to a content advice form.You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
