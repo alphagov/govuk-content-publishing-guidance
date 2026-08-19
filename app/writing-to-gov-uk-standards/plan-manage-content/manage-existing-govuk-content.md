@@ -32,7 +32,7 @@ Govsearch will not show content that's published using non-GOV.UK tools, includi
 
 [Ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you would like to search this other content.
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
