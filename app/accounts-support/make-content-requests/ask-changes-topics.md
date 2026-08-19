@@ -16,7 +16,7 @@ You can also suggest changes to an existing topic.
 
 You need a Signon account to make these requests. Speak to your GOV.UK lead or one of your organisation admins if you want an account. 
 
-Your GOV.UK lead will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
 
 
 ## Add a new topic
