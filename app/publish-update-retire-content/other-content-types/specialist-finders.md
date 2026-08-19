@@ -31,7 +31,20 @@ Do not use them for:
 
 ## Ask for a new specialist finder
 
-If you're the GOV.UK lead or a managing editor in your organisation, use the [GOV.UK advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to ask for a new specialist finder.
+Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
+
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 After you've submitted the form, you'll be asked more questions to determine whether a specialist finder is suitable for your content.
 
@@ -67,7 +80,7 @@ It will usually take developers up to 1 month to make the changes. You can ask f
 
 If you expect multiple changes over a period of time, it'll be easier if you group these together in your request.
 
-If you need access to Specialist Publisher, ask one of your organisation admins. If they cannot give you access themselves, they can [submit an account change request](https://support.publishing.service.gov.uk/change_existing_user_request/new).
+If you need access to Specialist Publisher, ask one of your organisation admins. Your organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  If they cannot give you access themselves, they can [submit an account change request](https://support.publishing.service.gov.uk/change_existing_user_request/new).
 
 ## Writing and formatting requirements for specialist finders
 

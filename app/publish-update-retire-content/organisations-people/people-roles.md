@@ -40,7 +40,18 @@ GDS will contact GOV.UK leads in ministerial departments to let them know what's
 
 If it's a change to only one or two ministerial appointments, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to check if you can create and assign the new people and role pages yourself.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 If you can make the changes yourself, ask the minister's private office and the Number 10 digital communications team for the details you can use.
 
@@ -58,15 +69,37 @@ If it's a new junior ministerial role with a generic name like 'Minister of Stat
 * Minister of State (Minister for X)
 * Parliamentary Under-Secretary of State (Minister for X)
 
-If you want to make other changes, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
+If you want to make other changes, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval. 
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 ## Add or edit a people page
 
 If you’re adding a new minister, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 >[!NOTE]
 >When adding or editing a people page, be aware that it will publish or update as soon as you select ‘Save’ – there’s no draft state or peer review.
@@ -102,7 +135,18 @@ For all biographies, do not include information about their personal life, for e
 
 If you’re adding or editing a ministerial role page, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 >[!NOTE]
 >When adding or editing a role page, be aware that it will publish or update as soon as you select ‘Save’ or ‘Save and continue’ – there’s no draft state or peer review.
@@ -158,7 +202,18 @@ Do not change anything about the original role or assign it to anyone until it's
 
 If it’s an interim ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before making these changes.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 ## Assign a role to a person
 
@@ -192,9 +247,20 @@ If there’s no replacement, you need to end their appointment:
 3. Select ‘Edit’ next to their name.
 4. Add the end date and select ‘Save’.
 
-If it’s a ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first before making any of these changes.
+If it’s a ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first before making any of these changes. 
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 ### Update the person’s biography
 

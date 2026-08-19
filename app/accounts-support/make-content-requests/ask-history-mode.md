@@ -22,9 +22,18 @@ If it was published under an earlier government or you cannot find a managing ed
 > [!NOTE]
 > After 11 September 2026, no one will be able to update or unpublish content in history mode from the Starmer government without raising a request with GDS.
 
-Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
+Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the form. Speak to your GOV.UK lead or managing editor if you want access.
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 > [!NOTE]
 > Read more about [when history mode will be applied to content](/writing-to-gov-uk-standards/plan-manage-content/retire-content/#when-history-mode-gets-applied).
