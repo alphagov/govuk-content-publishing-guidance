@@ -51,7 +51,7 @@ You will need to request a blog from the Government Digital Service (GDS).
 
 1. Get approval from your GOV.UK lead or a managing editor.
 2. Figure out who would be the blog's owner. They are the main point of contact with GDS.
-3. Complete the [blog request form](https://docs.google.com/a/digital.cabinet-office.gov.uk/forms/d/1PqhvADUF8_6Zw02w5QtveyjqlMiMWh6COOfPYAuUre8/viewform?edit_requested=true). Contact <blogeditors@digital.cabinet-office.gov.uk> for an alternative version if you cannot access the form.
+3. Complete the [blog request form](https://forms.cloud.microsoft/e/qipzYFUZ7Q?origin=lprLink). Contact <blogeditors@digital.cabinet-office.gov.uk> for an alternative version if you cannot access the form.
 
 All new blog requests are dealt with in the order they're received. It may take up to one month to get a response.
 
