@@ -75,7 +75,7 @@ To have its own organisation page, the sub-organisation should have:
 
 ## How to make your request
 
-Use the [content advice support form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
+Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
