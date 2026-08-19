@@ -149,7 +149,7 @@ You will not be able to update content if it's in 'history mode'. If it's in his
 
 If you want to update content in history mode, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new).
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
