@@ -57,7 +57,7 @@ Consider whether there's a cross-government need for a consistent style. If the 
 
 Raise a ticket using the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new). 
 
- You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
