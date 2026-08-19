@@ -45,7 +45,7 @@ In exceptional cases, users might need reassurance in advance that something wil
 
 If you’re unsure, [ask for help from the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new).
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
