@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 19 August 2026
-whatsNewHeadline: Updated permissions for making some requests to GDS
+whatsNewHeadline: Updated permissions on making requests to GDS
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
