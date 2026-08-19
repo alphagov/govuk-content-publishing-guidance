@@ -381,7 +381,7 @@ You can also [ask GDS for help](/accounts-support/get-content-advice/get-help-ad
 * specialist finders
 * travel advice pages
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
