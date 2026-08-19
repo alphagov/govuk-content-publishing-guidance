@@ -32,7 +32,19 @@ Govsearch will not show content that's published using non-GOV.UK tools, includi
 
 [Ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you would like to search this other content.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
+
 
 ### If you're only interested in Whitehall Publisher
 
@@ -93,7 +105,18 @@ If the page is tagged to other organisations and not yours, contact their contac
 
 [Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you need contact information for other content teams.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 ### If your content is on a 'mainstream' page
 
@@ -105,7 +128,18 @@ If your organisation is not tagged, they can direct you to the tagged organisati
 
 [Ask GDS for help if you want to change mainstream content](/accounts-support/make-content-requests/ask-updates-content/).
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 ### If your content is on any other type of page
 
@@ -115,7 +149,18 @@ You will not be able to update content if it's in 'history mode'. If it's in his
 
 If you want to update content in history mode, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new).
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. 
+You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 
 *[GDS]: Government Digital Service

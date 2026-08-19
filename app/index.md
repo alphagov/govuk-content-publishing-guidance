@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 17 August 2026
-whatsNewHeadline: Added a link to the new blog request form
+whatsNewDate: 19 August 2026
+whatsNewHeadline: Updated rules on who can request downtime messages, short URLs and specialist finders
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide

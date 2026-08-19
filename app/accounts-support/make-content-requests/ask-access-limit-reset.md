@@ -29,9 +29,19 @@ If you know them, include in your request:
 * the title of the draft 
 * the name of the person who created the draft
 
-Use the [content advice form]( https://signon.publishing.service.gov.uk/users/sign_in) to make your request.   
+Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the form. Speak to your GOV.UK lead or managing editor if you want access.   
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
+
 
 
 *[GDS]: Government Digital Service

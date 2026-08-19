@@ -55,9 +55,20 @@ Consider whether there's a cross-government need for a consistent style. If the 
 
 ### How to suggest a change
 
-[Raise a support ticket](https://support.publishing.service.gov.uk/content_advice_request/new). 
+Raise a ticket using the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new). 
 
-You'll need a GOV.UK Signon account with ‘content requesters’ permissions to raise a support ticket. If you do not have one, speak to your GOV.UK lead or managing editor to send a ticket for you or arrange access to the support request form.
+You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+
+<details class="govuk-details">
+  <summary class="govuk-details__summary">
+    <span class="govuk-details__summary-text">
+      If you do not have access to the content advice form
+    </span>
+  </summary>
+  <div class="govuk-details__text">
+    Speak to your GOV.UK lead or one of your organisation admins if you want access to the form. Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+  </div>
+</details>
 
 In your ticket, include:
 

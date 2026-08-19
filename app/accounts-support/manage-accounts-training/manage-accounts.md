@@ -17,6 +17,8 @@ Your GOV.UK lead or an organisation admin can [request training and accounts](/a
 
 They can also request changes to your permissions - for example, if you need to be an editor in Whitehall Publisher.
 
+Your GOV.UK lead and organisation admins will typically be in your organisation’s GOV.UK content, digital content, publishing or digital communications team.  
+
 ## Sign in to Signon
 
 If you have a Signon account, you can sign in to the 2 publishing environments.
