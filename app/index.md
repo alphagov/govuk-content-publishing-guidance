@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 20 August 2026
-whatsNewHeadline: Added guidance on how to limit access to drafts by individuals
+whatsNewHeadline: Added guidance on the new ability to limit access to drafts to specific individuals
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
