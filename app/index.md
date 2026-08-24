@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 20 August 2026
-whatsNewHeadline: Added guidance on the new ability to limit access to drafts to specific individuals
+whatsNewDate: 24 August 2026
+whatsNewHeadline: Added new guidance on bold text, buttons, callouts, contact details, statistic headlines and steps
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide

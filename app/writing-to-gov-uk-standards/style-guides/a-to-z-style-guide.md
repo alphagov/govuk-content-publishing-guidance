@@ -308,6 +308,7 @@ To emphasise words or phrases, you can:
 - front-load sentences
 - [use headings](/formatting-content/text-formatting/headings/)
 - [use bullet points](/formatting-content/text-formatting/bullets/)
+- [use callouts](/formatting-content/text-formatting/callouts/)
 
 ### Brackets
 
