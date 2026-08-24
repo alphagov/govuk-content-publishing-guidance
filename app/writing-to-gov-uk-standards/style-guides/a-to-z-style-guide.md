@@ -1524,7 +1524,7 @@ Ratios have no space either side of the colon:  5:12
 
 One space each side of symbols +, −, ×, ÷ and = (so: 2 + 2 = 4)
 
-Use the minus sign for subtraction. Use the correct symbol for the multiplication sign (×), not the letter x. 
+Use the minus sign (−) for subtraction. Use the correct symbol for the multiplication sign (×), not the letter x. 
 
 See also the [entry on numbers](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/#numbers).
 
