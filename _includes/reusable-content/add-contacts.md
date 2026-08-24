@@ -11,4 +11,4 @@ To add a contact from a directory:
 
 You can remove the contact details by deleting the code.
 
-If you do not want to use the contact directory, use the [formatting guidance](/formatting-content/) to add contact details.
+If you do not want to use the contact directory, use the [formatting guidance](/formatting-content/text-formatting/contacts/) to add contact details.
