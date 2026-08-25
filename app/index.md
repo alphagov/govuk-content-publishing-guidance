@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 25 August 2026
-whatsNewHeadline: Added guidance on where to publish online forms 
+whatsNewHeadline: Added guidance on what content type to use when linking to an online form
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
