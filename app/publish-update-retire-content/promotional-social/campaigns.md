@@ -14,7 +14,7 @@ Campaigns are not published on GOV.UK but on separate 'campaign.gov.uk' campaign
 
 See an example of a campaign site for the [Ready to Pass? campaign](https://readytopass.campaign.gov.uk/).
 
-Read about the requirements for campaign sites on the [Government Communication Service (GCS) website](https://gcs.civilservice.gov.uk/guidance/marketing/how-to-set-up-a-new-government-campaign-online/).
+Read about the requirements for campaign sites on the [Government Communication Service (GCS) website](https://www.communications.gov.uk/publication/how-to-set-up-a-government-campaign-website/).
 
 ## Create a campaign site
 
@@ -25,7 +25,7 @@ Before asking for a campaign site, think about:
 - whether you could direct users to existing GOV.UK content instead – you might just be adding an extra step between the user and the content they need
 - whether your campaign site will be competing with existing GOV.UK guidance – more established pages will likely rank higher in search
 
-You should also read the guidance on what to do before you apply on the [GCS website](https://gcs.civilservice.gov.uk/guidance/marketing/how-to-set-up-a-new-government-campaign-online/).
+You should also read the guidance on what to do before you apply on the [GCS website](https://www.communications.gov.uk/publication/how-to-set-up-a-government-campaign-website/).
 
 When you're ready to create a campaign site:
 
@@ -50,7 +50,7 @@ Is the user journey clear and coherent?
 
 ### 2. Campaign plan
 
-Does the campaign include steps for objectives, audience insight, strategy, implementation and scoring (OASIS)? Read more about [campaign planning](https://gcs.civilservice.gov.uk/guidance/campaigns/guide-to-campaign-planning-2/).
+Does the campaign include steps for objectives, audience insight, strategy, implementation and scoring (OASIS)? Read more about [campaign planning on the GCS website](https://www.communications.gov.uk/publication/guide-to-campaign-planning-oasis/).
 
 ### 3. GOV.UK
 
@@ -74,7 +74,7 @@ Learn more about how to use these channels by speaking to your comms team.
 
 ### 5. Exemptions
 
-Your proposed site needs to meet the requirements for campaign sites set out on the [GCS website](https://gcs.civilservice.gov.uk/guidance/marketing/how-to-set-up-a-new-government-campaign-online/). If it does not, you’ll need approval from the Government Digital Service (GDS) before you create any new government website or public-facing domain.
+Your proposed site needs to meet the requirements for campaign sites set out on the [GCS website](https://www.communications.gov.uk/publication/how-to-set-up-a-government-campaign-website/). If it does not, you’ll need approval from the Government Digital Service (GDS) before you create any new government website or public-facing domain.
 
 Find out how to [ask GDS for a GOV.UK exemption](/accounts-support/make-content-requests/ask-exemption/).
 
