@@ -50,6 +50,10 @@ Use the [publication content type](/publish-update-retire-content/standard-conte
 
 You can use the same page to attach guidance about how to complete the form.
 
+There’s a different process for publishing online forms such as [GOV.UK forms](https://www.forms.service.gov.uk/).  
+
+This will usually mean adding a start point in a detailed guide (for Whitehall content) or adding a start point within a multi-part guide or creating a simple start page (for mainstream content). 
+
 ## If you're asking for people's views on a policy
 
 You can use the [consultation content type](/publish-update-retire-content/standard-content-types/consultations/) if your content is:
