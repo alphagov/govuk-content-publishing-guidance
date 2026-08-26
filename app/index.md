@@ -7,7 +7,7 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 25 August 2026
+whatsNewDate: 26 August 2026
 whatsNewHeadline: Added guidance on what content type to use when linking to an online form
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
