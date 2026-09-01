@@ -6,6 +6,7 @@ eleventyNavigation:
 title: Callouts
 description: Add information, example and warning callouts, as well as call to actions for next steps.
 lastUpdated:
+redirect_from: /formatting-content/text-formatting/calls-to-action
 ---
 
 Callouts can be used to highlight content on a page and draw attention to it.
