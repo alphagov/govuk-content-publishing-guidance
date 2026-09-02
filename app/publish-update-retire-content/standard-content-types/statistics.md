@@ -78,7 +78,6 @@ Only choose 'Add an existing document' if you've already created a statistics pu
 2. Add a description of the publication to the body. Describe the purpose of the statistics and do not summarise what the publication says. Say whether the method of classification has changed since the last publication.
 3. Select the relevant options under 'Excluded nations (required)'.
 4. {% include 'reusable-content/limit-access.md' %}
-
 5. Select 'Save' so you can attach the file containing the statistics under the 'Attachments' tab. You can upload a file up to 500MB large. If you want to upload a larger file, [report a technical fault](https://support.publishing.service.gov.uk/technical_fault_report/new) to get support.
 6. Go back to the 'Documents' tab and select 'Save and go to document summary'.
 7. Add topic tagging by selecting the 'Add tag' under the 'Topic taxonomy tags' heading.

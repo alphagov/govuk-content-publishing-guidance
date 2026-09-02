@@ -37,7 +37,6 @@ For data sets you publish less frequently or with analysis, use [statistics cont
 4. Add the title, summary and body. {% include 'reusable-content/style-formatting.md' %}
 
 5. {% include 'reusable-content/limit-access.md' %}
-
 6. Select the 'Save' button at the bottom of the page.
 
 After saving the page, you can add the data set as an attachment.
@@ -53,7 +52,6 @@ After saving the page, you can add the data set as an attachment.
 
 6. {% include 'reusable-content/political-heading.md' %}
 7. {% include 'reusable-content/limit-access.md' %}
-
 8. {% include 'reusable-content/change-notes.md' %}
 9. Select the 'Save' button at the bottom of the page.
 

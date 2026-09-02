@@ -78,7 +78,6 @@ There are different types of news articles. Make sure you choose the right type.
 5. Add the title, summary and body. {% include 'reusable-content/style-formatting.md' %}
 
 6. {% include 'reusable-content/limit-access.md' %}
-
 7. If you're creating a world news story, tag the story to a world location and worldwide organisation under the 'Associations' heading.
 8. Select the 'Save' button at the bottom of the page.
 
@@ -101,7 +100,6 @@ If you're correcting an error:
 
 6. {% include 'reusable-content/political-heading.md' %}
 7. {% include 'reusable-content/limit-access.md' %}
-
 8. {% include 'reusable-content/change-notes.md' %}
 9. Select the 'Save' button at the bottom of the page.
 

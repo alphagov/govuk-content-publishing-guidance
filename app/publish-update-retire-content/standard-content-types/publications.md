@@ -178,7 +178,6 @@ There are different types of publications. Make sure you choose the right type, 
 6. Add a description of the publication and its purpose to the body. Use plain, politically neutral language. The description should reassure users that the publication is (or is not) what they're looking for.
 7. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -199,7 +198,6 @@ After saving the page, you can add attachments and images.
 6. Make any changes to the title, summary or body as needed. Read the [tone of voice guidance](/writing-to-gov-uk-standards/tone-of-voice/) and [formatting guidance](/formatting-content/) for help.
 7. Change the options under 'Excluded nations (required)' if needed.
 8. {% include 'reusable-content/limit-access.md' %}
-
 9. {% include 'reusable-content/change-notes.md' %}
 10. Select the 'Save' button at the bottom of the page.
 
