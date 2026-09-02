@@ -67,7 +67,6 @@ See an:
 9. Add the date the speech was 'Delivered on' or 'Written on', and choose whether to add the exact time.
 10. You can choose whether to add the location of where the speech was delivered (unless you're creating an 'authored article').
 11. {% include 'reusable-content/limit-access.md' %}
-
 12. Select the 'Save' button at the bottom of the page.
 
 {% include 'reusable-content/style-formatting-extra.md' %}
@@ -92,7 +91,6 @@ If you're correcting an error:
 
 6. {% include 'reusable-content/political-heading.md' %}
 7. {% include 'reusable-content/limit-access.md' %}
-
 8. {% include 'reusable-content/change-notes.md' %}
 9. Select the 'Save' button at the bottom of the page.
 

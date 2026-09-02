@@ -64,9 +64,7 @@ Do not add any more information or attachments to the page after the government 
 10. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 11. Tick the box to confirm you've considered the [consultation principles](https://www.gov.uk/government/publications/consultation-principles-guidance).
 12. {% include 'reusable-content/limit-access.md' %}
-
-13. Select the 'Save' button at the bottom of the page.
-{% include 'reusable-content/style-formatting-extra.md' %}
+13. Select the 'Save' button at the bottom of the page. {% include 'reusable-content/style-formatting-extra.md' %}
 
 
 Once that's done, you can add the consultation documents as attachments.
