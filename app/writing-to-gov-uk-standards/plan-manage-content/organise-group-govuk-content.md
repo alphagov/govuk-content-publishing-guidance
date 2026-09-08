@@ -12,7 +12,7 @@ Content on GOV.UK is grouped with other similar content to help users explore pa
 
 ## Topic tagging
 
-Most GOV.UK content needs to be tagged to a topic. You'll do this when creating or updating content. 
+Most GOV.UK content needs to be tagged to a topic. 
 
 Topics are organised in a hierarchical taxonomy. This means topics can have subtopics, those subtopics can have subtopics and so on. Topics get more specific the further down the hierarchy you go.
 
@@ -22,7 +22,11 @@ Topics are organised in a hierarchical taxonomy. This means topics can have subt
 * [Further and higher education, skills and vocational training](https://www.gov.uk/education/further-and-higher-education-skills-and-vocational-training)
 * [Inspections and performance of education providers](https://www.gov.uk/education/inspections-and-performance-of-education-providers)
 
-We explain how to tag your content in [the guidance on creating and updating pages](/publish-update-retire-content/). 
+If you want to add or remove a piece of content from a topic, it's a different process depending on the content type. For help, you can read:
+
+* one of the [guidance pages for standard content types](/publish-update-retire-content/standard-content-types/), which includes news articles and publications
+* the [manuals guidance](/publish-update-retire-content/other-content-types/manuals/)
+* the [topical events guidance](/publish-update-retire-content/promotional-social/topical-events/)
 
 If you want to request a new topic or changes to an existing topic, [ask the Government Digital Service (GDS) to make changes to topics](/accounts-support/make-content-requests/ask-changes-topics/).
 
