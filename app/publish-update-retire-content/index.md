@@ -9,11 +9,13 @@ description: Learn how to publish content to GOV.UK, change published content or
 lastUpdated:
 ---
 
-This guidance will help you:
+This topic will help you:
 
 - create content on GOV.UK 
 - update existing GOV.UK content
 - withdraw or unpublish outdated GOV.UK content
+
+Before you get started, read this page to check you can use the guidance in this topic.
 
 ## Make sure you have the right account
 
