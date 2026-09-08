@@ -7,6 +7,7 @@ eleventyNavigation:
 title: Images
 description: Learn how to format images to use in GOV.UK content, including using alt text, copyright permissions and Govspeak Markdown. 
 lastUpdated:
+redirect_from: /formatting-content/images-videos/formatting-images/
 ---
 [[TOC]]
 

@@ -7,6 +7,7 @@ eleventyNavigation:
 title: Videos
 description: Add videos to GOV.UK content with Govspeak Markdown code and make sure they're accessible, such as by adding captions, transcripts and audio description. 
 lastUpdated:
+redirect_from: /formatting-content/images-videos/formatting-videos/
 ---
 
 [[toc]]

@@ -4,6 +4,7 @@ sectionKey: Formatting content
 title: Formatting content
 description: Learn how to format text using markdown, and how to format images, videos and attachments. 
 lastUpdated:
+redirect_from: /formatting-content/images-videos/
 ---
 
 The guidance in this topic will help you format your content for GOV.UK. Correct formatting will let you manage the appearance and usability of your content.
