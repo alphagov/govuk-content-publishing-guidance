@@ -27,6 +27,7 @@ If you want to add or remove a piece of content from a topic, it's a different p
 * one of the [guidance pages for standard content types](/publish-update-retire-content/standard-content-types/), which includes news articles and publications
 * the [manuals guidance](/publish-update-retire-content/other-content-types/manuals/)
 * the [topical events guidance](/publish-update-retire-content/promotional-social/topical-events/)
+* the [corporate information pages guidance](/publish-update-retire-content/corporate-information/)
 
 If you want to request a new topic or changes to an existing topic, [ask the Government Digital Service (GDS) to make changes to topics](/accounts-support/make-content-requests/ask-changes-topics/).
 
