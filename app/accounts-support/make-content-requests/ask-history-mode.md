@@ -46,7 +46,7 @@ If you want to see all the content you have that’s in history mode, go to the 
 
 ### If GDS cannot turn off history mode
 
-If you have content in history mode that’s still current, consider if it should be in a different content type that will not go into history mode.
+If you have content in history mode that’s still current, consider if it should be in a [different content type](https://guidance.publishing.service.gov.uk/publish-update-retire-content/choose-content-type/) that will not go into history mode.
 
 For example, if it has current guidance for users, consider using a [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/) or a ['guidance' or 'statutory guidance' publication](/publish-update-retire-content/standard-content-types/publications/). You could then either:
 

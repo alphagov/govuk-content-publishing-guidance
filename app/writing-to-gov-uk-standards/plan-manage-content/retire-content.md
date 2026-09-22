@@ -97,13 +97,17 @@ The [guidance on how to update content on GOV.UK](/publish-update-retire-content
 
 There’s content on GOV.UK related to the government’s process of policy formation. It’s useful for users to understand the context of this content, which includes whether a previous government was in place when it was published.
 
-For this content, users will see a message telling them the content is from a previous government. We call this ‘history mode’.
+For this content, users will see a banner telling them the content is from a previous government. We call this ‘history mode’.
+
+See an [example of what history mode looks like](https://www.gov.uk/government/publications/bbc-mid-term-review-2024).
 
 History mode is applied to content when:
  
 + there's a new government, such as after a general election or if there's a new Prime Minister 
 + the 'first published' date of the content (or the 'delivered on' date for a speech) is during a previous government 
 + it’s a [standard content type on Whitehall Publisher](/publish-update-retire-content/standard-content-types/) which is eligible for history mode
+
+### Content that is eligible for history mode  
 
 The following standard content types are automatically eligible for history mode if they were tagged to a ‘political’ organisation (such as a ministerial department) when they were first published: 
 
@@ -114,11 +118,13 @@ The following standard content types are automatically eligible for history mode
 + certain types of [publications](/publish-update-retire-content/standard-content-types/publications/) – these are corporate reports, impact assessments and policy papers 
 + [speeches](/publish-update-retire-content/standard-content-types/speeches/) – this includes transcripts, draft texts, speaking notes, authored articles and written and oral statements to Parliament 
 
-All standard content types can also be automatically eligible if they’re tagged to a minister when they're first published. 
+All standard content types are also automatically eligible if they were tagged to a minister when they were first published. 
 
-You can add or remove eligibility from all standard content types if you tick or untick the ‘political’ box. This is the box under the ‘Political’ heading you can see when updating content that’s already been published. 
+You can add or remove eligibility from all standard content types if you tick or untick the ‘political’ box. Ticking the box means the content is eligible for history mode. This is the box under the ‘Political’ heading you can see when updating content that’s already been published. 
 
-The exceptions to these rules are [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/) and [statistics](/publish-update-retire-content/standard-content-types/statistics/), which are never eligible for history mode.
+The exceptions to these rules are [fatality notices](/publish-update-retire-content/standard-content-types/fatality-notices/) and [statistics](/publish-update-retire-content/standard-content-types/statistics/), which are never eligible for history mode.  
+
+### Auditing content for history mode  
 
 If there's a possibility of a new government, affected organisations will be asked by GDS to do a history mode audit of their content. If you're part of that audit, you'll need to:
 
