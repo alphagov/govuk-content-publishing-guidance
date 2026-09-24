@@ -50,7 +50,7 @@ Is the user journey clear and coherent?
 
 ### 2. Campaign plan
 
-Does the campaign include steps for objectives, audience insight, strategy, implementation and scoring (OASIS)? Read more about [campaign planning on the GCS website](https://www.communications.gov.uk/publication/guide-to-campaign-planning-oasis/).
+Does the campaign include steps for objectives, audience insight, strategy, implementation and scoring (OASIS)? Read more about the [OASIS framework on the GCS website](https://www.communications.gov.uk/publication/oasis-planning-government-communications/).
 
 ### 3. GOV.UK
 
