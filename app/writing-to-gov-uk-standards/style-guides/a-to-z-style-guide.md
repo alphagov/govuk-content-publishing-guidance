@@ -749,6 +749,7 @@ Not "datastore".
 When writing date ranges:
 
 * use upper case for months - for example: January, February
+* do not use ordinal numbers for the day - for example: 2 June and not 2nd June
 * do not use a comma between the month and year - for example: 4 June 2017
 * when space is an issue - in tables or publication titles, for example - you can use truncated months like Jan, Feb
 * use 'to' in date ranges and not hyphens, en rules or em dashes - for example, tax year 2011 to 2012, 10 November to 21 December
@@ -1805,18 +1806,19 @@ Title case.
 
 ### Numbers
 
-Use 'one' unless you're talking about a step, a point in a list or another situation where using the numeral makes more sense: 'in point 1 of the design instructions', for example. Or this:
+Use 'one' unless you're talking about a step, a date, a point in a list or another situation where using the numeral makes more sense: 'in point 1 of the design instructions', for example. Or this:
 
-You'll be shown 14 clips that feature everyday road scenes.
-
-There will be:
-
-* 1 developing hazard in 13 clips
-* 2 developing hazards in the other clip
+>[!NOTE]
+>You'll be shown 14 clips that feature everyday road scenes.
+>
+>There will be:
+>
+>* 1 developing hazard in 13 clips
+>* 2 developing hazards in the other clip
 
 Write all other numbers in numerals (including 2 to 9) except where it's part of a common expression like 'one or two of them' where numerals would look strange. 
 
-If a number starts a sentence, write it out in full (Thirty-four, for example) except where it starts a title or subheading.
+If a number starts a sentence, write it out in full (Thirty-four, for example) except for dates or where it starts a title or subheading.
 
 For numerals over 999, insert a comma for clarity: 9,000.
 
@@ -1849,6 +1851,8 @@ Addresses: use 'to' in address ranges: 49 to 53 Cherry Street.
 Spell out first to ninth. After that use 10th, 11th and so on.
 
 In tables, use numerals throughout.
+
+Do not use ordinal numbers when writing out dates. For example, write 2 June and not 2nd June.
 
 ### nursery school
 

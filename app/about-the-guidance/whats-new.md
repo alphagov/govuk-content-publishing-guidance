@@ -10,6 +10,12 @@ lastUpdated:
 
 This page sets out all recent major updates to the GOV.UK content and publishing guidance.
 
+## September 2026
+
+| Date | Section | Update |
+| --------- | ----------- | ----------- |
+| 29 September | [A to Z style guide](/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/) | Updated the 'Dates' and 'Numbers' entries to make it clear that days in dates should be formatted as numerals, and not written out or formatted as ordinal numbers. |
+
 ## August 2026
 
 | Date | Section | Update |
