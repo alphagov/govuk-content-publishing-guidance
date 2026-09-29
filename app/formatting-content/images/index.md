@@ -63,7 +63,7 @@ Do not use the image to convey information without also explaining it in the tex
 
 When you explain it, imagine you're describing it to someone over the phone. Do not just repeat the headline title.
 
-Avoid describing the chart vaguely or too broadly. Avoid describing the chart vaguely or too broadly. For example, it would be too broad to say: ‘The bar chart shows EU funds by percentage on the vertical axis and EU countries on the horizontal axis’. Explain what is happening in the data and any important trends.
+Avoid describing the chart vaguely or too broadly. For example, it would be too broad to say: ‘The bar chart shows EU funds by percentage on the vertical axis and EU countries on the horizontal axis’. Explain what is happening in the data and any important trends.
 
 Leave the alt text field blank. Instead, add at least one of the following:
 
