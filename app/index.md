@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 20 October 2026
-whatsNewHeadline: Added Fact Check Manager to access and permissions for applications
+whatsNewHeadline: Added Fact Check Manager to managing access and permissions for applications
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
