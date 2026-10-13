@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 29 September 2026
-whatsNewHeadline: Updated the style guide to make it clear that days in dates should be formatted as numerals
+whatsNewDate: 20 October 2026
+whatsNewHeadline: Added Fact Check Manager to managing access and permissions for applications
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
