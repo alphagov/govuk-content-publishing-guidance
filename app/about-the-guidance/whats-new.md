@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 20 October | [Manage accounts for your organisation](accounts-support/manage-accounts-training/manage-accounts-organisation)| Added Fact Check Manager to permissions for applications |
+| 20 October | [Manage accounts for your organisation](accounts-support/manage-accounts-training/manage-accounts-organisation)| Added Fact Check Manager to managing access and permissions for applications |
 
 ## September 2026
 
