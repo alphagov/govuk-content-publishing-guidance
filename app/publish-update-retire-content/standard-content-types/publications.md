@@ -175,7 +175,7 @@ There are different types of publications. Make sure you choose the right type, 
 3. Select 'Publication' and then select the 'Next' button.
 4. Select the content type from the dropdown under 'Publication type (required)'.
 5. Add the title and summary. 
-6. Add a description of the publication and its purpose to the body. Use plain, politically neutral language. The description should reassure users that the publication is (or is not) what they're looking for.
+6. Add a brief description of the publication and its purpose to the body (shows as 'Details' when published). Use plain, politically neutral language. The description should reassure users that the publication is (or is not) what they're looking for.
 7. Tick the UK nations where the content applies under 'Excluded nations (required)'. If your content does not apply to a nation, you can optionally provide a link to alternative content for users in that nation.
 8. {% include 'reusable-content/limit-access.md' %}
 9. Select the 'Save' button at the bottom of the page.
