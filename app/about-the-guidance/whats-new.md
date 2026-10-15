@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 15 October | [Manage your own account](/accounts-support/manage-accounts-training/) and [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/) | Clarified permission restrictions for organisation admins and process of unsuspending accounts. |
+| 15 October | [Manage your own account](/accounts-support/manage-accounts-training/manage accounts) and [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/) | Clarified permission restrictions for organisation admins and process of unsuspending super organisation admin accounts. |
 
 ## September 2026
 
