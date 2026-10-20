@@ -81,6 +81,7 @@ GDS will send a reminder to your email address 14 days, 7 days, 3 days and 1 day
 
 If your account has been suspended, your GOV.UK lead or one of your organisation admins can get your account unsuspended.
 
+If you have super organisation admin permissions, you'll need to ask another super organisation admin to unsuspend your account. If another super organisation admin is unavailable, an organisation admin can ask GDS using the [accounts request form](https://support.publishing.service.gov.uk/change_existing_user_request/new) to unsuspend your account. 
 
 *[GDS]: Government Digital Service
 *[2SV]: 2-step verification

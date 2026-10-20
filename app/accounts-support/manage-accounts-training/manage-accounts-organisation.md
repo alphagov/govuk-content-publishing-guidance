@@ -11,7 +11,7 @@ lastUpdated:
 
 [[toc]]
 
-If you have organisation admin permissions, you can do the following for people in your organisation:
+If you have organisation admin permissions, you can do the following for people in your organisation whose accounts you manage:
 
 + [request training and accounts](/accounts-support/manage-accounts-training/request-training-accounts-organisation/)
 + view their accounts and the applications they have access to
@@ -22,7 +22,7 @@ If you have organisation admin permissions, you can do the following for people 
 + change their personal or organisation details
 + [remove their account](https://support.publishing.service.gov.uk/remove_user_request/new)
 
-You cannot give anyone the ‘managing editor’ permission for Whitehall Publisher. You must submit a request using the [accounts request form](https://support.publishing.service.gov.uk/change_existing_user_request/new) instead.
+You cannot do some of these tasks for people with higher organisation admin permissions than you. For example, you cannot unsuspend or unlock an account for a super organisation admin.  
 
 Super organisation admins can do all the same things as other organisation admins, but for all sub-organisations that your organisation looks after.
 
@@ -93,6 +93,8 @@ You can manage permissions for:
 + Specialist Publisher - grant or remove access, add or remove ‘editor’ permission
 + Support - grant or remove access, add or remove permissions for content advice and request forms (‘content_requesters’) and campaign request form (‘campaign_requesters’)
 + Whitehall Publisher - add or remove ‘editor’ permission
+
+You cannot give anyone the ‘managing editor’ permission for Whitehall Publisher. You must submit a request using the [accounts request form](https://support.publishing.service.gov.uk/change_existing_user_request/new) instead.
 
 For any other applications, you need to submit a [change user account request](https://support.publishing.service.gov.uk/change_existing_user_request/new) to change permissions for an account.
 
