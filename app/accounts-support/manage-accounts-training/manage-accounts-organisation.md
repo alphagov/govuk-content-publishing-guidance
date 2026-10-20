@@ -85,6 +85,7 @@ You can manage permissions for:
 
 + Content Data - grant or remove access
 + Contacts - grant or remove access
++ Fact Check Manager - grant or remove access
 + GovSearch - grant or remove access
 + Local Links Manager - grant or remove access
 + Manuals Publisher - grant or remove access, add or remove ‘editor’ permission
