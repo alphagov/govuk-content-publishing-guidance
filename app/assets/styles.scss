@@ -1,5 +1,5 @@
 // Use GOV.UK Frontend
-@use "pkg:govuk-frontend/dist/govuk";
+@use "pkg:govuk-frontend/dist/govuk" as *;
 
 // Use GOV.UK Eleventy Plugin components
 @use "pkg:@x-govuk/govuk-eleventy-plugin";
@@ -112,4 +112,41 @@ abbr {
 .share-links__svg {
     width: 100%;
     height: 100%
+}
+
+/* Back to top from https://github.com/alphagov/govuk-design-system/blob/main/src/stylesheets/components/_back-to-top.scss */
+
+.app-back-to-top {
+  margin-top: govuk-spacing(4);
+  margin-bottom: govuk-spacing(6);
+}
+
+@include govuk-media-query($from: tablet) {
+  .app-back-to-top {
+    position: relative;
+    bottom: 0;
+    left: 0;
+    margin-top: auto;
+    margin-bottom: govuk-spacing(8);
+  }
+
+  .govuk-frontend-supported .app-back-to-top--fixed {
+    position: fixed;
+    top: calc(100% - #{govuk-spacing(8)});
+    bottom: auto;
+    left: auto;
+  }
+
+  .govuk-frontend-supported .app-back-to-top--hidden .app-back-to-top__link {
+    @include govuk-visually-hidden-focusable;
+  }
+}
+
+.app-back-to-top__icon {
+  display: inline-block;
+  width: 0.8em;
+  height: 1em;
+  margin-top: -(govuk-spacing(1));
+  margin-right: govuk-spacing(2);
+  vertical-align: middle;
 }
