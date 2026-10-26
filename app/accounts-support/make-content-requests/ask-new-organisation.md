@@ -21,7 +21,7 @@ Only a GOV.UK lead or managing editor in your organisation can request a new org
 
 ## Asking for a new organisation page
 
-If you’re requesting a new organisation page, include in your request:
+If you’re requesting a new organisation page, you'll need to include in your request:
 
 * the new organisation’s name
 * the organisation’s abbreviation (if it has has one)
@@ -75,14 +75,14 @@ To have its own organisation page, the sub-organisation should have:
 
 ## How to make your request
 
-Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request.
+Use the ['Request a new organisation page' form](https://support.publishing.service.gov.uk/content_advice/organisation_page_request/new) to make your request.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the form
     </span>
   </summary>
   <div class="govuk-details__text">

@@ -43,14 +43,14 @@ If users need guidance about a change in advance, you'll need to identify exactl
 
 In exceptional cases, users might need reassurance in advance that something will not change or will not have a big impact on them. You must have evidence that users genuinely need this on GOV.UK (such as on-page feedback, call centre data and analytics). However, usually reassurance messaging should be channelled through communications activity outside GOV.UK.
 
-If you’re unsure, [ask for help from the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you’re unsure, [ask for help from the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new).
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
