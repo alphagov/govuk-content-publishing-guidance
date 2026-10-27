@@ -33,7 +33,7 @@ Do not use for:
 
 ## Get approval to create a new topical event page
 
-Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for approval](https://support.publishing.service.gov.uk/content_advice_request/new) before creating the page.
+Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS) for approval](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) before creating the page.
 
 The request will need to show that your event meets all of the above criteria.
 

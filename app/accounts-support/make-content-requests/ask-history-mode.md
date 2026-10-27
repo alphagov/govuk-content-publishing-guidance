@@ -16,12 +16,12 @@ You can ask the Government Digital Service (GDS) to:
 - turn off history mode
 - change the ‘associated government’ of content in history mode, if the content was first published under a different government
 
-Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+Use the [content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">

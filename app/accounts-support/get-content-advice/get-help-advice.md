@@ -13,7 +13,7 @@ lastUpdated:
 
 ## Support from the Government Digital Service (GDS)
 
-You can ask for content advice from the GDS content team. This could be about, for example:
+You can ask for content help or advice from the GDS content team. This could be about, for example:
 
 * which [content type](/publish-update-retire-content/choose-content-type/) to use
 * following the [GOV.UK style guides](/writing-to-gov-uk-standards/style-guides/) and [writing guidelines](/writing-to-gov-uk-standards/writing-guidelines/)
@@ -26,14 +26,14 @@ It may be a quick question about content you’re working on or a request for a 
 * clearly explain what you need
 * give a deadline
   
-[Ask for advice from GDS](https://support.publishing.service.gov.uk/content_advice_request/new).
+[Ask for help from GDS](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new).
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the content advice form. 
+You’ll need a Signon account with ‘content requesters’ permissions to access the content help form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">

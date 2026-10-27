@@ -27,14 +27,14 @@ World location news pages can either be for:
 
 The 2 types of pages are very similar and are updated in the same way.
 
-You can update an existing world location news page. If you want to add a new one, [ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice_request/new).
+You can update an existing world location news page. If you want to add a new one, [ask the Government Digital Service (GDS) for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new).
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -330,18 +330,18 @@ You can tag content to these navigation pages if it tells users how to complete 
 
 There's a navigation page for each country and territory.
 
-[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want:
+[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) if you want:
 
 - a new navigation page or topic
 - to edit the title, sections or description of an existing page
 - tag a page to all worldwide locations
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">

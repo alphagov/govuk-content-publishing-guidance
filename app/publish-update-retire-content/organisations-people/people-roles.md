@@ -38,14 +38,14 @@ If there are multiple changes to ministerial appointments (for example, during a
 
 GDS will contact GOV.UK leads in ministerial departments to let them know what's happening and confirm responsibilities. GDS will then contact the affected departments to tell them when they can take over responsibility for the updated pages.
 
-If it's a change to only one or two ministerial appointments, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to check if you can create and assign the new people and role pages yourself.
+If it's a change to only one or two ministerial appointments, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) to check if you can create and assign the new people and role pages yourself.
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -69,14 +69,14 @@ If it's a new junior ministerial role with a generic name like 'Minister of Stat
 * Minister of State (Minister for X)
 * Parliamentary Under-Secretary of State (Minister for X)
 
-If you want to make other changes, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval. 
+If you want to make other changes, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) first to get approval. 
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -86,14 +86,14 @@ You'll be taken to a content advice form. You’ll need a Signon account with �
 
 ## Add or edit a people page
 
-If you’re adding a new minister, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
+If you’re adding a new minister, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) first to get approval.
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -133,14 +133,14 @@ For all biographies, do not include information about their personal life, for e
 
 ## Add or edit a role page
 
-If you’re adding or editing a ministerial role page, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first to get approval.
+If you’re adding or editing a ministerial role page, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) first to get approval.
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -200,14 +200,14 @@ This should have the same name as the original role but with 'interim' at the be
 
 Do not change anything about the original role or assign it to anyone until it's been permanently filled. When it has, you can also remove the person from the interim role.
 
-If it’s an interim ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before making these changes.
+If it’s an interim ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) before making these changes.
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -247,14 +247,14 @@ If there’s no replacement, you need to end their appointment:
 3. Select ‘Edit’ next to their name.
 4. Add the end date and select ‘Save’.
 
-If it’s a ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) first before making any of these changes. 
+If it’s a ministerial role, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) first before making any of these changes. 
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">

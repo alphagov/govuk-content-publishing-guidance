@@ -51,7 +51,7 @@ Group pages should not be used to:
 
 ## Get permission before adding a new group page
 
-Your GOV.UK lead or a managing editor needs to [ask the Government Digital Service (GDS)](https://support.publishing.service.gov.uk/content_advice_request/new) for permission to add a new group page.
+Your GOV.UK lead or a managing editor needs to use the ['Request a new group page' form](https://support.publishing.service.gov.uk/content_advice/group_page_request/new) to ask for permission to add a new group page.
 
 They need to include in their request:
 
@@ -186,12 +186,8 @@ Good examples of closed groups include the:
 
 ## Update the name of a group page
 
-[Ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if you want a new group page with the updated name.
+Your GOV.UK lead or a managing editor needs to use the ['Request a new group page' form](https://support.publishing.service.gov.uk/content_advice/group_page_request/new) to ask for permission to create a new group page with the updated name.
 
-You’ll need a Signon account with ‘content requesters’ permissions to access the request form. Speak to your GOV.UK lead or managing editor if you want access to the form.
-
-When you have that approval, close the old group page and set up one with the new name.
+When you have permission, close the old group page and set up one with the new name.
 
 A good example of a group that has changed its name is the [Group Litigation Order (GLO) Compensation Scheme Advisory Board](https://www.gov.uk/government/groups/group-litigation-order-glo-compensation-scheme-advisory-board).
-
-*[GDS]: Government Digital Service

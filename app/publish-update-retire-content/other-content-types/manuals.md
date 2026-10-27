@@ -51,7 +51,7 @@ Their request for a new manual must show:
 - what the source content is
 - what else is covered on GOV.UK on the topic
 
-[Contact GDS using the advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
+[Contact GDS using the content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new).
 
 Your GOV.UK lead or managing editor will need a Signon account with ‘content requesters’ permissions to access the advice form.
 
@@ -135,14 +135,14 @@ Users will get email notifications about new manuals or major changes if they're
 
 Your manual will be automatically tagged to the same organisation as your Signon account.
 
-If you want to change the organisation or tag more organisations, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new).
+If you want to change the organisation or tag more organisations, [contact GDS using the content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new).
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -155,14 +155,14 @@ You’ll need a Signon account with ‘content requesters’ permissions to acce
 
 You can only tag the manual to topic pages once the first draft is published.
 
-You'll need to [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and ask them to tag the manual for you.
+You'll need to [contact GDS using the content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) and ask them to tag the manual for you.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -184,14 +184,14 @@ To unpublish sections of a manual:
 3. Decide whether you need to [write change notes](/writing-to-gov-uk-standards/tone-of-voice/change-notes/). If you do, select 'Major change' and add your change notes.
 4. When you've done this for every relevant section, publish the draft.
 
-To unpublish the manual as a whole, [contact GDS using the content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) and explain why the manual needs to be unpublished.
+To unpublish the manual as a whole, [contact GDS using the content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) and explain why the manual needs to be unpublished.
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">

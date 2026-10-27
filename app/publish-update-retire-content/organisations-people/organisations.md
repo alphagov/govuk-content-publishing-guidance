@@ -463,14 +463,14 @@ There may be exceptions to the list of content types that should not be retagged
 
 #### Getting help with retagging documents
 
-If there is too much content for you to retag manually, you can [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) to do a bulk retag. 
+If there is too much content for you to retag manually, you can [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) to do a bulk retag. 
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -490,7 +490,7 @@ In the spreadsheet, do not include:
 - translations – these will be retagged if the English versions are included in the spreadsheet
 - corporate information – these pages can only be tagged to one organisation
 
-You can also [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) if:
+You can also [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) if:
 
 - you do not know what to retag to the new organisation
 - you need to retag mainstream content, manuals or specialist finders
@@ -499,14 +499,14 @@ You can also [ask GDS for help](https://support.publishing.service.gov.uk/conten
 
 If anyone is listed under ‘Our management’ on the organisation page, unassign them from their roles when you close the organisation. Read the [guidance about people and role pages](/publish-update-retire-content/organisations-people/people-roles) for help with that.
 
-If anyone is listed under ‘Our ministers’, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice_request/new) before you update their information.
+If anyone is listed under ‘Our ministers’, [ask GDS for help](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) before you update their information.
 
-You'll be taken to a content advice form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+You'll be taken to a content help form. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
