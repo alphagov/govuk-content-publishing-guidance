@@ -7,7 +7,7 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 30 October 2026
+whatsNewDate: 27 October 2026
 whatsNewHeadline: Added links to new forms to request group pages, organisation pages and short URLs
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
