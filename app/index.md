@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 28 October 2026
-whatsNewHeadline: Updated guidance on sending standard content types for review
+whatsNewHeadline: Updated guidance to reflect that the fact check feature for standard content types in Whitehall Publisher has been removed
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
