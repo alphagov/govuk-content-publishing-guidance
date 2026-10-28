@@ -79,9 +79,19 @@ You can now edit the attachments and images.
 
 {% include 'reusable-content/change-first-published.md' %}
 
+## Add or remove tags to organisations, events and other detailed guides
+
+{% include 'reusable-content/associations-introduction.md' %}
+
+{% include 'reusable-content/associations-organisations.md' %}
+
+{% include 'reusable-content/associations-topical.md' %}
+
+- related guides – use this if you want to have a link to another detailed guide in a 'Related content' sidebar, with a link back to your detailed guide on that other page
+
 ## Add or remove tags to related mainstream content
 
-You can tag the detailed guide to 2 pieces of mainstream content.
+You can tag the detailed guide to 2 pieces of mainstream content. Links to that content will appear under a 'Related content' sidebar.
 
 Mainstream content will:
 
@@ -91,14 +101,6 @@ Mainstream content will:
 Add the full URLs under 'Related mainstream content'.
 
 If it's mainstream content with multiple chapters, you can only link to the first chapter.
-
-## Add or remove tags to organisations and events
-
-{% include 'reusable-content/associations-introduction.md' %}
-
-{% include 'reusable-content/associations-topical.md' %}
-
-{% include 'reusable-content/associations-organisations.md' %}
 
 ## Update settings of the draft
 

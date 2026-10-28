@@ -5,14 +5,22 @@ order: 7
 eleventyNavigation:
   parent: Make content requests
 title: Ask for related links to be updated or removed
-description: Learn how to request for related links on Whitehall content to be updated or removed. 
+description: Learn how to request that 'Related content' links on Whitehall content are updated or removed. 
 lastUpdated:
 ---
-Some Whitehall Publisher content has related links which are shown on the right hand side of the page. 
+Some Whitehall Publisher content has links in a 'Related content' sidebar.
 
-You cannot request to add related links to content that does not have any related links. If there’s a need to link to content, consider adding it to the main body of the page where users are more likely to find it.
+For any links under the subheading 'Collection', you can update the linked [document collection](/publish-update-retire-content/standard-content-types/document-collections/) to make changes.
 
-If content does have related links, you can ask the Government Digital Service (GDS) to:
+If the content is a [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/), you can update any links added on Whitehall Publisher under 'Related guides' or 'Related mainstream content'.
+
+You cannot update any other links yourself.
+
+## Asking for changes to other related links
+
+You cannot request to add other related links to content that does not have them already. If there’s a need to link to content, consider adding it to the main body of the page where users are more likely to find it.
+
+If content does have other related links, you can ask the Government Digital Service (GDS) to:
 
 * update them, if there’s a user need
 * remove them
