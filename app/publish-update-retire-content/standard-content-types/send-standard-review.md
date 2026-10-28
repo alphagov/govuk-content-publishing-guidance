@@ -32,17 +32,9 @@ Rejected content goes back to draft status. After further editing, you can submi
 
 ## Share the draft with someone without Whitehall Publisher access
 
-If you want them to just look at the draft:
-
 1. Select 'Save and go to document summary' on your current draft.
 2. Under the 'Preview' heading, select the 'Share preview link with someone else' dropdown. You then need to select 'Generate link'. You'll get a link which expires after 30 days or when the draft is published. The link will only work for the page you're previewing.
 3. If the link expires or you send it to the wrong person, select 'Generate new link'. This will disable the previous preview link.
 
-If you want them to fact check the content and potentially add comments:
 
-1. Select 'Save and go to document summary' on your current draft.
-2. Select the 'Fact checking' tab on the box on the right hand side.
-3. Add the email address of the person who will be fact checking. If multiple people will be fact checking, send a separate request to each one.
-4. In the extra instructions, add the generic GOV.UK username and password so they can see the preview.
-5. The person will get a preview link sent to them by email. They can add comments, and you'll get an email when they've sent a response.
 
