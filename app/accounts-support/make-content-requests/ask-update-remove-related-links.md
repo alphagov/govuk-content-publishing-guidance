@@ -31,12 +31,12 @@ If you're asking for them to be updated, you must include:
 * why the user need cannot be met by adding the link to the main body of the content
 * any supporting evidence or insights 
 
-Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+Use the [content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">

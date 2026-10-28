@@ -68,12 +68,12 @@ Each government department, agency or arm’s length body on GOV.UK can have a s
 
 Submit your request at least 2 weeks before you need it. The Government Digital Service (GDS) might not be able to meet your deadline if they do not get the full 2 weeks' notice.
 
-Use the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
+Use the ['Request a short URL' form](https://support.publishing.service.gov.uk/content_advice/short_url_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the form
     </span>
   </summary>
   <div class="govuk-details__text">
@@ -83,7 +83,7 @@ Use the [content advice form](https://support.publishing.service.gov.uk/content_
 
 
 
-Include in your request:
+You'll need to include in your request:
 
 * the reason you need a short URL
 * the content or page the short URL will link to

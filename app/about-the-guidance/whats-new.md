@@ -14,7 +14,9 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 20 October | [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation) | Added Fact Check Manager to managing access and permissions for applications |
+| 28 October | [Send standard content types for review](/publish-update-retire-content/standard-content-types/send-standard-review/) | Updated guidance to reflect that the fact check feature for standard content types in Whitehall Publisher has been removed. |
+| 27 October | [Ask for a new organisation page](/accounts-support/make-content-requests/ask-new-organisation/), [Ask for a short URL](/accounts-support/make-content-requests/ask-short-url/) and [Group pages](/publish-update-retire-content/organisations-people/groups/) | Added links to new request forms. |
+| 20 October | [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation) | Added Fact Check Manager to managing access and permissions for applications. |
 | 15 October | [Manage your own account](/accounts-support/manage-accounts-training/manage-accounts/) and [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/) | Clarified permission restrictions for organisation admins and process of unsuspending super organisation admin accounts. |
 
 ## September 2026

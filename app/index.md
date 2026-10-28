@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 20 October 2026
-whatsNewHeadline: Added Fact Check Manager to managing access and permissions for applications
+whatsNewDate: 28 October 2026
+whatsNewHeadline: Removed reference to the fact check feature for standard content types in Whitehall Publisher 
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide

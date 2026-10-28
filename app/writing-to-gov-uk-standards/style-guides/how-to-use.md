@@ -55,14 +55,14 @@ Consider whether there's a cross-government need for a consistent style. If the 
 
 ### How to suggest a change
 
-Raise a ticket using the [content advice form](https://support.publishing.service.gov.uk/content_advice_request/new). 
+Raise a ticket using the [content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new). 
 
 You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
 <details class="govuk-details">
   <summary class="govuk-details__summary">
     <span class="govuk-details__summary-text">
-      If you do not have access to the content advice form
+      If you do not have access to the content help form
     </span>
   </summary>
   <div class="govuk-details__text">
