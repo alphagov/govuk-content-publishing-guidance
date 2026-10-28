@@ -20,16 +20,16 @@ You cannot update any other links yourself.
 
 You cannot request to add other related links to content that does not have them already. If there’s a need to link to content, consider adding it to the main body of the page where users are more likely to find it.
 
-If content does have other related links, you can ask the Government Digital Service (GDS) to:
+If your content already has other related links, you can ask the Government Digital Service (GDS) to:
 
 * update them, if there’s a user need
 * remove them
 
-If you're asking for them to be updated, you must include:
+If you're asking for related links to be updated, you must include:
 
-* why the content needs to be in the related links section
-* why the user need cannot be met by adding the link to the main body of the content
-* any supporting evidence or insights 
+* why the new links need to be in the 'Related content' sidebar
+* why the user need cannot be met by adding the new links to the main body of the content
+* any supporting evidence or insights
 
 Use the [content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 
