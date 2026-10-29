@@ -5,23 +5,31 @@ order: 7
 eleventyNavigation:
   parent: Make content requests
 title: Ask for related links to be updated or removed
-description: Learn how to request for related links on Whitehall content to be updated or removed. 
+description: Learn how to request that 'Related content' links on Whitehall content are updated or removed. 
 lastUpdated:
 ---
-Some Whitehall Publisher content has related links which are shown on the right hand side of the page. 
+Some Whitehall Publisher content has links in a 'Related content' sidebar.
 
-You cannot request to add related links to content that does not have any related links. If there’s a need to link to content, consider adding it to the main body of the page where users are more likely to find it.
+For any links under the subheading 'Collection', you can update the linked [document collection](/publish-update-retire-content/standard-content-types/document-collections/) to make changes.
 
-If content does have related links, you can ask the Government Digital Service (GDS) to:
+If the content is a [detailed guide](/publish-update-retire-content/standard-content-types/detailed-guides/), you can update any links added on Whitehall Publisher under 'Related guides' or 'Related mainstream content'.
+
+You cannot update any other links yourself.
+
+## Asking for changes to other related links
+
+You cannot request to add other related links to content that does not have them already. If there’s a need to link to content, consider adding it to the main body of the page where users are more likely to find it.
+
+If your content already has other related links, you can ask the Government Digital Service (GDS) to:
 
 * update them, if there’s a user need
 * remove them
 
-If you're asking for them to be updated, you must include:
+If you're asking for related links to be updated, you must include:
 
-* why the content needs to be in the related links section
-* why the user need cannot be met by adding the link to the main body of the content
-* any supporting evidence or insights 
+* why the new links need to be in the 'Related content' sidebar
+* why the user need cannot be met by adding the new links to the main body of the content
+* any supporting evidence or insights
 
 Use the [content help form](https://support.publishing.service.gov.uk/content_advice/content_design_help_request/new) to make your request. You’ll need a Signon account with ‘content requesters’ permissions to access the form. 
 

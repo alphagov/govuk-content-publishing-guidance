@@ -24,7 +24,7 @@ For example, you could use a collection to publish:
 - publications in the same series
 - different content types related to the same task or event
 
-You can add content to more than one collection.
+You can add content to more than one collection. The content will link back to any document collection it's included in as part of a 'Related content' sidebar.
 
 Do not create a collection:
 
