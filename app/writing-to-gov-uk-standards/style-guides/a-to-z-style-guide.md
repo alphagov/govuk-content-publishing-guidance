@@ -328,7 +328,7 @@ Use [square brackets] for explanatory notes in reported speech or for placeholde
 
 You can use the term 'Brexit' to provide historical context, but it's better to use specific dates where possible. For example, use:
 
-- '31 December 2020' rather than 'Brexit' or 'when the UK left the EU'
+- '31 January 2020' rather than 'Brexit' or 'when the UK left the EU'
 - 'before 31 December 2020' rather than 'during the transition period'
 - 'after 1 January 2021' rather than 'after the transition period'
 
