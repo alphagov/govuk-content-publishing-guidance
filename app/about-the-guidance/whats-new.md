@@ -10,6 +10,12 @@ lastUpdated:
 
 This page sets out all recent major updates to the GOV.UK content and publishing guidance.
 
+## November 2026
+
+| Date | Section | Update |
+| --------- | ----------- | ----------- |
+| X November | [Organisation pages](/publish-update-retire-content/organisations-people/organisations/) | Updated to reflect new rules that only managing editors can make certain changes to organisation pages. That includes changing the organisation's status, translations, accessible formats email, default news image and jobs information link. |
+
 ## October 2026
 
 | Date | Section | Update |
