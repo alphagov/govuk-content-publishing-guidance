@@ -356,17 +356,15 @@ There are several options for setting your organisation’s status:
 
 You can only change the status if you're a managing editor.
 
-You should only change this status when the organisation first goes live and if it closes. 
-
-When your organisation goes live on GOV.UK, change the status to ‘Currently live’. Once your organisation is live do not change the status or your organisation will disappear from GOV.UK.
+When your organisation goes live on GOV.UK, change the status to ‘Currently live’. Once your organisation is live do not change the status unless your organisation is closing.
 
 ## Closing an organisation page
 
 Organisations should never be deleted from GOV.UK. Instead, the status of an organisation can be changed to 'Closed'.
 
-When closed, organisations are not listed on [the organisations index](https://www.gov.uk/government/organisations) and disappear from the parent or sponsor department's organisation page. But they continue to have a profile page findable at the same URL, with a statement indicating they're closed.
+When closed, organisations are not listed on [the organisations index](https://www.gov.uk/government/organisations) and disappear from the parent or sponsor department's organisation page. They continue to have their own organisation page findable at the same URL, with a statement indicating they're closed.
 
-Closed organisation profiles will remain findable by external search engines and the internal site search, and remain listed as a filter option, for example when filtering by organisation on the list of all government publications.
+Closed organisation pages will remain findable by external search engines and the internal site search, and remain listed as a filter option, for example when filtering by organisation on the list of all government publications.
 
 ### How to close an organisation
 
