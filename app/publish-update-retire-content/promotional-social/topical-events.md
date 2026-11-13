@@ -5,13 +5,11 @@ eleventyNavigation:
   parent: Promotional or social content types
 title: Topical event pages
 description: Learn when and how to publish topical event pages, including adding featured content.
+redirect_from: /publish-update-retire-content/promotional-social/topical-events-old/
 lastUpdated:
 ---
 
 [[toc]]
-
->[!NOTE]
->If you need to edit a topical event page published before 24 April 2026, see our separate [guidance on older topical event pages](/publish-update-retire-content/promotional-social/topical-events-old/). This page is only for topical event pages added on or after 24 April 2026. 
 
 Topical event pages are used to communicate government activity about high-profile events or in response to a major crisis.
 
@@ -96,6 +94,35 @@ Lead organisations will be listed on the topical event page in the order you add
 {% include 'reusable-content/update-settings-no-attachments.md' %}
 
 {% include 'reusable-content/limit-access.md' %}
+
+## Add or edit child pages
+
+You can use a child page to give more details about what the government is doing for the event. You should only have one child page.
+
+To add a child page:
+
+1. Select the ‘Child pages’ tab.
+2. Select ‘Add new child page’.
+3. Add a title, summary and body text. The name of the topical event will automatically appear above the title, so do not repeat this.
+4. Update the settings of the child page like you've done for the topical event page.
+5. Select 'Save' when you're done.
+6. Copy the child page's URL and then select 'Edit child pages' to get back to the topical event page draft. 
+7. Add a link to the child page into the body of the topical event page.
+8. Follow the rest of this guidance to get the topical event page ready to publish.
+
+To edit an existing child page:
+
+1. Select the ‘Child pages’ tab.
+2. Select 'View' next to the page you want to edit.
+3. Select the ‘Create new edition’ button. If a new edition has already been created, you can either select ‘Edit draft’ or, if you do not want to use this draft, select ‘Delete draft’ and then select ‘Create new edition’.
+4. Make the changes.
+5. Update the settings of the child page like you've done for the topical event page.
+6. Select 'Save' when you're done. 
+7. Select 'Edit child pages' to get back to the topical event page draft. Make changes to the child page link in the body of the topical event page if needed.
+8. Follow the rest of this guidance to get the topical event page ready to publish.
+
+>[!NOTE]
+>You can update a published child page without updating the topical event page too. Search for the child page on the 'Documents' tab and make the changes that way. They're called 'Topical event about pages' in the document search.
 
 ## Add or edit social media accounts
 
@@ -193,5 +220,8 @@ You can change the order of featured content.
 ## Publish the draft
 
 {% include 'reusable-content/publish-draft.md' %}
+
+
+If you have added or edited a child page, you will need to send that for review and publish it in the same way. If the topical event page is new, it needs to go live before you can publish or schedule the child page.
 
 *[GDS]: Government Digital Service
