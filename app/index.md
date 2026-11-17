@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 17 November 2026
-whatsNewHeadline: Updated the guidance about using 'force publish' to publish content
+whatsNewHeadline: Updated organisation page guidance to reflect new rules about who can make changes
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
