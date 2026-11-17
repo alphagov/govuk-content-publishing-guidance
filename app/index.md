@@ -7,7 +7,7 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: X November 2026
+whatsNewDate: 17 November 2026
 whatsNewHeadline: Updated organisation page guidance to reflect new rules about who can make changes
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
