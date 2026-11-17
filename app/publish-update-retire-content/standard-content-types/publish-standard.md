@@ -23,17 +23,17 @@ If you're happy for a draft to go live, select either:
 
 The person who created the draft will get an email either way.
 
-## Publish your own draft urgently without a review
+## If an editor is not available and the draft is urgent 
 
-In rare circumstances you may need to 'force publish' a document. For example, if a document needs to be published urgently and there is no editor available to review it.
+In rare circumstances you may need to ‘force publish’ a document. You must only do this if it's an urgent situation and no editors are able to review the document.  
 
-Select 'Force publish' or 'Force schedule'. You'll need to give a reason why you needed to force publish without a review.
+If you force publish, your content will be flagged in Whitehall Publisher as ‘not reviewed’.  
 
-### Review the content after force publishing
+%An editor must review the content as soon as possible after publication.% 
 
-Your content will be flagged in Whitehall Publisher as 'not reviewed'. 
+Once an editor has reviewed the content, they should select ‘Approve’ on the edition summary page. This will remove the ‘not reviewed’ flag. 
 
-An editor should review the content as soon as possible after publication. When they're happy with it, they should select 'Approve' on the edition summary page. This will remove the 'not reviewed' flag.
+To force publish, select ‘Force publish’ or ‘Force schedule’. You’ll need to give a reason why you needed to force publish without a review. 
 
 ## How long content takes to go live
 
