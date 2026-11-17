@@ -46,7 +46,7 @@ You can then search for a specific name or email address, or filter your users b
 You can export a CSV of your users to see what permissions they have across all applications.
 
 ## Suspend accounts
-You should suspend an account if the user has left their role or they do not need access to publishing applications anymore.
+Suspend a user’s account if they have left their role or they do not need access to any applications anymore.
 
 You need to select an individual user account to suspend them.
 
@@ -70,8 +70,13 @@ The unlock account link will only appear when a user’s account is locked. Sele
 
 You can only unsuspend and unlock accounts in your department’s sub-organisations if you’ve got the super organisation admin permission.
 
+>[!NOTE]
+>If the account has been suspended or locked for a while, you should check it only has access to applications and permissions that the user needs for their role. Make changes if needed. 
+
 ## Reset 2-step verification (2SV) on accounts
-Select an individual user account to reset their 2SV. Select ‘Reset 2-step verification’ under the ‘Actions’ heading.
+If someone asks you to reset their 2SV, confirm their identity first. 
+
+Once you’ve confirmed that, select their user account to reset their 2SV. Select ‘Reset 2-step verification’ under the ‘Actions’ heading. 
 
 The user will be prompted to set up 2SV again the next time they sign in.
 
@@ -115,6 +120,22 @@ To remove a permission for an application:
 1. Select ‘Update’ under the ‘Permissions’ heading.
 2. Find the permission and untick the box for the permission.
 3. Select ‘Update permissions’ to save the changes.
+
+## Do an account audit 
+
+Organisation admins and super organisation admins should audit the active accounts they manage every 6 months. Talk within your organisation about how you’ll run these audits. 
+
+If you're doing an audit, go to the ‘Users’ tab and filter by ‘Active’ status. Select the ‘Export [number] users as CSV’ link to download a file that lists all your active users and what powers they have. 
+
+Your audit should check that your users only have: 
+
+- access to applications that they need for their role (like access to Whitehall Publisher) 
+- permissions that they need for their role (like the ‘managing editor’ permission in Whitehall Publisher) 
+
+If a user no longer needs access to an application or a permission, then you should either: 
+
+- remove that access or permission from the account 
+- suspend the account, if they do not need access to any applications
 
 ## Change personal or organisation details
 
