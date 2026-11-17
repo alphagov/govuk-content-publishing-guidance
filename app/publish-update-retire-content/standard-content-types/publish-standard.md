@@ -25,7 +25,7 @@ The person who created the draft will get an email either way.
 
 ## If an editor is not available and the draft is urgent 
 
-In rare circumstances you may need to ‘force publish’ a document. You must only do this if it's an urgent situation and no editors are able to review the document.  
+In rare circumstances you may need to ‘force publish’ your content. You must only do this if it's an urgent situation and no editors are able to review it.  
 
 If you force publish, your content will be flagged in Whitehall Publisher as ‘not reviewed’.  
 

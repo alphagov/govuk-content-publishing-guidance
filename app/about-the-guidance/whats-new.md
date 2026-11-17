@@ -14,7 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
-| 17 November | [Publish standard content types](/publish-update-retire-content/standard-content-types/publish-standard/) | Updated the guidance on when and how to use 'force publish'. |
+| 17 November | [Publish standard content types](/publish-update-retire-content/standard-content-types/publish-standard/) | Made the guidance clearer on when and how to use 'force publish'. |
 | 17 November | [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/) | Added guidance on running Signon account audits. |
 | 13 November | [Topical event pages](/publish-update-retire-content/promotional-social/topical-events/) | Added guidance on how to add and edit child pages, which are a new feature. Removed the guidance on editing old topical event pages, as these are now edited the same way as newer topical event pages. |
 
