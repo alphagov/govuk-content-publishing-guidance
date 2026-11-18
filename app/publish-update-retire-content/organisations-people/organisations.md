@@ -31,6 +31,8 @@ GDS will work with them and explain the different steps required depending on wh
 {% include 'reusable-content/signon-account-whitehall.md' %}
 
 
+You can only edit the page for your own organisation or organisations that it sponsors.
+
 To find an organisation page:
 
 1. {% include 'reusable-content/whitehall-publisher.md' %}
@@ -39,7 +41,17 @@ To find an organisation page:
 3. Select 'Organisations'.
 4. Search for the organisation and select 'View' next to its name. 
 
-This will take you to the organisation page to edit. 
+This will take you to the organisation page to edit.
+
+Only managing editors can change the organisation's status or add and update:
+
+- featured links
+- translations
+- the accessible formats request email
+- the default news image
+- the link to jobs information
+
+Everything else can be updated by anyone with access to Whitehall Publisher.
 
 ^When editing an organisation page, be aware that changes will update as soon as you select 'Save' – there's no draft state or peer review.
 
@@ -94,7 +106,7 @@ Featured links are the links that appear at the very top of an organisation page
 
 It's generally better to choose service priority if your organisation has very little news, publishing or policy activity, but lots of users with specific, service-based needs. If that's not the case, news priority is a better option.
 
-Only managing editors can edit the featured links layout and add links. To edit the layout and add or change links:
+You can only edit the featured links layout and add links if you're a managing editor. To make those changes:
 
 1. Go to the 'Details' tab and select 'Edit'.
 2. Scroll to 'Position of featured links on organisation homepage' and select the option you want.
@@ -227,6 +239,8 @@ Once people are tagged, you can use the 'People' tab of your organisation page t
 
 Read the [guidance about deciding whether to add a translation](/writing-to-gov-uk-standards/plan-manage-content/consider-translations/) first.
 
+You can only add or update translations if you're a managing editor.
+
 Go to the 'Translations' tab. Then choose the language that you'll be adding the translation for and select the 'Create new translation' button. 
 
 You need to add a translation of the:
@@ -296,7 +310,9 @@ Follow the [guidance on adding translations to people pages](/publish-update-ret
 
 ## Add or change the accessible formats request email
 
-You need to include an email address so the public can order attachments in alternative formats.
+This is the email address that the public can use to order attachments in alternative formats.
+
+You can only add or update the email address if you're a managing editor.
 
 1. On your organisation page, go to the 'Details' tab and select 'Edit'.
 2. Under the heading 'Accessible formats request email', add the email address you want to use.
@@ -304,19 +320,23 @@ You need to include an email address so the public can order attachments in alte
 
 ## Add or edit the default news image
 
-You need to include a default image for your organisation that will appear if an editor publishes a news story without an image.
+You can set a default image for your organisation that will appear if an editor publishes a news story without an image.
+
+You can only add or edit the default image if you're a managing editor.
 
 1. On your organisation page, go to the 'Details' tab and select 'Edit'.
 2. Under the heading 'Default news image', select the 'Choose file' button and upload the image from the folder it's saved in.
 3. Select 'Save' at the bottom of the page.
 
-If there's already an image there, it'll replace it with your new image after you select save.  
+If there's already an image there, it'll replace it with your new image after you select 'Save'.  
 
 ## Add or update the jobs information
 
-You can let users know how to apply for jobs at your organisation by adding a link in the 'Recruitment URL' section. For example, you can link to the Civil Service Jobs website.
+You can have a link to information about how users can apply for jobs. For example, you can link to the Civil Service Jobs website.
 
-The link will appear as 'Jobs' under the 'Corporate information' section of your organisation page.
+The link will appear as 'Jobs' under the 'Corporate information' section on your organisation page.
+
+You can only add or update the link if you're a managing editor.
 
 1. On your organisation page, go to the 'Details' tab and select 'Edit'.
 2. Under the heading 'Recruitment URL', add the link you want to use.
@@ -334,19 +354,21 @@ There are several options for setting your organisation’s status:
 + ‘Currently transitioning’
 + ‘Closed’
 
-You should only change this status when the organisation first goes live and if it closes. 
+You can only change the status if you're a managing editor.
 
-When your organisation goes live on GOV.UK, change the status to ‘Currently live’. Once your organisation is live do not change the status or your organisation will disappear from GOV.UK.
+When your organisation goes live on GOV.UK, change the status to ‘Currently live’. Once your organisation is live do not change the status unless your organisation is closing.
 
 ## Closing an organisation page
 
-Organisations should never be deleted from GOV.UK. Instead, the status of an organisation can be changed to 'closed'.
+Organisations should never be deleted from GOV.UK. Instead, the status of an organisation can be changed to 'Closed'.
 
-When closed, organisations are not listed on [the organisations index](https://www.gov.uk/government/organisations) and disappear from the parent or sponsor department's organisation page. But they continue to have a profile page findable at the same URL, with a statement indicating they're closed.
+When closed, organisations are not listed on [the organisations index](https://www.gov.uk/government/organisations) and disappear from the parent or sponsor department's organisation page. They continue to have their own organisation page findable at the same URL, with a statement indicating they're closed.
 
-Closed organisation profiles will remain findable by external search engines and the internal site search, and remain listed as a filter option, for example when filtering by organisation on the list of all government publications.
+Closed organisation pages will remain findable by external search engines and the internal site search, and remain listed as a filter option, for example when filtering by organisation on the list of all government publications.
 
 ### How to close an organisation
+
+You can only close an organisation if you're a managing editor.
 
 1. Go to the 'Details' tab and select 'Edit'.
 2. Scroll to 'Status on GOV.UK' and change it from 'Currently live' to 'Closed'.
