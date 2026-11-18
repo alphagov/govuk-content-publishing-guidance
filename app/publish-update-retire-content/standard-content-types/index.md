@@ -30,4 +30,5 @@ This section of guidance covers these content types, as well as the common proce
 * reviewing content that's been sent for '2nd eyes' (2i)
 * publishing content
 * withdrawing or unpublishing content
+* managing content in history mode
 
