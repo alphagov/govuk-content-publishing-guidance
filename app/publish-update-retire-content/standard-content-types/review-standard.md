@@ -22,7 +22,7 @@ Titles must be:
 - front-loaded with words users are likely to search for
 - under 65 characters (including spaces)
 - in sentence case
-- written in plain English (no jargon)
+- written in plain English, with no jargon and no uncommon abbreviations (unless they're written out in full)
 
 Summaries should:
 
@@ -31,7 +31,6 @@ Summaries should:
 - be written in full sentences (with a verb and a full stop)
 - be front-loaded with words users are likely to search for
 - be written in plain English (no jargon)
-- explain any acronyms in the title
 - be fewer than 140 characters (including spaces)
 
 Body text should:
@@ -40,7 +39,7 @@ Body text should:
 - be concise and easy to scan (with headings every 3 to 5 paragraphs)
 - be written in plain English (no jargon) and easy to understand
 - use short sentences – no more than 25 words
-- define acronyms and abbreviations the first time they're used (with formatting)
+- write out uncommon abbreviations in full the first time they're used (with formatting)
 - explain any technical terms
 
 Remember:
