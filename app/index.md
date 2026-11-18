@@ -7,8 +7,8 @@ description: Read the standards for digital content and find out how to use the 
 includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
-whatsNewDate: 17 November 2026
-whatsNewHeadline: Updated organisation page guidance to reflect new rules about who can make changes
+whatsNewDate: 18 November 2026
+whatsNewHeadline: Updated the guidance about using 'limit access' for sensitive information
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide

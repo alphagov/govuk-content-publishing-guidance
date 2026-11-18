@@ -14,6 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
+| 18 November | [Standard content types](/publish-update-retire-content/standard-content-types/) and [Topical event pages](/publish-update-retire-content/promotional-social/topical-events/) | Updated the guidance on when to use the 'limit access' function for a new draft. |
 | 17 November | [Organisation pages](/publish-update-retire-content/organisations-people/organisations/) | Updated to reflect new rules that only managing editors can make certain changes to organisation pages. That includes changing the organisation's status, translations, accessible formats email, default news image and jobs information link. |
 | 17 November | [Publish standard content types](/publish-update-retire-content/standard-content-types/publish-standard/) | Made the guidance clearer on when and how to use 'force publish'. |
 | 17 November | [Manage accounts for your organisation](/accounts-support/manage-accounts-training/manage-accounts-organisation/) | Added guidance on running Signon account audits. |
