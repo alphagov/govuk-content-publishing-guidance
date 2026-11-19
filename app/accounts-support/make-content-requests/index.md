@@ -19,7 +19,6 @@ This guidance covers how to request:
 - a featured slot on the GOV.UK homepage
 - changes to related links
 - a new organisation page
-- removing 'history mode'
 - a feedback page for a service
 - a change to limited access on drafts
 

@@ -132,8 +132,4 @@ If your organisation is not tagged, they can direct you to the tagged organisati
 
 Your content team can update the content without GDS help. Read our [guidance on how to update content on GOV.UK](/publish-update-retire-content/).
 
-You will not be able to update content if it's in 'history mode'. If it's in history mode, you'll see a banner explaining that the content was published under a previous government.
-
-If you want to update content in history mode, [ask GDS to remove history mode](/accounts-support/make-content-requests/ask-history-mode/).
-
 *[GDS]: Government Digital Service

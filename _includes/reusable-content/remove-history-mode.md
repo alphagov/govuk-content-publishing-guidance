@@ -1,1 +1,1 @@
-If you select 'Create new edition' and you get a message telling you that the 'document is in history mode', you cannot update it without [asking the Government Digital Service (GDS) to remove history mode](/accounts-support/make-content-requests/ask-history-mode/).
+If you select 'Create new edition' and you get a message telling you that the 'document is in history mode', read the guidance on [managing content in history mode](/publish-update-retire-content/standard-content-types/manage-history-mode/) to figure out your next steps.

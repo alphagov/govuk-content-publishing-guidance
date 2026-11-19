@@ -133,10 +133,13 @@ If there's a possibility of a new government, affected organisations will be ask
 
 ### Managing content in history mode
 
-Content in history mode cannot be updated or unpublished.
+If you’re a managing editor, you can: 
 
-If you want to update or unpublish the content, [ask GDS to remove history mode](/accounts-support/make-content-requests/ask-history-mode/).
++ update, withdraw and unpublish content in history mode 
++ remove content from history mode, so anyone can make changes to it 
 
-Content in history mode does not need to be ‘withdrawn’ as well, unless you find evidence that users need a link to a newer document that replaced it.
+Read the [guidance on managing content in history mode](/publish-update-retire-content/standard-content-types/manage-history-mode/) for more details. 
+
+Content in history mode does not usually need to be withdrawn, unless you find evidence that users need a link to a more current version of the content somewhere else. 
 
 *[GDS]: Government Digital Service
