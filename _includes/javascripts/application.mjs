@@ -1,4 +1,5 @@
 import { loadAnalytics, cookiesAccepted } from './analytics.mjs'
+import BackToTop from './back-to-top.mjs'
 import { getConsentCookie, isValidConsentCookie } from './cookie-functions.mjs'
 import CookieBanner from './cookie-banner.mjs'
 import CookiesPage from './cookies-page.mjs'
@@ -14,3 +15,5 @@ const initialiseAnalytics = () => {
   createAll(SearchTracker)
   createAll(PageViewTracker)
 }
+
+createAll(BackToTop)
