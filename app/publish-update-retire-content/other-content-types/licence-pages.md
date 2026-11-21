@@ -12,10 +12,10 @@ Licence pages are a special type of content that tell users how to apply for lic
 
 ## Add a new licence page
 
-Before you start, you need to email the Department for Business and Trade (DBT) Services Regulations team. They need to know that you're creating a new licence so they can keep their information up to date.
+Before you start, you need to email the Department for Business, Innovation, Science and Trade (BIST) Services Regulations team. They need to know that you're creating a new licence so they can keep their information up to date.
 
 > [!NOTE]
-> DBT Services Regulations team
+> BIST Services Regulations team
 > <servicesregulations@businessandtrade.gov.uk>
 
 
