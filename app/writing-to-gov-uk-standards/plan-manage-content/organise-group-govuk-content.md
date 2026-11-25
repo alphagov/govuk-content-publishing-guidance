@@ -31,6 +31,8 @@ If you want to add or remove a piece of content from a topic, it's a different p
 
 If you want to request a new topic or changes to an existing topic, [ask the Government Digital Service (GDS) to make changes to topics](/accounts-support/make-content-requests/ask-changes-topics/).
 
+[Find out more about what the topic taxonomy is for and the design and structure of GOV.UK's topic taxonomy](https://www.gov.uk/government/publications/govuk-topic-taxonomy-principles/govuk-taxonomy-principles). 
+
 ## Document collections
 
 You can group content into a collection. Unlike topic tagging, you should only use document collections to group content items together if: 
