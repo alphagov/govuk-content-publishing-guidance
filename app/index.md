@@ -8,7 +8,7 @@ includeInBreadcrumbs: true
 eleventyExcludeFromCollections: false
 inverseMasthead: true
 whatsNewDate: 25 November 2026
-whatsNewHeadline: Added new information about how decisions are made about the style guide
+whatsNewHeadline: Added new information about how decisions are made on style guide entries
 whatsNew: Read more about [recent changes to the guidance](/about-the-guidance/whats-new/).
 gridItems:
   - title: A to Z style guide
