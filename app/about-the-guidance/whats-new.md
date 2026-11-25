@@ -14,6 +14,7 @@ This page sets out all recent major updates to the GOV.UK content and publishing
 
 | Date | Section | Update |
 | --------- | ----------- | ----------- |
+| 25 November | [How to use the style guide](/writing-to-gov-uk-standards/style-guides/how-to-use/) | Added new information about how decisions are made about the style guide.
 | 20 November | [Manage content in history mode](/publish-update-retire-content/standard-content-types/manage-history-mode/) | Added new page with guidance about how managing editors can now update content in history mode. This replaces guidance on how to ask for history mode to be removed.
 | 18 November | [Standard content types](/publish-update-retire-content/standard-content-types/) and [Topical event pages](/publish-update-retire-content/promotional-social/topical-events/) | Updated the guidance on when to use the 'limit access' function for a new draft. |
 | 17 November | [Organisation pages](/publish-update-retire-content/organisations-people/organisations/) | Updated to reflect new rules that only managing editors can make certain changes to organisation pages. That includes changing the organisation's status, translations, accessible formats email, default news image and jobs information link. |
