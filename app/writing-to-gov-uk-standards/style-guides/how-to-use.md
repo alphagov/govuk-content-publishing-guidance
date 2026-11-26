@@ -90,6 +90,17 @@ You'll be told if your suggestion:
 - has been rejected, with a reason why
 - needs more information before GDS can make a decision
 
+## Understand how decisions are made about the style guide
+
+Decisions about the content of the style guide are based on: 
+
++ research, including from the [GOV.UK content principles research background](https://www.gov.uk/government/publications/govuk-content-principles-conventions-and-research-background/govuk-content-principles-conventions-and-research-background), [Content Design London’s archived readability guidelines](https://web.archive.org/web/20250714093221/https://readabilityguidelines.co.uk/content-design/) and user research from GDS
++ accessibility concerns, particularly how screen reader tools will read out terms 
++ existing style guide rules, like those about capitalisation and hyphenation 
++ recommendations from government organisations who manage relevant policy areas, like DfE and terms about schools
++ other government guidance, like [guidance on inclusive language for disabilities](https://www.gov.uk/government/publications/inclusive-communication/inclusive-language-words-to-use-and-avoid-when-writing-about-disability) and [guidance on writing about ethnicity](https://www.ethnicity-facts-figures.service.gov.uk/style-guide/writing-about-ethnicity/) 
++ discussions within GDS about which terms are clearest and most recognised by users 
+
 *[GDS]: Government Digital Service
 *[DfE]: Department for Education
 *[HMRC]: HM Revenue and Customs
