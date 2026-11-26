@@ -20,6 +20,9 @@ Before you take these next steps, read the [guidance on when to retire content](
 
 If you need managing editor permissions, talk to one of your organisation admins.
 
+> [!NOTE]
+> See an [example of withdrawn content on GOV.UK](https://www.gov.uk/government/publications/uk-points-based-immigration-system-sponsorship-roadmap).
+
 ## Withdraw content
 
 How you withdraw content depends on whether it has attachments.
